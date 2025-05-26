@@ -80,7 +80,7 @@ Here are the main tools and libraries I used:
   - LangChain
 
 ## Project Structure
-
+```
 This is how the files in this project are organized:
 2500010_shakespeare_bot/
 ├── .gitignore # Files/folders Git should ignore (e.g., venv, .env)
@@ -91,9 +91,9 @@ This is how the files in this project are organized:
 ├── models/ # gpt2-neo-125m fine-tuned by LoRA
 ├── retrieval/ # RAG system
 └── utils/ # Deploy UI
-├── 1_rag_inference.py # Deploy by Terminal
-└── 2_chatbot_interface.py # Deploy by Gradio local host
-
+    ├── 1_rag_inference.py # Deploy by Terminal
+    └── 2_chatbot_interface.py # Deploy by Gradio local host
+```
 ## Future Ideas
 
 If I had more time, here's what I'd love to add or improve:
