@@ -1,0 +1,122 @@
+{
+  "title": "The Merry Wives of Windsor",
+  "full_title": "The Merry Wives of Windsor",
+  "category": "comedy",
+  "year": "1597-1601",
+  "setting": "Windsor, England",
+  "main_characters": [
+    "Sir John Falstaff",
+    "Mistress Ford",
+    "Mistress Page",
+    "Ford",
+    "Page",
+    "Anne Page",
+    "Fenton",
+    "Doctor Caius"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Sir John Falstaff",
+      "description": "Rogue, woos wives for money"
+    },
+    {
+      "name": "Mistress Ford",
+      "description": "Wife, outwits Falstaff's advances"
+    },
+    {
+      "name": "Mistress Page",
+      "description": "Wife, plots against Falstaff"
+    },
+    {
+      "name": "Ford",
+      "description": "Mistress Ford's jealous husband"
+    },
+    {
+      "name": "Page",
+      "description": "Mistress Page's husband, trusts wife"
+    },
+    {
+      "name": "Anne Page",
+      "description": "Page's daughter, loves Fenton"
+    },
+    {
+      "name": "Fenton",
+      "description": "Gentleman, marries Anne Page"
+    },
+    {
+      "name": "Doctor Caius",
+      "description": "French suitor, competes for Anne"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Jealousy",
+      "theme_explanation": "Ford’s jealousy of his wife’s fidelity drives comedic misunderstandings, resolved when he learns to trust her wit and loyalty."
+    },
+    {
+      "theme": "Deception",
+      "theme_explanation": "The wives’ clever deceptions humiliate Falstaff, while Anne’s secret marriage to Fenton outwits her parents’ plans."
+    },
+    {
+      "theme": "Marriage",
+      "theme_explanation": "The play explores marital dynamics, celebrating the wives’ agency and fidelity while Anne’s choice of love over arranged marriage triumphs."
+    },
+    {
+      "theme": "Social class",
+      "theme_explanation": "Falstaff’s attempts to exploit the middle-class wives and Fenton’s courtship of Anne despite his status highlight class tensions and aspirations."
+    },
+    {
+      "theme": "Wit",
+      "theme_explanation": "The wives’ sharp wit outmaneuvers Falstaff, showcasing female intelligence and resourcefulness in a patriarchal society."
+    },
+    {
+      "theme": "Community",
+      "theme_explanation": "The Windsor community unites to expose Falstaff’s folly, reinforcing social bonds through shared humor and moral correction."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "I hope good luck lies in odd numbers",
+      "speaker": "Falstaff",
+      "act": 5,
+      "scene": 1,
+      "explanation": "Falstaff optimistically trusts in luck for his third attempt to seduce the wives, unaware of their trap."
+    },
+    {
+      "quote": "Why, then the world's mine oyster",
+      "speaker": "Pistol",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Pistol boasts of boundless opportunities, using a metaphor for exploiting the world's riches."
+    },
+    {
+      "quote": "This is the third time; I hope good luck lies in odd numbers",
+      "speaker": "Falstaff",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Falstaff persists in his schemes, clinging to superstition despite repeated failures, adding comic irony."
+    },
+    {
+      "quote": "Better three hours too soon than a minute too late",
+      "speaker": "Mistress Page",
+      "act": 2,
+      "scene": 1,
+      "explanation": "Mistress Page emphasizes punctuality, reflecting the wives' precise planning to outwit Falstaff."
+    },
+    {
+      "quote": "Wives may be merry, and yet honest too",
+      "speaker": "Mistress Page",
+      "act": 4,
+      "scene": 2,
+      "explanation": "Mistress Page defends their playful deception, asserting that wit and virtue can coexist in women."
+    },
+    {
+      "quote": "I cannot tell what the dickens his name is.",
+      "speaker": "Mistress Quickly",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Mistress Quickly uses 'the dickens' as a mild euphemism for 'the devil,' indicating her frustration or forgetfulness in trying to recall a name."
+    }
+  ],
+  "summary": "Falstaff attempts to woo Mistresses Ford and Page for their husbands' wealth, but the clever wives outwit him with a series of pranks. Meanwhile, Anne Page navigates suitors, ultimately marrying her true love Fenton, as the community unites to humiliate Falstaff."
+}

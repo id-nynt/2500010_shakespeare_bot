@@ -1,0 +1,146 @@
+[
+  {
+    "scene_id": "julius_caesar_1_1",
+    "title": "Julius Caesar",
+    "act": 1,
+    "scene": 1,
+    "location": "A street in Rome, Italy",
+    "scene_summary": "Commoners celebrate Caesar's triumph over Pompey, but tribunes Flavius and Marullus rebuke them, loyal to Pompey's memory. They remove decorations honoring Caesar, revealing public division and foreshadowing opposition to Caesar's growing power."
+  },
+  {
+    "scene_id": "julius_caesar_1_2",
+    "title": "Julius Caesar",
+    "act": 1,
+    "scene": 2,
+    "location": "A public place in Rome, Italy",
+    "scene_summary": "During the Lupercal festival, Caesar, with Antony, Calpurnia, and others, watches a race. A Soothsayer warns Caesar to “beware the Ides of March,” which he dismisses. Cassius persuades Brutus to join a conspiracy against Caesar, citing his ambition. Caesar notes Cassius's “lean and hungry look,” sensing danger, while Brutus grapples with his loyalty and fears of tyranny."
+  },
+  {
+    "scene_id": "julius_caesar_1_3",
+    "title": "Julius Caesar",
+    "act": 1,
+    "scene": 3,
+    "location": "A street in Rome, Italy",
+    "scene_summary": "Amid a stormy night with omens, Cicero meets Casca, who reports unnatural signs and Caesar's plan to accept a crown. Cassius, joined by Cinna, recruits Casca to the conspiracy, planting forged letters to sway Brutus. The scene builds tension, linking supernatural portents to the plot against Caesar."
+  },
+  {
+    "scene_id": "julius_caesar_2_1",
+    "title": "Julius Caesar",
+    "act": 2,
+    "scene": 1,
+    "location": "Brutus's orchard, Rome, Italy",
+    "scene_summary": "Brutus, troubled, debates Caesar's potential tyranny, deciding his death is necessary for Rome. Conspirators, including Cassius, Casca, and Decius, meet him, planning Caesar's assassination at the Capitol. Brutus rejects killing Antony, and Portia, his wife, pleads for his confidence, revealing his inner conflict and the plot's momentum."
+  },
+  {
+    "scene_id": "julius_caesar_2_2",
+    "title": "Julius Caesar",
+    "act": 2,
+    "scene": 2,
+    "location": "Caesar's house, Rome, Italy",
+    "scene_summary": "Calpurnia, disturbed by omens and dreams of Caesar's death, urges him to stay home. Caesar, initially swayed, is persuaded by Decius's flattery to attend the Senate, dismissing the warnings. The scene heightens suspense as Caesar heads toward his fate."
+  },
+  {
+    "scene_id": "julius_caesar_2_3",
+    "title": "Julius Caesar",
+    "act": 2,
+    "scene": 3,
+    "location": "A street near the Capitol, Rome, Italy",
+    "scene_summary": "Artemidorus, loyal to Caesar, writes a letter warning of the conspiracy, planning to deliver it at the Capitol. The brief scene underscores the missed opportunity to save Caesar, adding dramatic irony."
+  },
+  {
+    "scene_id": "julius_caesar_2_4",
+    "title": "Julius Caesar",
+    "act": 2,
+    "scene": 4,
+    "location": "A street near Brutus's house, Rome, Italy",
+    "scene_summary": "Portia, anxious, sends Lucius to check on Brutus at the Capitol. The Soothsayer, en route to warn Caesar, passes by, heightening her fears. Portia struggles to conceal her distress, reflecting the conspirators' tension as the assassination nears."
+  },
+  {
+    "scene_id": "julius_caesar_3_1",
+    "title": "Julius Caesar",
+    "act": 3,
+    "scene": 1,
+    "location": "The Capitol, Rome, Italy",
+    "scene_summary": "Caesar ignores Artemidorus's warning and the Soothsayer's caution. The conspirators, led by Brutus and Cassius, stab Caesar, who dies saying, “Et tu, Brute?” Antony, spared, requests to speak at Caesar's funeral, which Brutus allows despite Cassius's objections. Antony, alone, vows revenge, predicting civil war, as the assassination triggers chaos."
+  },
+  {
+    "scene_id": "julius_caesar_3_2",
+    "title": "Julius Caesar",
+    "act": 3,
+    "scene": 2,
+    "location": "The Forum, Rome, Italy",
+    "scene_summary": "Brutus addresses the plebeians, justifying Caesar's death as necessary to prevent tyranny, winning their support. Antony's funeral oration, using Caesar's body and will, sways the crowd against the conspirators, inciting a riot. The plebeians turn on Brutus and Cassius, who flee, marking Antony's triumph and Rome's descent into chaos."
+  },
+  {
+    "scene_id": "julius_caesar_3_3",
+    "title": "Julius Caesar",
+    "act": 3,
+    "scene": 3,
+    "location": "A street in Rome, Italy",
+    "scene_summary": "A mob mistakes Cinna the poet for Cinna the conspirator and kills him, despite his protests. The brief scene illustrates the mob's irrational violence, fueled by Antony's speech, and Rome's escalating anarchy."
+  },
+  {
+    "scene_id": "julius_caesar_4_1",
+    "title": "Julius Caesar",
+    "act": 4,
+    "scene": 1,
+    "location": "A room in Antony's house, Rome, Italy",
+    "scene_summary": "Antony, Octavius, and Lepidus form the Second Triumvirate, proscribing enemies, including Cicero. Antony plans to cut expenses by altering Caesar's will, while dismissing Lepidus's worth, revealing his ruthless pragmatism and the triumvirs' power consolidation."
+  },
+  {
+    "scene_id": "julius_caesar_4_2",
+    "title": "Julius Caesar",
+    "act": 4,
+    "scene": 2,
+    "location": "A camp near Sardis, Asia Minor",
+    "scene_summary": "Brutus, at his camp, meets Lucilius, who reports Cassius's cooling friendship. Cassius arrives, and they argue privately, reflecting tensions in their alliance as they prepare to face the triumvirs' forces."
+  },
+  {
+    "scene_id": "julius_caesar_4_3",
+    "title": "Julius Caesar",
+    "act": 4,
+    "scene": 3,
+    "location": "Brutus's tent near Sardis, Asia Minor",
+    "scene_summary": "Brutus accuses Cassius of corruption, while Cassius resents Brutus's moralizing. They reconcile, and Brutus reveals Portia's suicide, deepening his grief. They debate strategy, with Brutus insisting on marching to Philippi, overruling Cassius. Caesar's ghost appears to Brutus, warning of his doom, foreshadowing defeat."
+  },
+  {
+    "scene_id": "julius_caesar_5_1",
+    "title": "Julius Caesar",
+    "act": 5,
+    "scene": 1,
+    "location": "The plains of Philippi, Greece",
+    "scene_summary": "Antony and Octavius prepare for battle, meeting Brutus and Cassius for a tense parley. Both sides exchange insults, rejecting compromise. The conspirators return to their army, and Brutus and Cassius bid farewell, sensing their end, setting up the Battle of Philippi."
+  },
+  {
+    "scene_id": "julius_caesar_5_2",
+    "title": "Julius Caesar",
+    "act": 5,
+    "scene": 2,
+    "location": "The battlefield at Philippi, Greece",
+    "scene_summary": "Brutus sends Messala with orders for an attack, believing the enemy is weakening. The brief scene initiates the battle, highlighting Brutus's aggressive strategy."
+  },
+  {
+    "scene_id": "julius_caesar_5_3",
+    "title": "Julius Caesar",
+    "act": 5,
+    "scene": 3,
+    "location": "Another part of the battlefield at Philippi, Greece",
+    "scene_summary": "Cassius's forces falter, and he mistakenly believes Titinius captured. Despairing, Cassius orders Pindarus to kill him, dying by suicide. Titinius, actually victorious, mourns Cassius, killing himself. Brutus laments Cassius's death, as the Yorkists face defeat."
+  },
+  {
+    "scene_id": "julius_caesar_5_4",
+    "title": "Julius Caesar",
+    "act": 5,
+    "scene": 4,
+    "location": "Another part of the battlefield at Philippi, Greece",
+    "scene_summary": "Brutus's men, including Lucilius, fight on but are overwhelmed. Lucilius pretends to be Brutus to protect him, but Antony spares him, recognizing his loyalty. The scene shows the collapsing resistance and Antony's magnanimity."
+  },
+  {
+    "scene_id": "julius_caesar_5_5",
+    "title": "Julius Caesar",
+    "act": 5,
+    "scene": 5,
+    "location": "Another part of the battlefield at Philippi, Greece",
+    "scene_summary": "Brutus, defeated, asks his men to kill him, but they refuse. He bids farewell to his friends and runs on his sword, dying with honor. Antony and Octavius find his body, praising his nobility. Octavius plans to share power, ending with the triumvirs' victory and Rome's new order."
+  }
+]

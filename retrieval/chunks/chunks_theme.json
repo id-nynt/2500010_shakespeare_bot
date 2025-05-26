@@ -1,0 +1,2488 @@
+[
+  {
+    "chunk_id": "theme_all's_well_that_ends_well_b6757aa2",
+    "chunk_type": "theme",
+    "play_title": "All's Well That Ends Well",
+    "content": "Play: All's Well That Ends Well\nTheme: Love\n\nExplanation: The play explores unrequited love through Helena’s persistent pursuit of Bertram, highlighting the complexities of affection and devotion despite social and personal obstacles.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_all's_well_that_ends_well_b121d177",
+    "chunk_type": "theme",
+    "play_title": "All's Well That Ends Well",
+    "content": "Play: All's Well That Ends Well\nTheme: Deception\n\nExplanation: Deception drives the plot, as Helena uses cunning strategies, like the bed-trick, to win Bertram, while Parolles’s false bravado exposes his disloyalty.",
+    "metadata": {
+      "theme_name": "Deception",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_all's_well_that_ends_well_ffa816cc",
+    "chunk_type": "theme",
+    "play_title": "All's Well That Ends Well",
+    "content": "Play: All's Well That Ends Well\nTheme: Gender roles\n\nExplanation: Helena defies traditional gender roles by actively pursuing her desires and using her intelligence to achieve her goals, challenging societal expectations of women.",
+    "metadata": {
+      "theme_name": "Gender roles",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_all's_well_that_ends_well_caaab39b",
+    "chunk_type": "theme",
+    "play_title": "All's Well That Ends Well",
+    "content": "Play: All's Well That Ends Well\nTheme: Class and merit\n\nExplanation: The play examines social hierarchy, as Helena, a low-born woman, proves her worth through merit, ultimately overcoming class barriers to marry Bertram.",
+    "metadata": {
+      "theme_name": "Class and merit",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_all's_well_that_ends_well_97b465a6",
+    "chunk_type": "theme",
+    "play_title": "All's Well That Ends Well",
+    "content": "Play: All's Well That Ends Well\nTheme: Healing\n\nExplanation: Healing is central, as Helena’s medical skill cures the King, symbolizing her ability to mend personal and social divides through wisdom and action.",
+    "metadata": {
+      "theme_name": "Healing",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_antony_and_cleopatra_8dd2b928",
+    "chunk_type": "theme",
+    "play_title": "Antony and Cleopatra",
+    "content": "Play: Antony and Cleopatra\nTheme: Love vs. Duty\n\nExplanation: Antony’s passionate love for Cleopatra conflicts with his duties as a Roman general, leading to his downfall as he prioritizes desire over responsibility.",
+    "metadata": {
+      "theme_name": "Love vs. Duty",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_antony_and_cleopatra_c208c37b",
+    "chunk_type": "theme",
+    "play_title": "Antony and Cleopatra",
+    "content": "Play: Antony and Cleopatra\nTheme: Politics\n\nExplanation: The play explores power struggles and political maneuvering, as Antony’s alliance with Cleopatra undermines his position against Octavius Caesar’s rising dominance.",
+    "metadata": {
+      "theme_name": "Politics",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_antony_and_cleopatra_e5e0d1cb",
+    "chunk_type": "theme",
+    "play_title": "Antony and Cleopatra",
+    "content": "Play: Antony and Cleopatra\nTheme: Honor\n\nExplanation: Honor shapes Antony’s identity as a warrior, but his love for Cleopatra and eventual defeat challenge his sense of Roman virtue and loyalty.",
+    "metadata": {
+      "theme_name": "Honor",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_antony_and_cleopatra_5c9f7af1",
+    "chunk_type": "theme",
+    "play_title": "Antony and Cleopatra",
+    "content": "Play: Antony and Cleopatra\nTheme: East vs. West\n\nExplanation: The cultural clash between Rome’s discipline and Egypt’s sensuality highlights the tension between Antony’s Roman identity and his immersion in Cleopatra’s world.",
+    "metadata": {
+      "theme_name": "East vs. West",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_as_you_like_it_ea05473f",
+    "chunk_type": "theme",
+    "play_title": "As You Like It",
+    "content": "Play: As You Like It\nTheme: Love\n\nExplanation: Love, both romantic and familial, drives the play, as Rosalind and Orlando’s romance and other pairings find harmony in the Forest of Arden.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_as_you_like_it_f9f0b69b",
+    "chunk_type": "theme",
+    "play_title": "As You Like It",
+    "content": "Play: As You Like It\nTheme: Nature vs court\n\nExplanation: The Forest of Arden offers a pastoral escape from the corrupt court, where characters find authenticity and personal growth.",
+    "metadata": {
+      "theme_name": "Nature vs court",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_as_you_like_it_ac84e1ea",
+    "chunk_type": "theme",
+    "play_title": "As You Like It",
+    "content": "Play: As You Like It\nTheme: Gender roles\n\nExplanation: Rosalind’s disguise as Ganymede challenges gender norms, allowing her to explore and manipulate romantic dynamics with wit and agency.",
+    "metadata": {
+      "theme_name": "Gender roles",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_as_you_like_it_9c2998ac",
+    "chunk_type": "theme",
+    "play_title": "As You Like It",
+    "content": "Play: As You Like It\nTheme: Transformation\n\nExplanation: Characters undergo emotional and social transformations in Arden, such as Oliver’s redemption and Orlando’s growth, reflecting the forest’s restorative power.",
+    "metadata": {
+      "theme_name": "Transformation",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_as_you_like_it_fa2d1d96",
+    "chunk_type": "theme",
+    "play_title": "As You Like It",
+    "content": "Play: As You Like It\nTheme: Pastoral life\n\nExplanation: The idealized pastoral life in Arden contrasts with courtly corruption, offering a space for reflection, love, and reconciliation.",
+    "metadata": {
+      "theme_name": "Pastoral life",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_as_you_like_it_01845f5c",
+    "chunk_type": "theme",
+    "play_title": "As You Like It",
+    "content": "Play: As You Like It\nTheme: Time\n\nExplanation: Time in Arden moves fluidly, allowing characters to reflect and transform, contrasting with the rigid constraints of court life.",
+    "metadata": {
+      "theme_name": "Time",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_comedy_of_errors_6e2d6f62",
+    "chunk_type": "theme",
+    "play_title": "The Comedy of Errors",
+    "content": "Play: The Comedy of Errors\nTheme: Identity\n\nExplanation: The play explores identity through the confusion caused by two sets of identical twins, questioning individuality and selfhood.",
+    "metadata": {
+      "theme_name": "Identity",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_comedy_of_errors_529dc374",
+    "chunk_type": "theme",
+    "play_title": "The Comedy of Errors",
+    "content": "Play: The Comedy of Errors\nTheme: Mistaken identity\n\nExplanation: Mistaken identities drive the comedic chaos, as characters confuse the twins, leading to humorous misunderstandings and eventual resolution.",
+    "metadata": {
+      "theme_name": "Mistaken identity",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_comedy_of_errors_66af1a45",
+    "chunk_type": "theme",
+    "play_title": "The Comedy of Errors",
+    "content": "Play: The Comedy of Errors\nTheme: Family\n\nExplanation: The theme of family underscores the twins’ separation and their joyful reunion, emphasizing the bonds that endure despite chaos.",
+    "metadata": {
+      "theme_name": "Family",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_comedy_of_errors_68ab2599",
+    "chunk_type": "theme",
+    "play_title": "The Comedy of Errors",
+    "content": "Play: The Comedy of Errors\nTheme: Reunion\n\nExplanation: The play culminates in the reunion of the separated twins and their family, resolving the chaos and restoring harmony.",
+    "metadata": {
+      "theme_name": "Reunion",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_comedy_of_errors_414cc026",
+    "chunk_type": "theme",
+    "play_title": "The Comedy of Errors",
+    "content": "Play: The Comedy of Errors\nTheme: Chaos and confusion\n\nExplanation: Chaos and confusion propel the plot, as mistaken identities create a whirlwind of comedic errors that test relationships and social order.",
+    "metadata": {
+      "theme_name": "Chaos and confusion",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_coriolanus_3ed68841",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Play: The Tragedy of Coriolanus\nTheme: Pride\n\nExplanation: Coriolanus’s excessive pride in his martial valor alienates the plebeians and leads to his banishment and tragic downfall.",
+    "metadata": {
+      "theme_name": "Pride",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_coriolanus_d8dd27cc",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Play: The Tragedy of Coriolanus\nTheme: Politics\n\nExplanation: The play explores political power struggles, as Coriolanus’s disdain for the masses clashes with the tribunes’ manipulation of public opinion.",
+    "metadata": {
+      "theme_name": "Politics",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_coriolanus_d19b7de5",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Play: The Tragedy of Coriolanus\nTheme: Class conflict\n\nExplanation: Tensions between the patricians and plebeians drive the conflict, with Coriolanus’s elitism fueling his exile and rebellion against Rome.",
+    "metadata": {
+      "theme_name": "Class conflict",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_coriolanus_9f1feaf4",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Play: The Tragedy of Coriolanus\nTheme: Loyalty\n\nExplanation: Loyalty is tested, as Coriolanus shifts allegiance to the Volscians, yet his loyalty to his mother ultimately sways him to spare Rome.",
+    "metadata": {
+      "theme_name": "Loyalty",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_coriolanus_9a83394f",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Play: The Tragedy of Coriolanus\nTheme: Mother-son relationships\n\nExplanation: Volumnia’s influence shapes Coriolanus’s identity and decisions, culminating in her pivotal role in persuading him to abandon his attack on Rome.",
+    "metadata": {
+      "theme_name": "Mother-son relationships",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_coriolanus_5f29db5b",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Play: The Tragedy of Coriolanus\nTheme: Honor\n\nExplanation: Coriolanus’s rigid sense of honor drives his actions but conflicts with political compromise, leading to his isolation and death.",
+    "metadata": {
+      "theme_name": "Honor",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_cymbeline_eff93822",
+    "chunk_type": "theme",
+    "play_title": "Cymbeline",
+    "content": "Play: Cymbeline\nTheme: Love\n\nExplanation: Imogen and Posthumus’s steadfast love overcomes trials, deceptions, and separation, driving the play toward reconciliation.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_cymbeline_07edf5a2",
+    "chunk_type": "theme",
+    "play_title": "Cymbeline",
+    "content": "Play: Cymbeline\nTheme: Jealousy\n\nExplanation: Iachimo’s deception fuels Posthumus’s jealousy, nearly destroying his marriage to Imogen until truth restores their bond.",
+    "metadata": {
+      "theme_name": "Jealousy",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_cymbeline_30632709",
+    "chunk_type": "theme",
+    "play_title": "Cymbeline",
+    "content": "Play: Cymbeline\nTheme: Forgiveness\n\nExplanation: The play resolves through forgiveness, as Cymbeline pardons Posthumus and others, uniting the family and nation.",
+    "metadata": {
+      "theme_name": "Forgiveness",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_cymbeline_6a0db4bc",
+    "chunk_type": "theme",
+    "play_title": "Cymbeline",
+    "content": "Play: Cymbeline\nTheme: Identity\n\nExplanation: Disguises and mistaken identities, like Imogen’s as Fidele, create confusion but ultimately reveal true selves and loyalties.",
+    "metadata": {
+      "theme_name": "Identity",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_cymbeline_90143d30",
+    "chunk_type": "theme",
+    "play_title": "Cymbeline",
+    "content": "Play: Cymbeline\nTheme: Family\n\nExplanation: Family ties, tested by betrayal and separation, are restored as Cymbeline reunites with his children and accepts Posthumus.",
+    "metadata": {
+      "theme_name": "Family",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_cymbeline_fc76b720",
+    "chunk_type": "theme",
+    "play_title": "Cymbeline",
+    "content": "Play: Cymbeline\nTheme: Reconciliation\n\nExplanation: The play culminates in reconciliation, resolving personal and political conflicts through revelations and forgiveness.",
+    "metadata": {
+      "theme_name": "Reconciliation",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_hamlet_prince_of_denmark_a1d3b97b",
+    "chunk_type": "theme",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Play: Hamlet, Prince of Denmark\nTheme: Revenge\n\nExplanation: Hamlet’s quest to avenge his father’s murder by Claudius drives the plot, exploring the moral and psychological costs of vengeance.",
+    "metadata": {
+      "theme_name": "Revenge",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_hamlet_prince_of_denmark_35e1efa8",
+    "chunk_type": "theme",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Play: Hamlet, Prince of Denmark\nTheme: Madness\n\nExplanation: Hamlet’s feigned madness and Ophelia’s descent into genuine insanity highlight the thin line between sanity and madness under grief and betrayal.",
+    "metadata": {
+      "theme_name": "Madness",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_hamlet_prince_of_denmark_86719fa1",
+    "chunk_type": "theme",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Play: Hamlet, Prince of Denmark\nTheme: Corruption\n\nExplanation: Claudius’s murder and deceit taint Denmark, symbolizing moral and political decay that spreads through the court.",
+    "metadata": {
+      "theme_name": "Corruption",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_hamlet_prince_of_denmark_f8baa377",
+    "chunk_type": "theme",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Play: Hamlet, Prince of Denmark\nTheme: Death\n\nExplanation: Death permeates the play, from the Ghost’s appearance to the tragic finale, prompting reflections on mortality and the afterlife.",
+    "metadata": {
+      "theme_name": "Death",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_hamlet_prince_of_denmark_27038d5f",
+    "chunk_type": "theme",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Play: Hamlet, Prince of Denmark\nTheme: The impossibility of certainty\n\nExplanation: Hamlet struggles with uncertainty about the Ghost’s truth and his own actions, reflecting the difficulty of knowing truth in a deceptive world.",
+    "metadata": {
+      "theme_name": "The impossibility of certainty",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_hamlet_prince_of_denmark_6b7ff159",
+    "chunk_type": "theme",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Play: Hamlet, Prince of Denmark\nTheme: Action vs inaction\n\nExplanation: Hamlet’s indecision and procrastination contrast with decisive actions of others, exploring the consequences of delayed revenge.",
+    "metadata": {
+      "theme_name": "Action vs inaction",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_hamlet_prince_of_denmark_198a74f5",
+    "chunk_type": "theme",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Play: Hamlet, Prince of Denmark\nTheme: Appearance vs reality\n\nExplanation: Deceptive appearances, like Claudius’s false virtue and Hamlet’s feigned madness, underscore the challenge of discerning truth from pretense.",
+    "metadata": {
+      "theme_name": "Appearance vs reality",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_first_part_88dd9a73",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Play: King Henry IV, the First Part\nTheme: Honor\n\nExplanation: Hotspur’s obsession with honor contrasts with Falstaff’s pragmatic avoidance of it, while Hal redefines it through his heroic transformation.",
+    "metadata": {
+      "theme_name": "Honor",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_first_part_9a89c42c",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Play: King Henry IV, the First Part\nTheme: Power\n\nExplanation: The struggle for power fuels the rebellion against Henry IV, as the Percys challenge his legitimacy and Hal prepares for kingship.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_first_part_8881d58a",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Play: King Henry IV, the First Part\nTheme: Rebellion\n\nExplanation: The Percy rebellion threatens Henry IV’s rule, highlighting political instability and the cost of usurping power.",
+    "metadata": {
+      "theme_name": "Rebellion",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_first_part_878771e1",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Play: King Henry IV, the First Part\nTheme: Father-son relationships\n\nExplanation: Henry IV’s disappointment in Hal’s waywardness contrasts with their eventual reconciliation, as Hal proves his worth at Shrewsbury.",
+    "metadata": {
+      "theme_name": "Father-son relationships",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_first_part_841d1672",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Play: King Henry IV, the First Part\nTheme: Maturity\n\nExplanation: Hal’s journey from reckless youth to responsible heir showcases his growth, culminating in his victory over Hotspur.",
+    "metadata": {
+      "theme_name": "Maturity",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_first_part_80197412",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Play: King Henry IV, the First Part\nTheme: Loyalty\n\nExplanation: Loyalty is tested, as Hal balances allegiance to Falstaff’s crew with his duty to his father and crown.",
+    "metadata": {
+      "theme_name": "Loyalty",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_second_part_b3d884b9",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Play: King Henry IV, the Second Part\nTheme: Power\n\nExplanation: The struggle for power persists as Henry IV faces rebellion, while Hal prepares to inherit the crown amidst political instability.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_second_part_60847c79",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Play: King Henry IV, the Second Part\nTheme: Aging\n\nExplanation: Henry IV’s declining health and Falstaff’s old age highlight the physical and emotional toll of time on leadership and vitality.",
+    "metadata": {
+      "theme_name": "Aging",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_second_part_7c1e6bdc",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Play: King Henry IV, the Second Part\nTheme: Betrayal\n\nExplanation: Betrayal marks the play, from Northumberland’s abandonment of the rebels to Hal’s rejection of Falstaff upon becoming king.",
+    "metadata": {
+      "theme_name": "Betrayal",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_second_part_eb21f895",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Play: King Henry IV, the Second Part\nTheme: Redemption\n\nExplanation: Hal redeems his reputation by embracing royal duty, reconciling with his father, and rejecting his former reckless lifestyle.",
+    "metadata": {
+      "theme_name": "Redemption",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_second_part_062e510f",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Play: King Henry IV, the Second Part\nTheme: Duty\n\nExplanation: Hal’s acceptance of his royal responsibilities contrasts with the rebels’ defiance, emphasizing the burdens of leadership.",
+    "metadata": {
+      "theme_name": "Duty",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_iv_the_second_part_2b793658",
+    "chunk_type": "theme",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Play: King Henry IV, the Second Part\nTheme: Succession\n\nExplanation: The transition from Henry IV to Hal as Henry V underscores the challenges of succession and the need to prove legitimacy.",
+    "metadata": {
+      "theme_name": "Succession",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_king_henry_v_e1f85236",
+    "chunk_type": "theme",
+    "play_title": "The Life of King Henry V",
+    "content": "Play: The Life of King Henry V\nTheme: Leadership\n\nExplanation: Henry V’s inspiring leadership unites his army, leading to victory at Agincourt through strategic decisions and motivational rhetoric.",
+    "metadata": {
+      "theme_name": "Leadership",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_king_henry_v_cf3043aa",
+    "chunk_type": "theme",
+    "play_title": "The Life of King Henry V",
+    "content": "Play: The Life of King Henry V\nTheme: War\n\nExplanation: The play examines the glory and cost of war, as Henry’s campaign in France brings triumph but also bloodshed and moral questions.",
+    "metadata": {
+      "theme_name": "War",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_king_henry_v_403f8d02",
+    "chunk_type": "theme",
+    "play_title": "The Life of King Henry V",
+    "content": "Play: The Life of King Henry V\nTheme: Patriotism\n\nExplanation: Henry’s rousing speeches foster national pride, rallying diverse English soldiers to fight as a unified ‘band of brothers.’",
+    "metadata": {
+      "theme_name": "Patriotism",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_king_henry_v_a3c19bed",
+    "chunk_type": "theme",
+    "play_title": "The Life of King Henry V",
+    "content": "Play: The Life of King Henry V\nTheme: Justice\n\nExplanation: Henry seeks to justify his war with France through legal claims, while his harsh judgments, like executing traitors, reflect his commitment to justice.",
+    "metadata": {
+      "theme_name": "Justice",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_king_henry_v_1384a958",
+    "chunk_type": "theme",
+    "play_title": "The Life of King Henry V",
+    "content": "Play: The Life of King Henry V\nTheme: Maturity\n\nExplanation: Henry’s transformation from the reckless Prince Hal to a wise, responsible king showcases his growth into effective leadership.",
+    "metadata": {
+      "theme_name": "Maturity",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_king_henry_v_ef4e63f4",
+    "chunk_type": "theme",
+    "play_title": "The Life of King Henry V",
+    "content": "Play: The Life of King Henry V\nTheme: Diplomacy\n\nExplanation: Henry’s negotiations, culminating in his marriage to Katherine, highlight diplomacy as a tool to secure peace and unite nations.",
+    "metadata": {
+      "theme_name": "Diplomacy",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_henry_the_eighth_f0cd2432",
+    "chunk_type": "theme",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Play: The Life of Henry the Eighth\nTheme: Power\n\nExplanation: Henry VIII’s quest for control over his marriage and kingdom drives political maneuvers, while Wolsey’s ambition leads to his downfall.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_henry_the_eighth_e318fd8e",
+    "chunk_type": "theme",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Play: The Life of Henry the Eighth\nTheme: Religion\n\nExplanation: The conflict between Henry’s desire for divorce and Catholic doctrine sparks religious reform, shaping England’s break with Rome.",
+    "metadata": {
+      "theme_name": "Religion",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_henry_the_eighth_8c37c250",
+    "chunk_type": "theme",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Play: The Life of Henry the Eighth\nTheme: Marriage\n\nExplanation: Henry’s divorce from Katherine and marriage to Anne Boleyn highlight the personal and political stakes of royal unions.",
+    "metadata": {
+      "theme_name": "Marriage",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_henry_the_eighth_9784b676",
+    "chunk_type": "theme",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Play: The Life of Henry the Eighth\nTheme: Politics\n\nExplanation: Court intrigues, such as Wolsey’s schemes and Norfolk’s opposition, reveal the treacherous dynamics of political power.",
+    "metadata": {
+      "theme_name": "Politics",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_henry_the_eighth_ff39a368",
+    "chunk_type": "theme",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Play: The Life of Henry the Eighth\nTheme: Succession\n\nExplanation: The birth of Elizabeth secures Henry’s dynasty, emphasizing the critical role of succession in stabilizing the monarchy.",
+    "metadata": {
+      "theme_name": "Succession",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_henry_the_eighth_caea2c58",
+    "chunk_type": "theme",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Play: The Life of Henry the Eighth\nTheme: Justice\n\nExplanation: The play questions justice through Buckingham’s execution and Katherine’s trial, exposing the influence of power on legal outcomes.",
+    "metadata": {
+      "theme_name": "Justice",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_first_part_0bc68034",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the first part",
+    "content": "Play: King Henry VI, the first part\nTheme: War\n\nExplanation: The Hundred Years’ War drives the conflict, as England battles to retain French territories amidst internal strife and French resistance.",
+    "metadata": {
+      "theme_name": "War",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_first_part_206ef587",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the first part",
+    "content": "Play: King Henry VI, the first part\nTheme: Power\n\nExplanation: Power struggles between nobles like York and Gloucester destabilize Henry VI’s weak rule, foreshadowing the Wars of the Roses.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_first_part_ed710008",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the first part",
+    "content": "Play: King Henry VI, the first part\nTheme: Religion\n\nExplanation: Religious fervor, embodied by Joan of Arc’s divine claims and Cardinal Beaufort’s ambition, influences political and military conflicts.",
+    "metadata": {
+      "theme_name": "Religion",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_first_part_bed64c6b",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the first part",
+    "content": "Play: King Henry VI, the first part\nTheme: Patriotism\n\nExplanation: Talbot’s heroic efforts and Joan’s leadership inspire patriotic zeal, contrasting with internal English divisions that weaken the nation.",
+    "metadata": {
+      "theme_name": "Patriotism",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_first_part_21091916",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the first part",
+    "content": "Play: King Henry VI, the first part\nTheme: Factionalism\n\nExplanation: Rivalries between York and Lancaster factions sow discord, undermining Henry VI’s reign and setting the stage for civil war.",
+    "metadata": {
+      "theme_name": "Factionalism",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_first_part_965f7dec",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the first part",
+    "content": "Play: King Henry VI, the first part\nTheme: Prophecy\n\nExplanation: Joan’s visions and omens shape the narrative, suggesting a divine influence on the war’s outcome and England’s fate.",
+    "metadata": {
+      "theme_name": "Prophecy",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_second_part_03ce9784",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the second part",
+    "content": "Play: King Henry VI, the second part\nTheme: Civil war\n\nExplanation: Rival factions vying for power under Henry VI’s weak rule escalate tensions, foreshadowing the Wars of the Roses.",
+    "metadata": {
+      "theme_name": "Civil war",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_second_part_abb7c13e",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the second part",
+    "content": "Play: King Henry VI, the second part\nTheme: Ambition\n\nExplanation: The Duke of York’s and Queen Margaret’s ambitions for control drive political conspiracies and rebellions, destabilizing the kingdom.",
+    "metadata": {
+      "theme_name": "Ambition",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_second_part_250f0f44",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the second part",
+    "content": "Play: King Henry VI, the second part\nTheme: Justice\n\nExplanation: The play questions justice as nobles like Gloucester face unjust accusations, while Cade’s rebellion seeks a distorted form of social equity.",
+    "metadata": {
+      "theme_name": "Justice",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_second_part_1adc703f",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the second part",
+    "content": "Play: King Henry VI, the second part\nTheme: Rebellion\n\nExplanation: Jack Cade’s uprising and York’s claim to the throne highlight widespread discontent with Henry’s ineffective governance.",
+    "metadata": {
+      "theme_name": "Rebellion",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_second_part_ebcf35bc",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the second part",
+    "content": "Play: King Henry VI, the second part\nTheme: Power\n\nExplanation: Struggles for power among nobles and the crown fuel betrayals and violence, exposing the fragility of Henry’s rule.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_second_part_0dd56a10",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the second part",
+    "content": "Play: King Henry VI, the second part\nTheme: Betrayal\n\nExplanation: Betrayals, such as Suffolk’s and Beaufort’s plots against Gloucester, underscore the treacherous political landscape of the court.",
+    "metadata": {
+      "theme_name": "Betrayal",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_third_part_de6058be",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the third part",
+    "content": "Play: King Henry VI, the third part\nTheme: Civil war\n\nExplanation: The Wars of the Roses pit York against Lancaster, tearing England apart with relentless battles and shifting allegiances.",
+    "metadata": {
+      "theme_name": "Civil war",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_third_part_c82f6d10",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the third part",
+    "content": "Play: King Henry VI, the third part\nTheme: Revenge\n\nExplanation: Revenge fuels the cycle of violence, as Margaret and Richard seek retribution for personal and political losses.",
+    "metadata": {
+      "theme_name": "Revenge",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_third_part_e1a3d4ab",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the third part",
+    "content": "Play: King Henry VI, the third part\nTheme: Power\n\nExplanation: The relentless pursuit of the crown by Yorkists and Lancastrians destabilizes the realm, with power gained through betrayal and bloodshed.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_third_part_4930398f",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the third part",
+    "content": "Play: King Henry VI, the third part\nTheme: Loyalty\n\nExplanation: Loyalty is fragile, as figures like Warwick and Clarence switch sides, prioritizing ambition over steadfast allegiance.",
+    "metadata": {
+      "theme_name": "Loyalty",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_third_part_b824b215",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the third part",
+    "content": "Play: King Henry VI, the third part\nTheme: Betrayal\n\nExplanation: Betrayals, such as Clarence’s defection and Warwick’s turn against Edward, drive the conflict and deepen the tragedy.",
+    "metadata": {
+      "theme_name": "Betrayal",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_henry_vi_the_third_part_3d4021c5",
+    "chunk_type": "theme",
+    "play_title": "King Henry VI, the third part",
+    "content": "Play: King Henry VI, the third part\nTheme: Ambition\n\nExplanation: Richard’s ruthless ambition to seize the throne foreshadows his rise, while others’ desires for power fuel the ongoing war.",
+    "metadata": {
+      "theme_name": "Ambition",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_julius_caesar_0c226cf9",
+    "chunk_type": "theme",
+    "play_title": "Julius Caesar",
+    "content": "Play: Julius Caesar\nTheme: Power\n\nExplanation: The struggle for power drives the conspiracy against Caesar, revealing its corrupting influence and the instability it creates in Rome.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_julius_caesar_9513c057",
+    "chunk_type": "theme",
+    "play_title": "Julius Caesar",
+    "content": "Play: Julius Caesar\nTheme: Ambition\n\nExplanation: Caesar’s ambition fuels fears of tyranny, while Cassius’s ambition manipulates Brutus, leading to betrayal and civil war.",
+    "metadata": {
+      "theme_name": "Ambition",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_julius_caesar_d1d325ae",
+    "chunk_type": "theme",
+    "play_title": "Julius Caesar",
+    "content": "Play: Julius Caesar\nTheme: Honor\n\nExplanation: Brutus acts out of a sense of honor to protect the Republic, but his honorable intentions lead to tragic consequences.",
+    "metadata": {
+      "theme_name": "Honor",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_julius_caesar_e85637c7",
+    "chunk_type": "theme",
+    "play_title": "Julius Caesar",
+    "content": "Play: Julius Caesar\nTheme: Fate\n\nExplanation: Omens and prophecies, like Calpurnia’s warnings, suggest fate’s role, yet characters’ choices shape the tragic outcome.",
+    "metadata": {
+      "theme_name": "Fate",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_julius_caesar_b606a790",
+    "chunk_type": "theme",
+    "play_title": "Julius Caesar",
+    "content": "Play: Julius Caesar\nTheme: Public vs private self\n\nExplanation: Characters like Brutus struggle to reconcile their public duties with private loyalties, leading to internal conflict and betrayal.",
+    "metadata": {
+      "theme_name": "Public vs private self",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_julius_caesar_83429296",
+    "chunk_type": "theme",
+    "play_title": "Julius Caesar",
+    "content": "Play: Julius Caesar\nTheme: Rhetoric\n\nExplanation: Powerful speeches, like Antony’s funeral oration, manipulate public opinion, highlighting rhetoric’s role in shaping political outcomes.",
+    "metadata": {
+      "theme_name": "Rhetoric",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_julius_caesar_aa92a364",
+    "chunk_type": "theme",
+    "play_title": "Julius Caesar",
+    "content": "Play: Julius Caesar\nTheme: Loyalty\n\nExplanation: Loyalty is tested, as Brutus betrays Caesar for Rome’s sake, while Antony’s loyalty to Caesar fuels his revenge against the conspirators.",
+    "metadata": {
+      "theme_name": "Loyalty",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_john_1deb0e41",
+    "chunk_type": "theme",
+    "play_title": "King John",
+    "content": "Play: King John\nTheme: Power\n\nExplanation: King John’s struggle to maintain his throne against French and domestic challenges highlights the precarious nature of royal authority.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_john_efe0ea74",
+    "chunk_type": "theme",
+    "play_title": "King John",
+    "content": "Play: King John\nTheme: Legitimacy\n\nExplanation: The conflict over Arthur’s claim versus John’s rule questions the legitimacy of kingship, complicated by the Bastard’s loyalty despite his illegitimacy.",
+    "metadata": {
+      "theme_name": "Legitimacy",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_john_d8bec1ea",
+    "chunk_type": "theme",
+    "play_title": "King John",
+    "content": "Play: King John\nTheme: War\n\nExplanation: Anglo-French conflicts and internal rebellions drive the play, reflecting the destructive cost of territorial and political disputes.",
+    "metadata": {
+      "theme_name": "War",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_john_7d386136",
+    "chunk_type": "theme",
+    "play_title": "King John",
+    "content": "Play: King John\nTheme: Family\n\nExplanation: Family ties, like Constance’s devotion to Arthur and John’s rivalry with his nephew, fuel personal and political conflicts.",
+    "metadata": {
+      "theme_name": "Family",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_john_414a01bf",
+    "chunk_type": "theme",
+    "play_title": "King John",
+    "content": "Play: King John\nTheme: Betrayal\n\nExplanation: Betrayals, such as France’s shifting alliances and John’s nobles turning against him, underscore the instability of loyalty.",
+    "metadata": {
+      "theme_name": "Betrayal",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_john_085b9df7",
+    "chunk_type": "theme",
+    "play_title": "King John",
+    "content": "Play: King John\nTheme: Patriotism\n\nExplanation: The Bastard’s rousing defense of England evokes patriotic pride, rallying support for the nation despite John’s flawed rule.",
+    "metadata": {
+      "theme_name": "Patriotism",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_king_lear_a9196613",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Play: The Tragedy of King Lear\nTheme: Justice\n\nExplanation: The play questions whether justice prevails, as good characters like Cordelia suffer while evil ones like Edmund temporarily triumph.",
+    "metadata": {
+      "theme_name": "Justice",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_king_lear_fb9debbf",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Play: The Tragedy of King Lear\nTheme: Authority\n\nExplanation: Lear’s division of his kingdom reveals the fragility of authority, as his loss of power leads to chaos and betrayal.",
+    "metadata": {
+      "theme_name": "Authority",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_king_lear_a6dd90f7",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Play: The Tragedy of King Lear\nTheme: Family\n\nExplanation: Family dynamics drive the tragedy, with Lear and Gloucester betrayed by their children, contrasting loyalty (Cordelia, Edgar) with deceit (Goneril, Regan, Edmund).",
+    "metadata": {
+      "theme_name": "Family",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_king_lear_50435c1e",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Play: The Tragedy of King Lear\nTheme: Aging\n\nExplanation: Lear’s aging and desire to relinquish power expose his vulnerability, leading to his loss of control and descent into madness.",
+    "metadata": {
+      "theme_name": "Aging",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_king_lear_dbeed81f",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Play: The Tragedy of King Lear\nTheme: Madness\n\nExplanation: Lear’s descent into madness reflects his emotional turmoil, while Edgar’s feigned madness as Poor Tom highlights survival through disguise.",
+    "metadata": {
+      "theme_name": "Madness",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_king_lear_d0150b92",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Play: The Tragedy of King Lear\nTheme: Betrayal\n\nExplanation: Betrayal by Goneril, Regan, and Edmund against their fathers drives the tragedy, exposing the fragility of familial bonds.",
+    "metadata": {
+      "theme_name": "Betrayal",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_king_lear_960095a9",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Play: The Tragedy of King Lear\nTheme: Nature\n\nExplanation: The storm symbolizes nature’s chaos, mirroring Lear’s inner turmoil and the unnatural betrayals disrupting the social order.",
+    "metadata": {
+      "theme_name": "Nature",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_king_lear_ac87ae61",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Play: The Tragedy of King Lear\nTheme: Sight and blindness\n\nExplanation: Gloucester’s literal blindness parallels Lear’s figurative blindness to truth, as both fail to see their children’s true natures until it’s too late.",
+    "metadata": {
+      "theme_name": "Sight and blindness",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_love's_labour's_lost_13032293",
+    "chunk_type": "theme",
+    "play_title": "Love's Labour's Lost",
+    "content": "Play: Love's Labour's Lost\nTheme: Love\n\nExplanation: Love disrupts the lords’ vow of celibacy, leading to witty courtships that reveal its irresistible and transformative power.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_love's_labour's_lost_ba934a84",
+    "chunk_type": "theme",
+    "play_title": "Love's Labour's Lost",
+    "content": "Play: Love's Labour's Lost\nTheme: Wit\n\nExplanation: The play celebrates verbal sparring and intellectual humor, as characters like Berowne and Rosaline showcase cleverness in love and debate.",
+    "metadata": {
+      "theme_name": "Wit",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_love's_labour's_lost_53400eb2",
+    "chunk_type": "theme",
+    "play_title": "Love's Labour's Lost",
+    "content": "Play: Love's Labour's Lost\nTheme: Education\n\nExplanation: The lords’ pursuit of scholarly isolation is undermined by love, suggesting that emotional experience outweighs academic discipline.",
+    "metadata": {
+      "theme_name": "Education",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_love's_labour's_lost_d4f59dca",
+    "chunk_type": "theme",
+    "play_title": "Love's Labour's Lost",
+    "content": "Play: Love's Labour's Lost\nTheme: Vows\n\nExplanation: The fragility of vows is exposed as the lords quickly abandon their oath of study for love, highlighting human weakness.",
+    "metadata": {
+      "theme_name": "Vows",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_love's_labour's_lost_1e7ec1f3",
+    "chunk_type": "theme",
+    "play_title": "Love's Labour's Lost",
+    "content": "Play: Love's Labour's Lost\nTheme: Courtship\n\nExplanation: Courtship drives the plot through playful flirtations and deceptions, culminating in delayed unions due to unexpected tragedy.",
+    "metadata": {
+      "theme_name": "Courtship",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_love's_labour's_lost_0137179a",
+    "chunk_type": "theme",
+    "play_title": "Love's Labour's Lost",
+    "content": "Play: Love's Labour's Lost\nTheme: Language\n\nExplanation: The play revels in linguistic play, using ornate speech and wordplay to explore communication’s role in love and society.",
+    "metadata": {
+      "theme_name": "Language",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_macbeth_e6d7608f",
+    "chunk_type": "theme",
+    "play_title": "Macbeth",
+    "content": "Play: Macbeth\nTheme: Ambition\n\nExplanation: Macbeth’s unchecked ambition, spurred by the witches’ prophecy and Lady Macbeth, drives him to murder and tyranny, leading to his downfall.",
+    "metadata": {
+      "theme_name": "Ambition",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_macbeth_7b98d628",
+    "chunk_type": "theme",
+    "play_title": "Macbeth",
+    "content": "Play: Macbeth\nTheme: Power\n\nExplanation: The pursuit and corruption of power dominate the play, as Macbeth’s rise to the throne through murder destabilizes Scotland and his own morality.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_macbeth_b410993e",
+    "chunk_type": "theme",
+    "play_title": "Macbeth",
+    "content": "Play: Macbeth\nTheme: Fate\n\nExplanation: The witches’ prophecies suggest a predetermined fate, yet Macbeth’s choices in response to them highlight the interplay between destiny and free will.",
+    "metadata": {
+      "theme_name": "Fate",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_macbeth_01fc2868",
+    "chunk_type": "theme",
+    "play_title": "Macbeth",
+    "content": "Play: Macbeth\nTheme: Violence\n\nExplanation: Violence escalates as Macbeth’s ambition fuels a cycle of murders, from Duncan to Banquo, culminating in widespread chaos and retribution.",
+    "metadata": {
+      "theme_name": "Violence",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_macbeth_f89ae31d",
+    "chunk_type": "theme",
+    "play_title": "Macbeth",
+    "content": "Play: Macbeth\nTheme: Nature vs the unnatural\n\nExplanation: Macbeth’s unnatural acts, like regicide, disrupt the natural order, reflected in omens and chaos that plague Scotland until balance is restored.",
+    "metadata": {
+      "theme_name": "Nature vs the unnatural",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_macbeth_798da4a4",
+    "chunk_type": "theme",
+    "play_title": "Macbeth",
+    "content": "Play: Macbeth\nTheme: Manhood\n\nExplanation: The play explores manhood through Lady Macbeth’s manipulation of Macbeth’s masculinity, equating courage with violent ambition, which leads to their ruin.",
+    "metadata": {
+      "theme_name": "Manhood",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_macbeth_f0c1d864",
+    "chunk_type": "theme",
+    "play_title": "Macbeth",
+    "content": "Play: Macbeth\nTheme: Guilt and conscience\n\nExplanation: Guilt torments Macbeth and Lady Macbeth, with hallucinations and sleepwalking revealing their consciences’ struggle against their crimes.",
+    "metadata": {
+      "theme_name": "Guilt and conscience",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_measure_for_measure_bc759374",
+    "chunk_type": "theme",
+    "play_title": "Measure for Measure",
+    "content": "Play: Measure for Measure\nTheme: Justice\n\nExplanation: The play examines justice through Angelo’s harsh enforcement and the Duke’s interventions, questioning the balance between law and fairness.",
+    "metadata": {
+      "theme_name": "Justice",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_measure_for_measure_be9dc186",
+    "chunk_type": "theme",
+    "play_title": "Measure for Measure",
+    "content": "Play: Measure for Measure\nTheme: Morality\n\nExplanation: Moral dilemmas, like Isabella’s choice between chastity and her brother’s life, highlight the tension between personal ethics and societal demands.",
+    "metadata": {
+      "theme_name": "Morality",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_measure_for_measure_30e997ca",
+    "chunk_type": "theme",
+    "play_title": "Measure for Measure",
+    "content": "Play: Measure for Measure\nTheme: Power\n\nExplanation: Power corrupts Angelo, whose hypocrisy is exposed, while the Duke’s disguised authority manipulates events to restore order.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_measure_for_measure_2ab99991",
+    "chunk_type": "theme",
+    "play_title": "Measure for Measure",
+    "content": "Play: Measure for Measure\nTheme: Mercy\n\nExplanation: Mercy triumphs over strict justice, as the Duke pardons Claudio and others, advocating compassion in governance.",
+    "metadata": {
+      "theme_name": "Mercy",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_measure_for_measure_b6b7ec54",
+    "chunk_type": "theme",
+    "play_title": "Measure for Measure",
+    "content": "Play: Measure for Measure\nTheme: Hypocrisy\n\nExplanation: Angelo’s outward virtue masks his corrupt desires, revealing the dangers of hypocrisy in those entrusted with power.",
+    "metadata": {
+      "theme_name": "Hypocrisy",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_measure_for_measure_cc909bfc",
+    "chunk_type": "theme",
+    "play_title": "Measure for Measure",
+    "content": "Play: Measure for Measure\nTheme: Chastity\n\nExplanation: Isabella’s commitment to chastity is tested by Angelo’s proposition, raising questions about virtue and sacrifice in a corrupt world.",
+    "metadata": {
+      "theme_name": "Chastity",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merchant_of_venice_1639b412",
+    "chunk_type": "theme",
+    "play_title": "The Merchant of Venice",
+    "content": "Play: The Merchant of Venice\nTheme: Justice and mercy\n\nExplanation: Portia’s courtroom plea for mercy over Shylock’s demand for justice highlights the tension between strict law and compassionate forgiveness.",
+    "metadata": {
+      "theme_name": "Justice and mercy",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merchant_of_venice_04b1fd7b",
+    "chunk_type": "theme",
+    "play_title": "The Merchant of Venice",
+    "content": "Play: The Merchant of Venice\nTheme: Prejudice\n\nExplanation: Shylock faces anti-Semitic prejudice, which fuels his vengeful actions, while the play critiques societal biases against outsiders.",
+    "metadata": {
+      "theme_name": "Prejudice",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merchant_of_venice_8b3d9b74",
+    "chunk_type": "theme",
+    "play_title": "The Merchant of Venice",
+    "content": "Play: The Merchant of Venice\nTheme: Wealth\n\nExplanation: Wealth drives the plot, from Antonio’s loan to Portia’s casket test, revealing its power to shape relationships and outcomes.",
+    "metadata": {
+      "theme_name": "Wealth",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merchant_of_venice_86334a9d",
+    "chunk_type": "theme",
+    "play_title": "The Merchant of Venice",
+    "content": "Play: The Merchant of Venice\nTheme: Love and friendship\n\nExplanation: The bonds of love (Bassanio and Portia, Jessica and Lorenzo) and friendship (Antonio and Bassanio) are tested by sacrifice and loyalty.",
+    "metadata": {
+      "theme_name": "Love and friendship",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merchant_of_venice_f427ad93",
+    "chunk_type": "theme",
+    "play_title": "The Merchant of Venice",
+    "content": "Play: The Merchant of Venice\nTheme: Outsiders\n\nExplanation: Shylock and Jessica, as Jews, navigate their outsider status in Venice, facing exclusion and seeking acceptance in a Christian society.",
+    "metadata": {
+      "theme_name": "Outsiders",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merchant_of_venice_3a88f6cb",
+    "chunk_type": "theme",
+    "play_title": "The Merchant of Venice",
+    "content": "Play: The Merchant of Venice\nTheme: Appearance vs reality\n\nExplanation: Deceptive appearances, like the caskets’ misleading exteriors and Portia’s lawyer disguise, underscore the challenge of discerning true value.",
+    "metadata": {
+      "theme_name": "Appearance vs reality",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merry_wives_of_windsor_472ccb2d",
+    "chunk_type": "theme",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Play: The Merry Wives of Windsor\nTheme: Jealousy\n\nExplanation: Ford’s jealousy of his wife’s fidelity drives comedic misunderstandings, resolved when he learns to trust her wit and loyalty.",
+    "metadata": {
+      "theme_name": "Jealousy",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merry_wives_of_windsor_8f33e5d5",
+    "chunk_type": "theme",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Play: The Merry Wives of Windsor\nTheme: Deception\n\nExplanation: The wives’ clever deceptions humiliate Falstaff, while Anne’s secret marriage to Fenton outwits her parents’ plans.",
+    "metadata": {
+      "theme_name": "Deception",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merry_wives_of_windsor_d956f591",
+    "chunk_type": "theme",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Play: The Merry Wives of Windsor\nTheme: Marriage\n\nExplanation: The play explores marital dynamics, celebrating the wives’ agency and fidelity while Anne’s choice of love over arranged marriage triumphs.",
+    "metadata": {
+      "theme_name": "Marriage",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merry_wives_of_windsor_9216a419",
+    "chunk_type": "theme",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Play: The Merry Wives of Windsor\nTheme: Social class\n\nExplanation: Falstaff’s attempts to exploit the middle-class wives and Fenton’s courtship of Anne despite his status highlight class tensions and aspirations.",
+    "metadata": {
+      "theme_name": "Social class",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merry_wives_of_windsor_a1d10c09",
+    "chunk_type": "theme",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Play: The Merry Wives of Windsor\nTheme: Wit\n\nExplanation: The wives’ sharp wit outmaneuvers Falstaff, showcasing female intelligence and resourcefulness in a patriarchal society.",
+    "metadata": {
+      "theme_name": "Wit",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_merry_wives_of_windsor_788edd79",
+    "chunk_type": "theme",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Play: The Merry Wives of Windsor\nTheme: Community\n\nExplanation: The Windsor community unites to expose Falstaff’s folly, reinforcing social bonds through shared humor and moral correction.",
+    "metadata": {
+      "theme_name": "Community",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_a_midsummer_night's_dream_160b9caf",
+    "chunk_type": "theme",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Play: A Midsummer Night's Dream\nTheme: Love\n\nExplanation: Love’s irrational and transformative power drives the lovers’ entanglements, resolved through magical intervention and eventual harmony.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_a_midsummer_night's_dream_e24bc570",
+    "chunk_type": "theme",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Play: A Midsummer Night's Dream\nTheme: Magic\n\nExplanation: Magic, wielded by Oberon and Puck, creates chaos and resolutions, shaping the lovers’ fates and blurring reality with fantasy.",
+    "metadata": {
+      "theme_name": "Magic",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_a_midsummer_night's_dream_e1d3e836",
+    "chunk_type": "theme",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Play: A Midsummer Night's Dream\nTheme: Dreams vs reality\n\nExplanation: The play blurs dreams and reality, as magical events and transformations leave characters questioning what is real.",
+    "metadata": {
+      "theme_name": "Dreams vs reality",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_a_midsummer_night's_dream_c9b4d8a0",
+    "chunk_type": "theme",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Play: A Midsummer Night's Dream\nTheme: Order vs chaos\n\nExplanation: The forest’s magical chaos disrupts Athenian order, but resolutions restore harmony, reflecting the tension between structure and disorder.",
+    "metadata": {
+      "theme_name": "Order vs chaos",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_a_midsummer_night's_dream_308f9097",
+    "chunk_type": "theme",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Play: A Midsummer Night's Dream\nTheme: Transformation\n\nExplanation: Characters undergo literal (Bottom’s donkey form) and emotional transformations, highlighting love’s and magic’s power to change identities.",
+    "metadata": {
+      "theme_name": "Transformation",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_a_midsummer_night's_dream_9d99350f",
+    "chunk_type": "theme",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Play: A Midsummer Night's Dream\nTheme: Art and imagination\n\nExplanation: The play celebrates art and imagination through the lovers’ fantasies, the fairies’ magic, and the mechanicals’ comedic performance.",
+    "metadata": {
+      "theme_name": "Art and imagination",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_much_ado_about_nothing_cc6acd4e",
+    "chunk_type": "theme",
+    "play_title": "Much Ado About Nothing",
+    "content": "Play: Much Ado About Nothing\nTheme: Love\n\nExplanation: Love drives the play, from Beatrice and Benedick’s witty romance to Claudio and Hero’s tumultuous courtship, resolved through trust and revelation.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_much_ado_about_nothing_53fb5ad2",
+    "chunk_type": "theme",
+    "play_title": "Much Ado About Nothing",
+    "content": "Play: Much Ado About Nothing\nTheme: Deception\n\nExplanation: Deception shapes the plot, with Don John’s slander disrupting Hero’s wedding and playful tricks uniting Beatrice and Benedick.",
+    "metadata": {
+      "theme_name": "Deception",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_much_ado_about_nothing_6b07b12f",
+    "chunk_type": "theme",
+    "play_title": "Much Ado About Nothing",
+    "content": "Play: Much Ado About Nothing\nTheme: Honor\n\nExplanation: Honor, particularly female chastity, is central, as Hero’s tarnished reputation threatens her life until her innocence is proven.",
+    "metadata": {
+      "theme_name": "Honor",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_much_ado_about_nothing_5a7e1ae6",
+    "chunk_type": "theme",
+    "play_title": "Much Ado About Nothing",
+    "content": "Play: Much Ado About Nothing\nTheme: Wit\n\nExplanation: Beatrice and Benedick’s verbal sparring showcases wit as a tool for courtship and social commentary, enriching the comedy.",
+    "metadata": {
+      "theme_name": "Wit",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_much_ado_about_nothing_0c3a5906",
+    "chunk_type": "theme",
+    "play_title": "Much Ado About Nothing",
+    "content": "Play: Much Ado About Nothing\nTheme: Slander\n\nExplanation: Don John’s slander against Hero highlights the destructive power of false accusations and the importance of truth in restoring justice.",
+    "metadata": {
+      "theme_name": "Slander",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_much_ado_about_nothing_27e9761a",
+    "chunk_type": "theme",
+    "play_title": "Much Ado About Nothing",
+    "content": "Play: Much Ado About Nothing\nTheme: Marriage\n\nExplanation: The play explores marriage through Hero’s near-tragic betrothal and Beatrice’s eventual acceptance of love, celebrating union and mutual respect.",
+    "metadata": {
+      "theme_name": "Marriage",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_othello_the_moor_of_venice_97a015eb",
+    "chunk_type": "theme",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Play: Othello, the Moor of Venice\nTheme: Jealousy\n\nExplanation: Iago’s manipulation fuels Othello’s jealousy, transforming his love for Desdemona into a destructive force that leads to murder.",
+    "metadata": {
+      "theme_name": "Jealousy",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_othello_the_moor_of_venice_2a737979",
+    "chunk_type": "theme",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Play: Othello, the Moor of Venice\nTheme: Prejudice\n\nExplanation: Othello faces racial prejudice as a Moor in Venice, which Iago exploits to undermine his confidence and social standing.",
+    "metadata": {
+      "theme_name": "Prejudice",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_othello_the_moor_of_venice_3d8a4626",
+    "chunk_type": "theme",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Play: Othello, the Moor of Venice\nTheme: Deception\n\nExplanation: Iago’s deceitful schemes, including false accusations of Desdemona’s infidelity, drive the tragedy by exploiting trust and perception.",
+    "metadata": {
+      "theme_name": "Deception",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_othello_the_moor_of_venice_521be122",
+    "chunk_type": "theme",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Play: Othello, the Moor of Venice\nTheme: Love\n\nExplanation: Othello and Desdemona’s genuine love is corrupted by Iago’s lies, illustrating how love can be vulnerable to external manipulation.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_othello_the_moor_of_venice_77898ba6",
+    "chunk_type": "theme",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Play: Othello, the Moor of Venice\nTheme: Trust\n\nExplanation: The erosion of trust, as Othello believes Iago over Desdemona, underscores the fragility of relationships in the face of deceit.",
+    "metadata": {
+      "theme_name": "Trust",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_othello_the_moor_of_venice_6ddc22dd",
+    "chunk_type": "theme",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Play: Othello, the Moor of Venice\nTheme: Reputation\n\nExplanation: Reputation is critical, as seen in Cassio’s despair over its loss and Othello’s fall, driven by Iago’s attacks on their honor.",
+    "metadata": {
+      "theme_name": "Reputation",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_othello_the_moor_of_venice_8e7a4796",
+    "chunk_type": "theme",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Play: Othello, the Moor of Venice\nTheme: Gender\n\nExplanation: Gender dynamics shape the tragedy, with Desdemona and Emilia navigating a patriarchal society, their voices stifled until it’s too late.",
+    "metadata": {
+      "theme_name": "Gender",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_pericles_prince_of_tyre_187e9b60",
+    "chunk_type": "theme",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Play: Pericles, Prince of Tyre\nTheme: Adventure\n\nExplanation: Pericles’s journey across the Mediterranean, filled with shipwrecks and trials, drives the narrative, symbolizing life’s unpredictable challenges.",
+    "metadata": {
+      "theme_name": "Adventure",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_pericles_prince_of_tyre_b548f2ca",
+    "chunk_type": "theme",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Play: Pericles, Prince of Tyre\nTheme: Loss\n\nExplanation: Pericles endures profound loss, believing his wife and daughter dead, which underscores the emotional toll of separation and grief.",
+    "metadata": {
+      "theme_name": "Loss",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_pericles_prince_of_tyre_b5637831",
+    "chunk_type": "theme",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Play: Pericles, Prince of Tyre\nTheme: Reunion\n\nExplanation: The miraculous reunions with Thaisa and Marina highlight the restorative power of family and fate, resolving the play’s tragedies.",
+    "metadata": {
+      "theme_name": "Reunion",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_pericles_prince_of_tyre_c3d37caf",
+    "chunk_type": "theme",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Play: Pericles, Prince of Tyre\nTheme: Fate\n\nExplanation: Fate guides Pericles’s trials and eventual reunions, suggesting a divine force orchestrates the characters’ destinies.",
+    "metadata": {
+      "theme_name": "Fate",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_pericles_prince_of_tyre_f6bb349e",
+    "chunk_type": "theme",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Play: Pericles, Prince of Tyre\nTheme: Family\n\nExplanation: The enduring bond between Pericles, Thaisa, and Marina triumphs over separation, emphasizing family as a source of resilience and joy.",
+    "metadata": {
+      "theme_name": "Family",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_pericles_prince_of_tyre_986e3f55",
+    "chunk_type": "theme",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Play: Pericles, Prince of Tyre\nTheme: Virtue\n\nExplanation: Marina’s purity and moral strength preserve her through hardship, contrasting with the corruption around her and affirming virtue’s triumph.",
+    "metadata": {
+      "theme_name": "Virtue",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_ii_bea76e9d",
+    "chunk_type": "theme",
+    "play_title": "King Richard II",
+    "content": "Play: King Richard II\nTheme: Kingship\n\nExplanation: Richard’s flawed leadership and belief in divine authority contrast with Bolingbroke’s pragmatic claim to power, questioning the nature of rightful rule.",
+    "metadata": {
+      "theme_name": "Kingship",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_ii_8ebb7188",
+    "chunk_type": "theme",
+    "play_title": "King Richard II",
+    "content": "Play: King Richard II\nTheme: Power\n\nExplanation: The struggle for power drives Bolingbroke’s rebellion, exposing the fragility of Richard’s reign and the political consequences of mismanagement.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_ii_21a0cd1d",
+    "chunk_type": "theme",
+    "play_title": "King Richard II",
+    "content": "Play: King Richard II\nTheme: Divine right\n\nExplanation: Richard’s faith in his God-given right to rule crumbles as he is deposed, challenging the concept of monarchy’s sacred inviolability.",
+    "metadata": {
+      "theme_name": "Divine right",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_ii_c6f07e16",
+    "chunk_type": "theme",
+    "play_title": "King Richard II",
+    "content": "Play: King Richard II\nTheme: Betrayal\n\nExplanation: Betrayals, such as York’s shift to Bolingbroke and Richard’s nobles abandoning him, underscore the precarious loyalty in a divided court.",
+    "metadata": {
+      "theme_name": "Betrayal",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_ii_7b929b47",
+    "chunk_type": "theme",
+    "play_title": "King Richard II",
+    "content": "Play: King Richard II\nTheme: Identity\n\nExplanation: Richard grapples with his loss of kingship, questioning his identity as he transitions from anointed monarch to a mere mortal.",
+    "metadata": {
+      "theme_name": "Identity",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_ii_f3ede50c",
+    "chunk_type": "theme",
+    "play_title": "King Richard II",
+    "content": "Play: King Richard II\nTheme: Exile\n\nExplanation: Exile, both literal (Bolingbroke’s banishment) and metaphorical (Richard’s isolation), highlights the personal and political alienation central to the play.",
+    "metadata": {
+      "theme_name": "Exile",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_iii_b7cb3c8c",
+    "chunk_type": "theme",
+    "play_title": "King Richard III",
+    "content": "Play: King Richard III\nTheme: Ambition\n\nExplanation: Richard’s ruthless ambition drives him to murder and manipulate his way to the throne, illustrating the destructive force of unchecked desire.",
+    "metadata": {
+      "theme_name": "Ambition",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_iii_e65a2808",
+    "chunk_type": "theme",
+    "play_title": "King Richard III",
+    "content": "Play: King Richard III\nTheme: Manipulation\n\nExplanation: Richard’s cunning manipulation of allies and enemies, including Lady Anne and Buckingham, secures his power but leads to his isolation.",
+    "metadata": {
+      "theme_name": "Manipulation",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_iii_3a6839ff",
+    "chunk_type": "theme",
+    "play_title": "King Richard III",
+    "content": "Play: King Richard III\nTheme: Evil\n\nExplanation: Richard embodies moral corruption, committing heinous acts without remorse, yet his conscience briefly haunts him before his downfall.",
+    "metadata": {
+      "theme_name": "Evil",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_iii_2db90c4f",
+    "chunk_type": "theme",
+    "play_title": "King Richard III",
+    "content": "Play: King Richard III\nTheme: Power\n\nExplanation: The pursuit of power fuels Richard’s tyranny, but his brutal reign sparks rebellion, revealing power’s instability when built on treachery.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_iii_7a2df430",
+    "chunk_type": "theme",
+    "play_title": "King Richard III",
+    "content": "Play: King Richard III\nTheme: Fate\n\nExplanation: Margaret’s curses and omens suggest a fated retribution for Richard’s crimes, culminating in his defeat by Richmond at Bosworth.",
+    "metadata": {
+      "theme_name": "Fate",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_king_richard_iii_d79e7efb",
+    "chunk_type": "theme",
+    "play_title": "King Richard III",
+    "content": "Play: King Richard III\nTheme: Conscience\n\nExplanation: Richard’s fleeting guilt before the battle reveals the power of conscience, though he suppresses it to maintain his villainous resolve.",
+    "metadata": {
+      "theme_name": "Conscience",
+      "category": "history"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_romeo_and_juliet_65337153",
+    "chunk_type": "theme",
+    "play_title": "Romeo and Juliet",
+    "content": "Play: Romeo and Juliet\nTheme: Love\n\nExplanation: Romeo and Juliet’s passionate love defies their families’ feud, driving the plot but leading to their tragic deaths.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_romeo_and_juliet_33cf20c9",
+    "chunk_type": "theme",
+    "play_title": "Romeo and Juliet",
+    "content": "Play: Romeo and Juliet\nTheme: Fate\n\nExplanation: The lovers are described as ‘star-crossed,’ suggesting fate orchestrates their doomed romance through coincidences and misunderstandings.",
+    "metadata": {
+      "theme_name": "Fate",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_romeo_and_juliet_48a874e1",
+    "chunk_type": "theme",
+    "play_title": "Romeo and Juliet",
+    "content": "Play: Romeo and Juliet\nTheme: Violence\n\nExplanation: The feud between Montagues and Capulets fuels violent clashes, like Tybalt’s killing of Mercutio, escalating the tragedy.",
+    "metadata": {
+      "theme_name": "Violence",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_romeo_and_juliet_3e735c9b",
+    "chunk_type": "theme",
+    "play_title": "Romeo and Juliet",
+    "content": "Play: Romeo and Juliet\nTheme: Youth\n\nExplanation: The impulsive, passionate actions of young characters like Romeo and Juliet highlight the recklessness and intensity of youth.",
+    "metadata": {
+      "theme_name": "Youth",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_romeo_and_juliet_aab0e810",
+    "chunk_type": "theme",
+    "play_title": "Romeo and Juliet",
+    "content": "Play: Romeo and Juliet\nTheme: Family rivalry\n\nExplanation: The deep-seated feud between the Montagues and Capulets creates the central conflict, preventing the lovers’ union until their deaths reconcile the families.",
+    "metadata": {
+      "theme_name": "Family rivalry",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_romeo_and_juliet_6da6bf01",
+    "chunk_type": "theme",
+    "play_title": "Romeo and Juliet",
+    "content": "Play: Romeo and Juliet\nTheme: Individual vs society\n\nExplanation: Romeo and Juliet’s love challenges societal norms and family expectations, highlighting the tension between personal desires and social constraints.",
+    "metadata": {
+      "theme_name": "Individual vs society",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_romeo_and_juliet_a478d4b5",
+    "chunk_type": "theme",
+    "play_title": "Romeo and Juliet",
+    "content": "Play: Romeo and Juliet\nTheme: Time\n\nExplanation: The rapid pace of events, unfolding over a few days, underscores how haste and impulsive decisions accelerate the lovers’ tragic fate.",
+    "metadata": {
+      "theme_name": "Time",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_taming_of_the_shrew_b0fd8c05",
+    "chunk_type": "theme",
+    "play_title": "The Taming of the Shrew",
+    "content": "Play: The Taming of the Shrew\nTheme: Marriage\n\nExplanation: The play explores marriage through Petruchio’s domineering ‘taming’ of Katherina and Bianca’s courtship, raising questions about love versus control.",
+    "metadata": {
+      "theme_name": "Marriage",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_taming_of_the_shrew_8a339122",
+    "chunk_type": "theme",
+    "play_title": "The Taming of the Shrew",
+    "content": "Play: The Taming of the Shrew\nTheme: Gender roles\n\nExplanation: Katherina’s defiance of traditional femininity challenges gender norms, while her apparent submission sparks debate over societal expectations for women.",
+    "metadata": {
+      "theme_name": "Gender roles",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_taming_of_the_shrew_970c9b16",
+    "chunk_type": "theme",
+    "play_title": "The Taming of the Shrew",
+    "content": "Play: The Taming of the Shrew\nTheme: Power\n\nExplanation: Petruchio’s control over Katherina and Baptista’s authority over his daughters highlight power dynamics in relationships and family structures.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_taming_of_the_shrew_a969a10b",
+    "chunk_type": "theme",
+    "play_title": "The Taming of the Shrew",
+    "content": "Play: The Taming of the Shrew\nTheme: Transformation\n\nExplanation: Katherina’s shift from shrew to obedient wife, whether genuine or performative, underscores the play’s focus on personal and social change.",
+    "metadata": {
+      "theme_name": "Transformation",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_taming_of_the_shrew_35c45e3e",
+    "chunk_type": "theme",
+    "play_title": "The Taming of the Shrew",
+    "content": "Play: The Taming of the Shrew\nTheme: Deception\n\nExplanation: Deceptions, like Lucentio’s disguise and Petruchio’s exaggerated behavior, drive the comedic plot and complicate romantic pursuits.",
+    "metadata": {
+      "theme_name": "Deception",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_taming_of_the_shrew_6db4aa29",
+    "chunk_type": "theme",
+    "play_title": "The Taming of the Shrew",
+    "content": "Play: The Taming of the Shrew\nTheme: Love\n\nExplanation: Love is tested through mercenary motives (Petruchio’s dowry) and romantic ideals (Lucentio and Bianca), questioning its authenticity and durability.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tempest_7807b194",
+    "chunk_type": "theme",
+    "play_title": "The Tempest",
+    "content": "Play: The Tempest\nTheme: Magic\n\nExplanation: Prospero’s magic controls the island’s events, symbolizing the power of art and illusion to shape reality and resolve conflicts.",
+    "metadata": {
+      "theme_name": "Magic",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tempest_a31783c1",
+    "chunk_type": "theme",
+    "play_title": "The Tempest",
+    "content": "Play: The Tempest\nTheme: Power\n\nExplanation: Power struggles drive the plot, as Prospero manipulates others to reclaim his dukedom, while Antonio and Sebastian plot to seize authority.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tempest_d3b8ce52",
+    "chunk_type": "theme",
+    "play_title": "The Tempest",
+    "content": "Play: The Tempest\nTheme: Colonization\n\nExplanation: The play reflects colonial themes through Prospero’s domination of Caliban and Ariel, raising questions about authority and exploitation.",
+    "metadata": {
+      "theme_name": "Colonization",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tempest_469c8e13",
+    "chunk_type": "theme",
+    "play_title": "The Tempest",
+    "content": "Play: The Tempest\nTheme: Forgiveness\n\nExplanation: Prospero’s choice to forgive his enemies rather than seek revenge underscores the play’s resolution through mercy and reconciliation.",
+    "metadata": {
+      "theme_name": "Forgiveness",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tempest_8b95967c",
+    "chunk_type": "theme",
+    "play_title": "The Tempest",
+    "content": "Play: The Tempest\nTheme: Freedom\n\nExplanation: Ariel and Caliban’s quests for freedom highlight the tension between servitude and autonomy under Prospero’s rule.",
+    "metadata": {
+      "theme_name": "Freedom",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tempest_6c7c9e77",
+    "chunk_type": "theme",
+    "play_title": "The Tempest",
+    "content": "Play: The Tempest\nTheme: Art\n\nExplanation: Prospero’s magic mirrors the playwright’s craft, using illusion to explore human nature and orchestrate the play’s harmonious ending.",
+    "metadata": {
+      "theme_name": "Art",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tempest_4f266bae",
+    "chunk_type": "theme",
+    "play_title": "The Tempest",
+    "content": "Play: The Tempest\nTheme: Nature vs nurture\n\nExplanation: Caliban’s savage behavior contrasts with Miranda’s cultivated innocence, questioning whether character is shaped by nature or upbringing.",
+    "metadata": {
+      "theme_name": "Nature vs nurture",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_two_gentlemen_of_verona_eaae8134",
+    "chunk_type": "theme",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Play: The Two Gentlemen of Verona\nTheme: Friendship\n\nExplanation: The bond between Valentine and Proteus is tested by Proteus’s betrayal, highlighting the fragility of friendship when challenged by love.",
+    "metadata": {
+      "theme_name": "Friendship",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_two_gentlemen_of_verona_4715387d",
+    "chunk_type": "theme",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Play: The Two Gentlemen of Verona\nTheme: Love and Betrayal\n\nExplanation: Proteus’s fickle shift from Julia to Silvia and his betrayal of Valentine reveal love’s potential to inspire disloyalty and conflict.",
+    "metadata": {
+      "theme_name": "Love and Betrayal",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_two_gentlemen_of_verona_8808b62f",
+    "chunk_type": "theme",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Play: The Two Gentlemen of Verona\nTheme: Disguise and Gender Roles\n\nExplanation: Julia’s disguise as a male page challenges gender norms, allowing her to navigate and influence romantic outcomes with agency.",
+    "metadata": {
+      "theme_name": "Disguise and Gender Roles",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_two_gentlemen_of_verona_aa33dfc6",
+    "chunk_type": "theme",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Play: The Two Gentlemen of Verona\nTheme: Loyalty\n\nExplanation: Loyalty is strained by Proteus’s actions, but Julia’s steadfast devotion and Valentine’s forgiveness restore harmony among the group.",
+    "metadata": {
+      "theme_name": "Loyalty",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_two_gentlemen_of_verona_eefc9ea1",
+    "chunk_type": "theme",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Play: The Two Gentlemen of Verona\nTheme: Forgiveness\n\nExplanation: The play resolves through Valentine’s forgiveness of Proteus, emphasizing reconciliation over retribution despite serious betrayals.",
+    "metadata": {
+      "theme_name": "Forgiveness",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_timon_of_athens_4e66412e",
+    "chunk_type": "theme",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Play: The Life of Timon of Athens\nTheme: Wealth\n\nExplanation: Timon’s lavish spending reveals wealth’s fleeting nature, as his fortune vanishes, exposing the superficiality of material prosperity.",
+    "metadata": {
+      "theme_name": "Wealth",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_timon_of_athens_94e13b4c",
+    "chunk_type": "theme",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Play: The Life of Timon of Athens\nTheme: Friendship\n\nExplanation: The betrayal by Timon’s false friends contrasts with Flavius’s loyalty, questioning the authenticity of relationships built on wealth.",
+    "metadata": {
+      "theme_name": "Friendship",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_timon_of_athens_eda13276",
+    "chunk_type": "theme",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Play: The Life of Timon of Athens\nTheme: Betrayal\n\nExplanation: Timon’s abandonment by his supposed friends after his bankruptcy fuels his descent into misanthropy and rage against humanity.",
+    "metadata": {
+      "theme_name": "Betrayal",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_timon_of_athens_dffae327",
+    "chunk_type": "theme",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Play: The Life of Timon of Athens\nTheme: Misanthropy\n\nExplanation: Timon’s transformation into a bitter misanthrope reflects his disillusionment with human greed and ingratitude after his fall from grace.",
+    "metadata": {
+      "theme_name": "Misanthropy",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_timon_of_athens_9ba2b306",
+    "chunk_type": "theme",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Play: The Life of Timon of Athens\nTheme: Generosity\n\nExplanation: Timon’s reckless generosity leads to his ruin, critiquing unchecked altruism in a society driven by self-interest.",
+    "metadata": {
+      "theme_name": "Generosity",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_life_of_timon_of_athens_b3542820",
+    "chunk_type": "theme",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Play: The Life of Timon of Athens\nTheme: Corruption\n\nExplanation: Athens’s corrupt, materialistic society, exemplified by Timon’s false friends and the senators, underscores the moral decay that alienates Timon.",
+    "metadata": {
+      "theme_name": "Corruption",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_titus_andronicus_167d3935",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Play: The Tragedy of Titus Andronicus\nTheme: Revenge\n\nExplanation: A relentless cycle of revenge between Titus and Tamora drives the play, escalating violence and leading to mutual destruction.",
+    "metadata": {
+      "theme_name": "Revenge",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_titus_andronicus_2b2a0e12",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Play: The Tragedy of Titus Andronicus\nTheme: Violence\n\nExplanation: Graphic violence, from Lavinia’s mutilation to the cannibalistic banquet, underscores the play’s exploration of human cruelty and retribution.",
+    "metadata": {
+      "theme_name": "Violence",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_titus_andronicus_af7e5099",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Play: The Tragedy of Titus Andronicus\nTheme: Betrayal\n\nExplanation: Betrayals, such as Tamora’s manipulation of Saturninus and Aaron’s treachery, fuel the tragic conflicts and deepen the chaos.",
+    "metadata": {
+      "theme_name": "Betrayal",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_titus_andronicus_c8ab0bb4",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Play: The Tragedy of Titus Andronicus\nTheme: Family\n\nExplanation: Titus’s devotion to his family motivates his revenge, while Tamora’s actions to protect her sons mirror the fierce loyalty driving both sides.",
+    "metadata": {
+      "theme_name": "Family",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_titus_andronicus_6fa7f8d4",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Play: The Tragedy of Titus Andronicus\nTheme: Power\n\nExplanation: The struggle for power in Rome, exemplified by Saturninus’s rule and Tamora’s influence, amplifies the destructive ambitions of the characters.",
+    "metadata": {
+      "theme_name": "Power",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_tragedy_of_titus_andronicus_8793893c",
+    "chunk_type": "theme",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Play: The Tragedy of Titus Andronicus\nTheme: Savagery\n\nExplanation: The play contrasts Roman civilization with barbaric acts, questioning whether savagery lies in the Goths or within Rome’s own moral decay.",
+    "metadata": {
+      "theme_name": "Savagery",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_troilus_and_cressida_366f003a",
+    "chunk_type": "theme",
+    "play_title": "Troilus and Cressida",
+    "content": "Play: Troilus and Cressida\nTheme: Love\n\nExplanation: Troilus and Cressida’s romance, tainted by Cressida’s betrayal, reveals love’s fragility amidst the chaos of war.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_troilus_and_cressida_b1af2ce9",
+    "chunk_type": "theme",
+    "play_title": "Troilus and Cressida",
+    "content": "Play: Troilus and Cressida\nTheme: War\n\nExplanation: The Trojan War’s futility is exposed through the pride and inaction of warriors like Achilles, highlighting conflict’s senseless destruction.",
+    "metadata": {
+      "theme_name": "War",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_troilus_and_cressida_16d1c483",
+    "chunk_type": "theme",
+    "play_title": "Troilus and Cressida",
+    "content": "Play: Troilus and Cressida\nTheme: Betrayal\n\nExplanation: Cressida’s shift to Diomedes and the shifting allegiances in war, like Achilles’s refusal to fight, underscore pervasive disloyalty.",
+    "metadata": {
+      "theme_name": "Betrayal",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_troilus_and_cressida_2ba3861b",
+    "chunk_type": "theme",
+    "play_title": "Troilus and Cressida",
+    "content": "Play: Troilus and Cressida\nTheme: Honor\n\nExplanation: Honor is debated, as Hector upholds it nobly while Achilles’s pride and Ulysses’s manipulations reveal its hollow pursuit.",
+    "metadata": {
+      "theme_name": "Honor",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_troilus_and_cressida_6b628d92",
+    "chunk_type": "theme",
+    "play_title": "Troilus and Cressida",
+    "content": "Play: Troilus and Cressida\nTheme: Futility\n\nExplanation: The play’s cynical tone emphasizes the futility of both love and war, with no lasting victories or resolutions achieved.",
+    "metadata": {
+      "theme_name": "Futility",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_troilus_and_cressida_ebddfd0c",
+    "chunk_type": "theme",
+    "play_title": "Troilus and Cressida",
+    "content": "Play: Troilus and Cressida\nTheme: Deception\n\nExplanation: Deception, from Pandarus’s matchmaking to Ulysses’s schemes, drives the plot, exposing the manipulative undercurrents of human motives.",
+    "metadata": {
+      "theme_name": "Deception",
+      "category": "tragedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_twelfth_night;_or_what_you_will_3d8f08d1",
+    "chunk_type": "theme",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Play: Twelfth Night; Or, What You Will\nTheme: Love\n\nExplanation: Love’s irrationality drives the romantic entanglements, as Orsino, Olivia, and Viola navigate unrequited and mistaken affections, resolved through comedic revelations.",
+    "metadata": {
+      "theme_name": "Love",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_twelfth_night;_or_what_you_will_0eed3b34",
+    "chunk_type": "theme",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Play: Twelfth Night; Or, What You Will\nTheme: Disguise\n\nExplanation: Viola’s disguise as Cesario creates romantic and comedic confusion, highlighting how appearances shape perceptions and relationships.",
+    "metadata": {
+      "theme_name": "Disguise",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_twelfth_night;_or_what_you_will_69e81f24",
+    "chunk_type": "theme",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Play: Twelfth Night; Or, What You Will\nTheme: Deception\n\nExplanation: Deception, from Viola’s disguise to the prank on Malvolio, fuels the plot, exploring both playful and cruel manipulations.",
+    "metadata": {
+      "theme_name": "Deception",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_twelfth_night;_or_what_you_will_0d5b6be7",
+    "chunk_type": "theme",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Play: Twelfth Night; Or, What You Will\nTheme: Gender\n\nExplanation: Viola’s cross-dressing as Cesario blurs gender roles, challenging societal norms and sparking romantic complications.",
+    "metadata": {
+      "theme_name": "Gender",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_twelfth_night;_or_what_you_will_24256079",
+    "chunk_type": "theme",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Play: Twelfth Night; Or, What You Will\nTheme: Social class\n\nExplanation: The play critiques class distinctions through Malvolio’s social ambitions and the interactions between nobles, servants, and fools.",
+    "metadata": {
+      "theme_name": "Social class",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_twelfth_night;_or_what_you_will_7c90f6cf",
+    "chunk_type": "theme",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Play: Twelfth Night; Or, What You Will\nTheme: Folly\n\nExplanation: Folly is central, from Malvolio’s self-delusion to Sir Toby’s drunken antics, exposing human weaknesses through humor.",
+    "metadata": {
+      "theme_name": "Folly",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_twelfth_night;_or_what_you_will_e7715015",
+    "chunk_type": "theme",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Play: Twelfth Night; Or, What You Will\nTheme: Identity\n\nExplanation: Mistaken identities, especially between Viola and Sebastian, drive the comedy, questioning the nature of self and perception.",
+    "metadata": {
+      "theme_name": "Identity",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_winter's_tale_cee41f75",
+    "chunk_type": "theme",
+    "play_title": "The Winter's Tale",
+    "content": "Play: The Winter's Tale\nTheme: Jealousy\n\nExplanation: Leontes’s baseless jealousy destroys his family, driving the play’s tragic first half until redemption begins.",
+    "metadata": {
+      "theme_name": "Jealousy",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_winter's_tale_9eab0a37",
+    "chunk_type": "theme",
+    "play_title": "The Winter's Tale",
+    "content": "Play: The Winter's Tale\nTheme: Redemption\n\nExplanation: Leontes’s remorse and the restoration of his family through Perdita and Hermione offer redemption, healing past wrongs.",
+    "metadata": {
+      "theme_name": "Redemption",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_winter's_tale_73eec89b",
+    "chunk_type": "theme",
+    "play_title": "The Winter's Tale",
+    "content": "Play: The Winter's Tale\nTheme: Time\n\nExplanation: Time’s passage, spanning sixteen years, enables healing and transformation, bridging the play’s tragic and comedic halves.",
+    "metadata": {
+      "theme_name": "Time",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_winter's_tale_726c2eb5",
+    "chunk_type": "theme",
+    "play_title": "The Winter's Tale",
+    "content": "Play: The Winter's Tale\nTheme: Family\n\nExplanation: The reunion of Leontes, Hermione, and Perdita underscores the enduring strength of family bonds despite betrayal and loss.",
+    "metadata": {
+      "theme_name": "Family",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_winter's_tale_18e3e05f",
+    "chunk_type": "theme",
+    "play_title": "The Winter's Tale",
+    "content": "Play: The Winter's Tale\nTheme: Forgiveness\n\nExplanation: Forgiveness, particularly Hermione’s reconciliation with Leontes, resolves the play, emphasizing mercy over retribution.",
+    "metadata": {
+      "theme_name": "Forgiveness",
+      "category": "comedy"
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "theme_the_winter's_tale_e3c9152a",
+    "chunk_type": "theme",
+    "play_title": "The Winter's Tale",
+    "content": "Play: The Winter's Tale\nTheme: Nature vs. nurture\n\nExplanation: Perdita’s grace despite her rustic upbringing suggests innate nobility, questioning whether character stems from birth or environment.",
+    "metadata": {
+      "theme_name": "Nature vs. nurture",
+      "category": "comedy"
+    },
+    "embedding": null
+  }
+]

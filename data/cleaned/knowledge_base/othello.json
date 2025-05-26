@@ -1,0 +1,142 @@
+{
+  "title": "Othello, the Moor of Venice",
+  "full_title": "The Tragedy of Othello, the Moor of Venice",
+  "category": "tragedy",
+  "year": "1603-1604",
+  "setting": "Venice and Cyprus",
+  "main_characters": [
+    "Othello",
+    "Desdemona",
+    "Iago",
+    "Cassio",
+    "Emilia",
+    "Roderigo",
+    "Brabantio"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Othello",
+      "description": "Moorish general, marries Desdemona"
+    },
+    {
+      "name": "Desdemona",
+      "description": "Othello's wife, Brabantio's daughter"
+    },
+    {
+      "name": "Iago",
+      "description": "Othello's ensign, orchestrates deception"
+    },
+    {
+      "name": "Cassio",
+      "description": "Othello's lieutenant, accused of affair"
+    },
+    {
+      "name": "Emilia",
+      "description": "Iago's wife, Desdemona's attendant"
+    },
+    {
+      "name": "Roderigo",
+      "description": "Desdemona's suitor, manipulated by Iago"
+    },
+    {
+      "name": "Brabantio",
+      "description": "Desdemona's father, Venetian senator"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Jealousy",
+      "theme_explanation": "Iago’s manipulation fuels Othello’s jealousy, transforming his love for Desdemona into a destructive force that leads to murder."
+    },
+    {
+      "theme": "Prejudice",
+      "theme_explanation": "Othello faces racial prejudice as a Moor in Venice, which Iago exploits to undermine his confidence and social standing."
+    },
+    {
+      "theme": "Deception",
+      "theme_explanation": "Iago’s deceitful schemes, including false accusations of Desdemona’s infidelity, drive the tragedy by exploiting trust and perception."
+    },
+    {
+      "theme": "Love",
+      "theme_explanation": "Othello and Desdemona’s genuine love is corrupted by Iago’s lies, illustrating how love can be vulnerable to external manipulation."
+    },
+    {
+      "theme": "Trust",
+      "theme_explanation": "The erosion of trust, as Othello believes Iago over Desdemona, underscores the fragility of relationships in the face of deceit."
+    },
+    {
+      "theme": "Reputation",
+      "theme_explanation": "Reputation is critical, as seen in Cassio’s despair over its loss and Othello’s fall, driven by Iago’s attacks on their honor."
+    },
+    {
+      "theme": "Gender",
+      "theme_explanation": "Gender dynamics shape the tragedy, with Desdemona and Emilia navigating a patriarchal society, their voices stifled until it’s too late."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "O, beware, my lord, of jealousy; It is the green-eyed monster which doth mock the meat it feeds on",
+      "speaker": "Iago",
+      "act": 3,
+      "scene": 3,
+      "explanation": "Iago warns Othello about jealousy, ironically planting the seeds of doubt that fuel Othello's tragic downfall."
+    },
+    {
+      "quote": "Reputation, reputation, reputation! O, I have lost my reputation!",
+      "speaker": "Cassio",
+      "act": 2,
+      "scene": 3,
+      "explanation": "Cassio laments losing his honor after Iago's scheme, highlighting the play's emphasis on reputation's fragility."
+    },
+    {
+      "quote": "She loved me for the dangers I had passed, and I loved her that she did pity them",
+      "speaker": "Othello",
+      "act": 1,
+      "scene": 3,
+      "explanation": "Othello describes how Desdemona fell in love with his adventurous tales, establishing their genuine bond."
+    },
+    {
+      "quote": "Who steals my purse steals trash... But he that filches from me my good name robs me of that which not enriches him, and makes me poor indeed",
+      "speaker": "Iago",
+      "act": 3,
+      "scene": 3,
+      "explanation": "Iago manipulates Othello by emphasizing the value of reputation, which he plans to destroy in both Othello and Cassio."
+    },
+    {
+      "quote": "I kissed thee ere I killed thee: no way but this, killing myself, to die upon a kiss",
+      "speaker": "Othello",
+      "act": 5,
+      "scene": 2,
+      "explanation": "Othello's final words express his love and remorse as he kills himself beside Desdemona, seeking redemption."
+    },
+    {
+      "quote": "I am not what I am",
+      "speaker": "Iago",
+      "act": 1,
+      "scene": 1,
+      "explanation": "Iago reveals his duplicitous nature, setting the stage for his deceitful schemes against Othello."
+    },
+    {
+      "quote": "Othello, the Moor of Venice",
+      "speaker": "Othello",
+      "act": 5,
+      "scene": 2,
+      "explanation": "Othello, realizing his tragic error in killing Desdemona, wishes to be remembered as both honorable and flawed."
+    },
+    {
+      "quote": "Put out the light, and then put out the light",
+      "speaker": "Othello",
+      "act": 5,
+      "scene": 2,
+      "explanation": "Othello speaks of extinguishing a candle and Desdemona’s life, reflecting his tormented resolve to murder her."
+    },
+    {
+      "quote": "I am one who loved not wisely but too well.",
+      "speaker": "Othello",
+      "act": 5,
+      "scene": 2,
+      "explanation": "Othello, in his final speech, acknowledges his tragic flaw: his love for Desdemona was intense but clouded by his jealousy and easily manipulated by Iago, leading to her wrongful death."
+    }
+  ],
+  "summary": "Othello, a Moorish general in the Venetian army, marries Desdemona, inciting jealousy in his ensign Iago. Through elaborate deception, Iago convinces Othello that Desdemona has been unfaithful with his lieutenant Cassio. Consumed by jealousy, Othello murders Desdemona, only to discover Iago's treachery too late, leading to his suicide."
+}

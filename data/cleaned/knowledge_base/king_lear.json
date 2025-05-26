@@ -1,0 +1,135 @@
+{
+  "title": "The Tragedy of King Lear",
+  "full_title": "The Tragedy of King Lear",
+  "category": "tragedy",
+  "year": "1605-1606",
+  "setting": "Ancient Britain",
+  "main_characters": [
+    "King Lear",
+    "Cordelia",
+    "Goneril",
+    "Regan",
+    "Edmund",
+    "Edgar",
+    "Gloucester",
+    "Kent",
+    "Fool"
+  ],
+  "character_descriptions": [
+    {
+      "name": "King Lear",
+      "description": "King of Britain, divides kingdom"
+    },
+    {
+      "name": "Cordelia",
+      "description": "Lear's youngest daughter, disowned, loyal"
+    },
+    {
+      "name": "Goneril",
+      "description": "Lear's eldest daughter, betrays him"
+    },
+    {
+      "name": "Regan",
+      "description": "Lear's middle daughter, betrays him"
+    },
+    {
+      "name": "Edmund",
+      "description": "Gloucester's illegitimate son, schemes power"
+    },
+    {
+      "name": "Edgar",
+      "description": "Gloucester's legitimate son, disguises himself"
+    },
+    {
+      "name": "Gloucester",
+      "description": "Earl, betrayed by Edmund"
+    },
+    {
+      "name": "Kent",
+      "description": "Loyal nobleman, serves Lear in disguise"
+    },
+    {
+      "name": "Fool",
+      "description": "Lear's jester, speaks truth"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Justice",
+      "theme_explanation": "The play questions whether justice prevails, as good characters like Cordelia suffer while evil ones like Edmund temporarily triumph."
+    },
+    {
+      "theme": "Authority",
+      "theme_explanation": "Lear’s division of his kingdom reveals the fragility of authority, as his loss of power leads to chaos and betrayal."
+    },
+    {
+      "theme": "Family",
+      "theme_explanation": "Family dynamics drive the tragedy, with Lear and Gloucester betrayed by their children, contrasting loyalty (Cordelia, Edgar) with deceit (Goneril, Regan, Edmund)."
+    },
+    {
+      "theme": "Aging",
+      "theme_explanation": "Lear’s aging and desire to relinquish power expose his vulnerability, leading to his loss of control and descent into madness."
+    },
+    {
+      "theme": "Madness",
+      "theme_explanation": "Lear’s descent into madness reflects his emotional turmoil, while Edgar’s feigned madness as Poor Tom highlights survival through disguise."
+    },
+    {
+      "theme": "Betrayal",
+      "theme_explanation": "Betrayal by Goneril, Regan, and Edmund against their fathers drives the tragedy, exposing the fragility of familial bonds."
+    },
+    {
+      "theme": "Nature",
+      "theme_explanation": "The storm symbolizes nature’s chaos, mirroring Lear’s inner turmoil and the unnatural betrayals disrupting the social order."
+    },
+    {
+      "theme": "Sight and blindness",
+      "theme_explanation": "Gloucester’s literal blindness parallels Lear’s figurative blindness to truth, as both fail to see their children’s true natures until it’s too late."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "How sharper than a serpent's tooth it is to have a thankless child!",
+      "speaker": "King Lear",
+      "act": 1,
+      "scene": 4,
+      "explanation": "Lear expresses anguish over his daughters' betrayal, highlighting the pain of familial ingratitude."
+    },
+    {
+      "quote": "Nothing will come of nothing",
+      "speaker": "King Lear",
+      "act": 1,
+      "scene": 1,
+      "explanation": "Lear warns Cordelia that her refusal to flatter him will yield no reward, foreshadowing his misguided judgment."
+    },
+    {
+      "quote": "I am a man more sinned against than sinning",
+      "speaker": "King Lear",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Lear, in his madness, believes he suffers unjustly, reflecting his growing self-awareness amid chaos."
+    },
+    {
+      "quote": "The worst is not, so long as we can say, 'This is the worst'",
+      "speaker": "Edgar",
+      "act": 4,
+      "scene": 1,
+      "explanation": "Edgar suggests that the ability to articulate suffering means one has not yet hit rock bottom, offering hope."
+    },
+    {
+      "quote": "As flies to wanton boys are we to the gods; they kill us for their sport",
+      "speaker": "Gloucester",
+      "act": 4,
+      "scene": 1,
+      "explanation": "Gloucester laments human vulnerability, viewing life as subject to the whims of cruel, capricious gods."
+    },
+    {
+      "quote": "Blow, winds, and crack your cheeks! Rage! Blow!",
+      "speaker": "King Lear",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Lear rages against the storm, mirroring his inner turmoil and descent into madness amid betrayal."
+    }
+  ],
+  "summary": "King Lear, planning to divide his kingdom among his three daughters, disowns Cordelia when she refuses to publicly quantify her love. The play follows Lear's descent into madness after his other daughters betray him. Meanwhile, the Earl of Gloucester is similarly deceived by his illegitimate son Edmund against his legitimate son Edgar. Both storylines culminate in profound tragedy."
+}

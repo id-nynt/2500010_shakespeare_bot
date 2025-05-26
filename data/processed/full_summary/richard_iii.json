@@ -1,0 +1,89 @@
+{
+  "title": "King Richard III",
+  "play_summary": "Richard, Duke of Gloucester, schemes his way to the throne through murder and manipulation, eliminating rivals like Clarence and the young princes. His tyranny sparks rebellion, and he is defeated by Richmond (Henry VII) at Bosworth Field, ending the Wars of the Roses.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "Richard III follows the events portrayed inHenry VI Part 3. Richard of Gloucester, the brother of King Edward IV, is determined to gain the crown of England for himself, no matter what. His plot begins as he romantically pursues Lady Anne, a widow. He woos her as she accompanies the funeral procession of her father-in-law, King Henry VI (whom Richard murdered). Anne is unable to resist Richard's advances and becomes Duchess of Gloucester. Richard engineers the imprisonment of his elder brother, Clarence, in the Tower of London. Clarence tells his jailer a dream he had of drowning. Shortly afterwards, Richard's hired assassins kill him and place the body in a cask of wine.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street in London, England",
+          "scene_summary": "Richard, Duke of Gloucester, soliloquizes about the peace after Yorkist victory, his deformed body, and his ambition to seize the throne. He manipulates his brother Clarence, imprisoned by King Edward IV's order, feigning loyalty while plotting his death. Richard learns Edward is ill and plans to eliminate rivals, revealing his villainy and cunning."
+        },
+        {
+          "scene": 2,
+          "location": "Another street in London, England",
+          "scene_summary": "Lady Anne, mourning King Henry VI and her husband, curses Richard, their killer, as she follows Henry's coffin. Richard intercepts, boldly wooing her despite her hatred. Through flattery and feigned remorse, he wins her reluctant acceptance of his ring, showcasing his manipulative prowess and advancing his political schemes."
+        },
+        {
+          "scene": 3,
+          "location": "A room in King Edward IV's palace, London, England",
+          "scene_summary": "Queen Elizabeth, her brother Rivers, and Grey worry about Edward's illness and Richard's ambition. Richard interrupts, accusing them of plotting against him. Queen Margaret, Henry VI's widow, curses Richard and the Yorkists for her family's deaths. Richard deflects blame, but Margaret's warnings haunt the court. Messengers report Clarence's imprisonment, and Richard secretly orders his murder, escalating the power struggle."
+        },
+        {
+          "scene": 4,
+          "location": "A room in the Tower of London, England",
+          "scene_summary": "Clarence recounts a prophetic dream of drowning to Brakenbury, the Tower's keeper. Two murderers, hired by Richard, enter, debating their task. Clarence pleads for his life, citing loyalty, but they stab him and drown him in a wine cask, fulfilling Richard's order and highlighting his ruthless betrayal."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "King Edward IV is ill, and Richard is appointed to govern in his place, aided by Lord Hastings and the Duke of Buckingham. Three women mourn their state: Margaret, former queen of Henry VI; Queen Elizabeth, Edward's wife; and the widowed Duchess of York, Richard's mother. Margaret curses Richard and the kingdom.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in King Edward IV's palace, London, England",
+          "scene_summary": "Edward IV, dying, reconciles his feuding nobles, including Richard, Rivers, and Hastings. Richard feigns goodwill, but news of Clarence's death—ordered by Richard—shocks Edward, who blames himself. Richard manipulates the grief, strengthening his position as Edward weakens, exposing his hypocrisy."
+        },
+        {
+          "scene": 2,
+          "location": "Another room in the palace, London, England",
+          "scene_summary": "The Duchess of York, Clarence's mother, and Clarence's children mourn his death. Queen Elizabeth announces Edward's death, fearing for her sons, the young Prince Edward and York. Buckingham and Richard plan to bring Prince Edward to London for coronation, but Richard schemes to control the throne, setting up the princes' peril."
+        },
+        {
+          "scene": 3,
+          "location": "A street in London, England",
+          "scene_summary": "Three citizens discuss Edward's death and fear instability under Prince Edward's youth, suspecting Richard's ambition. Their foreboding reflects public unease, contrasting Richard's private machinations and foreshadowing his rise."
+        },
+        {
+          "scene": 4,
+          "location": "A room in the palace, London, England",
+          "scene_summary": "The Archbishop, Elizabeth, the Duchess, and young York await Prince Edward. News arrives that Richard and Buckingham have imprisoned Rivers and Grey. Elizabeth, fearing Richard's coup, flees to sanctuary with York, while the Archbishop laments, highlighting Richard's tightening grip and the royal family's vulnerability."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "Henry Tudor, Earl of Richmond, is the heir to the Lancastrian claim to the throne, and he gathers an army in France to oppose Richard's tyrannical reign. Their armies meet at Bosworth in Leicestershire. The night before the battle, the ghosts of his victims haunt and curse Richard, while appearing to Richmond and blessing him for the battle. Richmond kills Richard III on Bosworth Field and is proclaimed Henry VII of England. He plans to end the ‘Wars of the Roses' by marrying Elizabeth of York and becoming the link between the white rose of York to the red rose of Lancaster.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A field near Salisbury, England",
+          "scene_summary": "Buckingham, captured, is executed, regretting his support for Richard and recalling Margaret's curse. His death reinforces Richard's betrayal of allies and the moral reckoning approaching."
+        },
+        {
+          "scene": 2,
+          "location": "A field near Tamworth, England",
+          "scene_summary": "Richmond, with Oxford and others, marches toward Bosworth, rallying his forces against Richard's tyranny. He emphasizes justice, gaining support, contrasting Richard's fear-driven rule and building momentum for the final conflict."
+        },
+        {
+          "scene": 3,
+          "location": "Bosworth Field, England",
+          "scene_summary": "Richard and Richmond camp at Bosworth. Richard, anxious, is haunted by ghosts of his victims, cursing him, while they bless Richmond. Richmond prays for victory, sleeping peacefully. Morning comes, and both leaders rally their armies, Richard defiantly, Richmond righteously, setting up the battle and Richard's psychological torment."
+        },
+        {
+          "scene": 4,
+          "location": "Another part of Bosworth Field, England",
+          "scene_summary": "Richard, unhorsed, fights desperately, crying for a horse. The battle rages, and he refuses to flee, showing his stubborn resolve as his forces falter."
+        },
+        {
+          "scene": 5,
+          "location": "Bosworth Field, England",
+          "scene_summary": "Richmond kills Richard in combat, ending his reign. Stanley crowns Richmond as Henry VII, who pardons foes and plans to marry Elizabeth's daughter, uniting York and Lancaster. He proclaims peace, ending the Wars of the Roses with Tudor triumph and national restoration."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "title": "The Comedy of Errors",
+  "play_summary": "Two sets of identical twins separated at birth create chaos when they all end up in the same city. Mistaken identities lead to wrongful beatings, arrests, and accusations until the family is joyfully reunited.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "Duke Solinus, ruler of Ephesus, presides over the trial of Egeon of Syracuse. Syracusians are not allowed in Ephesus, so Egeon has been detained. When asked why he is now in Ephesus, Egeon explains how he is searching for his lost twin sons and their twin servants. Twenty three years before, Egeon had lost his wife and one of their identical twin sons (along with the boy's slave) in a storm at sea. Egeon had brought up the surviving boy and his slave. At eighteen, they had gone in search of their lost brothers. After no word from them, Egeon had also left home to seek news in Ephesus. Solinus is softened by the story and allows Egeon until sunset to try to raise 1,000 marks as a ransom or else he must die.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A hall in Duke Solinus's palace, Ephesus",
+          "scene_summary": "Egeon, a merchant from Syracuse, is arrested in Ephesus due to a law banning Syracusans, punishable by death unless he pays a 1,000-mark fine. He tells Duke Solinus his story: he and his wife Emilia had twin sons, both named Antipholus, and adopted twin servants, both named Dromio. A shipwreck separated the family, leaving Egeon with one Antipholus and Dromio, while his wife and the other twins were lost. His son, Antipholus of Syracuse, recently left to search for his brother, prompting Egeon's journey. Moved but bound by law, the Duke gives Egeon until sunset to raise the fine, setting the play's urgent timeline."
+        },
+        {
+          "scene": 2,
+          "location": "The Mart, a public marketplace in Ephesus",
+          "scene_summary": "Antipholus of Syracuse and his servant, Dromio of Syracuse, arrive in Ephesus. A merchant warns Antipholus about the anti-Syracusan law, advising him to claim he's from Epidamnum. Antipholus sends Dromio to an inn (the Centaur) with their money. Dromio of Ephesus, mistaking Antipholus of Syracuse for his master, Antipholus of Ephesus, urges him to come home to dinner with his wife, Adriana. Confused, Antipholus of Syracuse thinks Dromio is joking and beats him, initiating the comedy of mistaken identities."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Antipholus of Syracuse is very surprised to be accosted by Dromio of Ephesus. Dromio is angry that his master has not returned home to his wife, Adriana, for dinner. The likeness of the Dromio twins, and also the sons of Egeon, leads to a series of confusions. This is especially true when Antipholus of Syracuse dines with his sister-in-law and falls in love with her sister, Luciana. His servant, Dromio of Syracuse, refuses to open the door to anyone. He bars the door even when Antipholus of Ephesus returns home with his merchant friends. This exclusion enrages Antipholus of Ephesus and leads him to dine with his friend, the courtesan.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The house of Antipholus of Ephesus, Ephesus",
+          "scene_summary": "Adriana, wife of Antipholus of Ephesus, frets over her husband's absence, suspecting infidelity. Her sister, Luciana, urges patience. Dromio of Ephesus returns, reporting that his master (Antipholus of Syracuse, whom he mistook) denied having a wife and refused to come home. Adriana, angered and jealous, sends Dromio back to fetch her husband, deepening the confusion caused by the twins' presence."
+        },
+        {
+          "scene": 2,
+          "location": "The Mart, a public marketplace in Ephesus",
+          "scene_summary": "Antipholus of Syracuse scolds Dromio of Syracuse for his earlier “jest” about a wife, leading to more confusion as Dromio denies it. Adriana and Luciana arrive, mistaking Antipholus of Syracuse for Antipholus of Ephesus. Adriana reprimands him for neglecting her, and, bewildered, Antipholus and Dromio agree to follow her home to dine, intrigued by the situation. The scene escalates the mistaken identities, with Antipholus of Syracuse charmed by Luciana."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "The sunset hour of Egeon's sentence is soon approaching. The Duke returns, but is stopped by Adriana, who appeals for aid for her husband. The Ephesian twins escape their bonds and arrive to claim justice. Egeon recognises them, or so he thinks, as the boys he brought up in Syracuse. Solinus, the Duke, sends for the Abbess, who appears with the second pair of twins. She further amazes everyone by recognising Egeon and revealing herself as Emilia, his long-lost wife. She had entered a religious order after surviving the storm and fearing that all her family had died.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street before a priory, Ephesus",
+          "scene_summary": "Angelo and the merchant encounter Antipholus of Syracuse and Dromio of Syracuse, who are wearing the chain, leading to accusations of theft. Adriana arrives, claiming Antipholus is mad, but the twins take refuge in the priory. The Abbess (Emilia, Egeon's long-lost wife) protects them, questioning Adriana's treatment of her “husband.” Egeon, led to execution, recognizes Antipholus of Ephesus, who is brought in, unbound. The twins finally meet, revealing their identities. Emilia reunites with Egeon, and the Abbess explains she raised Antipholus of Ephesus after the shipwreck. Adriana reconciles with her husband, the courtesan retrieves her ring, and the Duke pardons Egeon. The play concludes with a joyful feast, resolving all misunderstandings and reuniting the family."
+        }
+      ]
+    }
+  ]
+}

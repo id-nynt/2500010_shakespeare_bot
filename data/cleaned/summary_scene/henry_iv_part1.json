@@ -1,0 +1,154 @@
+[
+  {
+    "scene_id": "king_henry_iv_the_first_part_1_1",
+    "title": "King Henry IV, the First Part",
+    "act": 1,
+    "scene": 1,
+    "location": "A room in the palace, London, England",
+    "scene_summary": "King Henry IV, weary from civil strife, postpones a crusade due to rebellions. He learns of Mortimer's capture by Glendower in Wales and Hotspur's victory over the Scots. Henry praises Hotspur, contrasting him with his own son, Prince Hal, and plans to confront the rebellious Percys, who refuse to surrender prisoners, setting up the political conflict."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_1_2",
+    "title": "King Henry IV, the First Part",
+    "act": 1,
+    "scene": 2,
+    "location": "Prince Hal's apartment, London, England",
+    "scene_summary": "Prince Hal carouses with Falstaff, his roguish companion, engaging in witty banter about thievery and debauchery. Hal, alone, reveals his plan to feign dissolution to later redeem himself, contrasting his tavern life with his royal destiny. The scene introduces Hal's dual nature and Falstaff's comic influence."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_1_3",
+    "title": "King Henry IV, the First Part",
+    "act": 1,
+    "scene": 3,
+    "location": "A room in the palace, London, England",
+    "scene_summary": "Henry confronts the Percy family—Hotspur, Northumberland, and Worcester—for withholding prisoners. Hotspur defends his actions, citing provocation, but Henry demands compliance. Worcester suggests rebellion, and the Percys, angered by Henry's ingratitude for their past support, plan to ally with Mortimer, Glendower, and Douglas against the king, escalating the civil war."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_2_1",
+    "title": "King Henry IV, the First Part",
+    "act": 2,
+    "scene": 1,
+    "location": "An inn yard in Rochester, England",
+    "scene_summary": "Carriers at an inn discuss their work, unaware of Gadshill, a thief, spying for a robbery planned by Falstaff and others. The scene sets up the comedic highway robbery subplot, contrasting the lowlife characters with the play's political stakes."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_2_2",
+    "title": "King Henry IV, the First Part",
+    "act": 2,
+    "scene": 2,
+    "location": "The highway near Gadshill, England",
+    "scene_summary": "Falstaff, Poins, Bardolph, and Peto prepare to rob travelers. Hal and Poins, as a prank, separate to steal the loot from Falstaff after the robbery. The robbery succeeds, but Hal and Poins rob Falstaff, who flees, exaggerating his bravery, providing comic relief and exposing Falstaff's cowardice."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_2_3",
+    "title": "King Henry IV, the First Part",
+    "act": 2,
+    "scene": 3,
+    "location": "Warkworth Castle, Northumberland, England",
+    "scene_summary": "Hotspur reads a letter questioning the rebellion's success, dismissing its doubts. He plans to meet his allies, but his wife, Lady Percy, questions his secrecy and unrest. Hotspur, preoccupied, brushes her off, revealing his commitment to the rebellion and strained personal ties."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_2_4",
+    "title": "King Henry IV, the First Part",
+    "act": 2,
+    "scene": 4,
+    "location": "The Boar's Head Tavern, Eastcheap, London, England",
+    "scene_summary": "Hal and Poins revel with Falstaff at the tavern, where Falstaff boasts about fighting off dozens of robbers, lying about the Gadshill prank. Hal reveals the truth, mocking Falstaff, who claims he knew it was Hal. News arrives of the Percy rebellion, and Hal is summoned to court, prompting him to plan his reformation, blending comedy with Hal's growing responsibility."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_3_1",
+    "title": "King Henry IV, the First Part",
+    "act": 3,
+    "scene": 1,
+    "location": "A room in Glendower's house, Bangor, Wales",
+    "scene_summary": "Hotspur, Worcester, Mortimer, and Glendower plan their rebellion, dividing England's map. Hotspur's impatience and mockery of Glendower's mysticism cause tension, but they reconcile. Lady Percy and Lady Mortimer share emotional farewells with their husbands, highlighting the personal costs of rebellion."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_3_2",
+    "title": "King Henry IV, the First Part",
+    "act": 3,
+    "scene": 2,
+    "location": "A room in the palace, London, England",
+    "scene_summary": "Henry rebukes Hal for his reckless lifestyle, comparing him unfavorably to Hotspur and recalling Richard II's downfall. Hal vows to redeem himself by defeating Hotspur. Henry, moved, assigns Hal a command against the rebels, strengthening their bond and marking Hal's commitment to duty."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_3_3",
+    "title": "King Henry IV, the First Part",
+    "act": 3,
+    "scene": 3,
+    "location": "The Boar's Head Tavern, Eastcheap, London, England",
+    "scene_summary": "Falstaff, claiming robbery losses, bickers with the Hostess over debts. Hal arrives, revealing he's settled Falstaff's accounts and given him a military role. Falstaff, unenthusiastic, prepares for war, while Hal organizes his forces, transitioning the tavern crew to the battlefield."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_4_1",
+    "title": "King Henry IV, the First Part",
+    "act": 4,
+    "scene": 1,
+    "location": "The rebel camp near Shrewsbury, England",
+    "scene_summary": "Hotspur, Worcester, and Douglas learn Northumberland is ill and Glendower delayed, weakening their forces. A messenger reports Henry's advancing army. Hotspur, defiant, prepares for battle, underestimating Hal, while the rebels' vulnerabilities are exposed."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_4_2",
+    "title": "King Henry IV, the First Part",
+    "act": 4,
+    "scene": 2,
+    "location": "A highway near Coventry, England",
+    "scene_summary": "Falstaff, leading a ragtag troop, laments their poor quality, having misused recruitment funds. Hal and Westmoreland, passing by, urge him to hasten to Shrewsbury. Falstaff's corruption and comic commentary contrast with the impending battle's gravity."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_4_3",
+    "title": "King Henry IV, the First Part",
+    "act": 4,
+    "scene": 3,
+    "location": "The rebel camp near Shrewsbury, England",
+    "scene_summary": "Hotspur, Worcester, and Douglas debate whether to fight immediately or wait for reinforcements. Vernon reports Hal's impressive leadership, surprising Hotspur. Worcester advocates negotiation, but Hotspur insists on battle, sending a defiant message to Henry, escalating the conflict."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_4_4",
+    "title": "King Henry IV, the First Part",
+    "act": 4,
+    "scene": 4,
+    "location": "The Archbishop's palace, York, England",
+    "scene_summary": "The Archbishop of York, allied with the rebels, learns of their weakened state and fears defeat. He sends letters to allies, preparing for a fallback, in a brief scene that underscores the rebellion's precariousness and broader scope."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_5_1",
+    "title": "King Henry IV, the First Part",
+    "act": 5,
+    "scene": 1,
+    "location": "The King's camp near Shrewsbury, England",
+    "scene_summary": "Henry, Hal, and their generals receive Worcester's grievances. Henry offers pardon, but Worcester doubts his sincerity. Hal challenges Hotspur to single combat to spare lives, showing his honor. Falstaff, alone, muses on the futility of honor, contrasting Hal's heroism with his pragmatism."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_5_2",
+    "title": "King Henry IV, the First Part",
+    "act": 5,
+    "scene": 2,
+    "location": "The rebel camp near Shrewsbury, England",
+    "scene_summary": "Worcester, distrusting Henry, lies to Hotspur, claiming no pardon was offered. Hotspur, enraged, rallies his troops. Vernon praises Hal's challenge, but Hotspur dismisses it, preparing for battle, as Worcester's deception ensures a bloody conflict."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_5_3",
+    "title": "King Henry IV, the First Part",
+    "act": 5,
+    "scene": 3,
+    "location": "The battlefield at Shrewsbury, England",
+    "scene_summary": "The battle begins, with Douglas killing Blunt, mistaking him for Henry. Falstaff, avoiding combat, encounters Hal, who demands his sword. Falstaff offers his pistol, joking, and Hal rejects him. The scene highlights the chaos of war and Falstaff's cowardice."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_5_4",
+    "title": "King Henry IV, the First Part",
+    "act": 5,
+    "scene": 4,
+    "location": "Another part of the battlefield at Shrewsbury, England",
+    "scene_summary": "Hal saves Henry from Douglas, proving his valor. Hal then fights and kills Hotspur, fulfilling his vow. Falstaff, feigning death to avoid Douglas, claims he killed Hotspur when he sees Hal leave, showcasing his opportunism. Hal, amused, lets it pass, as the battle turns in Henry's favor."
+  },
+  {
+    "scene_id": "king_henry_iv_the_first_part_5_5",
+    "title": "King Henry IV, the First Part",
+    "act": 5,
+    "scene": 5,
+    "location": "The battlefield at Shrewsbury, England",
+    "scene_summary": "Henry's forces triumph, capturing Worcester and Vernon, whom Henry orders executed for their treachery. Hal frees Douglas, showing mercy. Henry plans to pursue remaining rebels, assigning Hal and John to lead campaigns, ending with a restored royal unity and ongoing conflict."
+  }
+]

@@ -1,0 +1,126 @@
+{
+  "title": "Twelfth Night; Or, What You Will",
+  "play_summary": "Twelfth Night follows Viola, who disguises herself as a man named Cesario after being shipwrecked in Illyria, believing her twin brother Sebastian has drowned. She enters the service of Duke Orsino, who is in love with Countess Olivia. When Viola as Cesario is sent to court Olivia for Orsino, Olivia falls for Cesario instead. The arrival of Sebastian creates confusion and comedy, while a subplot involves the humiliation of Olivia's steward Malvolio.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "Orsino, Duke of lllyria, is despairing that he is spurned by the Countess Olivia. She has forsworn men's company for seven years while she mourns the death of her brother and rebuffs all his advances. Nearby, a group of sailors arrive on shore with a young girl, Viola, whom they have rescued from a storm at sea. Viola laments the loss of her twin brother, Sebastian, in the shipwreck. She resolves to fend for herself by dressing as a boy to get work as a page to Duke Orsino.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Duke Orsino's palace, Illyria",
+          "scene_summary": "Duke Orsino, lovesick for Olivia, muses on music and unrequited love, attended by Curio and musicians. His romantic melancholy sets the tone, introducing the theme of excess and the love triangle with Olivia."
+        },
+        {
+          "scene": 2,
+          "location": "The seacoast of Illyria",
+          "scene_summary": "Viola, shipwrecked, learns from a Captain that she's in Illyria, ruled by Orsino. Believing her brother Sebastian dead, she decides to serve Orsino, disguising herself as a man, Cesario, to navigate the court safely, initiating the gender disguise plot."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Olivia's house, Illyria",
+          "scene_summary": "Sir Toby Belch, Olivia's uncle, carouses with Maria, her maid, despite Olivia's mourning for her brother. Sir Andrew Aguecheek, Toby's foolish friend, hopes to woo Olivia, but Maria mocks his stupidity. Toby encourages Andrew's suit for his own gain, introducing the comedic subplot."
+        },
+        {
+          "scene": 4,
+          "location": "A room in Duke Orsino's palace, Illyria",
+          "scene_summary": "Viola, as Cesario, gains Orsino's trust and is sent to woo Olivia on his behalf. Viola, falling for Orsino, reluctantly agrees, hinting at her hidden love, deepening the romantic complications and her disguise's challenges."
+        },
+        {
+          "scene": 5,
+          "location": "A room in Olivia's house, Illyria",
+          "scene_summary": "Maria warns Olivia's steward, Malvolio, of Toby's drunkenness, but he scorns her. Feste, Olivia's fool, jests with Olivia, lifting her mood. Viola (Cesario) arrives, charming Olivia with witty courtship for Orsino. Olivia, smitten with Cesario, sends a ring after “him,” revealing her attraction and sparking the love triangle."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Meanwhile, members of Olivia's household plot to expose the self-love and aspirations of the steward, Malvolio. These include Olivia's uncle, Sir Toby Belch, her servant, Maria, and Sir Toby's friend, Sir Andrew Aguecheek. Sir Andrew also happens to be seeking the hand of Olivia. Together, they use a letter to trick Malvolio into believing Olivia loves him. The letter demands that Malvolio appear in yellow stockings, cross-gartered, and smiling to show his love for Olivia. After he does so, the Countess is horrified and has Malvolio shut up in the dark as a madman. Meanwhile, Viola's twin brother, Sebastian, has also survived the shipwreck. He comes to Illyria with his sea-captain friend, Antonio, who is a wanted man for former piracy against Orsino.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The seacoast of Illyria",
+          "scene_summary": "Sebastian, Viola's brother, survives the wreck, saved by Antonio, a sea captain. Grieving Viola's supposed death, he plans to visit Orsino's court. Antonio, loyal, follows despite risks, setting up their reunion and Antonio's devotion."
+        },
+        {
+          "scene": 2,
+          "location": "A street in Illyria",
+          "scene_summary": "Malvolio delivers Olivia's ring to Viola (Cesario), who realizes Olivia loves her. Viola pities Olivia, lamenting her own love for Orsino and the tangle of disguises, highlighting the comedic and emotional complexity of mistaken identities."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Olivia's house, Illyria",
+          "scene_summary": "Toby, Andrew, and Feste revel loudly, singing and drinking. Maria warns them, but Malvolio interrupts, scolding their behavior and threatening Maria. Maria, Toby, and Andrew plot to trick Malvolio with a forged letter, making him believe Olivia loves him, launching the prank subplot."
+        },
+        {
+          "scene": 4,
+          "location": "A room in Duke Orsino's palace, Illyria",
+          "scene_summary": "Orsino, with Viola (Cesario), discusses love, praising Cesario's sensitivity. Feste sings a melancholic song, and Viola subtly hints at her love for Orsino, who remains oblivious, sending her back to Olivia, deepening her emotional conflict and the romantic tension."
+        },
+        {
+          "scene": 5,
+          "location": "Olivia's garden, Illyria",
+          "scene_summary": "Maria plants a forged letter, written as Olivia's, for Malvolio to find. Toby, Andrew, and Fabian hide, watching Malvolio fantasize about marrying Olivia. He reads the letter, believing it's from Olivia, and vows to follow its instructions—wearing yellow stockings and smiling—falling for the prank, ensuring comic humiliation."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "Sir Andrew's affections for Olivia lead him to be jealous of Cesario, and he decides to declare a duel between them. Thanks to a prank by Sir Toby, both Andrew and Cesario believe that their opponents intend to fight to the death. They both shirk the fight. However, the sea-captain Antonio passes by and mistakes Cesario for Sebastian, and intervenes to defend his friend. He is recognised by Orsino's men and arrested.  Later, Sebastian comes along and is challenged by Sir Andrew, who thinksheis Cesario. Sebastian, trained in combat, wins the fight. But Olivia intervenes and invites Sebastian into the house, also thinking him to be Cesario (this is clearly a common mistake). Olivia and Sebastian are married that night.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Olivia's garden, Illyria",
+          "scene_summary": "Viola (Cesario) meets Feste, who jests about words, and Olivia, who confesses her love. Viola rejects her, loyal to Orsino, but Olivia persists, sending another token. Viola, trapped by her disguise, laments the mess, advancing the love triangle's tension."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Olivia's house, Illyria",
+          "scene_summary": "Andrew, dejected by Olivia's preference for Cesario, plans to leave, but Toby urges him to challenge Cesario to a duel to impress Olivia. Maria reports Malvolio's absurd behavior, wearing yellow stockings, delighting the pranksters, escalating both the duel and Malvolio plots."
+        },
+        {
+          "scene": 3,
+          "location": "A street in Illyria",
+          "scene_summary": "Sebastian and Antonio arrive in Illyria. Antonio, wanted by Orsino, gives Sebastian his purse for safety, planning to meet at an inn. Sebastian explores, setting up his mistaken identity with Viola and Antonio's risk."
+        },
+        {
+          "scene": 4,
+          "location": "Olivia's garden and house, Illyria",
+          "scene_summary": "Malvolio, in yellow stockings, courts Olivia, who thinks him mad and entrusts him to Maria. Maria, Toby, and Fabian confine Malvolio, pretending he's possessed. Andrew's challenge letter to Cesario amuses Toby, who plans a mock duel. Olivia reaffirms her love to Viola (Cesario), while Antonio mistakes Viola for Sebastian, intervening in the “duel” and getting arrested, confusing Viola, who hopes Sebastian lives, intertwining all subplots."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "Malvolio, held in the dungeon for being a madman, is psychologically tortured by Maria, Sir Toby, and Feste, the court fool. Feste dresses up as a priest to convince Malvolio that he is, in fact, mad. After realising that they might get into trouble for treating Malvolio this way, they allow him a pen and paper to be able to write a letter to Olivia.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Before Olivia's house, Illyria",
+          "scene_summary": "Feste mistakes Sebastian for Cesario, and Olivia interrupts, inviting Sebastian (thinking him Cesario) inside. Sebastian, charmed, follows, unaware of the mix-up, advancing the mistaken identity and nearing the romantic resolution."
+        },
+        {
+          "scene": 2,
+          "location": "A dark room in Olivia's house, Illyria",
+          "scene_summary": "Maria and Feste, as Sir Topas, torment Malvolio, locked up as mad, urging repentance. Toby, fearing trouble, wants the prank ended, but Feste continues, giving Malvolio pen and paper. The scene balances comedy with Malvolio's suffering, setting up his release."
+        },
+        {
+          "scene": 3,
+          "location": "Olivia's garden, Illyria",
+          "scene_summary": "Sebastian, bewildered, accepts Olivia's love, believing it fate, and agrees to marry her in a secret ceremony. Olivia, thinking him Cesario, secures a priest, resolving her arc but complicating Viola's, as the twins' reunion looms."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "Antonio is brought to talk with Orsino, and upon seeing Cesario, he accuses him of betrayal. Just then, the real Sebastian arrives to apologise for fighting Sir Toby. The twins see each other and discover that they are both alive. Orsino's fool, Feste, brings a letter from Malvolio, and on his release, Maria's letter is revealed to be fraudulent. Malvolio departs promising revenge. Maria and Sir Toby have already married in celebration of the success of their plot against the steward.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Before Olivia's house, Illyria",
+          "scene_summary": "Orsino, with Viola (Cesario), confronts Antonio, who claims Cesario is Sebastian. Olivia arrives, married to Sebastian, whom she mistakes for Cesario, angering Orsino. Andrew and Toby, injured from fighting Sebastian, accuse Cesario. Sebastian appears, reuniting with Viola, and their identities are clarified. Orsino proposes to Viola, Olivia accepts Sebastian, and Malvolio, freed, vows revenge after revealing the prank. Feste sings a closing song, ending with festive harmony, except for Malvolio's bitterness."
+        }
+      ]
+    }
+  ]
+}

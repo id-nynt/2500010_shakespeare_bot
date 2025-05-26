@@ -1,0 +1,136 @@
+{
+  "title": "The Merchant of Venice",
+  "play_summary": "When merchant Antonio borrows money from the Jewish moneylender Shylock to help his friend Bassanio woo Portia, he agrees to a pound of his own flesh as collateral. When Antonio defaults on the loan, Shylock demands his payment. Meanwhile, Portia tests her suitors with a challenge involving three caskets. The play explores themes of justice, mercy, and prejudice through its complex characters.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "In Venice, a merchant named Antonio worries that his ships are overdue. As his colleagues offer comfort, his young friends—Bassanio, Graziano, and Lorenzo—arrive. Bassanio asks Antonio for a loan, so that he can pursue the wealthy Portia, who lives in Belmont. Antonio cannot afford the loan. Instead, he sends Bassanio to borrow the money on the security of Antonio's expected shipments.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street in Venice, Italy",
+          "scene_summary": "Antonio, a merchant, confesses unexplained sadness to Salarino and Salanio. Bassanio, his friend, asks for a loan to woo Portia, a wealthy heiress in Belmont. Antonio, his ships at sea, agrees to borrow money for Bassanio, establishing their bond and the play's themes of friendship and risk."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Portia's house, Belmont, Italy",
+          "scene_summary": "Portia, bound by her father's will to marry the suitor who chooses the correct casket, complains to Nerissa, her maid, about unworthy suitors. Nerissa praises Bassanio, whom Portia admires. They learn of new suitors, including Morocco, setting up the casket test and Portia's romantic prospects."
+        },
+        {
+          "scene": 3,
+          "location": "A public place in Venice, Italy",
+          "scene_summary": "Bassanio seeks a loan from Shylock, a Jewish moneylender. Shylock, resentful of Antonio's anti-Semitism, agrees to lend 3,000 ducats, demanding a pound of Antonio's flesh if unpaid. Antonio accepts, confident his ships will return, introducing Shylock's vengeance and the bond's perilous terms."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Meanwhile, one of Shylock's servants, Launcelot, wishes to change masters and persuades Bassanio to employ him. Shylock's daughter, Jessica, also longs to leave home. She wants to become a Christian and marry Antonio's friend Lorenzo. Before he departs to serve his new master, Launcelot takes a letter to Lorenzo that contains plans for Lorenzo and Jessica to elope that night. When Shylock goes out, Jessica escapes to elope, taking gold and jewels with her. The following day, Bassanio sets sail for Belmont, while Shylock rages over the loss of his daughter and the treasures she has stolen. In Belmont, one of Portia’s suitors (the Prince of Morocco) chooses the golden casket, while another (the Prince of Aragon) selects silver. Both chose the wrong casket and are unsuccessful. As Aragon leaves, Bassanio is announced. Portia eagerly goes to greet him.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Portia's house, Belmont, Italy",
+          "scene_summary": "The Prince of Morocco, a suitor, pledges to win Portia via the casket test, boasting of his valor. Portia, neutral, leads him to choose, emphasizing the test's fairness, beginning the suitor subplot and Morocco's bold but doomed attempt."
+        },
+        {
+          "scene": 2,
+          "location": "A street in Venice, Italy",
+          "scene_summary": "Launcelot Gobbo, Shylock's servant, debates leaving his master, meeting his blind father, Old Gobbo, in a comic exchange. Launcelot joins Bassanio's service, and Jessica, Shylock's daughter, gives Launcelot a letter for Lorenzo, planning to elope, blending comedy with the romantic subplot."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Shylock's house, Venice, Italy",
+          "scene_summary": "Jessica, ashamed of Shylock, confides to Launcelot her plan to elope with Lorenzo, a Christian, and convert. She prepares to flee with her father's wealth, highlighting her rebellion and the religious tensions of the play."
+        },
+        {
+          "scene": 4,
+          "location": "A street in Venice, Italy",
+          "scene_summary": "Lorenzo, with Gratiano, Salarino, and Salanio, plans Jessica's elopement, using a masque as cover. Launcelot delivers her letter, confirming her readiness. Lorenzo prepares to disguise her as a page, advancing the romantic escape and festive atmosphere."
+        },
+        {
+          "scene": 5,
+          "location": "Before Shylock's house, Venice, Italy",
+          "scene_summary": "Shylock warns Jessica to guard the house, uneasy about the masque and Christian revelry. Launcelot hints at her elopement, which Shylock dismisses. Shylock dines with Bassanio, leaving Jessica to flee, underscoring his isolation and her betrayal."
+        },
+        {
+          "scene": 6,
+          "location": "Before Shylock's house, Venice, Italy",
+          "scene_summary": "Lorenzo, disguised, meets Jessica, who escapes dressed as a boy, taking Shylock's gold and jewels. They flee with Gratiano, while Antonio reports Bassanio's departure for Belmont, linking the elopement to the main plot's progression."
+        },
+        {
+          "scene": 7,
+          "location": "A room in Portia's house, Belmont, Italy",
+          "scene_summary": "Morocco chooses the gold casket, seeking Portia, but finds a skull and a mocking poem, losing the test. Portia, relieved, hopes other suitors fail, maintaining her agency within the casket constraints and advancing the suitor sequence."
+        },
+        {
+          "scene": 8,
+          "location": "A street in Venice, Italy",
+          "scene_summary": "Salarino and Salanio discuss Shylock's rage over Jessica's elopement and his demand for Antonio's flesh as his ships fail. They note Antonio's loyalty to Bassanio, who's en route to Belmont, heightening the stakes of the bond and Shylock's vengeance."
+        },
+        {
+          "scene": 9,
+          "location": "A room in Portia's house, Belmont, Italy",
+          "scene_summary": "The Prince of Arragon chooses the silver casket, expecting Portia, but finds a fool's head, failing the test. Portia mocks his arrogance. A messenger announces a new suitor (Bassanio), exciting Portia, concluding the suitor trials and setting up Bassanio's attempt."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "After a few days, Shylock hears that his daughter Jessica is squandering her stolen wealth in Genoa. He begins to rail bitterly against Christians. He reminds Antonio's friends that if the loan is not repaid on time, he will insist on the original agreement of one pound of flesh.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street in Venice, Italy",
+          "scene_summary": "Salarino and Salanio learn of Antonio's lost ships, worrying for him. Shylock, enraged by Jessica's elopement, vows to enforce the bond. Tubal reports Jessica's spending, fueling Shylock's resolve to ruin Antonio, escalating the conflict and his vengeful obsession."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Portia's house, Belmont, Italy",
+          "scene_summary": "Bassanio chooses the lead casket, winning Portia with its message of humility. They pledge love, and Portia gives him a ring, binding him to fidelity. Gratiano reveals his love for Nerissa. News of Antonio's losses and Shylock's suit alarms Bassanio, prompting Portia to send him to Venice with funds, intertwining the romantic and legal plots."
+        },
+        {
+          "scene": 3,
+          "location": "A street in Venice, Italy",
+          "scene_summary": "Shylock refuses Antonio's pleas, demanding his flesh as Antonio is jailed. Antonio, resigned, hopes Bassanio witnesses his sacrifice, emphasizing Shylock's unrelenting hatred and Antonio's loyalty, as the bond's deadline looms."
+        },
+        {
+          "scene": 4,
+          "location": "A room in Portia's house, Belmont, Italy",
+          "scene_summary": "Portia entrusts Belmont to Lorenzo and Jessica, planning to disguise as a lawyer to save Antonio. She sends Nerissa, also disguised, to Venice, instructing Balthasar to fetch legal documents from Bellario, revealing her bold intervention in the trial."
+        },
+        {
+          "scene": 5,
+          "location": "The garden of Portia's house, Belmont, Italy",
+          "scene_summary": "Launcelot jests with Jessica about her conversion, teasing Lorenzo. Lorenzo and Jessica banter lovingly, managing Belmont. The comic scene provides relief, affirming their integration and contrasting the tension in Venice."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "In the court in Venice, Shylock demands his pound of flesh. The Duke, presiding over the court, seeks legal advice from the lawyer \"Balthazar,\" who is Portia in disguise. Portia pleads for Shylock to have mercy on Antonio. Bassanio offers his wife's money, which would more than pay the debt, but Shylock refuses to accept. Antonio's death is only prevented as Balthazar explains the bond is for flesh but not for a single drop of blood. So Shylock cannot collect the pound of flesh.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A courtroom in Venice, Italy",
+          "scene_summary": "In court, Shylock demands Antonio's flesh. The Duke pleads for mercy, but Shylock refuses. Portia, disguised as Balthasar, urges mercy, then uses legal technicalities: the bond allows flesh but no blood, and Shylock's intent to kill violates Venetian law. Shylock loses his wealth and must convert; Antonio spares his life. Portia and Nerissa, disguised, secure Bassanio and Gratiano's rings, setting up the ring trick, resolving the bond with justice and mercy."
+        },
+        {
+          "scene": 2,
+          "location": "A street in Venice, Italy",
+          "scene_summary": "Portia, disguised, accepts Bassanio's ring as payment, despite his reluctance. Nerissa, disguised, takes Gratiano's ring. They plan to return to Belmont, concluding the trial and initiating the comedic ring subplot."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "Undisguised, Portia and Nerissa return home at night to find Lorenzo and Jessica enjoying the tranquillity of Belmont. When their husbands arrive, Portia and Nerissa scold them for giving away their rings, pretending they had been given away to other women. Before long, they reveal themselves as the lawyers from the trial. Antonio receives news that his ships have returned safely after all (looks like we didn't need to go through all this mess in the first place!). The play ends as the three couples prepare to celebrate their marriages. For additional reading, see our blogs onThe Merchant of Venice Find quotes on marriage from The Merchant of Venice and other Shakespeare Plays:Shakespeare Quotes on Marriage",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The avenue to Portia's house, Belmont, Italy",
+          "scene_summary": "Lorenzo and Jessica muse romantically under moonlight. Portia and Nerissa return, warning of the lords' arrival. Bassanio and Antonio arrive, and Portia teases Bassanio about the ring, accusing him of infidelity. Nerissa does the same with Gratiano. Portia reveals the deception, admitting she was Balthasar, and shares news of Antonio's recovered ships. All reconcile, ending with harmony and comic resolution."
+        }
+      ]
+    }
+  ]
+}

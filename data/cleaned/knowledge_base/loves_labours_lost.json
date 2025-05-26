@@ -1,0 +1,120 @@
+{
+  "title": "Love's Labour's Lost",
+  "full_title": "Love's Labour's Lost",
+  "category": "comedy",
+  "year": "1594-1595",
+  "setting": "Navarre, Spain",
+  "main_characters": [
+    "King of Navarre",
+    "Princess of France",
+    "Berowne",
+    "Rosaline",
+    "Longaville",
+    "Maria",
+    "Dumaine",
+    "Katherine",
+    "Don Armado"
+  ],
+  "character_descriptions": [
+    {
+      "name": "King of Navarre",
+      "description": "King, vows to study, loves Princess"
+    },
+    {
+      "name": "Princess of France",
+      "description": "French noble, courts Navarre"
+    },
+    {
+      "name": "Berowne",
+      "description": "Lord, loves Rosaline, witty"
+    },
+    {
+      "name": "Rosaline",
+      "description": "Princess's lady, loves Berowne"
+    },
+    {
+      "name": "Longaville",
+      "description": "Lord, loves Maria"
+    },
+    {
+      "name": "Maria",
+      "description": "Princess's lady, loves Longaville"
+    },
+    {
+      "name": "Dumaine",
+      "description": "Lord, loves Katherine"
+    },
+    {
+      "name": "Katherine",
+      "description": "Princess's lady, loves Dumaine"
+    },
+    {
+      "name": "Don Armado",
+      "description": "Spanish noble, comically woos Jaquenetta"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Love",
+      "theme_explanation": "Love disrupts the lords’ vow of celibacy, leading to witty courtships that reveal its irresistible and transformative power."
+    },
+    {
+      "theme": "Wit",
+      "theme_explanation": "The play celebrates verbal sparring and intellectual humor, as characters like Berowne and Rosaline showcase cleverness in love and debate."
+    },
+    {
+      "theme": "Education",
+      "theme_explanation": "The lords’ pursuit of scholarly isolation is undermined by love, suggesting that emotional experience outweighs academic discipline."
+    },
+    {
+      "theme": "Vows",
+      "theme_explanation": "The fragility of vows is exposed as the lords quickly abandon their oath of study for love, highlighting human weakness."
+    },
+    {
+      "theme": "Courtship",
+      "theme_explanation": "Courtship drives the plot through playful flirtations and deceptions, culminating in delayed unions due to unexpected tragedy."
+    },
+    {
+      "theme": "Language",
+      "theme_explanation": "The play revels in linguistic play, using ornate speech and wordplay to explore communication’s role in love and society."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "They have been at a great feast of languages, and stolen the scraps",
+      "speaker": "Moth",
+      "act": 5,
+      "scene": 1,
+      "explanation": "Moth mocks the pedantic scholars, likening their verbose speech to scavenging linguistic leftovers."
+    },
+    {
+      "quote": "The spring is near when green geese are a-breeding",
+      "speaker": "Dumaine",
+      "act": 1,
+      "scene": 1,
+      "explanation": "Dumaine playfully notes seasonal signs, setting a light tone for the lords' oath-taking."
+    },
+    {
+      "quote": "A jest's prosperity lies in the ear of him that hears it",
+      "speaker": "Rosaline",
+      "act": 5,
+      "scene": 2,
+      "explanation": "Rosaline emphasizes that humor depends on the listener's perception, showcasing her sharp wit."
+    },
+    {
+      "quote": "When daisies pied and violets blue",
+      "speaker": "Chorus",
+      "act": 5,
+      "scene": 2,
+      "explanation": "The Chorus's song celebrates spring's renewal, contrasting with the play's delayed romantic resolutions."
+    },
+    {
+      "quote": "Love's feeling is more soft and sensible than are the tender horns of cockled snails",
+      "speaker": "Berowne",
+      "act": 4,
+      "scene": 3,
+      "explanation": "Berowne poetically describes love's gentle sensitivity, defending his broken vow with romantic fervor."
+    }
+  ],
+  "summary": "The King of Navarre and his lords vow to forgo women and study for three years, but their resolve crumbles when the Princess of France and her ladies arrive. Through witty courtship and playful deception, love prevails, though a sudden death delays their unions for a year."
+}

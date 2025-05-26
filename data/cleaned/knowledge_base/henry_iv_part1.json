@@ -1,0 +1,117 @@
+{
+  "title": "King Henry IV, the First Part",
+  "full_title": "The First Part of King Henry the Fourth",
+  "category": "history",
+  "year": "1596-1597",
+  "setting": "England, early 15th century",
+  "main_characters": [
+    "King Henry IV",
+    "Prince Hal",
+    "Sir John Falstaff",
+    "Hotspur (Henry Percy)",
+    "Earl of Worcester",
+    "Earl of Northumberland",
+    "Lady Percy"
+  ],
+  "character_descriptions": [
+    {
+      "name": "King Henry IV",
+      "description": "King of England, faces rebellion"
+    },
+    {
+      "name": "Prince Hal",
+      "description": "Heir to throne, proves worth"
+    },
+    {
+      "name": "Sir John Falstaff",
+      "description": "Prince Hal's roguish companion"
+    },
+    {
+      "name": "Hotspur (Henry Percy)",
+      "description": "Rebel leader, Percy family heir"
+    },
+    {
+      "name": "Earl of Worcester",
+      "description": "Rebel noble, Hotspur's uncle"
+    },
+    {
+      "name": "Earl of Northumberland",
+      "description": "Hotspur's father, supports rebellion"
+    },
+    {
+      "name": "Lady Percy",
+      "description": "Hotspur's wife, supports husband"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Honor",
+      "theme_explanation": "Hotspur’s obsession with honor contrasts with Falstaff’s pragmatic avoidance of it, while Hal redefines it through his heroic transformation."
+    },
+    {
+      "theme": "Power",
+      "theme_explanation": "The struggle for power fuels the rebellion against Henry IV, as the Percys challenge his legitimacy and Hal prepares for kingship."
+    },
+    {
+      "theme": "Rebellion",
+      "theme_explanation": "The Percy rebellion threatens Henry IV’s rule, highlighting political instability and the cost of usurping power."
+    },
+    {
+      "theme": "Father-son relationships",
+      "theme_explanation": "Henry IV’s disappointment in Hal’s waywardness contrasts with their eventual reconciliation, as Hal proves his worth at Shrewsbury."
+    },
+    {
+      "theme": "Maturity",
+      "theme_explanation": "Hal’s journey from reckless youth to responsible heir showcases his growth, culminating in his victory over Hotspur."
+    },
+    {
+      "theme": "Loyalty",
+      "theme_explanation": "Loyalty is tested, as Hal balances allegiance to Falstaff’s crew with his duty to his father and crown."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "I know you all, and will awhile uphold the unyoked humour of your idleness",
+      "speaker": "Prince Hal",
+      "act": 1,
+      "scene": 2,
+      "explanation": "Hal reveals his plan to feign recklessness, intending to surprise others with his eventual maturity."
+    },
+    {
+      "quote": "Banish plump Jack, and banish all the world",
+      "speaker": "Falstaff",
+      "act": 2,
+      "scene": 4,
+      "explanation": "Falstaff humorously defends his larger-than-life presence, pleading with Hal not to reject their friendship."
+    },
+    {
+      "quote": "The better part of valour is discretion",
+      "speaker": "Falstaff",
+      "act": 5,
+      "scene": 4,
+      "explanation": "Falstaff justifies faking death to avoid danger, comically prioritizing survival over heroic honor."
+    },
+    {
+      "quote": "By heaven, methinks it were an easy leap, to pluck bright honour from the pale-faced moon",
+      "speaker": "Hotspur",
+      "act": 1,
+      "scene": 3,
+      "explanation": "Hotspur passionately describes his pursuit of glory, revealing his fiery, honor-driven character."
+    },
+    {
+      "quote": "O, while you live, tell truth and shame the devil!",
+      "speaker": "Hotspur",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Hotspur urges honesty in a heated debate, showcasing his blunt and principled nature."
+    },
+    {
+      "quote": "The better part of valor is discretion",
+      "speaker": "Falstaff",
+      "act": 5,
+      "scene": 4,
+      "explanation": "Falstaff, known for his cowardice and quick wit, rationalizes his feigned death in battle by claiming that prudence and self-preservation are more important than reckless bravery."
+    }
+  ],
+  "summary": "King Henry IV faces rebellion from the Percy family, led by the fiery Hotspur. Meanwhile, his son Prince Hal carouses with the roguish Falstaff but ultimately proves his worth by defeating Hotspur at the Battle of Shrewsbury, solidifying his path to maturity."
+}

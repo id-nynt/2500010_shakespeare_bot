@@ -1,0 +1,84 @@
+{
+  "title": "King Richard II",
+  "play_summary": "King Richard II's mismanagement and seizure of noble lands provoke Henry Bolingbroke's rebellion. Exiled and then deposed, Richard is imprisoned and murdered, while Bolingbroke becomes Henry IV, grappling with the consequences of usurping the throne.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "The play opens in King Richard's court, as Henry Bolingbroke, son of Gaunt (the Duke of Lancaster), challenges Thomas Mowbray, Duke of Norfolk. Henry accuses Mowbray of being involved in the recent death of the King's uncle (who is also Henry's uncle; Henry and the King are cousins). Richard gives in to their demands to work out their differences in one-on-one combat at Coventry. As the tournament begins, the uncertain and impulsive Richard stops the contest. Instead Richard chooses to exile both Henry and Mowbray. He banishes Mowbray for life. And responding to Henry's father Lancaster's pleas, he limits Henry's exile to six years.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in King Richard II's palace, London, England",
+          "scene_summary": "King Richard II presides over a dispute between Henry Bolingbroke (Duke of Hereford) and Thomas Mowbray (Duke of Norfolk), who accuse each other of treason, Bolingbroke linking Mowbray to Gloucester's murder. Richard orders a trial by combat, unable to reconcile them, establishing the political rift and Richard's weak mediation."
+        },
+        {
+          "scene": 2,
+          "location": "A room in John of Gaunt's house, London, England",
+          "scene_summary": "John of Gaunt, Bolingbroke's father, consoles the Duchess of Gloucester, who mourns her husband's murder, blaming Richard's negligence. Gaunt, loyal to Richard as God's anointed, refuses to act, urging patience. The Duchess curses Richard, revealing court corruption and Gaunt's conflicted loyalty."
+        },
+        {
+          "scene": 3,
+          "location": "The lists at Coventry, England",
+          "scene_summary": "At the trial by combat, Bolingbroke and Mowbray prepare to fight, but Richard halts the duel, banishing Bolingbroke for six years and Mowbray for life. Mowbray laments his exile, and Bolingbroke accepts, bidding Gaunt farewell. Richard, swayed by advisors, reduces Bolingbroke's term, but his motives seem self-serving, showing his arbitrary rule."
+        },
+        {
+          "scene": 4,
+          "location": "A room in King Richard II's palace, London, England",
+          "scene_summary": "Richard, with favorites Bagot, Bushy, and Green, mocks Bolingbroke's departure, revealing his dislike. He plans to tax the realm and seize Gaunt's wealth to fund Irish wars, ignoring news of unrest. Aumerle reports Bolingbroke's popularity, highlighting Richard's misrule and financial desperation."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "In line with his customary behaviour, Richard is misled by his friends into poor government of the country. Henry's father, Gaunt, dies, finally broken by his son's banishment, and by the state of the kingdom under Richard's rule. Richard takes possession of Gaunt's land and money. It turns out that he has also been leasing out royal land. Both of these monetary acquisitions have helped him to fund wars with Ireland. His nobles are dismayed, not only because of the waste of the kingdom's money but also for fear over the security of their own estates. To make matters worse, Richard leaves on an expedition to Ireland. When Henry hears that his father has died and that Richard took his inheritance, he returns from exile with an invading army. The commoners and nobles are already critical of Richard. They welcome Henry in the north, led by the powerful Earl of Northumberland, Henry Percy. Henry marches through England, gathering his willing forces.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Ely House, London, England",
+          "scene_summary": "Gaunt, dying, laments England's decline under Richard's mismanagement to York. Richard arrives, and Gaunt criticizes his extravagance, warning of ruin. After Gaunt's death, Richard seizes his estate, disinheriting Bolingbroke. York protests, but Richard departs for Ireland. Northumberland reveals Bolingbroke's return with an army, signaling rebellion."
+        },
+        {
+          "scene": 2,
+          "location": "A room in the Queen's palace, London, England",
+          "scene_summary": "Queen Isabel, sensing doom, grieves with Bushy and Bagot. Green reports Bolingbroke's landing, York's indecision as regent, and noble defections. York, torn, prepares to fight Bolingbroke, leaving the Queen despairing, as Richard's allies weaken and rebellion grows."
+        },
+        {
+          "scene": 3,
+          "location": "A field in Gloucestershire, England",
+          "scene_summary": "Bolingbroke, with Northumberland and others, marches toward Berkeley. He meets York, claiming he seeks only his inheritance. York, wavering, rebukes but joins him, unable to resist. Bolingbroke heads to confront Richard's allies, gaining momentum as Richard's power crumbles."
+        },
+        {
+          "scene": 4,
+          "location": "A camp in Wales",
+          "scene_summary": "Salisbury, loyal to Richard, learns Welsh troops have deserted, believing Richard dead. He laments the king's fate, foreseeing ruin. The brief scene underscores Richard's isolation and the collapse of his support in Wales."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "Richard arrives back after the Irish war to find that his Welsh allies have dispersed. Furthermore, his cousin, Duke of York, unable to prevent Henry's triumphant return, has joined him instead. Some more of Richard's friends have also betrayed the King's cause. Others have been executed on Henry's orders. After taking refuge at Flint castle, Richard surrenders and agrees to go to London, where the lords will decide what should happen next.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Bolingbroke's camp, Bristol, England",
+          "scene_summary": "Bolingbroke sentences Bushy and Green to death for misleading Richard and harming him, sparing Bagot for information. He sends word to Richard, asserting his loyalty but demanding justice, consolidating his power and moral stance against Richard's favorites."
+        },
+        {
+          "scene": 2,
+          "location": "The coast of Wales, near Barkloughly Castle",
+          "scene_summary": "Richard, returned from Ireland, lands with Aumerle and Salisbury, initially hopeful. Carlisle and Salisbury report the Welsh desertion and Bolingbroke's advance. Richard, despairing, laments his divine right's betrayal, oscillating between defiance and resignation, revealing his emotional fragility."
+        },
+        {
+          "scene": 3,
+          "location": "Before Flint Castle, Wales",
+          "scene_summary": "Bolingbroke, with York and Northumberland, besieges Flint Castle, where Richard is. Richard, from the walls, negotiates with Northumberland, agreeing to meet Bolingbroke if his demands are met. Bolingbroke kneels to Richard, claiming loyalty, but Richard senses his deposition, submitting to Bolingbroke's terms, marking his political downfall."
+        },
+        {
+          "scene": 4,
+          "location": "A garden in the Duke of York's palace, London, England",
+          "scene_summary": "Queen Isabel overhears gardeners discuss Richard's mismanagement and Bolingbroke's rise, comparing England to a neglected garden. She curses them, learning Richard is deposed, deepening her grief and symbolizing the kingdom's decay under Richard's rule."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "title": "A Midsummer Night's Dream",
+  "play_summary": "This enchanting comedy intertwines the adventures of four young Athenian lovers, a group of amateur actors, and fairies in a moonlit forest. As Theseus and Hippolyta prepare for their wedding, the fairy king and queen quarrel, leading to magical mischief when fairy Puck uses a love potion that complicates the lovers' relationships and transforms Bottom into a donkey.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "As Duke Theseus prepares for his marriage to Hippolyta, Queen of the Amazons, he is interrupted by a courtier, Egeus. Egeus asks for the Duke to intervene in a dispute. His daughter, Hermia, will not agree to marry Demetrius (whom Egeus has chosen for her) because she loves a gentleman named Lysander. The Duke asks Hermia to be obedient to her father. He offers her one of two options: she must either die or accept a celibate life as a nun in Diana's temple.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Theseus's palace, Athens, Greece",
+          "scene_summary": "Theseus and Hippolyta plan their wedding. Egeus demands his daughter, Hermia, marry Demetrius, not Lysander, whom she loves, threatening death or a nunnery. Theseus upholds the law, giving Hermia time to decide. Hermia and Lysander plan to elope, meeting in the woods. Helena, loving Demetrius, reveals their plan to him, hoping to win his favor, setting up the romantic entanglements and forest adventure."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Quince's house, Athens, Greece",
+          "scene_summary": "Peter Quince, a carpenter, organizes a play, *Pyramus and Thisbe*, for Theseus's wedding, assigning roles to artisans: Bottom as Pyramus, Flute as Thisbe, and others. Bottom, boastful, wants all roles. They agree to rehearse in the woods, introducing the comedic mechanicals and their bumbling efforts."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Nearby, Oberon - King of the Fairies—has recently quarrelled with his queen, Titania. She acquired a magical child from one of her waiting women, and now refuses to hand him over to Oberon to use as a page. Oberon begins to plot a way to get revenge on Titania for her disobedience. He sends his fairy servant, Puck, to fetch a purple flower with juice that makes people fall in love with the next creature they see. Afterwards, Oberon overhears Helena and Demetrius arguing in the forest. Oberon hears Demetrius mistreat Helena and tells Puck to anoint 'the Athenian', so Demetrius will fall in love with the first person that he sees. Puck mistakes the Athenian and puts the flower juice on the eyes of the sleeping Lysander. When he is woken by Helena, he immediately falls in love with her and rejects Hermia. When Demetrius rests, Oberon puts magic juice on his eyes, which makes him fall in love with Helena as well.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A wood near Athens, Greece",
+          "scene_summary": "Puck (Robin Goodfellow) and a Fairy discuss Oberon and Titania, fairy king and queen, quarreling over a changeling boy. Oberon orders Puck to fetch a love-potion flower to enchant Titania, making her love the first creature she sees. Seeing Demetrius reject Helena, Oberon instructs Puck to charm Demetrius to love her, initiating the magical mischief and love confusion."
+        },
+        {
+          "scene": 2,
+          "location": "Another part of the wood, Athens, Greece",
+          "scene_summary": "Titania, lulled by fairies, sleeps. Oberon applies the love potion to her eyes. Lysander and Hermia rest, but Puck, mistaking Lysander for Demetrius, anoints him. Helena finds Lysander, who awakens, instantly loving her. Lysander abandons Hermia, who wakes alone, distraught, escalating the romantic chaos caused by Puck's error."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "The workers' rehearsals in the wood are overheard by Puck, who plays a trick on them by giving Bottom an ass's head. After frightening the others away, Bottom is lured towards the sleeping Titania whom Oberon has anointed with Puck's magic flower juice. On waking, the fairy queen falls in love with the ass and entertains him with her fairies.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The wood, near Titania's bower, Athens, Greece",
+          "scene_summary": "The mechanicals rehearse their play. Puck, amused, transforms Bottom's head into an ass's. The others flee, terrified. Titania, awakened by Bottom's singing, falls in love with him due to the potion, leading him to her bower. The scene blends comedy and magic, highlighting Bottom's absurdity and Titania's enchantment."
+        },
+        {
+          "scene": 2,
+          "location": "Another part of the wood, Athens, Greece",
+          "scene_summary": "Oberon learns of Puck's mistake with Lysander and anoints Demetrius, who awakens and loves Helena. Helena, pursued by both men, suspects mockery, while Hermia, confused, quarrels with Helena. Oberon orders Puck to fix the chaos, who leads the lovers astray with fog and mimics their voices, exhausting them. Puck re-anoints Lysander to love Hermia, aiming to restore order, intensifying the comedic love tangle."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "Happily reunited (Lysander with Hermia and Demetrius with Helena), they agree to share the Duke's wedding day. The play of 'Pyramus and Thisbe' is presented before the wedding guests. As the three couples retire to bed, Puck and the fairies return to bless the palace and its people.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A hall in Theseus's palace, Athens, Greece",
+          "scene_summary": "Theseus and Hippolyta discuss the lovers' strange tales, dismissing them as fancy. The couples—Theseus and Hippolyta, Lysander and Hermia, Demetrius and Helena—celebrate their weddings. The mechanicals perform *Pyramus and Thisbe*, hilariously botched, amusing the court. After, Oberon, Titania, and fairies bless the couples, ensuring harmony. Puck's epilogue seeks applause, ending with festive unity and magical resolution."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "title": "All's Well That Ends Well",
+  "full_title": "All's Well That Ends Well",
+  "category": "comedy",
+  "year": "1604-1605",
+  "setting": "France and Italy",
+  "main_characters": [
+    "Helena",
+    "Bertram",
+    "Countess of Roussillon",
+    "King of France",
+    "Parolles",
+    "Diana"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Helena",
+      "description": "Physician's daughter, loves Bertram, heals king"
+    },
+    {
+      "name": "Bertram",
+      "description": "Nobleman, reluctant husband of Helena"
+    },
+    {
+      "name": "Countess of Roussillon",
+      "description": "Bertram's mother, supports Helena"
+    },
+    {
+      "name": "King of France",
+      "description": "Ruler, healed by Helena, grants marriage"
+    },
+    {
+      "name": "Parolles",
+      "description": "Bertram's boastful, disloyal companion"
+    },
+    {
+      "name": "Diana",
+      "description": "Young woman, aids Helena's plan"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Love",
+      "theme_explanation": "The play explores unrequited love through Helena’s persistent pursuit of Bertram, highlighting the complexities of affection and devotion despite social and personal obstacles."
+    },
+    {
+      "theme": "Deception",
+      "theme_explanation": "Deception drives the plot, as Helena uses cunning strategies, like the bed-trick, to win Bertram, while Parolles’s false bravado exposes his disloyalty."
+    },
+    {
+      "theme": "Gender roles",
+      "theme_explanation": "Helena defies traditional gender roles by actively pursuing her desires and using her intelligence to achieve her goals, challenging societal expectations of women."
+    },
+    {
+      "theme": "Class and merit",
+      "theme_explanation": "The play examines social hierarchy, as Helena, a low-born woman, proves her worth through merit, ultimately overcoming class barriers to marry Bertram."
+    },
+    {
+      "theme": "Healing",
+      "theme_explanation": "Healing is central, as Helena’s medical skill cures the King, symbolizing her ability to mend personal and social divides through wisdom and action."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "All's well that ends well.",
+      "speaker": "Helena",
+      "act": 4,
+      "scene": 4,
+      "explanation": "Helena expresses optimism that her plan to win Bertram's love will succeed, reflecting the play's title and its theme of resolving difficulties through perseverance."
+    },
+    {
+      "quote": "Our remedies oft in ourselves do lie.",
+      "speaker": "Helena",
+      "act": 1,
+      "scene": 1,
+      "explanation": "Helena asserts that solutions to problems often come from within, highlighting her initiative and resourcefulness in pursuing her goals despite her low social status."
+    }
+  ],
+  "summary": "Helena, a physician's daughter, is in love with the nobleman Bertram. After curing the King of France, she is granted the right to marry anyone she chooses and selects Bertram, who refuses her and flees to war. Through intelligence and perseverance, Helena ultimately wins Bertram's love."
+}

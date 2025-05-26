@@ -1,0 +1,110 @@
+{
+  "title": "King John",
+  "full_title": "The Life and Death of King John",
+  "category": "history",
+  "year": "1595-1596",
+  "setting": "England and France, 13th century",
+  "main_characters": [
+    "King John",
+    "Philip the Bastard",
+    "Constance",
+    "King Philip of France",
+    "Prince Arthur",
+    "Hubert",
+    "Cardinal Pandulph"
+  ],
+  "character_descriptions": [
+    {
+      "name": "King John",
+      "description": "King of England, faces rebellion"
+    },
+    {
+      "name": "Philip the Bastard",
+      "description": "John's loyal illegitimate nephew"
+    },
+    {
+      "name": "Constance",
+      "description": "Arthur's mother, seeks son's crown"
+    },
+    {
+      "name": "King Philip of France",
+      "description": "French king, supports Arthur"
+    },
+    {
+      "name": "Prince Arthur",
+      "description": "John's nephew, claims throne"
+    },
+    {
+      "name": "Hubert",
+      "description": "John's servant, spares Arthur"
+    },
+    {
+      "name": "Cardinal Pandulph",
+      "description": "Papal legate, stirs conflict"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Power",
+      "theme_explanation": "King John’s struggle to maintain his throne against French and domestic challenges highlights the precarious nature of royal authority."
+    },
+    {
+      "theme": "Legitimacy",
+      "theme_explanation": "The conflict over Arthur’s claim versus John’s rule questions the legitimacy of kingship, complicated by the Bastard’s loyalty despite his illegitimacy."
+    },
+    {
+      "theme": "War",
+      "theme_explanation": "Anglo-French conflicts and internal rebellions drive the play, reflecting the destructive cost of territorial and political disputes."
+    },
+    {
+      "theme": "Family",
+      "theme_explanation": "Family ties, like Constance’s devotion to Arthur and John’s rivalry with his nephew, fuel personal and political conflicts."
+    },
+    {
+      "theme": "Betrayal",
+      "theme_explanation": "Betrayals, such as France’s shifting alliances and John’s nobles turning against him, underscore the instability of loyalty."
+    },
+    {
+      "theme": "Patriotism",
+      "theme_explanation": "The Bastard’s rousing defense of England evokes patriotic pride, rallying support for the nation despite John’s flawed rule."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "To gild refined gold, to paint the lily",
+      "speaker": "Salisbury",
+      "act": 4,
+      "scene": 2,
+      "explanation": "Salisbury criticizes unnecessary embellishment, reflecting on the futility of John's actions."
+    },
+    {
+      "quote": "Life is as tedious as a twice-told tale",
+      "speaker": "Lewis",
+      "act": 3,
+      "scene": 4,
+      "explanation": "Lewis compares life to a repetitive story, expressing weariness amid ongoing conflicts."
+    },
+    {
+      "quote": "Grief fills the room up of my absent child",
+      "speaker": "Constance",
+      "act": 3,
+      "scene": 4,
+      "explanation": "Constance vividly expresses her maternal sorrow for her lost son Arthur, highlighting her despair."
+    },
+    {
+      "quote": "I am not mad; I would to heaven I were!",
+      "speaker": "Constance",
+      "act": 3,
+      "scene": 4,
+      "explanation": "Constance wishes for madness to escape her grief, emphasizing the intensity of her emotional pain."
+    },
+    {
+      "quote": "This England never did, nor never shall, lie at the proud foot of a conqueror",
+      "speaker": "Philip the Bastard",
+      "act": 5,
+      "scene": 7,
+      "explanation": "The Bastard proudly declares England's resilience, rallying patriotic spirit despite John's failures."
+    }
+  ],
+  "summary": "King John faces challenges to his throne from France and internal dissent, compounded by the tragic fate of young Prince Arthur. The Bastard's loyalty and England's resilience prevail, but John's death leaves the crown to his son, Henry III."
+}

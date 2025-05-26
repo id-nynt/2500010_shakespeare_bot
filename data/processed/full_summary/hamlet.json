@@ -1,0 +1,136 @@
+{
+  "title": "Hamlet, Prince of Denmark",
+  "play_summary": "The play depicts Prince Hamlet's revenge against his uncle Claudius, who murdered Hamlet's father, the king, and then took the throne and married Hamlet's mother. Throughout the play, Hamlet struggles with his perceived duty to avenge his father's death while wrestling with moral questions about murder, suicide, and the afterlife.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "Late at night, guards on the battlements of Denmark's Elsinore castle are met by Horatio, Prince Hamlet's friend from school. The guards describe a ghost they have seen that resembles Hamlet's father, the recently-deceased king. At that moment, the Ghost reappears, and the guards and Horatio decide to tell Hamlet. Claudius, Hamlet's uncle, married Hamlet's recently-widowed mother, becoming the new King of Denmark. Hamlet continues to mourn for his father's death and laments his mother's lack of loyalty. When Hamlet hears of the Ghost from Horatio, he wants to see it for himself. Elsewhere, the royal attendant Polonius says farewell to his son Laertes, who is departing for France. Laertes warns his sister, Ophelia, away from Hamlet and thinking too much of his attentions towards her.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A platform before the castle of Elsinore, Denmark",
+          "scene_summary": "Guards Barnardo, Francisco, and Marcellus, joined by Horatio, witness the ghost of the late King Hamlet. The ghost appears but does not speak. Horatio speculates it portends trouble for Denmark, possibly linked to impending war with Norway. They resolve to inform Prince Hamlet, setting the supernatural tone and political tension."
+        },
+        {
+          "scene": 2,
+          "location": "A room of state in Elsinore Castle, Denmark",
+          "scene_summary": "King Claudius, Hamlet's uncle, addresses the court, acknowledging King Hamlet's death and his marriage to Queen Gertrude. He dispatches ambassadors to Norway to curb Fortinbras's aggression. Hamlet, mourning his father, is rebuked by Claudius and Gertrude for excessive grief. Alone, Hamlet laments his mother's remarriage. Horatio reports the ghost's appearance, and Hamlet vows to see it, suspecting foul play."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Polonius's house, Elsinore, Denmark",
+          "scene_summary": "Laertes warns his sister Ophelia against Hamlet's affections, citing his royal obligations. Polonius, their father, gives Laertes advice for his trip to France and then forbids Ophelia from pursuing Hamlet, fearing his intentions. The scene establishes the Polonius family dynamics and Ophelia's conflicted feelings."
+        },
+        {
+          "scene": 4,
+          "location": "The platform before Elsinore Castle, Denmark",
+          "scene_summary": "Hamlet, Horatio, and Marcellus wait for the ghost. They hear Claudius's revelry, which Hamlet criticizes. The ghost appears, beckoning Hamlet to follow. Despite Horatio's warnings, Hamlet pursues it, eager to learn its purpose, heightening the supernatural intrigue."
+        },
+        {
+          "scene": 5,
+          "location": "Another part of the platform, Elsinore Castle, Denmark",
+          "scene_summary": "The ghost reveals it is King Hamlet, murdered by Claudius, who poisoned him and usurped the throne. It urges Hamlet to seek revenge but spare Gertrude. Hamlet vows to act, feigning madness to conceal his plans. He swears Horatio and Marcellus to secrecy, solidifying his resolve and the play's central conflict."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "According to his plan, Hamlet begins to act strangely. He rejects Ophelia, while Claudius and Polonius, the royal attendant, spy on him. They had hoped to find the reason for Hamlet's sudden change in behaviour but could not. Claudius summons Guildenstern and Rosencrantz, old friends of Hamlet to find out what's got into him. Their arrival coincides with a group of travelling actors that Hamlet happens to know well. Hamlet writes a play which includes scenes that mimic the murder of Hamlet's father. During rehearsal, Hamlet and the actors plot to present Hamlet's play before the King and Queen.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Polonius's house, Elsinore, Denmark",
+          "scene_summary": "Polonius sends Reynaldo to spy on Laertes in France, instructing him to spread rumors to gauge Laertes's behavior. Ophelia reports Hamlet's erratic, disheveled appearance, suggesting madness. Polonius assumes Hamlet is lovesick for Ophelia and plans to inform Claudius, misinterpreting Hamlet's behavior."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Elsinore Castle, Denmark",
+          "scene_summary": "Claudius and Gertrude welcome Rosencrantz and Guildenstern, tasking them to spy on Hamlet. Ambassadors report Norway's restraint of Fortinbras, who now seeks passage to attack Poland. Polonius suggests Hamlet's madness stems from love for Ophelia and proposes a test. Hamlet, feigning madness, mocks Polonius. Players arrive, and Hamlet requests a performance of _The Murder of Gonzago_, planning to use it to confirm Claudius's guilt, showcasing his strategic deception."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "At the performance, Hamlet watches Claudius closely to see how he reacts. The play provokes Claudius, and he interrupts the action by storming out. He immediately resolves to send Hamlet away. Hamlet is summoned by his distressed mother, Gertrude, and on the way, he happens upon Claudius kneeling and attempting to pray. Hamlet reasons that to kill the King now would only send his soul to heaven rather than hell. Hamlet decides to spare his life for the time being.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Elsinore Castle, Denmark",
+          "scene_summary": "Claudius and Polonius eavesdrop as Hamlet meets Ophelia. Hamlet delivers his “To be or not to be” soliloquy, contemplating life and death. He rejects Ophelia harshly, denying his love, unaware she's part of a trap. Claudius doubts love is the cause of Hamlet's behavior and plans to send him to England, while Polonius suggests further spying via Gertrude."
+        },
+        {
+          "scene": 2,
+          "location": "A hall in Elsinore Castle, Denmark",
+          "scene_summary": "Hamlet coaches the players for their performance, ensuring authenticity. He confides his plan to Horatio to watch Claudius's reaction. The play, mirroring King Hamlet's murder, provokes Claudius, who flees, confirming his guilt. Hamlet, triumphant, is summoned by Gertrude. Rosencrantz and Guildenstern fail to sway him, and he vows to confront his mother, balancing resolve with restraint."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Elsinore Castle, Denmark",
+          "scene_summary": "Claudius, shaken, orders Rosencrantz and Guildenstern to escort Hamlet to England. Alone, Claudius confesses his guilt in prayer. Hamlet, finding him, hesitates to kill him, fearing it would send Claudius's soul to heaven. He delays, unaware Claudius's prayer is insincere, highlighting Hamlet's moral complexity."
+        },
+        {
+          "scene": 4,
+          "location": "The Queen's closet in Elsinore Castle, Denmark",
+          "scene_summary": "Hamlet confronts Gertrude, accusing her of betraying his father. Polonius, eavesdropping, cries out, and Hamlet, mistaking him for Claudius, kills him. Hamlet berates Gertrude, showing her portraits of both kings. The ghost reappears, urging Hamlet to focus on revenge, invisible to Gertrude, who fears Hamlet's madness. Hamlet exits, dragging Polonius's body, leaving Gertrude shaken."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "Hamlet is sent to England, supposedly as an ambassador, just as King Fortinbras of Norway crosses Denmark with an army to attack Poland. During his journey, Hamlet discovers Claudius has a plan to have him killed once he arrives. He returns to Denmark alone, sending his companions Rosencrantz and Guildenstern to their deaths in his place. Rejected by Hamlet, Ophelia is now desolate at the loss of her father. She goes mad and drowns.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Elsinore Castle, Denmark",
+          "scene_summary": "Gertrude reports Polonius's death to Claudius, describing Hamlet's madness. Claudius, alarmed, orders Hamlet's immediate departure to England, planning to cover up the murder. He sends Rosencrantz and Guildenstern to find Hamlet and Polonius's body, escalating the urgency."
+        },
+        {
+          "scene": 2,
+          "location": "A passage in Elsinore Castle, Denmark",
+          "scene_summary": "Hamlet, hiding Polonius's body, mocks Rosencrantz and Guildenstern's attempts to question him, calling them Claudius's pawns. He agrees to see Claudius, maintaining his cryptic facade, as the court scrambles to control the situation."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Elsinore Castle, Denmark",
+          "scene_summary": "Claudius confronts Hamlet, who jests about Polonius's death, revealing the body's location. Claudius sends Hamlet to England, secretly ordering his death via letters carried by Rosencrantz and Guildenstern. Alone, Claudius reflects on his plan, unaware Hamlet suspects treachery, advancing the plot's tension."
+        },
+        {
+          "scene": 4,
+          "location": "A plain near Elsinore, Denmark",
+          "scene_summary": "Hamlet encounters Fortinbras's army marching to Poland over a trivial dispute. Inspired by their resolve, he contrasts it with his own inaction, vowing to pursue revenge with greater determination. The scene underscores Hamlet's introspection and renewed purpose."
+        },
+        {
+          "scene": 5,
+          "location": "A room in Elsinore Castle, Denmark",
+          "scene_summary": "Ophelia, driven mad by Polonius's death, sings disjointed songs and distributes flowers, alarming Gertrude and Claudius. Laertes returns, enraged, leading a mob to avenge his father. Claudius calms him, promising justice, but Ophelia's madness and Laertes's fury intensify the court's chaos."
+        },
+        {
+          "scene": 6,
+          "location": "Another room in Elsinore Castle, Denmark",
+          "scene_summary": "Horatio receives a letter from Hamlet, revealing he was captured by pirates but returned to Denmark after negotiating his release. Hamlet instructs Horatio to meet him, hinting at Rosencrantz and Guildenstern's betrayal, setting up his return and confrontation with Claudius."
+        },
+        {
+          "scene": 7,
+          "location": "A room in Elsinore Castle, Denmark",
+          "scene_summary": "Claudius and Laertes plot Hamlet's death, learning he's back in Denmark. Claudius proposes a rigged fencing match, with a poisoned rapier and drink, to kill Hamlet discreetly. Gertrude reports Ophelia's drowning, devastating Laertes, who vows revenge, while Claudius manipulates his grief, tightening the tragic trap."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "On the way back to Denmark, Hamlet meets Horatio in the graveyard (along with a gravedigger), where they talk of the chances of life and death. Ophelia's funeral procession arrives at the very same graveyard (what luck!). Hamlet confronts Laertes, Ophelia's brother, who has taken his father's place at the court. A duel is arranged between Hamlet and Laertes. During the match, Claudius conspires with Laertes to kill Hamlet. They plan that Hamlet will die either on a poisoned rapier or with poisoned wine. The plans go awry when Gertrude unwittingly drinks from the poisoned cup and dies. Then both Laertes and Hamlet are wounded by the poisoned blade, and Laertes dies. Hamlet, in his death throes, kills Claudius. Hamlet dies, leaving only his friend Horatio to explain the truth to the new king, Fortinbras, as he returns in victory from the Polish wars. Learn more of what Shakespeare has to say on the subject of life in Hamlet and other plays:Shakespeare Quotes on Life",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A churchyard near Elsinore Castle, Denmark",
+          "scene_summary": "Two gravediggers discuss Ophelia's burial, debating her suicide's legitimacy. Hamlet and Horatio arrive, and Hamlet reflects on mortality, handling Yorick's skull. Ophelia's funeral procession enters, and Hamlet, learning of her death, leaps into her grave, clashing with Laertes. They are separated, and Hamlet's grief deepens his resolve."
+        },
+        {
+          "scene": 2,
+          "location": "A hall in Elsinore Castle, Denmark",
+          "scene_summary": "Hamlet tells Horatio how he discovered Claudius's plot, forging letters to ensure Rosencrantz and Guildenstern's deaths. Osric announces the fencing match, and Hamlet, sensing a trap, accepts, trusting fate. In the duel, Gertrude drinks the poisoned wine, Laertes wounds Hamlet with the poisoned rapier, and Hamlet wounds Laertes. Gertrude dies, revealing the poison. Hamlet kills Claudius, Laertes confesses, and both die. Fortinbras arrives, claiming the throne, and Horatio vows to tell Hamlet's story, concluding the tragedy."
+        }
+      ]
+    }
+  ]
+}

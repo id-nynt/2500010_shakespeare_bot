@@ -1,0 +1,125 @@
+{
+  "title": "As You Like It",
+  "full_title": "As You Like It",
+  "category": "comedy",
+  "year": "1599-1600",
+  "setting": "Court and Forest of Arden",
+  "main_characters": [
+    "Rosalind",
+    "Orlando",
+    "Celia",
+    "Duke Senior",
+    "Duke Frederick",
+    "Jaques",
+    "Touchstone",
+    "Oliver",
+    "Silvius",
+    "Phebe"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Rosalind",
+      "description": "Duke Senior's daughter, disguises as Ganymede"
+    },
+    {
+      "name": "Orlando",
+      "description": "Young noble, loves Rosalind"
+    },
+    {
+      "name": "Celia",
+      "description": "Duke Frederick's daughter, Rosalind's cousin"
+    },
+    {
+      "name": "Duke Senior",
+      "description": "Exiled duke, lives in Arden"
+    },
+    {
+      "name": "Duke Frederick",
+      "description": "Usurping duke, banishes Rosalind"
+    },
+    {
+      "name": "Jaques",
+      "description": "Melancholy lord, follows Duke Senior"
+    },
+    {
+      "name": "Touchstone",
+      "description": "Court fool, joins Rosalind's exile"
+    },
+    {
+      "name": "Oliver",
+      "description": "Orlando's brother, initially hostile"
+    },
+    {
+      "name": "Silvius",
+      "description": "Shepherd, loves Phebe"
+    },
+    {
+      "name": "Phebe",
+      "description": "Shepherdess, loves Ganymede"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Love",
+      "theme_explanation": "Love, both romantic and familial, drives the play, as Rosalind and Orlando’s romance and other pairings find harmony in the Forest of Arden."
+    },
+    {
+      "theme": "Nature vs court",
+      "theme_explanation": "The Forest of Arden offers a pastoral escape from the corrupt court, where characters find authenticity and personal growth."
+    },
+    {
+      "theme": "Gender roles",
+      "theme_explanation": "Rosalind’s disguise as Ganymede challenges gender norms, allowing her to explore and manipulate romantic dynamics with wit and agency."
+    },
+    {
+      "theme": "Transformation",
+      "theme_explanation": "Characters undergo emotional and social transformations in Arden, such as Oliver’s redemption and Orlando’s growth, reflecting the forest’s restorative power."
+    },
+    {
+      "theme": "Pastoral life",
+      "theme_explanation": "The idealized pastoral life in Arden contrasts with courtly corruption, offering a space for reflection, love, and reconciliation."
+    },
+    {
+      "theme": "Time",
+      "theme_explanation": "Time in Arden moves fluidly, allowing characters to reflect and transform, contrasting with the rigid constraints of court life."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "All the world's a stage, and all the men and women merely players",
+      "speaker": "Jaques",
+      "act": 2,
+      "scene": 7,
+      "explanation": "Jaques philosophizes on life as a theatrical performance, outlining the seven stages of human existence."
+    },
+    {
+      "quote": "The fool doth think he is wise, but the wise man knows himself to be a fool",
+      "speaker": "Touchstone",
+      "act": 5,
+      "scene": 1,
+      "explanation": "Touchstone humorously reflects on wisdom, suggesting true insight lies in recognizing one's own folly."
+    },
+    {
+      "quote": "Do you not know I am a woman? When I think, I must speak",
+      "speaker": "Rosalind",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Rosalind, as Ganymede, playfully asserts her outspoken nature, challenging gender norms with wit."
+    },
+    {
+      "quote": "Men have died from time to time, and worms have eaten them, but not for love",
+      "speaker": "Rosalind",
+      "act": 4,
+      "scene": 1,
+      "explanation": "Rosalind downplays Orlando's romantic fervor, teasing that love is not worth dying for, yet she loves him."
+    },
+    {
+      "quote": "Sweet are the uses of adversity, which, like the toad, ugly and venomous, wears yet a precious jewel in his head",
+      "speaker": "Duke Senior",
+      "act": 2,
+      "scene": 1,
+      "explanation": "Duke Senior finds value in hardship, likening it to a toad with a hidden gem, embracing the forest's lessons."
+    }
+  ],
+  "summary": "When Rosalind is banished by her uncle Duke Frederick, she flees to the Forest of Arden with her cousin Celia and the court fool Touchstone. Disguised as a young man named Ganymede, Rosalind encounters Orlando, who has also fled to the forest. Not recognizing her, Orlando confides in 'Ganymede' about his love for Rosalind. The forest becomes a place of transformation as four couples navigate love and mistaken identities."
+}

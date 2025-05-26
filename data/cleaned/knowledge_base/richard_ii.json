@@ -1,0 +1,110 @@
+{
+  "title": "King Richard II",
+  "full_title": "The Tragedy of King Richard the Second",
+  "category": "history",
+  "year": "1595",
+  "setting": "England, late 14th century",
+  "main_characters": [
+    "King Richard II",
+    "Henry Bolingbroke",
+    "John of Gaunt",
+    "Duke of York",
+    "Duchess of Gloucester",
+    "Aumerle",
+    "Mowbray"
+  ],
+  "character_descriptions": [
+    {
+      "name": "King Richard II",
+      "description": "King of England, deposed"
+    },
+    {
+      "name": "Henry Bolingbroke",
+      "description": "Rebel, becomes Henry IV"
+    },
+    {
+      "name": "John of Gaunt",
+      "description": "Richard's uncle, loyal noble"
+    },
+    {
+      "name": "Duke of York",
+      "description": "Richard's uncle, supports Bolingbroke"
+    },
+    {
+      "name": "Duchess of Gloucester",
+      "description": "Widow, seeks justice"
+    },
+    {
+      "name": "Aumerle",
+      "description": "York's son, loyal to Richard"
+    },
+    {
+      "name": "Mowbray",
+      "description": "Noble, exiled for dispute"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Kingship",
+      "theme_explanation": "Richard’s flawed leadership and belief in divine authority contrast with Bolingbroke’s pragmatic claim to power, questioning the nature of rightful rule."
+    },
+    {
+      "theme": "Power",
+      "theme_explanation": "The struggle for power drives Bolingbroke’s rebellion, exposing the fragility of Richard’s reign and the political consequences of mismanagement."
+    },
+    {
+      "theme": "Divine right",
+      "theme_explanation": "Richard’s faith in his God-given right to rule crumbles as he is deposed, challenging the concept of monarchy’s sacred inviolability."
+    },
+    {
+      "theme": "Betrayal",
+      "theme_explanation": "Betrayals, such as York’s shift to Bolingbroke and Richard’s nobles abandoning him, underscore the precarious loyalty in a divided court."
+    },
+    {
+      "theme": "Identity",
+      "theme_explanation": "Richard grapples with his loss of kingship, questioning his identity as he transitions from anointed monarch to a mere mortal."
+    },
+    {
+      "theme": "Exile",
+      "theme_explanation": "Exile, both literal (Bolingbroke’s banishment) and metaphorical (Richard’s isolation), highlights the personal and political alienation central to the play."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "This royal throne of kings, this sceptred isle",
+      "speaker": "John of Gaunt",
+      "act": 2,
+      "scene": 1,
+      "explanation": "Gaunt's patriotic speech glorifies England, lamenting its decline under Richard's mismanagement."
+    },
+    {
+      "quote": "I wasted time, and now doth time waste me",
+      "speaker": "King Richard II",
+      "act": 5,
+      "scene": 5,
+      "explanation": "Richard reflects on his squandered reign, now imprisoned and powerless, as time overtakes him."
+    },
+    {
+      "quote": "For God's sake, let us sit upon the ground and tell sad stories of the death of kings",
+      "speaker": "King Richard II",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Richard mourns his fading power, contemplating the mortality of kings in a moment of self-pity."
+    },
+    {
+      "quote": "The shadow of my sorrow!",
+      "speaker": "King Richard II",
+      "act": 4,
+      "scene": 1,
+      "explanation": "Richard sees his reflection as a mere shadow, symbolizing his loss of identity and authority."
+    },
+    {
+      "quote": "Not all the water in the rough rude sea can wash the balm off from an anointed king",
+      "speaker": "King Richard II",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Richard asserts the divine sanctity of his kingship, resisting the idea that it can be stripped away."
+    }
+  ],
+  "summary": "King Richard II's mismanagement and seizure of noble lands provoke Henry Bolingbroke's rebellion. Exiled and then deposed, Richard is imprisoned and murdered, while Bolingbroke becomes Henry IV, grappling with the consequences of usurping the throne."
+}

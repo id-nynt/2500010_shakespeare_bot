@@ -1,0 +1,121 @@
+{
+  "title": "Measure for Measure",
+  "play_summary": "Duke Vincentio leaves Vienna under Angelo's strict rule, who sentences Claudio to death for fornication. Claudio's sister Isabella pleads for mercy, and the disguised Duke manipulates events to expose Angelo's hypocrisy, ultimately restoring justice and mercy.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "Duke Vincentio appoints Lord Angelo as his deputy to rule Vienna in his absence. Vienna has recently become loose in its moral behaviour. Angelo attempts to turn the city around with his strict enforcement of the laws against immorality. This results in imprisonment and a death sentence for Claudio, since his fiancé, Juliet, is pregnant. Lucio, a friend, takes this news to the convent where Isabella, Claudio's sister, is about to become a nun. Fearing for her brother, Isabella decides at once to seek mercy from Angelo.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in the Duke's palace, Vienna, Austria",
+          "scene_summary": "Duke Vincentio announces he's leaving Vienna, appointing Angelo as deputy to enforce strict laws. He praises Angelo's virtue to Escalus, an advisor, but hints at a hidden purpose. The Duke departs, setting up the test of Angelo's governance and the play's moral exploration."
+        },
+        {
+          "scene": 2,
+          "location": "A street in Vienna, Austria",
+          "scene_summary": "Lucio, a gentleman, jests with friends about vice in Vienna. Mistress Overdone, a bawd, reports new laws closing brothels. Claudio, arrested for impregnating Juliet before marriage, is led to prison. Lucio learns Angelo's strict enforcement threatens Claudio's life and urges Isabella, Claudio's sister, to plead for him, introducing the conflict between law and mercy."
+        },
+        {
+          "scene": 3,
+          "location": "A monastery outside Vienna, Austria",
+          "scene_summary": "The Duke, disguised as a friar, confides to Friar Thomas that he's testing Angelo's virtue, suspecting his severity. He plans to observe Vienna incognito, fearing his lenient rule encouraged vice, establishing his covert role and the play's theme of justice versus corruption."
+        },
+        {
+          "scene": 4,
+          "location": "A nunnery in Vienna, Austria",
+          "scene_summary": "Isabella, preparing to become a nun, speaks with a nun about the order's rules. Lucio arrives, informing her of Claudio's arrest and urging her to beg Angelo for mercy. Isabella agrees, driven by sisterly duty, setting up her confrontation with Angelo."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Meanwhile, the Duke has not in fact left the city. Instead he disguised himself as a friar and is trying to discover how people are reacting to Angelo's rule. He visits the prison where he tries to persuade Juliet that Claudio must die. Isabella goes to Angelo and begs for leniency. Angelo realises his powerful position and tells her to come back the next day, after he has thought the case over. On her return, Angelo proposes that he will release her brother in exchange for sleeping with him. When she refuses and threatens to reveal him, he explains that no one will believe her because of his position and reputation. He gives her one day to decide before he has Claudio killed.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A hall in Angelo's house, Vienna, Austria",
+          "scene_summary": "Escalus pleads for Claudio's life, but Angelo insists on enforcing the law against fornication. Elbow, a constable, brings Pompey, a pimp, and Froth, a gentleman, for lewd behavior. Angelo leaves Escalus to judge them leniently, highlighting Angelo's rigidity versus Escalus's moderation, with comic relief from Pompey's banter."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Angelo's house, Vienna, Austria",
+          "scene_summary": "Isabella pleads with Angelo to spare Claudio, arguing for mercy. Angelo, unmoved, upholds the law but is attracted to Isabella, offering to free Claudio if she yields to him. Isabella, horrified, refuses, threatening to expose him, as Angelo's hypocrisy emerges, escalating the moral dilemma."
+        },
+        {
+          "scene": 3,
+          "location": "A room in the prison, Vienna, Austria",
+          "scene_summary": "The Duke, disguised as a friar, visits the prison, comforting Juliet, who repents her sin. He learns of Angelo's proposition to Isabella, confirming his suspicions, and plans to intervene, reinforcing his role as observer and manipulator."
+        },
+        {
+          "scene": 4,
+          "location": "A room in Angelo's house, Vienna, Austria",
+          "scene_summary": "Angelo, tormented by desire, presses Isabella to accept his offer. She threatens to denounce him, but he warns no one will believe her. Isabella, despairing, resolves to protect her chastity, planning to tell Claudio, highlighting her virtue against Angelo's corruption."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "Isabella's horror at the idea of being forced to sleep with Angelo leads her to the prison. She tells Claudio of Angelo's suggestion. He originally agrees with her decision, but then, under the fear of death, pleads with her to go through with the act and save him (much to her dismay). During this conversation, they are overheard by the still-disguised Duke. The Duke tells them of Mariana, Angelo's former fiance, whom he rejected because her dowry was lost at sea. He suggests that Isabella should agree to the night-time meeting with Angelo, but Mariana should secretly take Isabella's place.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in the prison, Vienna, Austria",
+          "scene_summary": "The Duke, disguised, overhears Isabella tell Claudio of Angelo's bargain. Claudio, fearing death, urges her to comply, but she refuses, shaming him. The Duke proposes a plan: Isabella will agree to meet Angelo, but Mariana, Angelo's former fiancée, will take her place, aiming to trap Angelo and save Claudio, advancing the bed-trick scheme."
+        },
+        {
+          "scene": 2,
+          "location": "A street near the prison, Vienna, Austria",
+          "scene_summary": "Lucio slanders the Duke to the disguised Duke, unaware of his identity, praising Angelo's severity. Pompey is arrested again, and Escalus laments the city's vice. The Duke, alone, reflects on his plan to expose Angelo, blending comedy with the unfolding plot to restore justice."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "Despite Angelo's agreement with Isabella, the prison governor receives instructions to execute Claudio. The Duke persuades the Provost to spare Claudio. He suggests that, instead, he should execute a long-term prisoner, Barnardine. Angelo should be sent the head to satisfy him. When Barnardine will not oblige, they decide to substitute the head of a recently deceased prisoner, claiming it to be Claudio.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The moated grange, outside Vienna, Austria",
+          "scene_summary": "The Duke, disguised, meets Mariana, who agrees to the bed-trick to reclaim Angelo. Isabella reports Angelo's arrangements for their meeting, and the Duke ensures Mariana substitutes for her, finalizing the plan to deceive Angelo while preserving Isabella's chastity."
+        },
+        {
+          "scene": 2,
+          "location": "A room in the prison, Vienna, Austria",
+          "scene_summary": "The Provost receives Angelo's order to execute Claudio. The Duke, disguised, persuades him to delay and substitute Barnadine, a condemned prisoner. Barnadine refuses to die, so the Duke uses a dead prisoner's head to fake Claudio's execution, maintaining the deception to protect Claudio."
+        },
+        {
+          "scene": 3,
+          "location": "A room in the prison, Vienna, Austria",
+          "scene_summary": "The Duke instructs Isabella to confront Angelo publicly, believing Claudio dead. Lucio continues slandering the Duke, unaware. The Duke plans to reveal himself, sending letters to announce his return, setting up the climactic resolution and exposure of Angelo's crimes."
+        },
+        {
+          "scene": 4,
+          "location": "A room in Angelo's house, Vienna, Austria",
+          "scene_summary": "Angelo and Escalus receive the Duke's letters, ordering a public assembly. Angelo, unaware of the bed-trick, fears exposure but prepares to maintain his facade, while Escalus organizes the event, building tension for the Duke's return."
+        },
+        {
+          "scene": 5,
+          "location": "A field outside Vienna, Austria",
+          "scene_summary": "The Duke, still disguised, assigns Friar Peter to deliver messages and gather allies, including Varrius, for his return. The brief scene ensures logistical preparation for the public reckoning, maintaining the Duke's control."
+        },
+        {
+          "scene": 6,
+          "location": "A street near the city gate, Vienna, Austria",
+          "scene_summary": "Isabella and Mariana, guided by Friar Peter, prepare to accuse Angelo publicly. Isabella fears disbelief, but Mariana supports her, ready to reveal the bed-trick, setting the stage for the final confrontation."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "On the following day, after Mariana has fulfilled her part of the bargain, the Duke tells Isabella that Angelo has had Claudio executed. The Duke's \"return\" from abroad has been announced. Isabella and Mariana resolve to go with Lucio, the next day, to present their complaints to the Duke. During the (undisguised) Duke's state entrance to the city, Isabella begs for justice. With the help of Mariana on her side, Isabella reveals Angelo's guilt, and he is forced to accept Mariana as his wife. While befriending Isabella, Lucio has frequently slandered the Duke unknowingly to his face. The Duke condemns him to marry the prostitute mother of his illegitimate child.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A public place near the city gate, Vienna, Austria",
+          "scene_summary": "The Duke, undisguised, returns, greeted by Angelo and Escalus. Isabella accuses Angelo of corruption and Claudio's death, but he denies it. Mariana reveals the bed-trick, exposing Angelo's hypocrisy. The Duke pretends disbelief, sending Isabella and Mariana to prison, then reveals Claudio alive. Angelo confesses, is sentenced to marry Mariana, and Claudio weds Juliet. The Duke proposes to Isabella, resolving the conflicts with justice and mercy, though her response is ambiguous."
+        }
+      ]
+    }
+  ]
+}

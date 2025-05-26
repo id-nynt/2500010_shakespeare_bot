@@ -1,0 +1,116 @@
+{
+  "title": "King John",
+  "play_summary": "King John faces challenges to his throne from France and internal dissent, compounded by the tragic fate of young Prince Arthur. The Bastard's loyalty and England's resilience prevail, but John's death leaves the crown to his son, Henry III.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "King John and his mother, Queen Eleanor, greet a French ambassador. The French king, Philip, sent the ambassador to claim the English throne on behalf of John’s nephew, Prince Arthur. Philip himself is interested in and supportive of Arthur's claim to the throne. John and Eleanor reject the embassy, and France threatens war. Shortly afterwards, Robert and Philip Faulconbridge come to the King to settle their family inheritance dispute. There is confusion in the inheritance law as Philip is older but is an illegitimate child. During their discussion, Eleanor claims that Philip is the bastard son of John’s late brother, Richard Coeur-de-lion (Lionheart). Philip decides to let go of his Faulconbridge inheritance in favour of joining Queen Eleanor’s army to France. He is given knighthood and the title Sir Richard. His mother, Lady Faulconbridge, arrives to defend her honour. But she privately admits that Richard Coeur-de-lion was Philip's father.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room of state in King John's palace, Northampton, England",
+          "scene_summary": "King John receives French ambassador Chatillon, who demands John yield the crown to Arthur, son of John's late brother Geoffrey, backed by France's King Philip. John defies the challenge, preparing for war. Robert Faulconbridge and his brother Philip dispute their inheritance, revealing Philip is the illegitimate son of Richard I (Lionheart). John knights Philip as Sir Richard Plantagenet, and the Bastard joins the court, setting up the dynastic conflict and his roguish role."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "In France, King Philip and his court resolve to fight for Arthur’s claim to the English throne. They begin an attack on the English-owned city of Angers. King John arrives to state his right to the French throne, and King Philip once again pledges support to Arthur. Eleanor argues with Constance, Arthur's mother, about the claims of their respective sons. The nobles try to keep the peace between them. Hubert, spokesman for the town of Angers, is asked to judge between the claims. Hubert states that Angers will support whoever wins the throne. Battle ensues, but both armies claim victory (while neither really wins). Angers maintains its stance.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Before the walls of Angiers, France",
+          "scene_summary": "King Philip of France, with Arthur, his mother Constance, and the Dauphin (Lewis), besieges Angiers, supported by Austria. John arrives with his mother, Queen Elinor, and the Bastard. Both kings claim Angiers, but the citizens refuse to choose until a rightful king is determined. The Bastard suggests an alliance against Angiers, leading to a battle, while Constance laments Arthur's weak position, highlighting the political stalemate."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "Constance bewails the new Anglo-French alliance and her son’s lost inheritance. Arthur himself wishes for peace. On Louis and Blanche's wedding day, Constance continues to argue. Cardinal Pandolph, on embassy for the Pope, interrupts the wedding party. He questions John’s refusal to acknowledge the new Archbishop of Canterbury. After criticising and denying the Pope’s distant power, John is excommunicated. King Philip is originally hesitant to oppose John due to the newly-formed ties between him and John, but Pandolph persuades King Philip to oppose John (and remove him from office).",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The French camp near Angiers, France",
+          "scene_summary": "Constance rails against France and Austria for negotiating peace with John, fearing Arthur's claim is betrayed. Cardinal Pandulph, a papal legate, arrives, excommunicating John for defying the Pope over Canterbury's archbishop. Pandulph pressures Philip to break the peace and fight John, causing a rift as Philip reluctantly agrees, resuming war and escalating the religious conflict."
+        },
+        {
+          "scene": 2,
+          "location": "A battlefield near Angiers, France",
+          "scene_summary": "The Bastard, carrying Austria's head, reports English victories. John captures Arthur, ordering Hubert to guard him. Elinor comforts John, but the Bastard senses trouble, urging vigilance. The brief scene shows English success but foreshadows Arthur's peril and John's insecurity."
+        },
+        {
+          "scene": 3,
+          "location": "The English camp near Angiers, France",
+          "scene_summary": "John instructs Hubert to kill Arthur secretly to secure his throne. He plans to return to England, leaving the Bastard to manage French territories. The scene reveals John's ruthless ambition and the moral descent that threatens his rule."
+        },
+        {
+          "scene": 4,
+          "location": "The French camp near Angiers, France",
+          "scene_summary": "Philip, Lewis, and Constance lament their defeat. Constance grieves for Arthur's capture, cursing her allies. Pandulph encourages Lewis to invade England, predicting John's weakening grip due to Arthur's fate, rallying the French for a new campaign and deepening the tragedy of Constance's despair."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "Hubert first threatens to blind the Prince, and then to take his life, but relents when the boy pleads for mercy. Hubert decides to hide him instead.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in a castle, Northampton, England",
+          "scene_summary": "Hubert prepares to blind Arthur with hot irons, as ordered by John, but Arthur's innocence and pleas soften him. Hubert spares Arthur, hiding his mercy, showing compassion amidst John's cruelty and setting up the moral tension of Arthur's fate."
+        },
+        {
+          "scene": 2,
+          "location": "A room in King John's palace, Northampton, England",
+          "scene_summary": "John, crowned again to assert legitimacy, faces nobles like Pembroke and Salisbury, who suspect Arthur's murder and demand his release. Hubert falsely claims Arthur is dead, shocking John, who blames him. A messenger reports French invasion and Elinor's death, alarming John. The nobles depart, distrustful, and John regrets his orders, as his rule unravels."
+        },
+        {
+          "scene": 3,
+          "location": "Before the castle, Northampton, England",
+          "scene_summary": "Arthur, escaping, leaps from the castle wall and dies. The Bastard, arriving, meets Pembroke and Salisbury, who accuse John of murder. Finding Arthur's body, they vow rebellion. Hubert reveals Arthur was alive until now, but the nobles disbelieve him. The Bastard urges loyalty to John despite the chaos, highlighting the tragic misunderstanding and civil strife."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "As the French forces move towards London, strengthened by the defecting lords, John yields to the Church's supremacy in return for protection. Pandolph speaks with Louis on John's behalf, but Louis won't be swayed. The Bastard, leading the King's forces, also sues for peace with the rebels, but battle rages regardless. John, struck with illness, seeks refuge at an abbey. In the midst of a battle, a dying French Lord, Melun, tells the defecting English lords they have joined the wrong side. He warns them to return to the English armies because Louis plans to kill them if the French win.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in King John's palace, Northampton, England",
+          "scene_summary": "John submits to Pandulph, yielding to the Pope to counter the French invasion. The Bastard, returning, urges defiance, but John reveals his reconciliation. Pandulph promises to halt Lewis's advance, but the Bastard remains skeptical, showing John's weakened authority and the Bastard's growing prominence."
+        },
+        {
+          "scene": 2,
+          "location": "The Dauphin's camp near St. Edmundsbury, England",
+          "scene_summary": "Lewis, with Salisbury and Pembroke, rejects Pandulph's peace offer, determined to conquer England. The nobles, torn, lament their disloyalty but commit to Lewis. The Bastard arrives, defying Lewis and reporting John's rallied forces, escalating tensions as battle looms."
+        },
+        {
+          "scene": 3,
+          "location": "A battlefield near St. Edmundsbury, England",
+          "scene_summary": "John, ill, learns from the Bastard of English successes but also French reinforcements. A messenger reports the loss of supplies, weakening John's position. John retreats to Swinstead Abbey, showing his physical and political decline."
+        },
+        {
+          "scene": 4,
+          "location": "Another part of the battlefield near St. Edmundsbury, England",
+          "scene_summary": "Salisbury, Pembroke, and Bigot, fighting for Lewis, learn John is poisoned by a monk. Melun, a dying French lord, reveals Lewis plans to betray them, prompting the nobles to rejoin John, seeking mercy, as the tide turns against the French."
+        },
+        {
+          "scene": 5,
+          "location": "The French camp near St. Edmundsbury, England",
+          "scene_summary": "Lewis laments English resistance and the loss of reinforcements, weakened further by the nobles' defection. He resolves to fight on, but his position deteriorates, reflecting the French campaign's collapse."
+        },
+        {
+          "scene": 6,
+          "location": "A field near Swinstead Abbey, England",
+          "scene_summary": "The Bastard meets Hubert, learning of John's poisoning and the nobles' return. Hubert reports Arthur's death stirred rebellion, but the Bastard focuses on defending England. They rush to John, uniting to save the kingdom amidst chaos."
+        },
+        {
+          "scene": 7,
+          "location": "The orchard at Swinstead Abbey, England",
+          "scene_summary": "Prince Henry, John's son, mourns his father's worsening condition. John, delirious, dies after the Bastard and nobles arrive, reconciled. The Bastard swears loyalty to Prince Henry, crowned Henry III. Pandulph announces French withdrawal, and the Bastard vows England's strength, ending with national unity restored."
+        }
+      ]
+    }
+  ]
+}

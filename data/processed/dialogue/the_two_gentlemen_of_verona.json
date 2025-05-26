@@ -1,0 +1,3710 @@
+{
+  "title": "The Two Gentlemen of Verona",
+  "acts": [
+    {
+      "act": 1,
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Verona. An open place",
+          "scene_id": "the_two_gentlemen_of_verona_1_1",
+          "dialogues": [
+            {
+              "speaker": "Valentine",
+              "line": "Cease to persuade, my loving Proteus. Home-keeping youth have ever homely wits. Were't not affection chains thy tender days To the sweet glances of thy honoured love, I rather would entreat thy company To see the wonders of the world abroad Than, living dully sluggardized at home, Wear out thy youth with shapeless idleness. But since thou lov'st, love still, and thrive therein, Even as I would when I to love begin."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Wilt thou be gone? Sweet Valentine, adieu. Think on thy Proteus when thou haply seest Some rare noteworthy object in thy travel. Wish me partaker in thy happiness When thou dost meet good hap; and in thy danger, If ever danger do environ thee, Commend thy grievance to my holy prayers, For I will be thy headsman, Valentine."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "And on a love-book pray for my success?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Upon some book I love I'll pray for thee."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "That's on some shallow story of deep love, How young Leander crossed the Hellespont."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "That's a deep story of a deeper love, For he was more than over shoes in love."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "'Tis true; for you are over boots in love, And yet you never swam the Hellespont."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Over the boots? Nay, give me not the boots."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "No, I will not, for it boots thee not."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "What?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "To be in love, where scorn is bought with groans, Coy looks with heart-sore sighs, one fading moment's mirth With twenty watchful, weary, tedious nights. If haply won, perhaps a hapless gain; If lost, why then a grievous labour won; However, but a folly bought with wit, Or else a wit by folly vanquished."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "So, by your circumstance, you call me fool."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "So, by your circumstance, I fear you'll prove."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "'Tis love you cavil at. I am not Love."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Love is your master, for he masters you; And he that is so yoked by a fool Methinks should not be chronicled for wise."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Yet writers say, as in the sweetest bud The eating canker dwells, so eating love Inhabits in the finest wits of all."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "And writers say, as the most forward bud Is eaten by the canker ere it blow, Even so by love the young and tender wit Is turned to folly, blasting in the bud, Losing his verdure even in the prime, And all the fair effects of future hopes. But wherefore waste I time to counsel thee That art a votary to fond desire? Once more adieu. My father at the road Expects my coming, there to see me shipped."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "And thither will I bring thee, Valentine."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Sweet Proteus, no. Now let us take our leave. To Milan let me hear from thee by letters Of thy success in love, and what news else Betideth here in absence of thy friend; And I likewise will visit thee with mine."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "All happiness bechance to thee in Milan."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "As much to you at home, and so farewell."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "He after honour hunts, I after love. He leaves his friends to dignify them more; I leave myself, my friends, and all for love. Thou, Julia, thou hast metamorphosed me, Made me neglect my studies, lose my time, War with good counsel, set the world at nought; Made wit with musing weak, heart sick with thought."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Sir Proteus, 'save you. Saw you my master?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "But now he parted hence to embark for Milan."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Twenty to one, then, he is shipped already, And I have played the sheep in losing him."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Indeed a sheep doth very often stray, An if the shepherd be a while away."
+            },
+            {
+              "speaker": "Speed",
+              "line": "You conclude that my master is a shepherd then, and I a sheep?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "I do."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Why then, my horns are his horns, whether I wake or sleep."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "A silly answer, and fitting well a sheep."
+            },
+            {
+              "speaker": "Speed",
+              "line": "This proves me still a sheep."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "True, and thy master a shepherd."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Nay, that I can deny by a circumstance."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "It shall go hard but I'll prove it by another."
+            },
+            {
+              "speaker": "Speed",
+              "line": "The shepherd seeks the sheep, and not the sheep the shepherd; but I seek my master, and my master seeks not me. Therefore I am no sheep."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "The sheep for fodder follow the shepherd; the shepherd for food follows not the sheep. Thou for wages followest thy master; thy master for wages follows not thee. Therefore thou art a sheep."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Such another proof will make me cry \"baa\"."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "But dost thou hear? Gav'st thou my letter to Julia?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Ay, sir. I, a lost mutton, gave your letter to her, a laced mutton, and she, a laced mutton, gave me, a lost mutton, nothing for my labour."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Here's too small a pasture for such store of muttons."
+            },
+            {
+              "speaker": "Speed",
+              "line": "If the ground be overcharged, you were best stick her."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Nay, in that you are astray; 'twere best pound you."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Nay, sir, less than a pound shall serve me for carrying your letter."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "You mistake; I mean the pound, a pinfold."
+            },
+            {
+              "speaker": "Speed",
+              "line": "From a pound to a pin? Fold it over and over, 'Tis threefold too little for carrying a letter to your lover."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "But what said she?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Ay."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Nod-\"Ay\". Why, that's \"noddy\"."
+            },
+            {
+              "speaker": "Speed",
+              "line": "You mistook, sir. I say she did nod, and you ask me if she did nod; and I say \"Ay\"."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "And that set together is \"noddy\"."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Now you have taken the pains to set it together, take it for your pains."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "No, no, you shall have it for bearing the letter."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Well, I perceive I must be fain to bear with you."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Why, sir, how do you bear with me?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Marry, sir, the letter, very orderly, having nothing but the word \"noddy\" for my pains."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Beshrew me, but you have a quick wit."
+            },
+            {
+              "speaker": "Speed",
+              "line": "And yet it cannot overtake your slow purse."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Come, come, open the matter; in brief, what said she?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Open your purse, that the money and the matter may be both at once delivered."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Well, sir, here is for your pains. What said she?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Truly, sir, I think you'll hardly win her."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Why? Couldst thou perceive so much from her?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Sir, I could perceive nothing at all from her; no, not so much as a ducat for delivering your letter. And being so hard to me that brought your mind, I fear she'll prove as hard to you in telling your mind. Give her no token but stones, for she's as hard as steel."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "What said she, nothing?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "No, not so much as \"Take this for thy pains.\" To testify your bounty, I thank you, you have testerned me; in requital whereof, henceforth carry your letters yourself. And so, sir, I'll commend you to my master."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Go, go, begone, to save your ship from wrack, Which cannot perish having thee aboard, Being destined to a drier death on shore. I must go send some better messenger. I fear my Julia would not deign my lines, Receiving them from such a worthless post."
+            }
+          ],
+          "scene_characters": [
+            "Proteus",
+            "Speed",
+            "Valentine"
+          ]
+        },
+        {
+          "scene": 2,
+          "location": "The same. The garden of Julia's house",
+          "scene_id": "the_two_gentlemen_of_verona_1_2",
+          "dialogues": [
+            {
+              "speaker": "Julia",
+              "line": "But say, Lucetta, now we are alone, Wouldst thou then counsel me to fall in love?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Ay, madam, so you stumble not unheedfully."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Of all the fair resort of gentlemen That every day with parle encounter me, In thy opinion which is worthiest love?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Please you, repeat their names, I'll show my mind According to my shallow simple skill."
+            },
+            {
+              "speaker": "Julia",
+              "line": "What think'st thou of the fair Sir Eglamour?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "As of a knight well-spoken, neat, and fine; But, were I you, he never should be mine."
+            },
+            {
+              "speaker": "Julia",
+              "line": "What think'st thou of the rich Mercatio?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Well of his wealth; but of himself, so-so."
+            },
+            {
+              "speaker": "Julia",
+              "line": "What think'st thou of the gentle Proteus?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Lord, Lord, to see what folly reigns in us!"
+            },
+            {
+              "speaker": "Julia",
+              "line": "How now? What means this passion at his name?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Pardon, dear madam, 'tis a passing shame That I, unworthy body as I am, Should censure thus on lovely gentlemen."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Why not on Proteus, as of all the rest?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Then thus: of many good I think him best."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Your reason?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "I have no other but a woman's reason: I think him so because I think him so."
+            },
+            {
+              "speaker": "Julia",
+              "line": "And wouldst thou have me cast my love on him?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Ay, if you thought your love not cast away."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Why, he of all the rest hath never moved me."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Yet he of all the rest I think best loves ye."
+            },
+            {
+              "speaker": "Julia",
+              "line": "His little speaking shows his love but small."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Fire that's closest kept burns most of all."
+            },
+            {
+              "speaker": "Julia",
+              "line": "They do not love that do not show their love."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "O, they love least that let men know their love."
+            },
+            {
+              "speaker": "Julia",
+              "line": "I would I knew his mind."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Peruse this paper, madam."
+            },
+            {
+              "speaker": "Julia",
+              "line": "_To Julia_-Say, from whom?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "That the contents will show."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Say, say, who gave it thee?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Sir Valentine's page, and sent, I think, from Proteus. He would have given it you, but I, being in the way, Did in your name receive it. Pardon the fault, I pray."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Now, by my modesty, a goodly broker! Dare you presume to harbour wanton lines? To whisper and conspire against my youth? Now trust me, 'tis an office of great worth, And you an officer fit for the place. There, take the paper; see it be returned, Or else return no more into my sight."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "To plead for love deserves more fee than hate."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Will ye be gone?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "That you may ruminate."
+            },
+            {
+              "speaker": "Julia",
+              "line": "And yet I would I had o'erlooked the letter. It were a shame to call her back again And pray her to a fault for which I chid her. What fool is she, that knows I am a maid And would not force the letter to my view, Since maids in modesty say \"No\" to that Which they would have the profferer construe \"Ay\". Fie, fie, how wayward is this foolish love That like a testy babe will scratch the nurse And presently, all humbled, kiss the rod! How churlishly I chid Lucetta hence, When willingly I would have had her here! How angerly I taught my brow to frown, When inward joy enforced my heart to smile! My penance is to call Lucetta back And ask remission for my folly past. What ho! Lucetta!"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "What would your ladyship?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Is 't near dinner time?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "I would it were, That you might kill your stomach on your meat And not upon your maid."
+            },
+            {
+              "speaker": "Julia",
+              "line": "What is't that you took up so gingerly?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Nothing."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Why didst thou stoop, then?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "To take a paper up that I let fall."
+            },
+            {
+              "speaker": "Julia",
+              "line": "And is that paper nothing?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Nothing concerning me."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Then let it lie for those that it concerns."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Madam, it will not lie where it concerns, Unless it have a false interpreter."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Some love of yours hath writ to you in rhyme."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "That I might sing it, madam, to a tune. Give me a note. Your ladyship can set-"
+            },
+            {
+              "speaker": "Julia",
+              "line": "As little by such toys as may be possible. Best sing it to the tune of \"Light o' Love\"."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "It is too heavy for so light a tune."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Heavy? Belike it hath some burden then?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Ay, and melodious were it, would you sing it."
+            },
+            {
+              "speaker": "Julia",
+              "line": "And why not you?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "I cannot reach so high."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Let's see your song.  How now, minion!"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Keep tune there still, so you will sing it out. And yet methinks I do not like this tune."
+            },
+            {
+              "speaker": "Julia",
+              "line": "You do not?"
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "No, madam, it is too sharp."
+            },
+            {
+              "speaker": "Julia",
+              "line": "You, minion, are too saucy."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Nay, now you are too flat And mar the concord with too harsh a descant. There wanteth but a mean to fill your song."
+            },
+            {
+              "speaker": "Julia",
+              "line": "The mean is drowned with your unruly bass."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Indeed, I bid the base for Proteus."
+            },
+            {
+              "speaker": "Julia",
+              "line": "This babble shall not henceforth trouble me. Here is a coil with protestation!  Go, get you gone, and let the papers lie. You would be fingering them to anger me."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "She makes it strange, but she would be best pleased To be so angered with another letter."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Nay, would I were so angered with the same! O hateful hands, to tear such loving words! Injurious wasps, to feed on such sweet honey And kill the bees that yield it with your stings! I'll kiss each several paper for amends. Look, here is writ _kind Julia_. Unkind Julia! As in revenge of thy ingratitude, I throw thy name against the bruising stones, Trampling contemptuously on thy disdain. And here is writ _love-wounded Proteus_. Poor wounded name, my bosom as a bed Shall lodge thee till thy wound be throughly healed; And thus I search it with a sovereign kiss. But twice or thrice was _Proteus_ written down. Be calm, good wind, blow not a word away Till I have found each letter in the letter Except mine own name. That some whirlwind bear Unto a ragged, fearful, hanging rock, And throw it thence into the raging sea. Lo, here in one line is his name twice writ: _Poor forlorn Proteus, passionate Proteus, To the sweet Julia._ That I'll tear away; And yet I will not, sith so prettily He couples it to his complaining names. Thus will I fold them one upon another. Now kiss, embrace, contend, do what you will."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Madam, dinner is ready, and your father stays."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Well, let us go."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "What, shall these papers lie like tell-tales here?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "If you respect them, best to take them up."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Nay, I was taken up for laying them down. Yet here they shall not lie, for catching cold."
+            },
+            {
+              "speaker": "Julia",
+              "line": "I see you have a month's mind to them."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Ay, madam, you may say what sights you see; I see things too, although you judge I wink."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Come, come, will't please you go?"
+            }
+          ],
+          "scene_characters": [
+            "Julia",
+            "Lucetta"
+          ]
+        },
+        {
+          "scene": 3,
+          "location": "The same. A room in Antonio's house",
+          "scene_id": "the_two_gentlemen_of_verona_1_3",
+          "dialogues": [
+            {
+              "speaker": "Antonio",
+              "line": "Tell me, Pantino, what sad talk was that Wherewith my brother held you in the cloister?"
+            },
+            {
+              "speaker": "Pantino",
+              "line": "'Twas of his nephew Proteus, your son."
+            },
+            {
+              "speaker": "Antonio",
+              "line": "Why, what of him?"
+            },
+            {
+              "speaker": "Pantino",
+              "line": "He wondered that your lordship Would suffer him to spend his youth at home While other men, of slender reputation, Put forth their sons to seek preferment out: Some to the wars to try their fortune there; Some to discover islands far away; Some to the studious universities. For any or for all these exercises He said that Proteus your son was meet, And did request me to importune you To let him spend his time no more at home, Which would be great impeachment to his age In having known no travel in his youth."
+            },
+            {
+              "speaker": "Antonio",
+              "line": "Nor need'st thou much importune me to that Whereon this month I have been hammering. I have considered well his loss of time, And how he cannot be a perfect man, Not being tried and tutored in the world. Experience is by industry achieved And perfected by the swift course of time. Then tell me whither were I best to send him?"
+            },
+            {
+              "speaker": "Pantino",
+              "line": "I think your lordship is not ignorant How his companion, youthful Valentine, Attends the Emperor in his royal court."
+            },
+            {
+              "speaker": "Antonio",
+              "line": "I know it well."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "'Twere good, I think, your lordship sent him thither. There shall he practise tilts and tournaments, Hear sweet discourse, converse with noblemen, And be in eye of every exercise Worthy his youth and nobleness of birth."
+            },
+            {
+              "speaker": "Antonio",
+              "line": "I like thy counsel; well hast thou advised, And that thou mayst perceive how well I like it, The execution of it shall make known. Even with the speediest expedition I will dispatch him to the Emperor's court."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "Tomorrow, may it please you, Don Alphonso With other gentlemen of good esteem Are journeying to salute the Emperor And to commend their service to his will."
+            },
+            {
+              "speaker": "Antonio",
+              "line": "Good company. With them shall Proteus go. And in good time! Now will we break with him."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Sweet love, sweet lines, sweet life! Here is her hand, the agent of her heart; Here is her oath for love, her honour's pawn. O, that our fathers would applaud our loves To seal our happiness with their consents. O heavenly Julia!"
+            },
+            {
+              "speaker": "Antonio",
+              "line": "How now? What letter are you reading there?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "May't please your lordship, 'tis a word or two Of commendations sent from Valentine, Delivered by a friend that came from him."
+            },
+            {
+              "speaker": "Antonio",
+              "line": "Lend me the letter. Let me see what news."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "There is no news, my lord, but that he writes How happily he lives, how well beloved And daily graced by the Emperor, Wishing me with him, partner of his fortune."
+            },
+            {
+              "speaker": "Antonio",
+              "line": "And how stand you affected to his wish?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "As one relying on your lordship's will, And not depending on his friendly wish."
+            },
+            {
+              "speaker": "Antonio",
+              "line": "My will is something sorted with his wish. Muse not that I thus suddenly proceed, For what I will, I will, and there an end. I am resolved that thou shalt spend some time With Valentinus in the Emperor's court. What maintenance he from his friends receives, Like exhibition thou shalt have from me. Tomorrow be in readiness to go. Excuse it not, for I am peremptory."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "My lord, I cannot be so soon provided; Please you deliberate a day or two."
+            },
+            {
+              "speaker": "Antonio",
+              "line": "Look what thou want'st shall be sent after thee. No more of stay. Tomorrow thou must go. Come on, Pantino, you shall be employed To hasten on his expedition."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Thus have I shunned the fire for fear of burning And drenched me in the sea, where I am drowned. I feared to show my father Julia's letter Lest he should take exceptions to my love, And with the vantage of mine own excuse Hath he excepted most against my love. O, how this spring of love resembleth The uncertain glory of an April day, Which now shows all the beauty of the sun, And by an by a cloud takes all away."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "Sir Proteus, your father calls for you. He is in haste. Therefore, I pray you, go."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Why, this it is: my heart accords thereto, And yet a thousand times it answers \"No\"."
+            }
+          ],
+          "scene_characters": [
+            "Antonio",
+            "Pantino",
+            "Proteus"
+          ]
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Milan. A room in the Duke's palace",
+          "scene_id": "the_two_gentlemen_of_verona_2_1",
+          "dialogues": [
+            {
+              "speaker": "Speed",
+              "line": "Sir, your glove."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Not mine. My gloves are on."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Why, then, this may be yours, for this is but one."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Ha? Let me see. Ay, give it me, it's mine. Sweet ornament that decks a thing divine! Ah, Silvia, Silvia!"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Madam Silvia! Madam Silvia!"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "How now, sirrah?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "She is not within hearing, sir."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Why, sir, who bade you call her?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Your worship, sir, or else I mistook."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Well, you'll still be too forward."
+            },
+            {
+              "speaker": "Speed",
+              "line": "And yet I was last chidden for being too slow."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Go to, sir. Tell me, do you know Madam Silvia?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "She that your worship loves?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Why, how know you that I am in love?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Marry, by these special marks: first, you have learned, like Sir Proteus, to wreathe your arms like a malcontent; to relish a love-song, like a robin redbreast; to walk alone, like one that had the pestilence; to sigh, like a schoolboy that had lost his ABC; to weep, like a young wench that had buried her grandam; to fast, like one that takes diet; to watch, like one that fears robbing; to speak puling, like a beggar at Hallowmas. You were wont, when you laughed, to crow like a cock; when you walked, to walk like one of the lions; when you fasted, it was presently after dinner; when you looked sadly, it was for want of money. And now you are metamorphosed with a mistress, that, when I look on you, I can hardly think you my master."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Are all these things perceived in me?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "They are all perceived without ye."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Without me? They cannot."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Without you? Nay, that's certain, for without you were so simple, none else would. But you are so without these follies, that these follies are within you, and shine through you like the water in an urinal, that not an eye that sees you but is a physician to comment on your malady."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "But tell me, dost thou know my lady Silvia?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "She that you gaze on so as she sits at supper?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Hast thou observed that? Even she I mean."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Why, sir, I know her not."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Dost thou know her by my gazing on her, and yet know'st her not?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Is she not hard-favoured, sir?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Not so fair, boy, as well-favoured."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Sir, I know that well enough."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "What dost thou know?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "That she is not so fair as, of you, well-favoured."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I mean that her beauty is exquisite but her favour infinite."
+            },
+            {
+              "speaker": "Speed",
+              "line": "That's because the one is painted, and the other out of all count."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "How painted? And how out of count?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Marry, sir, so painted to make her fair, that no man counts of her beauty."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "How esteem'st thou me? I account of her beauty."
+            },
+            {
+              "speaker": "Speed",
+              "line": "You never saw her since she was deformed."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "How long hath she been deformed?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Ever since you loved her."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I have loved her ever since I saw her, and still I see her beautiful."
+            },
+            {
+              "speaker": "Speed",
+              "line": "If you love her, you cannot see her."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Why?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Because Love is blind. O, that you had mine eyes, or your own eyes had the lights they were wont to have when you chid at Sir Proteus for going ungartered!"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "What should I see then?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Your own present folly and her passing deformity; for he, being in love, could not see to garter his hose; and you, being in love, cannot see to put on your hose."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Belike, boy, then you are in love, for last morning you could not see to wipe my shoes."
+            },
+            {
+              "speaker": "Speed",
+              "line": "True, sir, I was in love with my bed. I thank you, you swinged me for my love, which makes me the bolder to chide you for yours."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "In conclusion, I stand affected to her."
+            },
+            {
+              "speaker": "Speed",
+              "line": "I would you were set, so your affection would cease."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Last night she enjoined me to write some lines to one she loves."
+            },
+            {
+              "speaker": "Speed",
+              "line": "And have you?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I have."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Are they not lamely writ?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "No, boy, but as well as I can do them. Peace, here she comes."
+            },
+            {
+              "speaker": "Speed",
+              "line": "O excellent motion! O exceeding puppet! Now will he interpret to her."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Madam and mistress, a thousand good-morrows."
+            },
+            {
+              "speaker": "Speed",
+              "line": "O, give ye good e'en! Here's a million of manners."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Sir Valentine and servant, to you two thousand."
+            },
+            {
+              "speaker": "Speed",
+              "line": "He should give her interest, and she gives it him."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "As you enjoined me, I have writ your letter Unto the secret nameless friend of yours, Which I was much unwilling to proceed in But for my duty to your ladyship."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "I thank you, gentle servant, 'tis very clerkly done."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Now trust me, madam, it came hardly off, For, being ignorant to whom it goes, I writ at random, very doubtfully."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Perchance you think too much of so much pains?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "No, madam; so it stead you, I will write, Please you command, a thousand times as much. And yet-"
+            },
+            {
+              "speaker": "Silvia",
+              "line": "A pretty period. Well, I guess the sequel; And yet I will not name it. And yet I care not. And yet take this again. And yet I thank you, Meaning henceforth to trouble you no more."
+            },
+            {
+              "speaker": "Speed",
+              "line": "And yet you will; and yet another \"yet\"."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "What means your ladyship? Do you not like it?"
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Yes, yes, the lines are very quaintly writ, But, since unwillingly, take them again. Nay, take them."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Madam, they are for you."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Ay, ay, you writ them, sir, at my request, But I will none of them. They are for you. I would have had them writ more movingly."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Please you, I'll write your ladyship another."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "And when it's writ, for my sake read it over, And if it please you, so; if not, why, so."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "If it please me, madam? What then?"
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Why, if it please you, take it for your labour. And so good morrow, servant."
+            },
+            {
+              "speaker": "Speed",
+              "line": "O jest unseen, inscrutable, invisible, As a nose on a man's face, or a weathercock on a steeple! My master sues to her, and she hath taught her suitor, He being her pupil, to become her tutor. O excellent device! Was there ever heard a better? That my master, being scribe, to himself should write the letter?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "How now, sir? What are you reasoning with yourself?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Nay, I was rhyming. 'Tis you that have the reason."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "To do what?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "To be a spokesman from Madam Silvia."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "To whom?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "To yourself. Why, she woos you by a figure."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "What figure?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "By a letter, I should say."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Why, she hath not writ to me."
+            },
+            {
+              "speaker": "Speed",
+              "line": "What need she, when she hath made you write to yourself? Why, do you not perceive the jest?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "No, believe me."
+            },
+            {
+              "speaker": "Speed",
+              "line": "No believing you indeed, sir. But did you perceive her earnest?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "She gave me none, except an angry word."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Why, she hath given you a letter."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "That's the letter I writ to her friend."
+            },
+            {
+              "speaker": "Speed",
+              "line": "And that letter hath she delivered, and there an end."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I would it were no worse."
+            },
+            {
+              "speaker": "Speed",
+              "line": "I'll warrant you, 'tis as well. For often have you writ to her, and she, in modesty Or else for want of idle time, could not again reply, Or fearing else some messenger that might her mind discover, Herself hath taught her love himself to write unto her lover. All this I speak in print, for in print I found it. Why muse you, sir? 'Tis dinner time."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I have dined."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Ay, but hearken, sir, though the chameleon Love can feed on the air, I am one that am nourished by my victuals, and would fain have meat. O, be not like your mistress! Be moved, be moved."
+            }
+          ],
+          "scene_characters": [
+            "Silvia",
+            "Speed",
+            "Valentine"
+          ]
+        },
+        {
+          "scene": 2,
+          "location": "Verona. A room in Julia's house",
+          "scene_id": "the_two_gentlemen_of_verona_2_2",
+          "dialogues": [
+            {
+              "speaker": "Proteus",
+              "line": "Have patience, gentle Julia."
+            },
+            {
+              "speaker": "Julia",
+              "line": "I must, where is no remedy."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "When possibly I can, I will return."
+            },
+            {
+              "speaker": "Julia",
+              "line": "If you turn not, you will return the sooner. Keep this remembrance for thy Julia's sake."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Why, then we'll make exchange. Here, take you this."
+            },
+            {
+              "speaker": "Julia",
+              "line": "And seal the bargain with a holy kiss."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Here is my hand for my true constancy. And when that hour o'erslips me in the day Wherein I sigh not, Julia, for thy sake, The next ensuing hour some foul mischance Torment me for my love's forgetfulness. My father stays my coming; answer not. The tide is now-nay, not thy tide of tears, That tide will stay me longer than I should. Julia, farewell. What, gone without a word? Ay, so true love should do. It cannot speak, For truth hath better deeds than words to grace it."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "Sir Proteus, you are stayed for."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Go, I come, I come. Alas, this parting strikes poor lovers dumb."
+            }
+          ],
+          "scene_characters": [
+            "Julia",
+            "Pantino",
+            "Proteus"
+          ]
+        },
+        {
+          "scene": 3,
+          "location": "The same. A street",
+          "scene_id": "the_two_gentlemen_of_verona_2_3",
+          "dialogues": [
+            {
+              "speaker": "Lance",
+              "line": "Nay, 'twill be this hour ere I have done weeping; all the kind of the Lances have this very fault. I have received my proportion, like the prodigious son, and am going with Sir Proteus to the Imperial's court. I think Crab my dog be the sourest-natured dog that lives: my mother weeping, my father wailing, my sister crying, our maid howling, our cat wringing her hands, and all our house in a great perplexity, yet did not this cruel-hearted cur shed one tear. He is a stone, a very pebblestone, and has no more pity in him than a dog. A Jew would have wept to have seen our parting. Why, my grandam, having no eyes, look you, wept herself blind at my parting. Nay, I'll show you the manner of it. This shoe is my father. No, this left shoe is my father; no, no, this left shoe is my mother. Nay, that cannot be so neither. Yes, it is so, it is so; it hath the worser sole. This shoe with the hole in it is my mother, and this my father. A vengeance on 't, there 'tis. Now, sir, this staff is my sister, for, look you, she is as white as a lily and as small as a wand. This hat is Nan, our maid. I am the dog. No, the dog is himself, and I am the dog. O, the dog is me, and I am myself. Ay, so, so. Now come I to my father: \"Father, your blessing.\" Now should not the shoe speak a word for weeping. Now should I kiss my father. Well, he weeps on. Now come I to my mother. O, that she could speak now like a wood woman! Well, I kiss her. Why there 'tis; here's my mother's breath up and down. Now come I to my sister. Mark the moan she makes. Now the dog all this while sheds not a tear nor speaks a word; but see how I lay the dust with my tears."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "Lance, away, away! Aboard! Thy master is shipped, and thou art to post after with oars. What's the matter? Why weep'st thou, man? Away, ass. You'll lose the tide if you tarry any longer."
+            },
+            {
+              "speaker": "Lance",
+              "line": "It is no matter if the tied were lost, for it is the unkindest tied that ever any man tied."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "What's the unkindest tide?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Why, he that's tied here, Crab, my dog."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "Tut, man, I mean thou'lt lose the flood, and, in losing the flood, lose thy voyage, and, in losing thy voyage, lose thy master, and, in losing thy master, lose thy service, and, in losing thy service-why dost thou stop my mouth?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "For fear thou shouldst lose thy tongue."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "Where should I lose my tongue?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "In thy tale."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "In thy tail!"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Lose the tide, and the voyage, and the master, and the service, and the tied? Why, man, if the river were dry, I am able to fill it with my tears; if the wind were down, I could drive the boat with my sighs."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "Come, come away, man. I was sent to call thee."
+            },
+            {
+              "speaker": "Lance",
+              "line": "Sir, call me what thou dar'st."
+            },
+            {
+              "speaker": "Pantino",
+              "line": "Will thou go?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Well, I will go."
+            }
+          ],
+          "scene_characters": [
+            "Lance",
+            "Pantino"
+          ]
+        },
+        {
+          "scene": 4,
+          "location": "Milan. A room in the Duke's palace",
+          "scene_id": "the_two_gentlemen_of_verona_2_4",
+          "dialogues": [
+            {
+              "speaker": "Silvia",
+              "line": "Servant!"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Mistress?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Master, Sir Thurio frowns on you."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Ay, boy, it's for love."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Not of you."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Of my mistress, then."
+            },
+            {
+              "speaker": "Speed",
+              "line": "'Twere good you knocked him."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Servant, you are sad."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Indeed, madam, I seem so."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Seem you that you are not?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Haply I do."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "So do counterfeits."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "So do you."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "What seem I that I am not?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Wise."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "What instance of the contrary?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Your folly."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "And how quote you my folly?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I quote it in your jerkin."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "My jerkin is a doublet."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Well, then, I'll double your folly."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "How!"
+            },
+            {
+              "speaker": "Silvia",
+              "line": "What, angry, Sir Thurio? Do you change colour?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Give him leave, madam, he is a kind of chameleon."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "That hath more mind to feed on your blood than live in your air."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "You have said, sir."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Ay, sir, and done too, for this time."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I know it well, sir. You always end ere you begin."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "A fine volley of words, gentlemen, and quickly shot off."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "'Tis indeed, madam, we thank the giver."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Who is that, servant?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Yourself, sweet lady, for you gave the fire. Sir Thurio borrows his wit from your ladyship's looks, and spends what he borrows kindly in your company."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Sir, if you spend word for word with me, I shall make your wit bankrupt."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I know it well, sir. You have an exchequer of words and, I think, no other treasure to give your followers, for it appears by their bare liveries that they live by your bare words."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "No more, gentlemen, no more. Here comes my father."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Now, daughter Silvia, you are hard beset. Sir Valentine, your father is in good health. What say you to a letter from your friends Of much good news?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "My lord, I will be thankful To any happy messenger from thence."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Know ye Don Antonio, your countryman?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Ay, my good lord, I know the gentleman To be of worth and worthy estimation, And not without desert so well reputed."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Hath he not a son?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Ay, my good lord, a son that well deserves The honour and regard of such a father."
+            },
+            {
+              "speaker": "Duke",
+              "line": "You know him well?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I knew him as myself, for from our infancy We have conversed and spent our hours together. And though myself have been an idle truant, Omitting the sweet benefit of time To clothe mine age with angel-like perfection, Yet hath Sir Proteus, for that's his name, Made use and fair advantage of his days: His years but young, but his experience old; His head unmellowed, but his judgement ripe; And in a word, for far behind his worth Comes all the praises that I now bestow, He is complete in feature and in mind, With all good grace to grace a gentleman."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Beshrew me, sir, but if he make this good, He is as worthy for an empress' love As meet to be an emperor's counsellor. Well, sir, this gentleman is come to me With commendation from great potentates, And here he means to spend his time awhile. I think 'tis no unwelcome news to you."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Should I have wished a thing, it had been he."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Welcome him then according to his worth. Silvia, I speak to you, and you, Sir Thurio. For Valentine, I need not cite him to it. I will send him hither to you presently."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "This is the gentleman I told your ladyship Had come along with me but that his mistresss Did hold his eyes locked in her crystal looks."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Belike that now she hath enfranchised them Upon some other pawn for fealty."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Nay, sure, I think she holds them prisoners still."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Nay, then, he should be blind, and being blind How could he see his way to seek out you?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Why, lady, Love hath twenty pair of eyes."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "They say that Love hath not an eye at all."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "To see such lovers, Thurio, as yourself. Upon a homely object, Love can wink."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Have done, have done. Here comes the gentleman."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Welcome, dear Proteus! Mistress, I beseech you Confirm his welcome with some special favour."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "His worth is warrant for his welcome hither, If this be he you oft have wished to hear from."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Mistress, it is. Sweet lady, entertain him To be my fellow-servant to your ladyship."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Too low a mistress for so high a servant."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Not so, sweet lady, but too mean a servant To have a look of such a worthy mistress."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Leave off discourse of disability. Sweet lady, entertain him for your servant."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "My duty will I boast of, nothing else."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "And duty never yet did want his meed. Servant, you are welcome to a worthless mistress."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "I'll die on him that says so but yourself."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "That you are welcome?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "That you are worthless."
+            },
+            {
+              "speaker": "Servant",
+              "line": "Madam, my lord your father would speak with you."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "I wait upon his pleasure. Come, Sir Thurio, Go with me.-Once more, new servant, welcome. I'll leave you to confer of home affairs; When you have done, we look to hear from you."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "We'll both attend upon your ladyship."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Now, tell me, how do all from whence you came?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Your friends are well and have them much commended."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "And how do yours?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "I left them all in health."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "How does your lady? And how thrives your love?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "My tales of love were wont to weary you; I know you joy not in a love-discourse."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Ay, Proteus, but that life is altered now. I have done penance for contemning Love, Whose high imperious thoughts have punished me With bitter fasts, with penitential groans, With nightly tears, and daily heart-sore sighs; For in revenge of my contempt of love, Love hath chased sleep from my enthralled eyes And made them watchers of mine own heart's sorrow. O gentle Proteus, Love's a mighty lord, And hath so humbled me as I confess There is no woe to his correction, Nor to his service no such joy on earth. Now, no discourse, except it be of love; Now can I break my fast, dine, sup, and sleep Upon the very naked name of love."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Enough; I read your fortune in your eye. Was this the idol that you worship so?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Even she; and is she not a heavenly saint?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "No, but she is an earthly paragon."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Call her divine."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "I will not flatter her."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "O, flatter me, for love delights in praises."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "When I was sick, you gave me bitter pills, And I must minister the like to you."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Then speak the truth by her; if not divine, Yet let her be a principality, Sovereign to all the creatures on the earth."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Except my mistress."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Sweet, except not any, Except thou wilt except against my love."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Have I not reason to prefer mine own?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "And I will help thee to prefer her too: She shall be dignified with this high honour, To bear my lady's train, lest the base earth Should from her vesture chance to steal a kiss, And, of so great a favour growing proud, Disdain to root the summer-swelling flower And make rough winter everlastingly."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Why, Valentine, what braggartism is this?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Pardon me, Proteus, all I can is nothing To her, whose worth makes other worthies nothing; She is alone."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Then let her alone."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Not for the world! Why, man, she is mine own, And I as rich in having such a jewel As twenty seas, if all their sand were pearl, The water nectar, and the rocks pure gold. Forgive me that I do not dream on thee, Because thou seest me dote upon my love. My foolish rival, that her father likes Only for his possessions are so huge, Is gone with her along, and I must after, For love, thou know'st, is full of jealousy."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "But she loves you?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Ay, and we are betrothed; nay more, our marriage hour, With all the cunning manner of our flight, Determined of: how I must climb her window, The ladder made of cords, and all the means Plotted and 'greed on for my happiness. Good Proteus, go with me to my chamber, In these affairs to aid me with thy counsel."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Go on before; I shall enquire you forth. I must unto the road to disembark Some necessaries that I needs must use, And then I'll presently attend you."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Will you make haste?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "I will. Even as one heat another heat expels, Or as one nail by strength drives out another, So the remembrance of my former love Is by a newer object quite forgotten. Is it mine eye, or Valentine's praise, Her true perfection, or my false transgression, That makes me reasonless to reason thus? She is fair; and so is Julia that I love- That I did love, for now my love is thawed, Which like a waxen image 'gainst a fire Bears no impression of the thing it was. Methinks my zeal to Valentine is cold, And that I love him not as I was wont. O, but I love his lady too too much, And that's the reason I love him so little. How shall I dote on her with more advice That thus without advice begin to love her? 'Tis but her picture I have yet beheld, And that hath dazzled my reason's light; But when I look on her perfections, There is no reason but I shall be blind. If I can check my erring love, I will; If not, to compass her I'll use my skill."
+            }
+          ],
+          "scene_characters": [
+            "Duke",
+            "Proteus",
+            "Servant",
+            "Silvia",
+            "Speed",
+            "Thurio",
+            "Valentine"
+          ]
+        },
+        {
+          "scene": 5,
+          "location": "The same. A street",
+          "scene_id": "the_two_gentlemen_of_verona_2_5",
+          "dialogues": [
+            {
+              "speaker": "Speed",
+              "line": "Lance, by mine honesty, welcome to Milan!"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Forswear not thyself, sweet youth, for I am not welcome. I reckon this always, that a man is never undone till he be hanged, nor never welcome to a place till some certain shot be paid and the hostess say \"Welcome\"."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Come on, you madcap. I'll to the alehouse with you presently, where, for one shot of five pence, thou shalt have five thousand welcomes. But, sirrah, how did thy master part with Madam Julia?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Marry, after they closed in earnest, they parted very fairly in jest."
+            },
+            {
+              "speaker": "Speed",
+              "line": "But shall she marry him?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "No."
+            },
+            {
+              "speaker": "Speed",
+              "line": "How then? Shall he marry her?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "No, neither."
+            },
+            {
+              "speaker": "Speed",
+              "line": "What, are they broken?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "No, they are both as whole as a fish."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Why then, how stands the matter with them?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Marry, thus: when it stands well with him, it stands well with her."
+            },
+            {
+              "speaker": "Speed",
+              "line": "What an ass art thou! I understand thee not."
+            },
+            {
+              "speaker": "Lance",
+              "line": "What a block art thou that thou canst not! My staff understands me."
+            },
+            {
+              "speaker": "Speed",
+              "line": "What thou sayst?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Ay, and what I do too. Look thee, I'll but lean, and my staff understands me."
+            },
+            {
+              "speaker": "Speed",
+              "line": "It stands under thee indeed."
+            },
+            {
+              "speaker": "Lance",
+              "line": "Why, stand-under and under-stand is all one."
+            },
+            {
+              "speaker": "Speed",
+              "line": "But tell me true, will't be a match?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Ask my dog. If he say \"Ay\", it will; if he say \"No\", it will; if he shake his tail and say nothing, it will."
+            },
+            {
+              "speaker": "Speed",
+              "line": "The conclusion is, then, that it will."
+            },
+            {
+              "speaker": "Lance",
+              "line": "Thou shalt never get such a secret from me but by a parable."
+            },
+            {
+              "speaker": "Speed",
+              "line": "'Tis well that I get it so. But, Lance, how sayst thou that my master is become a notable lover?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "I never knew him otherwise."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Than how?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "A notable lubber, as thou reportest him to be."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Why, thou whoreson ass, thou mistak'st me."
+            },
+            {
+              "speaker": "Lance",
+              "line": "Why, fool, I meant not thee, I meant thy master."
+            },
+            {
+              "speaker": "Speed",
+              "line": "I tell thee, my master is become a hot lover."
+            },
+            {
+              "speaker": "Lance",
+              "line": "Why, I tell thee, I care not though he burn himself in love. If thou wilt, go with me to the alehouse; if not, thou art an Hebrew, a Jew, and not worth the name of a Christian."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Why?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Because thou hast not so much charity in thee as to go to the ale with a Christian. Wilt thou go?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "At thy service."
+            }
+          ],
+          "scene_characters": [
+            "Lance",
+            "Speed"
+          ]
+        },
+        {
+          "scene": 6,
+          "location": "The same. The Duke's palace",
+          "scene_id": "the_two_gentlemen_of_verona_2_6",
+          "dialogues": [
+            {
+              "speaker": "Proteus",
+              "line": "To leave my Julia, shall I be forsworn; To love fair Silvia, shall I be forsworn; To wrong my friend, I shall be much forsworn. And e'en that power which gave me first my oath Provokes me to this threefold perjury. Love bade me swear, and Love bids me forswear. O sweet-suggesting Love, if thou hast sinned, Teach me, thy tempted subject, to excuse it. At first I did adore a twinkling star, But now I worship a celestial sun. Unheedful vows may heedfully be broken, And he wants wit that wants resolved will To learn his wit t' exchange the bad for better. Fie, fie, unreverend tongue, to call her bad Whose sovereignty so oft thou hast preferred With twenty thousand soul-confirming oaths. I cannot leave to love, and yet I do; But there I leave to love where I should love. Julia I lose, and Valentine I lose; If I keep them, I needs must lose myself; If I lose them, thus find I by their loss, For Valentine, myself; for Julia, Silvia. I to myself am dearer than a friend, For love is still most precious in itself, And Silvia-witness heaven that made her fair- Shows Julia but a swarthy Ethiope. I will forget that Julia is alive, Remembering that my love to her is dead; And Valentine I'll hold an enemy, Aiming at Silvia as a sweeter friend. I cannot now prove constant to myself Without some treachery used to Valentine. This night he meaneth with a corded ladder To climb celestial Silvia's chamber window, Myself in counsel, his competitor. Now presently I'll give her father notice Of their disguising and pretended flight, Who, all enraged, will banish Valentine, For Thurio he intends shall wed his daughter. But Valentine being gone, I'll quickly cross By some sly trick blunt Thurio's dull proceeding. Love, lend me wings to make my purpose swift, As thou hast lent me wit to plot this drift."
+            }
+          ],
+          "scene_characters": [
+            "Proteus"
+          ]
+        },
+        {
+          "scene": 7,
+          "location": "Verona. A room in Julia's house",
+          "scene_id": "the_two_gentlemen_of_verona_2_7",
+          "dialogues": [
+            {
+              "speaker": "Julia",
+              "line": "Counsel, Lucetta; gentle girl, assist me, And ev'n in kind love I do conjure thee, Who art the table wherein all my thoughts Are visibly charactered and engraved, To lesson me and tell me some good mean How with my honour I may undertake A journey to my loving Proteus."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Alas, the way is wearisome and long."
+            },
+            {
+              "speaker": "Julia",
+              "line": "A true-devoted pilgrim is not weary To measure kingdoms with his feeble steps; Much less shall she that hath Love's wings to fly, And when the flight is made to one so dear, Of such divine perfection, as Sir Proteus."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Better forbear till Proteus make return."
+            },
+            {
+              "speaker": "Julia",
+              "line": "O, know'st thou not his looks are my soul's food? Pity the dearth that I have pined in By longing for that food so long a time. Didst thou but know the inly touch of love Thou wouldst as soon go kindle fire with snow As seek to quench the fire of love with words."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "I do not seek to quench your love's hot fire, But qualify the fire's extreme rage, Lest it should burn above the bounds of reason."
+            },
+            {
+              "speaker": "Julia",
+              "line": "The more thou damm'st it up, the more it burns. The current that with gentle murmur glides, Thou know'st, being stopped, impatiently doth rage; But when his fair course is not hindered, He makes sweet music with th' enamelled stones, Giving a gentle kiss to every sedge He overtaketh in his pilgrimage; And so by many winding nooks he strays With willing sport to the wild ocean. Then let me go and hinder not my course. I'll be as patient as a gentle stream And make a pastime of each weary step Till the last step have brought me to my love, And there I'll rest as after much turmoil A blessed soul doth in Elysium."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "But in what habit will you go along?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Not like a woman, for I would prevent The loose encounters of lascivious men. Gentle Lucetta, fit me with such weeds As may beseem some well-reputed page."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Why then, your ladyship must cut your hair."
+            },
+            {
+              "speaker": "Julia",
+              "line": "No, girl, I'll knit it up in silken strings With twenty odd-conceited true-love knots. To be fantastic may become a youth Of greater time than I shall show to be."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "What fashion, madam, shall I make your breeches?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "That fits as well as \"Tell me, good my lord, What compass will you wear your farthingale?\" Why e'en what fashion thou best likes, Lucetta."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "You must needs have them with a codpiece, madam."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Out, out, Lucetta, that will be ill-favoured."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "A round hose, madam, now's not worth a pin Unless you have a codpiece to stick pins on."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Lucetta, as thou lov'st me, let me have What thou think'st meet and is most mannerly. But tell me, wench, how will the world repute me For undertaking so unstaid a journey? I fear me it will make me scandalized."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "If you think so, then stay at home and go not."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Nay, that I will not."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Then never dream on infamy, but go. If Proteus like your journey when you come, No matter who's displeased when you are gone. I fear me he will scarce be pleased withal."
+            },
+            {
+              "speaker": "Julia",
+              "line": "That is the least, Lucetta, of my fear. A thousand oaths, an ocean of his tears, And instances of infinite of love, Warrant me welcome to my Proteus."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "All these are servants to deceitful men."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Base men that use them to so base effect! But truer stars did govern Proteus' birth. His words are bonds, his oaths are oracles, His love sincere, his thoughts immaculate, His tears pure messengers sent from his heart, His heart as far from fraud as heaven from earth."
+            },
+            {
+              "speaker": "Lucetta",
+              "line": "Pray heav'n he prove so when you come to him."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Now, as thou lov'st me, do him not that wrong To bear a hard opinion of his truth. Only deserve my love by loving him. And presently go with me to my chamber To take a note of what I stand in need of To furnish me upon my longing journey. All that is mine I leave at thy dispose, My goods, my lands, my reputation; Only, in lieu thereof, dispatch me hence. Come, answer not, but to it presently. I am impatient of my tarriance."
+            }
+          ],
+          "scene_characters": [
+            "Julia",
+            "Lucetta"
+          ]
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Milan. An anteroom in the Duke's palace",
+          "scene_id": "the_two_gentlemen_of_verona_3_1",
+          "dialogues": [
+            {
+              "speaker": "Duke",
+              "line": "Sir Thurio, give us leave, I pray, awhile; We have some secrets to confer about. Now tell me, Proteus, what's your will with me?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "My gracious lord, that which I would discover The law of friendship bids me to conceal, But when I call to mind your gracious favours Done to me, undeserving as I am, My duty pricks me on to utter that Which else no worldly good should draw from me. Know, worthy prince, Sir Valentine my friend This night intends to steal away your daughter; Myself am one made privy to the plot. I know you have determined to bestow her On Thurio, whom your gentle daughter hates, And should she thus be stol'n away from you, It would be much vexation to your age. Thus, for my duty's sake, I rather chose To cross my friend in his intended drift Than, by concealing it, heap on your head A pack of sorrows which would press you down, Being unprevented, to your timeless grave."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Proteus, I thank thee for thine honest care, Which to requite command me while I live. This love of theirs myself have often seen, Haply when they have judged me fast asleep, And oftentimes have purposed to forbid Sir Valentine her company and my court. But fearing lest my jealous aim might err And so, unworthily, disgrace the man- A rashness that I ever yet have shunned- I gave him gentle looks, thereby to find That which thyself hast now disclosed to me. And that thou mayst perceive my fear of this, Knowing that tender youth is soon suggested, I nightly lodge her in an upper tower, The key whereof myself have ever kept; And thence she cannot be conveyed away."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Know, noble lord, they have devised a mean How he her chamber-window will ascend And with a corded ladder fetch her down; For which the youthful lover now is gone, And this way comes he with it presently, Where, if it please you, you may intercept him. But, good my lord, do it so cunningly That my discovery be not aimed at; For love of you, not hate unto my friend, Hath made me publisher of this pretence."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Upon mine honour, he shall never know That I had any light from thee of this."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Adieu, my lord, Sir Valentine is coming."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Sir Valentine, whither away so fast?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Please it your Grace, there is a messenger That stays to bear my letters to my friends, And I am going to deliver them."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Be they of much import?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "The tenor of them doth but signify My health and happy being at your court."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Nay then, no matter. Stay with me awhile; I am to break with thee of some affairs That touch me near, wherein thou must be secret. 'Tis not unknown to thee that I have sought To match my friend Sir Thurio to my daughter."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I know it well, my lord, and sure the match Were rich and honourable. Besides, the gentleman Is full of virtue, bounty, worth, and qualities Beseeming such a wife as your fair daughter. Cannot your grace win her to fancy him?"
+            },
+            {
+              "speaker": "Duke",
+              "line": "No, trust me, she is peevish, sullen, froward, Proud, disobedient, stubborn, lacking duty, Neither regarding that she is my child Nor fearing me as if I were her father; And, may I say to thee, this pride of hers, Upon advice, hath drawn my love from her, And where I thought the remnant of mine age Should have been cherished by her childlike duty, I now am full resolved to take a wife And turn her out to who will take her in. Then let her beauty be her wedding dower, For me and my possessions she esteems not."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "What would your Grace have me to do in this?"
+            },
+            {
+              "speaker": "Duke",
+              "line": "There is a lady of Verona here Whom I affect; but she is nice, and coy, And nought esteems my aged eloquence. Now therefore would I have thee to my tutor- For long agone I have forgot to court; Besides, the fashion of the time is changed- How and which way I may bestow myself To be regarded in her sun-bright eye."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Win her with gifts if she respect not words; Dumb jewels often in their silent kind More than quick words do move a woman's mind."
+            },
+            {
+              "speaker": "Duke",
+              "line": "But she did scorn a present that I sent her."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "A woman sometime scorns what best contents her. Send her another; never give her o'er, For scorn at first makes after-love the more. If she do frown, 'tis not in hate of you, But rather to beget more love in you. If she do chide, 'tis not to have you gone, Forwhy the fools are mad if left alone. Take no repulse, whatever she doth say; For \"Get you gone\" she doth not mean \"Away!\" Flatter and praise, commend, extol their graces; Though ne'er so black, say they have angels' faces. That man that hath a tongue, I say, is no man If with his tongue he cannot win a woman."
+            },
+            {
+              "speaker": "Duke",
+              "line": "But she I mean is promised by her friends Unto a youthful gentleman of worth, And kept severely from resort of men, That no man hath access by day to her."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Why then, I would resort to her by night."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Ay, but the doors be locked and keys kept safe, That no man hath recourse to her by night."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "What lets but one may enter at her window?"
+            },
+            {
+              "speaker": "Duke",
+              "line": "Her chamber is aloft, far from the ground, And built so shelving that one cannot climb it Without apparent hazard of his life."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Why, then a ladder quaintly made of cords To cast up with a pair of anchoring hooks, Would serve to scale another Hero's tower, So bold Leander would adventure it."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Now, as thou art a gentleman of blood, Advise me where I may have such a ladder."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "When would you use it? Pray, sir, tell me that."
+            },
+            {
+              "speaker": "Duke",
+              "line": "This very night; for Love is like a child That longs for everything that he can come by."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "By seven o'clock I'll get you such a ladder."
+            },
+            {
+              "speaker": "Duke",
+              "line": "But, hark thee: I will go to her alone; How shall I best convey the ladder thither?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "It will be light, my lord, that you may bear it Under a cloak that is of any length."
+            },
+            {
+              "speaker": "Duke",
+              "line": "A cloak as long as thine will serve the turn?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Ay, my good lord."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Then let me see thy cloak; I'll get me one of such another length."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Why, any cloak will serve the turn, my lord."
+            },
+            {
+              "speaker": "Duke",
+              "line": "How shall I fashion me to wear a cloak? I pray thee, let me feel thy cloak upon me.  What letter is this same? What's here?-_To Silvia?_ And here an engine fit for my proceeding. I'll be so bold to break the seal for once.  _My thoughts do harbour with my Silvia nightly, And slaves they are to me that send them flying. O, could their master come and go as lightly, Himself would lodge where, senseless, they are lying. My herald thoughts in thy pure bosom rest them, While I, their king, that thither them importune, Do curse the grace that with such grace hath blest them, Because myself do want my servants' fortune. I curse myself, for they are sent by me, That they should harbour where their lord should be._ What's here?  _Silvia, this night I will enfranchise thee._ 'Tis so; and here's the ladder for the purpose. Why, Phaëthon-for thou art Merops' son- Wilt thou aspire to guide the heavenly car, And with thy daring folly burn the world? Wilt thou reach stars because they shine on thee? Go, base intruder, overweening slave, Bestow thy fawning smiles on equal mates, And think my patience, more than thy desert, Is privilege for thy departure hence. Thank me for this more than for all the favours Which, all too much, I have bestowed on thee. But if thou linger in my territories Longer than swiftest expedition Will give thee time to leave our royal court, By heaven, my wrath shall far exceed the love I ever bore my daughter or thyself. Begone, I will not hear thy vain excuse, But, as thou lov'st thy life, make speed from hence."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "And why not death, rather than living torment? To die is to be banished from myself, And Silvia is myself; banished from her Is self from self-a deadly banishment. What light is light, if Silvia be not seen? What joy is joy, if Silvia be not by? Unless it be to think that she is by And feed upon the shadow of perfection. Except I be by Silvia in the night, There is no music in the nightingale. Unless I look on Silvia in the day, There is no day for me to look upon. She is my essence, and I leave to be If I be not by her fair influence Fostered, illumined, cherished, kept alive. I fly not death, to fly his deadly doom: Tarry I here, I but attend on death, But fly I hence, I fly away from life."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Run, boy, run, run, seek him out."
+            },
+            {
+              "speaker": "Lance",
+              "line": "So-ho, so-ho!"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "What seest thou?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Him we go to find. There's not a hair on 's head but 'tis a Valentine."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Valentine?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "No."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Who then? His spirit?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Neither."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "What then?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Nothing."
+            },
+            {
+              "speaker": "Lance",
+              "line": "Can nothing speak? Master, shall I strike?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Who wouldst thou strike?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Nothing."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Villain, forbear."
+            },
+            {
+              "speaker": "Lance",
+              "line": "Why, sir, I'll strike nothing. I pray you-"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Sirrah, I say, forbear.-Friend Valentine, a word."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "My ears are stopped and cannot hear good news, So much of bad already hath possessed them."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Then in dumb silence will I bury mine, For they are harsh, untuneable, and bad."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Is Silvia dead?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "No, Valentine."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "No Valentine indeed for sacred Silvia. Hath she forsworn me?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "No, Valentine."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "No Valentine, if Silvia have forsworn me. What is your news?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Sir, there is a proclamation that you are vanished."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "That thou art banished-O, that's the news- From hence, from Silvia, and from me thy friend."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "O, I have fed upon this woe already, And now excess of it will make me surfeit. Doth Silvia know that I am banished?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Ay, ay; and she hath offered to the doom- Which unreversed stands in effectual force- A sea of melting pearl, which some call tears; Those at her father's churlish feet she tendered, With them, upon her knees, her humble self, Wringing her hands, whose whiteness so became them As if but now they waxed pale for woe. But neither bended knees, pure hands held up, Sad sighs, deep groans, nor silver-shedding tears Could penetrate her uncompassionate sire; But Valentine, if he be ta'en, must die. Besides, her intercession chafed him so, When she for thy repeal was suppliant, That to close prison he commanded her, With many bitter threats of biding there."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "No more, unless the next word that thou speak'st Have some malignant power upon my life. If so, I pray thee breathe it in mine ear, As ending anthem of my endless dolour."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Cease to lament for that thou canst not help, And study help for that which thou lament'st. Time is the nurse and breeder of all good. Here if thou stay, thou canst not see thy love; Besides, thy staying will abridge thy life. Hope is a lover's staff; walk hence with that And manage it against despairing thoughts. Thy letters may be here, though thou art hence, Which, being writ to me, shall be delivered Even in the milk-white bosom of thy love. The time now serves not to expostulate. Come, I'll convey thee through the city-gate, And, ere I part with thee, confer at large Of all that may concern thy love affairs. As thou lov'st Silvia, though not for thyself, Regard thy danger, and along with me."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I pray thee, Lance, an if thou seest my boy, Bid him make haste and meet me at the North Gate."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Go, sirrah, find him out. Come, Valentine."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "O, my dear Silvia! Hapless Valentine!"
+            },
+            {
+              "speaker": "Lance",
+              "line": "I am but a fool, look you, and yet I have the wit to think my master is a kind of a knave; but that's all one if he be but one knave. He lives not now that knows me to be in love, yet I am in love, but a team of horse shall not pluck that from me, nor who 'tis I love; and yet 'tis a woman, but what woman I will not tell myself; and yet 'tis a milkmaid; yet 'tis not a maid, for she hath had gossips; yet 'tis a maid, for she is her master's maid and serves for wages. She hath more qualities than a water-spaniel, which is much in a bare Christian.  Here is the cate-log of her condition. _Imprimis, She can fetch and carry_. Why, a horse can do no more; nay, a horse cannot fetch but only carry; therefore is she better than a jade. _Item, She can milk_. Look you, a sweet virtue in a maid with clean hands."
+            },
+            {
+              "speaker": "Speed",
+              "line": "How now, Signior Lance? What news with your mastership?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "With my master's ship? Why, it is at sea."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Well, your old vice still: mistake the word. What news, then, in your paper?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "The blackest news that ever thou heard'st."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Why, man? How black?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Why, as black as ink."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Let me read them."
+            },
+            {
+              "speaker": "Lance",
+              "line": "Fie on thee, jolt-head, thou canst not read."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Thou liest. I can."
+            },
+            {
+              "speaker": "Lance",
+              "line": "I will try thee. Tell me this, who begot thee?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "Marry, the son of my grandfather."
+            },
+            {
+              "speaker": "Lance",
+              "line": "O, illiterate loiterer! It was the son of thy grandmother. This proves that thou canst not read."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Come, fool, come; try me in thy paper."
+            },
+            {
+              "speaker": "Lance",
+              "line": "There; and Saint Nicholas be thy speed."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Imprimis, She can milk._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Ay, that she can."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She brews good ale._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "And thereof comes the proverb, \"Blessing of your heart, you brew good ale.\""
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She can sew._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "That's as much as to say, \"Can she so?\""
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She can knit._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "What need a man care for a stock with a wench, when she can knit him a stock?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She can wash and scour._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "A special virtue, for then she need not be washed and scoured."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She can spin._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Then may I set the world on wheels, when she can spin for her living."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She hath many nameless virtues._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "That's as much as to say, \"bastard virtues\", that indeed know not their fathers, and therefore have no names."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Here follow her vices."
+            },
+            {
+              "speaker": "Lance",
+              "line": "Close at the heels of her virtues."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She is not to be kissed fasting in respect of her breath._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Well, that fault may be mended with a breakfast. Read on."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She hath a sweet mouth._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "That makes amends for her sour breath."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She doth talk in her sleep._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "It's no matter for that, so she sleep not in her talk."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She is slow in words._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "O villain, that set this down among her vices! To be slow in words is a woman's only virtue. I pray thee, out with't, and place it for her chief virtue."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She is proud._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Out with that too; it was Eve's legacy and cannot be ta'en from her."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She hath no teeth._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "I care not for that neither, because I love crusts."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She is curst._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Well, the best is, she hath no teeth to bite."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She will often praise her liquor._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "If her liquor be good, she shall; if she will not, I will, for good things should be praised."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She is too liberal._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Of her tongue she cannot, for that's writ down she is slow of; of her purse she shall not, for that I'll keep shut. Now, of another thing she may, and that cannot I help. Well, proceed."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She hath more hair than wit, and more faults than hairs, and more wealth than faults._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Stop there; I'll have her. She was mine and not mine twice or thrice in that last article. Rehearse that once more."
+            },
+            {
+              "speaker": "Speed",
+              "line": "_Item, She hath more hair than wit_-"
+            },
+            {
+              "speaker": "Lance",
+              "line": "More hair than wit. It may be; I'll prove it: the cover of the salt hides the salt, and therefore it is more than the salt; the hair that covers the wit is more than the wit, for the greater hides the less. What's next?"
+            },
+            {
+              "speaker": "Speed",
+              "line": "_And more faults than hairs._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "That's monstrous! O, that that were out!"
+            },
+            {
+              "speaker": "Speed",
+              "line": "_And more wealth than faults._"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Why, that word makes the faults gracious. Well, I'll have her; an if it be a match, as nothing is impossible-"
+            },
+            {
+              "speaker": "Speed",
+              "line": "What then?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Why, then will I tell thee that thy master stays for thee at the North Gate."
+            },
+            {
+              "speaker": "Speed",
+              "line": "For me?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "For thee? Ay, who art thou? He hath stayed for a better man than thee."
+            },
+            {
+              "speaker": "Speed",
+              "line": "And must I go to him?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Thou must run to him, for thou hast stayed so long that going will scarce serve the turn."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Why didst not tell me sooner? Pox of your love letters!"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Now will he be swinged for reading my letter; an unmannerly slave, that will thrust himself into secrets. I'll after, to rejoice in the boy's correction."
+            }
+          ],
+          "scene_characters": [
+            "Duke",
+            "Lance",
+            "Proteus",
+            "Speed",
+            "Valentine"
+          ]
+        },
+        {
+          "scene": 2,
+          "location": "The same. A room in the Duke's palace",
+          "scene_id": "the_two_gentlemen_of_verona_3_2",
+          "dialogues": [
+            {
+              "speaker": "Duke",
+              "line": "Sir Thurio, fear not but that she will love you Now Valentine is banished from her sight."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Since his exile she hath despised me most, Forsworn my company and railed at me, That I am desperate of obtaining her."
+            },
+            {
+              "speaker": "Duke",
+              "line": "This weak impress of love is as a figure Trenched in ice, which with an hour's heat Dissolves to water and doth lose his form. A little time will melt her frozen thoughts, And worthless Valentine shall be forgot. How now, Sir Proteus? Is your countryman, According to our proclamation, gone?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Gone, my good lord."
+            },
+            {
+              "speaker": "Duke",
+              "line": "My daughter takes his going grievously."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "A little time, my lord, will kill that grief."
+            },
+            {
+              "speaker": "Duke",
+              "line": "So I believe, but Thurio thinks not so. Proteus, the good conceit I hold of thee, For thou hast shown some sign of good desert, Makes me the better to confer with thee."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Longer than I prove loyal to your Grace Let me not live to look upon your Grace."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Thou know'st how willingly I would effect The match between Sir Thurio and my daughter?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "I do, my lord."
+            },
+            {
+              "speaker": "Duke",
+              "line": "And also, I think, thou art not ignorant How she opposes her against my will?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "She did, my lord, when Valentine was here."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Ay, and perversely she persevers so. What might we do to make the girl forget The love of Valentine, and love Sir Thurio?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "The best way is to slander Valentine With falsehood, cowardice, and poor descent, Three things that women highly hold in hate."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Ay, but she'll think that it is spoke in hate."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Ay, if his enemy deliver it; Therefore it must with circumstance be spoken By one whom she esteemeth as his friend."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Then you must undertake to slander him."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "And that, my lord, I shall be loath to do. 'Tis an ill office for a gentleman, Especially against his very friend."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Where your good word cannot advantage him, Your slander never can endamage him; Therefore the office is indifferent, Being entreated to it by your friend."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "You have prevailed, my lord. If I can do it By aught that I can speak in his dispraise, She shall not long continue love to him. But say this weed her love from Valentine, It follows not that she will love Sir Thurio."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Therefore, as you unwind her love from him, Lest it should ravel and be good to none, You must provide to bottom it on me, Which must be done by praising me as much As you in worth dispraise Sir Valentine."
+            },
+            {
+              "speaker": "Duke",
+              "line": "And, Proteus, we dare trust you in this kind Because we know, on Valentine's report, You are already Love's firm votary And cannot soon revolt and change your mind. Upon this warrant shall you have access Where you with Silvia may confer at large- For she is lumpish, heavy, melancholy, And, for your friend's sake, will be glad of you- Where you may temper her by your persuasion To hate young Valentine and love my friend."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "As much as I can do I will effect. But you, Sir Thurio, are not sharp enough. You must lay lime to tangle her desires By wailful sonnets, whose composed rhymes Should be full-fraught with serviceable vows."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Ay, much is the force of heaven-bred poesy."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Say that upon the altar of her beauty You sacrifice your tears, your sighs, your heart. Write till your ink be dry, and with your tears Moist it again, and frame some feeling line That may discover such integrity. For Orpheus' lute was strung with poets' sinews, Whose golden touch could soften steel and stones, Make tigers tame, and huge leviathans Forsake unsounded deeps to dance on sands. After your dire-lamenting elegies, Visit by night your lady's chamber-window With some sweet consort; to their instruments Tune a deploring dump; the night's dead silence Will well become such sweet-complaining grievance. This, or else nothing, will inherit her."
+            },
+            {
+              "speaker": "Duke",
+              "line": "This discipline shows thou hast been in love."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "And thy advice this night I'll put in practice. Therefore, sweet Proteus, my direction-giver, Let us into the city presently To sort some gentlemen well skilled in music. I have a sonnet that will serve the turn To give the onset to thy good advice."
+            },
+            {
+              "speaker": "Duke",
+              "line": "About it, gentlemen!"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "We'll wait upon your Grace till after supper, And afterward determine our proceedings."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Even now about it! I will pardon you."
+            }
+          ],
+          "scene_characters": [
+            "Duke",
+            "Proteus",
+            "Thurio"
+          ]
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A forest between Milan and Verona",
+          "scene_id": "the_two_gentlemen_of_verona_4_1",
+          "dialogues": [
+            {
+              "speaker": "First Outlaw",
+              "line": "Fellows, stand fast. I see a passenger."
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "If there be ten, shrink not, but down with 'em."
+            },
+            {
+              "speaker": "Third Outlaw",
+              "line": "Stand, sir, and throw us that you have about ye. If not, we'll make you sit, and rifle you."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Sir, we are undone: these are the villains That all the travellers do fear so much."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "My friends-"
+            },
+            {
+              "speaker": "First Outlaw",
+              "line": "That's not so, sir. We are your enemies."
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "Peace! We'll hear him."
+            },
+            {
+              "speaker": "Third Outlaw",
+              "line": "Ay, by my beard, will we, for he is a proper man."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Then know that I have little wealth to lose. A man I am crossed with adversity; My riches are these poor habiliments, Of which if you should here disfurnish me, You take the sum and substance that I have."
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "Whither travel you?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "To Verona."
+            },
+            {
+              "speaker": "First Outlaw",
+              "line": "Whence came you?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "From Milan."
+            },
+            {
+              "speaker": "Third Outlaw",
+              "line": "Have you long sojourned there?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Some sixteen months, and longer might have stayed If crooked fortune had not thwarted me."
+            },
+            {
+              "speaker": "First Outlaw",
+              "line": "What, were you banished thence?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I was."
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "For what offence?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "For that which now torments me to rehearse; I killed a man, whose death I much repent, But yet I slew him manfully in fight, Without false vantage or base treachery."
+            },
+            {
+              "speaker": "First Outlaw",
+              "line": "Why, ne'er repent it, if it were done so. But were you banished for so small a fault?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I was, and held me glad of such a doom."
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "Have you the tongues?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "My youthful travel therein made me happy, Or else I often had been miserable."
+            },
+            {
+              "speaker": "Third Outlaw",
+              "line": "By the bare scalp of Robin Hood's fat friar, This fellow were a king for our wild faction."
+            },
+            {
+              "speaker": "First Outlaw",
+              "line": "We'll have him. Sirs, a word."
+            },
+            {
+              "speaker": "Speed",
+              "line": "Master, be one of them. It's an honourable kind of thievery."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Peace, villain."
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "Tell us this: have you anything to take to?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Nothing but my fortune."
+            },
+            {
+              "speaker": "Third Outlaw",
+              "line": "Know then that some of us are gentlemen, Such as the fury of ungoverned youth Thrust from the company of awful men. Myself was from Verona banished For practising to steal away a lady, An heir, and near allied unto the Duke."
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "And I from Mantua, for a gentleman Who, in my mood, I stabbed unto the heart."
+            },
+            {
+              "speaker": "First Outlaw",
+              "line": "And I for suchlike petty crimes as these. But to the purpose, for we cite our faults, That they may hold excused our lawless lives; And partly, seeing you are beautified With goodly shape, and by your own report A linguist, and a man of such perfection As we do in our quality much want-"
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "Indeed because you are a banished man, Therefore, above the rest, we parley to you. Are you content to be our general? To make a virtue of necessity And live as we do in this wilderness?"
+            },
+            {
+              "speaker": "Third Outlaw",
+              "line": "What sayst thou? Wilt thou be of our consort? Say \"Ay\", and be the captain of us all, We'll do thee homage and be ruled by thee, Love thee as our commander and our king."
+            },
+            {
+              "speaker": "First Outlaw",
+              "line": "But if thou scorn our courtesy, thou diest."
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "Thou shalt not live to brag what we have offered."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I take your offer and will live with you, Provided that you do no outrages On silly women or poor passengers."
+            },
+            {
+              "speaker": "Third Outlaw",
+              "line": "No, we detest such vile base practices. Come, go with us; we'll bring thee to our crews And show thee all the treasure we have got, Which, with ourselves, all rest at thy dispose."
+            }
+          ],
+          "scene_characters": [
+            "First Outlaw",
+            "Second Outlaw",
+            "Speed",
+            "Third Outlaw",
+            "Valentine"
+          ]
+        },
+        {
+          "scene": 2,
+          "location": "Milan. The court of the Duke's palace",
+          "scene_id": "the_two_gentlemen_of_verona_4_2",
+          "dialogues": [
+            {
+              "speaker": "Proteus",
+              "line": "Already have I been false to Valentine, And now I must be as unjust to Thurio. Under the colour of commending him, I have access my own love to prefer. But Silvia is too fair, too true, too holy To be corrupted with my worthless gifts. When I protest true loyalty to her, She twits me with my falsehood to my friend; When to her beauty I commend my vows, She bids me think how I have been forsworn In breaking faith with Julia, whom I loved; And notwithstanding all her sudden quips, The least whereof would quell a lover's hope, Yet, spaniel-like, the more she spurns my love, The more it grows and fawneth on her still. But here comes Thurio. Now must we to her window, And give some evening music to her ear."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "How now, Sir Proteus, are you crept before us?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Ay, gentle Thurio, for you know that love Will creep in service where it cannot go."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Ay, but I hope, sir, that you love not here."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Sir, but I do, or else I would be hence."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Who? Silvia?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Ay, Silvia, for your sake."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "I thank you for your own. Now, gentlemen, Let's tune, and to it lustily awhile. Enter Host and Julia in boy's clothes, as Sebastian."
+            },
+            {
+              "speaker": "Host",
+              "line": "Now, my young guest, methinks you're allycholly. I pray you, why is it?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Marry, mine host, because I cannot be merry."
+            },
+            {
+              "speaker": "Host",
+              "line": "Come, we'll have you merry. I'll bring you where you shall hear music, and see the gentleman that you asked for."
+            },
+            {
+              "speaker": "Julia",
+              "line": "But shall I hear him speak?"
+            },
+            {
+              "speaker": "Host",
+              "line": "Ay, that you shall."
+            },
+            {
+              "speaker": "Julia",
+              "line": "That will be music."
+            },
+            {
+              "speaker": "Host",
+              "line": "Hark, hark!"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Is he among these?"
+            },
+            {
+              "speaker": "Host",
+              "line": "Ay; but peace, let's hear 'em."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Who is Silvia? What is she, That all our swains commend her? Holy, fair, and wise is she; The heaven such grace did lend her, That she might admired be. Is she kind as she is fair? For beauty lives with kindness. Love doth to her eyes repair, To help him of his blindness; And, being helped, inhabits there. Then to Silvia let us sing, That Silvia is excelling; She excels each mortal thing Upon the dull earth dwelling. To her let us garlands bring."
+            },
+            {
+              "speaker": "Host",
+              "line": "How now, are you sadder than you were before? How do you, man? The music likes you not."
+            },
+            {
+              "speaker": "Julia",
+              "line": "You mistake; the musician likes me not."
+            },
+            {
+              "speaker": "Host",
+              "line": "Why, my pretty youth?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "He plays false, father."
+            },
+            {
+              "speaker": "Host",
+              "line": "How, out of tune on the strings?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Not so; but yet so false that he grieves my very heart-strings."
+            },
+            {
+              "speaker": "Host",
+              "line": "You have a quick ear."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Ay, I would I were deaf; it makes me have a slow heart."
+            },
+            {
+              "speaker": "Host",
+              "line": "I perceive you delight not in music."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Not a whit, when it jars so."
+            },
+            {
+              "speaker": "Host",
+              "line": "Hark, what fine change is in the music!"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Ay, that change is the spite."
+            },
+            {
+              "speaker": "Host",
+              "line": "You would have them always play but one thing?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "I would always have one play but one thing. But, host, doth this Sir Proteus, that we talk on, Often resort unto this gentlewoman?"
+            },
+            {
+              "speaker": "Host",
+              "line": "I tell you what Lance, his man, told me: he loved her out of all nick."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Where is Lance?"
+            },
+            {
+              "speaker": "Host",
+              "line": "Gone to seek his dog, which tomorrow, by his master's command, he must carry for a present to his lady."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Peace, stand aside. The company parts."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Sir Thurio, fear not you; I will so plead That you shall say my cunning drift excels."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Where meet we?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "At Saint Gregory's well."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Farewell."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Madam, good even to your ladyship."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "I thank you for your music, gentlemen. Who is that that spake?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "One, lady, if you knew his pure heart's truth, You would quickly learn to know him by his voice."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Sir Proteus, as I take it."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Sir Proteus, gentle lady, and your servant."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "What's your will?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "That I may compass yours."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "You have your wish. My will is even this, That presently you hie you home to bed. Thou subtle, perjured, false, disloyal man, Think'st thou I am so shallow, so conceitless, To be seduced by thy flattery, That hast deceived so many with thy vows? Return, return, and make thy love amends. For me, by this pale queen of night I swear, I am so far from granting thy request That I despise thee for thy wrongful suit, And by and by intend to chide myself Even for this time I spend in talking to thee."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "I grant, sweet love, that I did love a lady, But she is dead."
+            },
+            {
+              "speaker": "Julia",
+              "line": "'Twere false, if I should speak it, For I am sure she is not buried."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Say that she be; yet Valentine thy friend Survives, to whom, thyself art witness, I am betrothed. And art thou not ashamed To wrong him with thy importunacy?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "I likewise hear that Valentine is dead."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "And so suppose am I, for in his grave, Assure thyself, my love is buried."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Sweet lady, let me rake it from the earth."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Go to thy lady's grave and call hers thence, Or, at the least, in hers sepulchre thine."
+            },
+            {
+              "speaker": "Julia",
+              "line": "He heard not that."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Madam, if your heart be so obdurate, Vouchsafe me yet your picture for my love, The picture that is hanging in your chamber; To that I'll speak, to that I'll sigh and weep; For since the substance of your perfect self Is else devoted, I am but a shadow; And to your shadow will I make true love."
+            },
+            {
+              "speaker": "Julia",
+              "line": "If 'twere a substance you would sure deceive it And make it but a shadow, as I am."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "I am very loath to be your idol, sir; But since your falsehood shall become you well To worship shadows and adore false shapes, Send to me in the morning, and I'll send it. And so, good rest."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "As wretches have o'ernight That wait for execution in the morn."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Host, will you go?"
+            },
+            {
+              "speaker": "Host",
+              "line": "By my halidom, I was fast asleep."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Pray you, where lies Sir Proteus?"
+            },
+            {
+              "speaker": "Host",
+              "line": "Marry, at my house. Trust me, I think 'tis almost day."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Not so; but it hath been the longest night That e'er I watched, and the most heaviest."
+            }
+          ],
+          "scene_characters": [
+            "Host",
+            "Julia",
+            "Proteus",
+            "Silvia",
+            "Thurio"
+          ]
+        },
+        {
+          "scene": 3,
+          "location": "The same",
+          "scene_id": "the_two_gentlemen_of_verona_4_3",
+          "dialogues": [
+            {
+              "speaker": "Eglamour",
+              "line": "This is the hour that Madam Silvia Entreated me to call and know her mind; There's some great matter she'd employ me in. Madam, madam!"
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Who calls?"
+            },
+            {
+              "speaker": "Eglamour",
+              "line": "Your servant and your friend; One that attends your ladyship's command."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Sir Eglamour, a thousand times good morrow."
+            },
+            {
+              "speaker": "Eglamour",
+              "line": "As many, worthy lady, to yourself. According to your ladyship's impose, I am thus early come to know what service It is your pleasure to command me in."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "O Eglamour, thou art a gentleman- Think not I flatter, for I swear I do not- Valiant, wise, remorseful, well accomplished. Thou art not ignorant what dear good will I bear unto the banished Valentine, Nor how my father would enforce me marry Vain Thurio, whom my very soul abhorred. Thyself hast loved, and I have heard thee say No grief did ever come so near thy heart As when thy lady and thy true love died, Upon whose grave thou vowed'st pure chastity. Sir Eglamour, I would to Valentine, To Mantua, where I hear he makes abode; And for the ways are dangerous to pass, I do desire thy worthy company, Upon whose faith and honour I repose. Urge not my father's anger, Eglamour, But think upon my grief, a lady's grief, And on the justice of my flying hence To keep me from a most unholy match, Which heaven and fortune still rewards with plagues. I do desire thee, even from a heart As full of sorrows as the sea of sands, To bear me company and go with me; If not, to hide what I have said to thee, That I may venture to depart alone."
+            },
+            {
+              "speaker": "Eglamour",
+              "line": "Madam, I pity much your grievances, Which, since I know they virtuously are placed, I give consent to go along with you, Recking as little what betideth me As much I wish all good befortune you. When will you go?"
+            },
+            {
+              "speaker": "Silvia",
+              "line": "This evening coming."
+            },
+            {
+              "speaker": "Eglamour",
+              "line": "Where shall I meet you?"
+            },
+            {
+              "speaker": "Silvia",
+              "line": "At Friar Patrick's cell, Where I intend holy confession."
+            },
+            {
+              "speaker": "Eglamour",
+              "line": "I will not fail your ladyship. Good morrow, gentle lady."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Good morrow, kind Sir Eglamour."
+            }
+          ],
+          "scene_characters": [
+            "Eglamour",
+            "Silvia"
+          ]
+        },
+        {
+          "scene": 4,
+          "location": "The same",
+          "scene_id": "the_two_gentlemen_of_verona_4_4",
+          "dialogues": [
+            {
+              "speaker": "Lance",
+              "line": "When a man's servant shall play the cur with him, look you, it goes hard: one that I brought up of a puppy; one that I saved from drowning when three or four of his blind brothers and sisters went to it. I have taught him even as one would say precisely, \"Thus I would teach a dog.\" I was sent to deliver him as a present to Mistress Silvia from my master; and I came no sooner into the dining-chamber but he steps me to her trencher and steals her capon's leg. O, 'tis a foul thing when a cur cannot keep himself in all companies! I would have, as one should say, one that takes upon him to be a dog indeed, to be, as it were, a dog at all things. If I had not had more wit than he, to take a fault upon me that he did, I think verily he had been hanged for't; sure as I live, he had suffered for't. You shall judge. He thrusts me himself into the company of three or four gentleman-like dogs under the Duke's table; he had not been there-bless the mark!-a pissing-while but all the chamber smelt him. \"Out with the dog!\" says one; \"What cur is that?\" says another; \"Whip him out\", says the third; \"Hang him up\", says the Duke. I, having been acquainted with the smell before, knew it was Crab, and goes me to the fellow that whips the dogs. \"Friend,\" quoth I, \"you mean to whip the dog?\" \"Ay, marry do I,\" quoth he. \"You do him the more wrong,\" quoth I. \"'Twas I did the thing you wot of.\" He makes me no more ado but whips me out of the chamber. How many masters would do this for his servant? Nay, I'll be sworn I have sat in the stock for puddings he hath stolen, otherwise he had been executed. I have stood on the pillory for geese he hath killed, otherwise he had suffered for't.  Thou think'st not of this now. Nay, I remember the trick you served me when I took my leave of Madam Silvia. Did not I bid thee still mark me, and do as I do? When didst thou see me heave up my leg and make water against a gentlewoman's farthingale? Didst thou ever see me do such a trick?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Sebastian is thy name? I like thee well, And will employ thee in some service presently."
+            },
+            {
+              "speaker": "Julia",
+              "line": "In what you please; I'll do what I can."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "I hope thou wilt.  How now, you whoreson peasant, Where have you been these two days loitering?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Marry, sir, I carried Mistress Silvia the dog you bade me."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "And what says she to my little jewel?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Marry, she says your dog was a cur, and tells you currish thanks is good enough for such a present."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "But she received my dog?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "No, indeed, did she not. Here have I brought him back again."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "What, didst thou offer her this from me?"
+            },
+            {
+              "speaker": "Lance",
+              "line": "Ay, sir, the other squirrel was stolen from me by the hangman's boys in the market-place, and then I offered her mine own, who is a dog as big as ten of yours, and therefore the gift the greater."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Go, get thee hence, and find my dog again, Or ne'er return again into my sight. Away, I say. Stayest thou to vex me here? A slave that still an end turns me to shame. Sebastian, I have entertained thee Partly that I have need of such a youth That can with some discretion do my business- For 'tis no trusting to yond foolish lout- But chiefly for thy face and thy behaviour, Which, if my augury deceive me not, Witness good bringing up, fortune, and truth. Therefore, know thou, for this I entertain thee. Go presently, and take this ring with thee, Deliver it to Madam Silvia. She loved me well delivered it to me."
+            },
+            {
+              "speaker": "Julia",
+              "line": "It seems you loved not her, to leave her token. She's dead belike?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Not so; I think she lives."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Alas!"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Why dost thou cry \"Alas\"?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "I cannot choose But pity her."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Wherefore shouldst thou pity her?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Because methinks that she loved you as well As you do love your lady Silvia. She dreams on him that has forgot her love; You dote on her that cares not for your love. 'Tis pity love should be so contrary; And thinking on it makes me cry \"Alas.\""
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Well, give her that ring, and therewithal This letter. That's her chamber. Tell my lady I claim the promise for her heavenly picture. Your message done, hie home unto my chamber, Where thou shalt find me sad and solitary."
+            },
+            {
+              "speaker": "Julia",
+              "line": "How many women would do such a message? Alas, poor Proteus, thou hast entertained A fox to be the shepherd of thy lambs. Alas, poor fool, why do I pity him That with his very heart despiseth me? Because he loves her, he despiseth me; Because I love him, I must pity him. This ring I gave him when he parted from me, To bind him to remember my good will; And now am I, unhappy messenger, To plead for that which I would not obtain, To carry that which I would have refused, To praise his faith, which I would have dispraised. I am my master's true confirmed love, But cannot be true servant to my master Unless I prove false traitor to myself. Yet will I woo for him, but yet so coldly As, heaven it knows, I would not have him speed. Gentlewoman, good day. I pray you be my mean To bring me where to speak with Madam Silvia."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "What would you with her, if that I be she?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "If you be she, I do entreat your patience To hear me speak the message I am sent on."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "From whom?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "From my master, Sir Proteus, madam."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "O, he sends you for a picture?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Ay, madam."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Ursula, bring my picture there. Go, give your master this. Tell him from me, One Julia, that his changing thoughts forget, Would better fit his chamber than this shadow."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Madam, please you peruse this letter. Pardon me, madam, I have unadvised Delivered you a paper that I should not. This is the letter to your ladyship."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "I pray thee, let me look on that again."
+            },
+            {
+              "speaker": "Julia",
+              "line": "It may not be. Good madam, pardon me."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "There, hold. I will not look upon your master's lines. I know they are stuffed with protestations And full of new-found oaths, which he will break As easily as I do tear his paper."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Madam, he sends your ladyship this ring."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "The more shame for him that he sends it me; For I have heard him say a thousand times His Julia gave it him at his departure. Though his false finger have profaned the ring, Mine shall not do his Julia so much wrong."
+            },
+            {
+              "speaker": "Julia",
+              "line": "She thanks you."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "What sayst thou?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "I thank you, madam, that you tender her. Poor gentlewoman, my master wrongs her much."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Dost thou know her?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Almost as well as I do know myself. To think upon her woes, I do protest That I have wept a hundred several times."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Belike she thinks that Proteus hath forsook her?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "I think she doth, and that's her cause of sorrow."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Is she not passing fair?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "She hath been fairer, madam, than she is. When she did think my master loved her well, She, in my judgement, was as fair as you. But since she did neglect her looking-glass And threw her sun-expelling mask away, The air hath starved the roses in her cheeks And pinched the lily-tincture of her face, That now she is become as black as I."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "How tall was she?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "About my stature; for at Pentecost, When all our pageants of delight were played, Our youth got me to play the woman's part, And I was trimmed in Madam Julia's gown, Which served me as fit, by all men's judgements, As if the garment had been made for me; Therefore I know she is about my height. And at that time I made her weep agood, For I did play a lamentable part. Madam, 'twas Ariadne, passioning For Theseus' perjury and unjust flight, Which I so lively acted with my tears That my poor mistress, moved therewithal, Wept bitterly; and would I might be dead If I in thought felt not her very sorrow."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "She is beholding to thee, gentle youth. Alas, poor lady, desolate and left! I weep myself to think upon thy words. Here, youth, there is my purse. I give thee this For thy sweet mistress' sake, because thou lov'st her. Farewell."
+            },
+            {
+              "speaker": "Julia",
+              "line": "And she shall thank you for't, if e'er you know her. A virtuous gentlewoman, mild and beautiful. I hope my master's suit will be but cold, Since she respects my mistress' love so much. Alas, how love can trifle with itself! Here is her picture; let me see. I think If I had such a tire, this face of mine Were full as lovely as is this of hers; And yet the painter flattered her a little, Unless I flatter with myself too much. Her hair is auburn, mine is perfect yellow; If that be all the difference in his love, I'll get me such a coloured periwig. Her eyes are grey as glass, and so are mine. Ay, but her forehead's low, and mine's as high. What should it be that he respects in her But I can make respective in myself, If this fond Love were not a blinded god? Come, shadow, come, and take this shadow up, For 'tis thy rival. O thou senseless form, Thou shalt be worshipped, kissed, loved, and adored; And were there sense in his idolatry, My substance should be statue in thy stead. I'll use thee kindly for thy mistress' sake, That used me so; or else, by Jove I vow, I should have scratched out your unseeing eyes To make my master out of love with thee."
+            }
+          ],
+          "scene_characters": [
+            "Julia",
+            "Lance",
+            "Proteus",
+            "Silvia"
+          ]
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Milan. An abbey",
+          "scene_id": "the_two_gentlemen_of_verona_5_1",
+          "dialogues": [
+            {
+              "speaker": "Eglamour",
+              "line": "The sun begins to gild the western sky, And now it is about the very hour That Silvia at Friar Patrick's cell should meet me. She will not fail, for lovers break not hours, Unless it be to come before their time, So much they spur their expedition. See where she comes. Lady, a happy evening!"
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Amen, amen. Go on, good Eglamour, Out at the postern by the abbey wall. I fear I am attended by some spies."
+            },
+            {
+              "speaker": "Eglamour",
+              "line": "Fear not. The forest is not three leagues off; If we recover that, we are sure enough."
+            }
+          ],
+          "scene_characters": [
+            "Eglamour",
+            "Silvia"
+          ]
+        },
+        {
+          "scene": 2,
+          "location": "The same. A room in the Duke's palace",
+          "scene_id": "the_two_gentlemen_of_verona_5_2",
+          "dialogues": [
+            {
+              "speaker": "Thurio",
+              "line": "Sir Proteus, what says Silvia to my suit?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "O, sir, I find her milder than she was, And yet she takes exceptions at your person."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "What? That my leg is too long?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "No, that it is too little."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "I'll wear a boot to make it somewhat rounder."
+            },
+            {
+              "speaker": "Julia",
+              "line": "But love will not be spurred to what it loathes."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "What says she to my face?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "She says it is a fair one."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Nay, then, the wanton lies; my face is black."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "But pearls are fair; and the old saying is, \"Black men are pearls in beauteous ladies' eyes.\""
+            },
+            {
+              "speaker": "Julia",
+              "line": "'Tis true, such pearls as put out ladies' eyes, For I had rather wink than look on them."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "How likes she my discourse?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Ill, when you talk of war."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "But well when I discourse of love and peace."
+            },
+            {
+              "speaker": "Julia",
+              "line": "But better, indeed, when you hold your peace."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "What says she to my valour?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "O, sir, she makes no doubt of that."
+            },
+            {
+              "speaker": "Julia",
+              "line": "She needs not, when she knows it cowardice."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "What says she to my birth?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "That you are well derived."
+            },
+            {
+              "speaker": "Julia",
+              "line": "True, from a gentleman to a fool."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Considers she my possessions?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "O, ay, and pities them."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Wherefore?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "That such an ass should owe them."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "That they are out by lease."
+            },
+            {
+              "speaker": "Julia",
+              "line": "Here comes the Duke."
+            },
+            {
+              "speaker": "Duke",
+              "line": "How now, Sir Proteus! How now, Thurio! Which of you saw Sir Eglamour of late?"
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Not I."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Nor I."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Saw you my daughter?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Neither."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Why then, she's fled unto that peasant Valentine, And Eglamour is in her company. 'Tis true, for Friar Lawrence met them both As he in penance wandered through the forest; Him he knew well, and guessed that it was she, But, being masked, he was not sure of it. Besides, she did intend confession At Patrick's cell this even, and there she was not. These likelihoods confirm her flight from hence. Therefore, I pray you, stand not to discourse, But mount you presently and meet with me Upon the rising of the mountain foot That leads toward Mantua, whither they are fled. Dispatch, sweet gentlemen, and follow me."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Why, this it is to be a peevish girl That flies her fortune when it follows her. I'll after, more to be revenged on Eglamour Than for the love of reckless Silvia."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "And I will follow, more for Silvia's love Than hate of Eglamour that goes with her."
+            },
+            {
+              "speaker": "Julia",
+              "line": "And I will follow, more to cross that love Than hate for Silvia, that is gone for love."
+            }
+          ],
+          "scene_characters": [
+            "Duke",
+            "Julia",
+            "Proteus",
+            "Thurio"
+          ]
+        },
+        {
+          "scene": 3,
+          "location": "Frontiers of Mantua. The forest",
+          "scene_id": "the_two_gentlemen_of_verona_5_3",
+          "dialogues": [
+            {
+              "speaker": "First Outlaw",
+              "line": "Come, come, be patient. We must bring you to our captain."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "A thousand more mischances than this one Have learned me how to brook this patiently."
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "Come, bring her away."
+            },
+            {
+              "speaker": "First Outlaw",
+              "line": "Where is the gentleman that was with her?"
+            },
+            {
+              "speaker": "Second Outlaw",
+              "line": "Being nimble-footed, he hath outrun us. But Moyses and Valerius follow him. Go thou with her to the west end of the wood; There is our captain. We'll follow him that's fled. The thicket is beset; he cannot 'scape."
+            },
+            {
+              "speaker": "First Outlaw",
+              "line": "Come, I must bring you to our captain's cave. Fear not; he bears an honourable mind And will not use a woman lawlessly."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "O Valentine, this I endure for thee!"
+            }
+          ],
+          "scene_characters": [
+            "First Outlaw",
+            "Second Outlaw",
+            "Silvia"
+          ]
+        },
+        {
+          "scene": 4,
+          "location": "Another part of the forest",
+          "scene_id": "the_two_gentlemen_of_verona_5_4",
+          "dialogues": [
+            {
+              "speaker": "Valentine",
+              "line": "How use doth breed a habit in a man! This shadowy desert, unfrequented woods, I better brook than flourishing peopled towns. Here can I sit alone, unseen of any, And to the nightingale's complaining notes Tune my distresses and record my woes. O thou that dost inhabit in my breast, Leave not the mansion so long tenantless, Lest, growing ruinous, the building fall And leave no memory of what it was. Repair me with thy presence, Silvia; Thou gentle nymph, cherish thy forlorn swain. What hallowing and what stir is this today? These are my mates, that make their wills their law, Have some unhappy passenger in chase. They love me well; yet I have much to do To keep them from uncivil outrages. Withdraw thee, Valentine. Who's this comes here?"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Madam, this service I have done for you- Though you respect not aught your servant doth- To hazard life, and rescue you from him That would have forced your honour and your love. Vouchsafe me for my meed but one fair look; A smaller boon than this I cannot beg, And less than this, I am sure, you cannot give."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "How like a dream is this I see and hear! Love, lend me patience to forbear awhile."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "O miserable, unhappy that I am!"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Unhappy were you, madam, ere I came; But by my coming I have made you happy."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "By thy approach thou mak'st me most unhappy."
+            },
+            {
+              "speaker": "Julia",
+              "line": "And me, when he approacheth to your presence."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "Had I been seized by a hungry lion, I would have been a breakfast to the beast Rather than have false Proteus rescue me. O heaven, be judge how I love Valentine, Whose life's as tender to me as my soul! And full as much, for more there cannot be, I do detest false perjured Proteus. Therefore be gone, solicit me no more."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "What dangerous action, stood it next to death, Would I not undergo for one calm look! O, 'tis the curse in love, and still approved, When women cannot love where they're beloved."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "When Proteus cannot love where he's beloved. Read over Julia's heart, thy first best love, For whose dear sake thou didst then rend thy faith Into a thousand oaths; and all those oaths Descended into perjury to love me. Thou hast no faith left now, unless thou'dst two, And that's far worse than none; better have none Than plural faith, which is too much by one. Thou counterfeit to thy true friend!"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "In love Who respects friend?"
+            },
+            {
+              "speaker": "Silvia",
+              "line": "All men but Proteus."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Nay, if the gentle spirit of moving words Can no way change you to a milder form, I'll woo you like a soldier, at arms' end, And love you 'gainst the nature of love-force ye."
+            },
+            {
+              "speaker": "Silvia",
+              "line": "O heaven!"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "I'll force thee yield to my desire."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Ruffian, let go that rude uncivil touch, Thou friend of an ill fashion!"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Valentine!"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Thou common friend, that's without faith or love, For such is a friend now. Treacherous man, Thou hast beguiled my hopes; nought but mine eye Could have persuaded me. Now I dare not say I have one friend alive; thou wouldst disprove me. Who should be trusted, when one's right hand Is perjured to the bosom? Proteus, I am sorry I must never trust thee more, But count the world a stranger for thy sake. The private wound is deepest. O time most accurst, 'Mongst all foes that a friend should be the worst!"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "My shame and guilt confounds me. Forgive me, Valentine; if hearty sorrow Be a sufficient ransom for offence, I tender 't here. I do as truly suffer As e'er I did commit."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Then I am paid, And once again I do receive thee honest. Who by repentance is not satisfied Is nor of heaven nor earth, for these are pleased; By penitence th' Eternal's wrath's appeased. And that my love may appear plain and free, All that was mine in Silvia I give thee."
+            },
+            {
+              "speaker": "Julia",
+              "line": "O me unhappy!"
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Look to the boy."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Why, boy! Why, wag! How now? What's the matter? Look up; speak."
+            },
+            {
+              "speaker": "Julia",
+              "line": "O good sir, my master charged me to deliver a ring to Madam Silvia, which out of my neglect was never done."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Where is that ring, boy?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Here 'tis; this is it."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "How, let me see. Why, this is the ring I gave to Julia."
+            },
+            {
+              "speaker": "Julia",
+              "line": "O, cry you mercy, sir, I have mistook. This is the ring you sent to Silvia."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "But how cam'st thou by this ring? At my depart I gave this unto Julia."
+            },
+            {
+              "speaker": "Julia",
+              "line": "And Julia herself did give it me, And Julia herself have brought it hither."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "How? Julia?"
+            },
+            {
+              "speaker": "Julia",
+              "line": "Behold her that gave aim to all thy oaths And entertained 'em deeply in her heart. How oft hast thou with perjury cleft the root! O Proteus, let this habit make thee blush. Be thou ashamed that I have took upon me Such an immodest raiment, if shame live In a disguise of love. It is the lesser blot, modesty finds, Women to change their shapes than men their minds."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Than men their minds! 'Tis true. O heaven, were man But constant, he were perfect. That one error Fills him with faults, makes him run through all th' sins; Inconstancy falls off ere it begins. What is in Silvia's face but I may spy More fresh in Julia's with a constant eye?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Come, come, a hand from either. Let me be blest to make this happy close. 'Twere pity two such friends should be long foes."
+            },
+            {
+              "speaker": "Proteus",
+              "line": "Bear witness, heaven, I have my wish for ever."
+            },
+            {
+              "speaker": "Julia",
+              "line": "And I mine."
+            },
+            {
+              "speaker": "Outlaws",
+              "line": "A prize, a prize, a prize!"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Forbear, forbear, I say! It is my lord the Duke. Your Grace is welcome to a man disgraced, Banished Valentine."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Sir Valentine!"
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Yonder is Silvia, and Silvia's mine."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Thurio, give back, or else embrace thy death; Come not within the measure of my wrath. Do not name Silvia thine; if once again, Verona shall not hold thee. Here she stands; Take but possession of her with a touch- I dare thee but to breathe upon my love."
+            },
+            {
+              "speaker": "Thurio",
+              "line": "Sir Valentine, I care not for her, I. I hold him but a fool that will endanger His body for a girl that loves him not. I claim her not, and therefore she is thine."
+            },
+            {
+              "speaker": "Duke",
+              "line": "The more degenerate and base art thou To make such means for her as thou hast done, And leave her on such slight conditions.- Now, by the honour of my ancestry, I do applaud thy spirit, Valentine, And think thee worthy of an empress' love. Know then, I here forget all former griefs, Cancel all grudge, repeal thee home again, Plead a new state in thy unrivalled merit, To which I thus subscribe: Sir Valentine, Thou art a gentleman, and well derived; Take thou thy Silvia, for thou hast deserved her."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I thank your Grace; the gift hath made me happy. I now beseech you, for your daughter's sake, To grant one boon that I shall ask of you."
+            },
+            {
+              "speaker": "Duke",
+              "line": "I grant it for thine own, whate'er it be."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "These banished men, that I have kept withal, Are men endued with worthy qualities. Forgive them what they have committed here, And let them be recalled from their exile. They are reformed, civil, full of good, And fit for great employment, worthy lord."
+            },
+            {
+              "speaker": "Duke",
+              "line": "Thou hast prevailed; I pardon them and thee. Dispose of them as thou know'st their deserts. Come, let us go; we will include all jars With triumphs, mirth, and rare solemnity."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "And as we walk along, I dare be bold With our discourse to make your Grace to smile. What think you of this page, my lord?"
+            },
+            {
+              "speaker": "Duke",
+              "line": "I think the boy hath grace in him; he blushes."
+            },
+            {
+              "speaker": "Valentine",
+              "line": "I warrant you, my lord, more grace than boy."
+            },
+            {
+              "speaker": "Duke",
+              "line": "What mean you by that saying?"
+            },
+            {
+              "speaker": "Valentine",
+              "line": "Please you, I'll tell you as we pass along, That you will wonder what hath fortuned. Come, Proteus, 'tis your penance but to hear The story of your loves discovered. That done, our day of marriage shall be yours, One feast, one house, one mutual happiness."
+            }
+          ],
+          "scene_characters": [
+            "Duke",
+            "Julia",
+            "Outlaws",
+            "Proteus",
+            "Silvia",
+            "Thurio",
+            "Valentine"
+          ]
+        }
+      ]
+    }
+  ]
+}

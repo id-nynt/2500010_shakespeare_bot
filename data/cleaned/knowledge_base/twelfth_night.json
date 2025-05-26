@@ -1,0 +1,152 @@
+{
+  "title": "Twelfth Night; Or, What You Will",
+  "full_title": "Twelfth Night, or What You Will",
+  "category": "comedy",
+  "year": "1601-1602",
+  "setting": "Illyria, an ancient region on the Adriatic Sea",
+  "main_characters": [
+    "Viola",
+    "Sebastian",
+    "Orsino",
+    "Olivia",
+    "Malvolio",
+    "Sir Toby Belch",
+    "Sir Andrew Aguecheek",
+    "Maria",
+    "Feste"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Viola",
+      "description": "Shipwrecked woman, disguises as Cesario"
+    },
+    {
+      "name": "Sebastian",
+      "description": "Viola's twin brother, presumed dead"
+    },
+    {
+      "name": "Orsino",
+      "description": "Duke of Illyria, loves Olivia"
+    },
+    {
+      "name": "Olivia",
+      "description": "Countess, loves Cesario, then Sebastian"
+    },
+    {
+      "name": "Malvolio",
+      "description": "Olivia's steward, humiliated by prank"
+    },
+    {
+      "name": "Sir Toby Belch",
+      "description": "Olivia's drunken uncle, plots prank"
+    },
+    {
+      "name": "Sir Andrew Aguecheek",
+      "description": "Toby's foolish friend, courts Olivia"
+    },
+    {
+      "name": "Maria",
+      "description": "Olivia's maid, orchestrates Malvolio prank"
+    },
+    {
+      "name": "Feste",
+      "description": "Olivia's witty fool, sings and jests"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Love",
+      "theme_explanation": "Love’s irrationality drives the romantic entanglements, as Orsino, Olivia, and Viola navigate unrequited and mistaken affections, resolved through comedic revelations."
+    },
+    {
+      "theme": "Disguise",
+      "theme_explanation": "Viola’s disguise as Cesario creates romantic and comedic confusion, highlighting how appearances shape perceptions and relationships."
+    },
+    {
+      "theme": "Deception",
+      "theme_explanation": "Deception, from Viola’s disguise to the prank on Malvolio, fuels the plot, exploring both playful and cruel manipulations."
+    },
+    {
+      "theme": "Gender",
+      "theme_explanation": "Viola’s cross-dressing as Cesario blurs gender roles, challenging societal norms and sparking romantic complications."
+    },
+    {
+      "theme": "Social class",
+      "theme_explanation": "The play critiques class distinctions through Malvolio’s social ambitions and the interactions between nobles, servants, and fools."
+    },
+    {
+      "theme": "Folly",
+      "theme_explanation": "Folly is central, from Malvolio’s self-delusion to Sir Toby’s drunken antics, exposing human weaknesses through humor."
+    },
+    {
+      "theme": "Identity",
+      "theme_explanation": "Mistaken identities, especially between Viola and Sebastian, drive the comedy, questioning the nature of self and perception."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "If music be the food of love, play on",
+      "speaker": "Orsino",
+      "act": 1,
+      "scene": 1,
+      "explanation": "Orsino indulges in his lovesickness for Olivia, equating music to nourishment for his romantic longing."
+    },
+    {
+      "quote": "Some are born great, some achieve greatness, and some have greatness thrust upon 'em",
+      "speaker": "Malvolio",
+      "act": 2,
+      "scene": 5,
+      "explanation": "Malvolio misreads a forged letter, inflating his ambitions and leading to his comedic humiliation."
+    },
+    {
+      "quote": "Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them",
+      "speaker": "Malvolio",
+      "act": 2,
+      "scene": 5,
+      "explanation": "Malvolio repeats the forged letter's words, revealing his delusions of grandeur that drive the subplot."
+    },
+    {
+      "quote": "Better a witty fool, than a foolish wit",
+      "speaker": "Feste",
+      "act": 1,
+      "scene": 5,
+      "explanation": "Feste defends his role as a clever fool, contrasting his sharp wit with the folly of pretentious wisdom."
+    },
+    {
+      "quote": "I am all the daughters of my father's house, and all the brothers too",
+      "speaker": "Viola",
+      "act": 2,
+      "scene": 4,
+      "explanation": "Viola, disguised as Cesario, hints at her dual identity and grief for her presumed-dead brother Sebastian."
+    },
+    {
+      "quote": "Love sought is good, but given unsought is better",
+      "speaker": "Olivia",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Olivia reflects on her unexpected love for Viola (disguised as Cesario), emphasizing spontaneous affection."
+    },
+    {
+      "quote": "Many a good hanging prevents a bad marriage",
+      "speaker": "Feste",
+      "act": 1,
+      "scene": 5,
+      "explanation": "Feste’s jest underscores the play’s humorous take on romantic mismatches and clever wordplay."
+    },
+    {
+      "quote": "If music be the food of love play on.",
+      "speaker": "Orsino",
+      "act": 1,
+      "scene": 1,
+      "explanation": "Duke Orsino expresses his desire for an excess of music to cure him of his love sickness, hoping to grow tired of love itself."
+    },
+    {
+      "quote": "This is very midsummer madness.",
+      "speaker": "Olivia",
+      "act": 3,
+      "scene": 4,
+      "explanation": "Olivia, observing the chaotic and absurd events unfolding around her, attributes them to a temporary period of irrationality, similar to the wildness associated with midsummer festivals."
+    }
+  ],
+  "summary": "Twelfth Night follows Viola, who disguises herself as a man named Cesario after being shipwrecked in Illyria, believing her twin brother Sebastian has drowned. She enters the service of Duke Orsino, who is in love with Countess Olivia. When Viola as Cesario is sent to court Olivia for Orsino, Olivia falls for Cesario instead. The arrival of Sebastian creates confusion and comedy, while a subplot involves the humiliation of Olivia's steward Malvolio."
+}

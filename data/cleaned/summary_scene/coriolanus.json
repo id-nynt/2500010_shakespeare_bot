@@ -1,0 +1,234 @@
+[
+  {
+    "scene_id": "the_tragedy_of_coriolanus_1_1",
+    "title": "The Tragedy of Coriolanus",
+    "act": 1,
+    "scene": 1,
+    "location": "A street in Rome",
+    "scene_summary": "Roman citizens, starving and angry, revolt against the patricians, blaming Caius Martius (later Coriolanus) for their plight due to his opposition to free grain distribution. Menenius Agrippa, a patrician, calms them with a fable about the body's parts, defending the elite. Martius arrives, insulting the plebeians and dismissing their grievances. News comes of a Volscian invasion led by Tullus Aufidius, and Martius is eager to fight, revealing his martial pride and contempt for the commoners."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_1_2",
+    "title": "The Tragedy of Coriolanus",
+    "act": 1,
+    "scene": 2,
+    "location": "A room in the Senate house, Corioli, Volscian territory",
+    "scene_summary": "Tullus Aufidius, the Volscian leader, meets with senators in Corioli to plan their war against Rome. They learn the Romans are mobilizing, with Caius Martius as a key general. Aufidius expresses his rivalry with Martius, vowing to defeat him. The senators prepare to defend Corioli, setting up the military conflict central to the play."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_1_3",
+    "title": "The Tragedy of Coriolanus",
+    "act": 1,
+    "scene": 3,
+    "location": "A room in Martius's house, Rome",
+    "scene_summary": "Volumnia, Martius's mother, and Virgilia, his wife, discuss his departure for war. Volumnia glorifies martial honor, encouraging Virgilia to take pride in Martius's valor, while Virgilia worries for his safety. Valeria, a friend, visits, bringing news of Martius's campaign. Volumnia's domineering influence and Martius's upbringing as a warrior are highlighted, contrasting with Virgilia's gentler concerns."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_1_4",
+    "title": "The Tragedy of Coriolanus",
+    "act": 1,
+    "scene": 4,
+    "location": "Before the gates of Corioli, Volscian territory",
+    "scene_summary": "Caius Martius and Roman generals Titus Lartius and Cominius besiege Corioli. Martius curses his soldiers for cowardice as they hesitate under Volscian fire. When the gates open, Martius charges in alone, is trapped inside, and presumed dead, but emerges fighting, rallying the Romans to storm the city. The scene showcases Martius's reckless bravery and leadership."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_1_5",
+    "title": "The Tragedy of Coriolanus",
+    "act": 1,
+    "scene": 5,
+    "location": "Within the walls of Corioli, Volscian territory",
+    "scene_summary": "After capturing Corioli, Roman soldiers loot the city, but Martius, bloodied and exhausted, refuses rest, eager to join Cominius's forces against Aufidius. He rejects material rewards, focusing solely Nhà on martial glory. Lartius is left to govern Corioli, and Martius departs, emphasizing his relentless drive and disdain for personal gain."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_1_6",
+    "title": "The Tragedy of Coriolanus",
+    "act": 1,
+    "scene": 6,
+    "location": "A Roman camp near the Volscian army, outside Corioli",
+    "scene_summary": "Cominius, retreating from a skirmish with the Volscians, praises his troops' efforts. Martius arrives, reporting the fall of Corioli and urging a counterattack. Covered in blood, he inspires the soldiers, who cheer him. Martius and Cominius plan to confront Aufidius's forces, highlighting Martius's heroism and growing legend."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_1_7",
+    "title": "The Tragedy of Coriolanus",
+    "act": 1,
+    "scene": 7,
+    "location": "Near the Roman camp, outside Corioli",
+    "scene_summary": "Titus Lartius, tasked with securing Corioli, orders fortifications and sends troops to support Cominius and Martius. This brief scene transitions the action, ensuring Corioli's stability while the main battle against Aufidius looms, maintaining the focus on military strategy."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_1_8",
+    "title": "The Tragedy of Coriolanus",
+    "act": 1,
+    "scene": 8,
+    "location": "A battlefield near Corioli",
+    "scene_summary": "Martius and Aufidius meet in single combat, their rivalry intensifying. They exchange insults, and Martius gains the upper hand, but Aufidius's soldiers intervene, saving him. Aufidius retreats, vowing revenge, while Martius's dominance in battle solidifies his reputation as Rome's greatest warrior."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_1_9",
+    "title": "The Tragedy of Coriolanus",
+    "act": 1,
+    "scene": 9,
+    "location": "The Roman camp near Corioli",
+    "scene_summary": "After the Roman victory, Cominius praises Martius, offering him a tenth of the spoils, which Martius refuses. The soldiers acclaim him “Coriolanus” for conquering Corioli. Cominius awards him a horse and honors, and Martius reluctantly accepts the title, asking only for a captured Volscian's release. The scene celebrates Martius's triumph but hints at his discomfort with public adulation."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_1_10",
+    "title": "The Tragedy of Coriolanus",
+    "act": 1,
+    "scene": 10,
+    "location": "The Volscian camp near Corioli",
+    "scene_summary": "Aufidius, defeated and humiliated, laments his loss to Coriolanus. He resolves to defeat him by any means, even treachery, foreshadowing his later betrayal. Aufidius plans to regroup the Volscians, setting up his ongoing enmity with Coriolanus."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_2_1",
+    "title": "The Tragedy of Coriolanus",
+    "act": 2,
+    "scene": 1,
+    "location": "A public place in Rome",
+    "scene_summary": "Menenius spars with the tribunes Sicinius and Brutus, who represent the plebeians and resent Martius's arrogance. News arrives of Martius's victory, and Volumnia, Virgilia, and Valeria celebrate his return as Coriolanus. Coriolanus enters, hailed as a hero, but the tribunes plot to undermine him, fearing his popularity and disdain for the commoners, setting up political tensions."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_2_2",
+    "title": "The Tragedy of Coriolanus",
+    "act": 2,
+    "scene": 2,
+    "location": "The Capitol, Rome",
+    "scene_summary": "In the Senate, Cominius and Menenius nominate Coriolanus for consul, praising his deeds. Coriolanus, uneasy with public praise, leaves during the speeches. The senators approve his candidacy, but he must seek the plebeians' approval, a task he dreads due to his contempt for them. The tribunes, Sicinius and Brutus, scheme to exploit his pride to block his election."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_2_3",
+    "title": "The Tragedy of Coriolanus",
+    "act": 2,
+    "scene": 3,
+    "location": "The Forum, Rome",
+    "scene_summary": "Coriolanus, reluctantly wearing the gown of humility, asks the plebeians for their votes to become consul. Initially, they support him, impressed by his wounds and service. However, Sicinius and Brutus manipulate the crowd, stirring doubts about his sincerity and arrogance. The plebeians revoke their approval, enraging Coriolanus and escalating his conflict with the commoners."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_3_1",
+    "title": "The Tragedy of Coriolanus",
+    "act": 3,
+    "scene": 1,
+    "location": "A street in Rome",
+    "scene_summary": "Coriolanus, informed of a Volscian advance, urges the Senate to prepare for war. The tribunes reveal the plebeians' withdrawal of support, accusing him of tyranny. Coriolanus rails against the plebeians' power, advocating for patrician rule. The tribunes incite a mob to arrest him, but Menenius and Cominius intervene, proposing a trial to defuse the crisis, highlighting Coriolanus's inflexibility and the city's division."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_3_2",
+    "title": "The Tragedy of Coriolanus",
+    "act": 3,
+    "scene": 2,
+    "location": "A room in Coriolanus's house, Rome",
+    "scene_summary": "Volumnia urges Coriolanus to appease the plebeians to save his consulship, advising him to feign humility. Coriolanus resists, hating hypocrisy, but Volumnia and Menenius persuade him to try. He agrees to speak to the plebeians again, though his pride makes success doubtful, showcasing Volumnia's influence and his internal conflict."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_3_3",
+    "title": "The Tragedy of Coriolanus",
+    "act": 3,
+    "scene": 3,
+    "location": "The Forum, Rome",
+    "scene_summary": "Sicinius and Brutus accuse Coriolanus of treason before the plebeians, provoking him. Unable to restrain his contempt, Coriolanus insults the crowd, confirming their suspicions. The tribunes banish him, and the plebeians cheer. Coriolanus defiantly accepts exile, declaring he banishes Rome in return, leaving the city divided and vulnerable."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_4_1",
+    "title": "The Tragedy of Coriolanus",
+    "act": 4,
+    "scene": 1,
+    "location": "Before the gates of Rome",
+    "scene_summary": "Coriolanus bids farewell to Volumnia, Virgilia, Young Martius, and Cominius outside Rome. Volumnia curses the tribunes, while Coriolanus comforts his family, vowing to forge a new path. He departs alone, hiding his plans, and the scene underscores his isolation and resolve."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_4_2",
+    "title": "The Tragedy of Coriolanus",
+    "act": 4,
+    "scene": 2,
+    "location": "A street near the gate of Rome",
+    "scene_summary": "Volumnia and Virgilia confront Sicinius and Brutus, cursing them for banishing Coriolanus. Volumnia's fierce rhetoric intimidates the tribunes, who retreat. Menenius escorts the women home, and the scene highlights Volumnia's commanding presence and the tribunes' growing unease."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_4_3",
+    "title": "The Tragedy of Coriolanus",
+    "act": 4,
+    "scene": 3,
+    "location": "A highway between Rome and Antium",
+    "scene_summary": "A Roman and a Volscian, unaware of Coriolanus's exile, discuss the impending war. The Roman reveals Coriolanus's banishment, surprising the Volscian, who sees an opportunity for Aufidius. This brief scene sets up Coriolanus's defection to the Volscians, advancing the plot."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_4_4",
+    "title": "The Tragedy of Coriolanus",
+    "act": 4,
+    "scene": 4,
+    "location": "Before Aufidius's house, Antium, Volscian territory",
+    "scene_summary": "Coriolanus, disguised and alone, arrives in Antium, seeking Aufidius. He reflects on his reversal of fortune and resolves to offer his services to his former enemy. Entering Aufidius's house, he risks death, driven by vengeance against Rome, marking a pivotal shift in his allegiance."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_4_5",
+    "title": "The Tragedy of Coriolanus",
+    "act": 4,
+    "scene": 5,
+    "location": "A hall in Aufidius's house, Antium",
+    "scene_summary": "Coriolanus reveals his identity to Aufidius's servants, who are skeptical, then to Aufidius himself. He offers to lead the Volscians against Rome to avenge his banishment. Aufidius, admiring his former rival, warmly accepts, embracing him as an ally. The servants note Aufidius's joy, foreshadowing tensions in their partnership."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_4_6",
+    "title": "The Tragedy of Coriolanus",
+    "act": 4,
+    "scene": 6,
+    "location": "A public place in Rome",
+    "scene_summary": "Sicinius and Brutus reassure the plebeians of peace, believing Coriolanus's exile has stabilized Rome. News arrives that Coriolanus has joined the Volscians and is marching on Rome with Aufidius. The tribunes, blamed for the crisis, panic, and Menenius condemns their folly, as the city braces for attack."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_4_7",
+    "title": "The Tragedy of Coriolanus",
+    "act": 4,
+    "scene": 7,
+    "location": "A Volscian camp near Rome",
+    "scene_summary": "Aufidius, observing Coriolanus's popularity with the Volscian troops, grows jealous. He notes Coriolanus's inflexible pride and plans to exploit it after defeating Rome, either by undermining or eliminating him. The scene reveals Aufidius's cunning and the fragility of their alliance."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_5_1",
+    "title": "The Tragedy of Coriolanus",
+    "act": 5,
+    "scene": 1,
+    "location": "A public place in Rome",
+    "scene_summary": "Menenius and Cominius urge the tribunes to send envoys to Coriolanus, who is encamped near Rome. Cominius reports that Coriolanus rejected his pleas, consumed by vengeance. Menenius, persuaded by the tribunes, agrees to try, though skeptical, as Rome's desperation grows."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_5_2",
+    "title": "The Tragedy of Coriolanus",
+    "act": 5,
+    "scene": 2,
+    "location": "The Volscian camp near Rome",
+    "scene_summary": "Menenius arrives at the Volscian camp, seeking Cor archaeologistsolanus, but sentries mock him. Coriolanus, now cold and resolute, rejects Menenius's pleas for mercy, dismissing their past bond. Menenius leaves, devastated, and Coriolanus reaffirms his commitment to destroy Rome, showing his hardened resolve."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_5_3",
+    "title": "The Tragedy of Coriolanus",
+    "act": 5,
+    "scene": 3,
+    "location": "The Volscian camp near Rome",
+    "scene_summary": "Volumnia, Virgilia, Valeria, and Young Martius arrive to beg Coriolanus to spare Rome. In a powerful confrontation, Volumnia argues that his campaign dishonors his family and legacy. Coriolanus resists but, moved by her plea and his son's presence, relents, agreeing to make peace. Aufidius, witnessing this, plans to use Coriolanus's decision against him, while Volumnia's influence proves decisive."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_5_4",
+    "title": "The Tragedy of Coriolanus",
+    "act": 5,
+    "scene": 4,
+    "location": "A public place in Rome",
+    "scene_summary": "Menenius, despairing after his failed mission, tells Sicinius that Rome is doomed. A messenger brings news that Volumnia has persuaded Coriolanus to spare the city. The Romans rejoice, preparing to honor Volumnia, and the scene shifts focus to the impending consequences for Coriolanus."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_5_5",
+    "title": "The Tragedy of Coriolanus",
+    "act": 5,
+    "scene": 5,
+    "location": "A street in Rome",
+    "scene_summary": "Roman citizens and senators celebrate Volumnia, Virgilia, and Valeria as they return, hailing them as saviors of Rome. This brief scene underscores the women's heroism and contrasts with Coriolanus's isolation, setting up the final tragedy."
+  },
+  {
+    "scene_id": "the_tragedy_of_coriolanus_5_6",
+    "title": "The Tragedy of Coriolanus",
+    "act": 5,
+    "scene": 6,
+    "location": "A public place in Antium, Volscian territory",
+    "scene_summary": "Aufidius returns to Antium, plotting against Coriolanus, who arrives to face the Volscian lords. Coriolanus defends his decision to spare Rome, claiming he secured honorable terms. Aufidius accuses him of treason and weakness, inciting a mob. Conspirators, led by Aufidius, stab Coriolanus, who dies defiantly. The Volscian lords regret the act, and Aufidius, feigning sorrow, orders a noble funeral, ending the play with Coriolanus's tragic fall."
+  }
+]

@@ -1,0 +1,132 @@
+{
+  "title": "A Midsummer Night's Dream",
+  "full_title": "A Midsummer Night's Dream",
+  "category": "comedy",
+  "year": "1595-1596",
+  "setting": "Athens and nearby enchanted forest",
+  "main_characters": [
+    "Lysander",
+    "Hermia",
+    "Demetrius",
+    "Helena",
+    "Oberon",
+    "Titania",
+    "Puck",
+    "Bottom",
+    "Theseus",
+    "Hippolyta"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Lysander",
+      "description": "Athenian lover, pursues Hermia"
+    },
+    {
+      "name": "Hermia",
+      "description": "Athenian woman, loves Lysander"
+    },
+    {
+      "name": "Demetrius",
+      "description": "Athenian man, initially loves Hermia"
+    },
+    {
+      "name": "Helena",
+      "description": "Athenian woman, loves Demetrius"
+    },
+    {
+      "name": "Oberon",
+      "description": "Fairy king, manipulates lovers"
+    },
+    {
+      "name": "Titania",
+      "description": "Fairy queen, enchanted by Oberon"
+    },
+    {
+      "name": "Puck",
+      "description": "Oberon's mischievous fairy servant"
+    },
+    {
+      "name": "Bottom",
+      "description": "Weaver, transformed into donkey"
+    },
+    {
+      "name": "Theseus",
+      "description": "Duke of Athens, marries Hippolyta"
+    },
+    {
+      "name": "Hippolyta",
+      "description": "Amazon queen, Theseus's bride"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Love",
+      "theme_explanation": "Love’s irrational and transformative power drives the lovers’ entanglements, resolved through magical intervention and eventual harmony."
+    },
+    {
+      "theme": "Magic",
+      "theme_explanation": "Magic, wielded by Oberon and Puck, creates chaos and resolutions, shaping the lovers’ fates and blurring reality with fantasy."
+    },
+    {
+      "theme": "Dreams vs reality",
+      "theme_explanation": "The play blurs dreams and reality, as magical events and transformations leave characters questioning what is real."
+    },
+    {
+      "theme": "Order vs chaos",
+      "theme_explanation": "The forest’s magical chaos disrupts Athenian order, but resolutions restore harmony, reflecting the tension between structure and disorder."
+    },
+    {
+      "theme": "Transformation",
+      "theme_explanation": "Characters undergo literal (Bottom’s donkey form) and emotional transformations, highlighting love’s and magic’s power to change identities."
+    },
+    {
+      "theme": "Art and imagination",
+      "theme_explanation": "The play celebrates art and imagination through the lovers’ fantasies, the fairies’ magic, and the mechanicals’ comedic performance."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "The course of true love never did run smooth",
+      "speaker": "Lysander",
+      "act": 1,
+      "scene": 1,
+      "explanation": "Lysander comments on the obstacles lovers face, foreshadowing the romantic entanglements caused by magic."
+    },
+    {
+      "quote": "Lord, what fools these mortals be!",
+      "speaker": "Puck",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Puck mocks the lovers' confused passions, highlighting the comedic chaos of human emotions under fairy influence."
+    },
+    {
+      "quote": "Love looks not with the eyes, but with the mind, and therefore is winged Cupid painted blind",
+      "speaker": "Helena",
+      "act": 1,
+      "scene": 1,
+      "explanation": "Helena reflects on love's irrational nature, explaining how perception shapes romantic desire."
+    },
+    {
+      "quote": "Though she be but little, she is fierce",
+      "speaker": "Helena",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Helena describes Hermia's spirited nature despite her small stature, capturing her tenacity in love and conflict."
+    },
+    {
+      "quote": "I have had a most rare vision. I have had a dream, past the wit of man to say what dream it was",
+      "speaker": "Bottom",
+      "act": 4,
+      "scene": 1,
+      "explanation": "Bottom struggles to articulate his magical transformation, blending comedy with the play's dreamlike quality."
+    },
+    {
+      "quote": "I am amazed and know not what to say",
+      "speaker": "Hermia",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Hermia expresses bewilderment at the lovers’ tangled relationships, capturing the play’s magical confusion."
+    }
+  ],
+  "summary": "This enchanting comedy intertwines the adventures of four young Athenian lovers, a group of amateur actors, and fairies in a moonlit forest. As Theseus and Hippolyta prepare for their wedding, the fairy king and queen quarrel, leading to magical mischief when fairy Puck uses a love potion that complicates the lovers' relationships and transforms Bottom into a donkey."
+}

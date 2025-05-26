@@ -1,0 +1,110 @@
+{
+  "title": "Pericles, Prince of Tyre",
+  "full_title": "Pericles, Prince of Tyre",
+  "category": "history",
+  "year": "1607-1608",
+  "setting": "Various Mediterranean locations",
+  "main_characters": [
+    "Pericles",
+    "Marina",
+    "Thaisa",
+    "Gower",
+    "Cleon",
+    "Dionyza",
+    "Lysimachus"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Pericles",
+      "description": "Prince of Tyre, seeks family"
+    },
+    {
+      "name": "Marina",
+      "description": "Pericles's daughter, survives hardship"
+    },
+    {
+      "name": "Thaisa",
+      "description": "Pericles's wife, presumed dead"
+    },
+    {
+      "name": "Gower",
+      "description": "Narrator, guides play's story"
+    },
+    {
+      "name": "Cleon",
+      "description": "Governor, raises Marina"
+    },
+    {
+      "name": "Dionyza",
+      "description": "Cleon's wife, plots against Marina"
+    },
+    {
+      "name": "Lysimachus",
+      "description": "Governor, loves Marina"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Adventure",
+      "theme_explanation": "Pericles’s journey across the Mediterranean, filled with shipwrecks and trials, drives the narrative, symbolizing life’s unpredictable challenges."
+    },
+    {
+      "theme": "Loss",
+      "theme_explanation": "Pericles endures profound loss, believing his wife and daughter dead, which underscores the emotional toll of separation and grief."
+    },
+    {
+      "theme": "Reunion",
+      "theme_explanation": "The miraculous reunions with Thaisa and Marina highlight the restorative power of family and fate, resolving the play’s tragedies."
+    },
+    {
+      "theme": "Fate",
+      "theme_explanation": "Fate guides Pericles’s trials and eventual reunions, suggesting a divine force orchestrates the characters’ destinies."
+    },
+    {
+      "theme": "Family",
+      "theme_explanation": "The enduring bond between Pericles, Thaisa, and Marina triumphs over separation, emphasizing family as a source of resilience and joy."
+    },
+    {
+      "theme": "Virtue",
+      "theme_explanation": "Marina’s purity and moral strength preserve her through hardship, contrasting with the corruption around her and affirming virtue’s triumph."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "Few love to hear the sins they love to act",
+      "speaker": "Pericles",
+      "act": 1,
+      "scene": 1,
+      "explanation": "Pericles reflects on human reluctance to acknowledge their flaws, setting the tone for his moral journey."
+    },
+    {
+      "quote": "Time's the king of men; he's both their parent, and he is their grave",
+      "speaker": "Gower",
+      "act": 2,
+      "scene": 0,
+      "explanation": "Gower emphasizes time's dual role in creating and destroying life, framing the play's episodic structure."
+    },
+    {
+      "quote": "O you gods! Why do you make us love your goodly gifts, and snatch them straight away?",
+      "speaker": "Pericles",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Pericles laments the loss of Thaisa, questioning divine cruelty in granting and then taking away joy."
+    },
+    {
+      "quote": "The music of the spheres!",
+      "speaker": "Pericles",
+      "act": 5,
+      "scene": 1,
+      "explanation": "Pericles hears celestial harmony upon reuniting with Marina, symbolizing divine order and restoration."
+    },
+    {
+      "quote": "In her you have a treasure",
+      "speaker": "Lysimachus",
+      "act": 5,
+      "scene": 1,
+      "explanation": "Lysimachus praises Marina's virtue, recognizing her worth as Pericles's daughter and a symbol of hope."
+    }
+  ],
+  "summary": "Pericles, Prince of Tyre, embarks on a series of adventures, facing shipwrecks, loss, and betrayal, believing his wife Thaisa and daughter Marina dead. Through miraculous reunions guided by fate, he is joyfully reunited with his family in a tale of resilience and redemption."
+}

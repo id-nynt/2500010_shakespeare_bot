@@ -1,0 +1,110 @@
+{
+  "title": "Measure for Measure",
+  "full_title": "Measure for Measure",
+  "category": "comedy",
+  "year": "1604",
+  "setting": "Vienna",
+  "main_characters": [
+    "Duke Vincentio",
+    "Angelo",
+    "Isabella",
+    "Claudio",
+    "Lucio",
+    "Mariana",
+    "Escalus"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Duke Vincentio",
+      "description": "Ruler of Vienna, disguises to observe"
+    },
+    {
+      "name": "Angelo",
+      "description": "Deputy, enforces strict laws"
+    },
+    {
+      "name": "Isabella",
+      "description": "Novice nun, pleads for Claudio"
+    },
+    {
+      "name": "Claudio",
+      "description": "Isabella's brother, sentenced to death"
+    },
+    {
+      "name": "Lucio",
+      "description": "Claudio's friend, spreads gossip"
+    },
+    {
+      "name": "Mariana",
+      "description": "Angelo's former fiancée, aids plot"
+    },
+    {
+      "name": "Escalus",
+      "description": "Wise advisor, serves Duke"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Justice",
+      "theme_explanation": "The play examines justice through Angelo’s harsh enforcement and the Duke’s interventions, questioning the balance between law and fairness."
+    },
+    {
+      "theme": "Morality",
+      "theme_explanation": "Moral dilemmas, like Isabella’s choice between chastity and her brother’s life, highlight the tension between personal ethics and societal demands."
+    },
+    {
+      "theme": "Power",
+      "theme_explanation": "Power corrupts Angelo, whose hypocrisy is exposed, while the Duke’s disguised authority manipulates events to restore order."
+    },
+    {
+      "theme": "Mercy",
+      "theme_explanation": "Mercy triumphs over strict justice, as the Duke pardons Claudio and others, advocating compassion in governance."
+    },
+    {
+      "theme": "Hypocrisy",
+      "theme_explanation": "Angelo’s outward virtue masks his corrupt desires, revealing the dangers of hypocrisy in those entrusted with power."
+    },
+    {
+      "theme": "Chastity",
+      "theme_explanation": "Isabella’s commitment to chastity is tested by Angelo’s proposition, raising questions about virtue and sacrifice in a corrupt world."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "The law hath not been dead, though it hath slept",
+      "speaker": "Angelo",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Angelo defends his strict enforcement, suggesting dormant laws must now awaken, revealing his rigidity."
+    },
+    {
+      "quote": "Some rise by sin, and some by virtue fall",
+      "speaker": "Escalus",
+      "act": 2,
+      "scene": 1,
+      "explanation": "Escalus observes the irony that immorality can lead to success, while virtue may cause failure."
+    },
+    {
+      "quote": "Our doubts are traitors, and make us lose the good we oft might win",
+      "speaker": "Lucio",
+      "act": 1,
+      "scene": 4,
+      "explanation": "Lucio warns that hesitation can sabotage opportunities, urging action in a morally complex world."
+    },
+    {
+      "quote": "What's mine is yours, and what is yours is mine",
+      "speaker": "Duke Vincentio",
+      "act": 5,
+      "scene": 1,
+      "explanation": "The Duke offers unity to Isabella, suggesting a shared future, possibly hinting at marriage."
+    },
+    {
+      "quote": "Condemn the fault and not the actor of it?",
+      "speaker": "Angelo",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Angelo questions separating sin from sinner, defending his harsh judgment before his own hypocrisy is exposed."
+    }
+  ],
+  "summary": "Duke Vincentio leaves Vienna under Angelo's strict rule, who sentences Claudio to death for fornication. Claudio's sister Isabella pleads for mercy, and the disguised Duke manipulates events to expose Angelo's hypocrisy, ultimately restoring justice and mercy."
+}

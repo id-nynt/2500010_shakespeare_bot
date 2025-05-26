@@ -1,0 +1,66 @@
+# The Comedy of Errors Scene Summaries
+
+## Act 1
+
+### Scene 1
+**Location**: A hall in Duke Solinus’s palace, Ephesus  
+**Time**: Morning  
+**Summary**: Egeon, a merchant from Syracuse, is arrested in Ephesus due to a law banning Syracusans, punishable by death unless he pays a 1,000-mark fine. He tells Duke Solinus his story: he and his wife Emilia had twin sons, both named Antipholus, and adopted twin servants, both named Dromio. A shipwreck separated the family, leaving Egeon with one Antipholus and Dromio, while his wife and the other twins were lost. His son, Antipholus of Syracuse, recently left to search for his brother, prompting Egeon’s journey. Moved but bound by law, the Duke gives Egeon until sunset to raise the fine, setting the play’s urgent timeline.
+
+### Scene 2
+**Location**: The Mart, a public marketplace in Ephesus  
+**Time**: Late morning  
+**Summary**: Antipholus of Syracuse and his servant, Dromio of Syracuse, arrive in Ephesus. A merchant warns Antipholus about the anti-Syracusan law, advising him to claim he’s from Epidamnum. Antipholus sends Dromio to an inn (the Centaur) with their money. Dromio of Ephesus, mistaking Antipholus of Syracuse for his master, Antipholus of Ephesus, urges him to come home to dinner with his wife, Adriana. Confused, Antipholus of Syracuse thinks Dromio is joking and beats him, initiating the comedy of mistaken identities.
+
+## Act 2
+
+### Scene 1
+**Location**: The house of Antipholus of Ephesus, Ephesus  
+**Time**: Noon  
+**Summary**: Adriana, wife of Antipholus of Ephesus, frets over her husband’s absence, suspecting infidelity. Her sister, Luciana, urges patience. Dromio of Ephesus returns, reporting that his master (Antipholus of Syracuse, whom he mistook) denied having a wife and refused to come home. Adriana, angered and jealous, sends Dromio back to fetch her husband, deepening the confusion caused by the twins’ presence.
+
+### Scene 2
+**Location**: The Mart, a public marketplace in Ephesus  
+**Time**: Early afternoon  
+**Summary**: Antipholus of Syracuse scolds Dromio of Syracuse for his earlier “jest” about a wife, leading to more confusion as Dromio denies it. Adriana and Luciana arrive, mistaking Antipholus of Syracuse for Antipholus of Ephesus. Adriana reprimands him for neglecting her, and, bewildered, Antipholus and Dromio agree to follow her home to dine, intrigued by the situation. The scene escalates the mistaken identities, with Antipholus of Syracuse charmed by Luciana.
+
+## Act 3
+
+### Scene 1
+**Location**: Outside the house of Antipholus of Ephesus, Ephesus  
+**Time**: Afternoon  
+**Summary**: Antipholus of Ephesus, with Dromio of Ephesus, Angelo (a goldsmith), and Balthazar (a merchant), arrives home but is denied entry because Adriana is dining with Antipholus of Syracuse, whom the household mistakes for him. Dromio of Syracuse, acting as porter, refuses them access, leading to comic outrage. Antipholus of Ephesus, furious, plans to dine at the Porpentine inn with a courtesan and give her a gold chain meant for Adriana, heightening the domestic chaos.
+
+### Scene 2
+**Location**: The house of Antipholus of Ephesus, Ephesus  
+**Time**: Late afternoon  
+**Summary**: Inside, Luciana urges Antipholus of Syracuse to be kinder to Adriana, unaware he’s not her brother-in-law. Smitten, Antipholus declares his love for Luciana, who is shocked and rejects him, believing he’s married. Dromio of Syracuse complains that Nell, the kitchen maid, claims him as her husband, describing her comically. Fearing witchcraft, Antipholus and Dromio plan to flee Ephesus. Angelo delivers the gold chain to Antipholus of Syracuse, mistaking him for Antipholus of Ephesus, adding to the tangled plot.
+
+## Act 4
+
+### Scene 1
+**Location**: The Mart, a public marketplace in Ephesus  
+**Time**: Early evening  
+**Summary**: A merchant demands repayment from Angelo, who promises payment once Antipholus of Ephesus settles for the gold chain. Antipholus of Ephesus and Dromio of Ephesus arrive, but Antipholus denies receiving the chain (since it was given to Antipholus of Syracuse). Angelo, believing he’s being cheated, has Antipholus arrested. Dromio of Syracuse arrives, mistaking Antipholus of Ephesus for his master, and is sent to fetch bail money from Adriana, furthering the confusion.
+
+### Scene 2
+**Location**: The house of Antipholus of Ephesus, Ephesus  
+**Time**: Evening  
+**Summary**: Adriana and Luciana discuss Antipholus of Syracuse’s advances to Luciana, suspecting her husband is mad. Dromio of Syracuse arrives, asking for bail money for “Antipholus” (actually Antipholus of Ephesus). Adriana, thinking her husband is in custody, provides the money and sends Dromio to free him, lamenting his supposed insanity. The scene underscores Adriana’s distress and the escalating misunderstandings.
+
+### Scene 3
+**Location**: The Mart, a public marketplace in Ephesus  
+**Time**: Evening  
+**Summary**: Antipholus of Syracuse, wearing the gold chain, marvels at Ephesus’s strange hospitality, unaware of his twin’s arrest. Dromio of Syracuse returns with money meant for bail but gives it to Antipholus, confusing him further. A courtesan from the Porpentine approaches, mistaking him for Antipholus of Ephesus, and demands the chain in exchange for a ring she gave earlier. Fearing she’s a witch, Antipholus and Dromio flee, while the courtesan resolves to tell Adriana her husband is unfaithful, adding another layer of complication.
+
+### Scene 4
+**Location**: A street near the house of Antipholus of Ephesus, Ephesus  
+**Time**: Late evening  
+**Summary**: Antipholus of Ephesus, bound and guarded after his arrest, awaits bail. Dromio of Ephesus brings a rope (mistakenly, instead of money), infuriating Antipholus. Adriana, Luciana, the courtesan, and a schoolmaster, Dr. Pinch, arrive, believing Antipholus mad. Pinch attempts an exorcism, and Antipholus and Dromio are bound and taken to Adriana’s house for treatment. Antipholus of Syracuse and Dromio of Syracuse, pursued as madmen, seek refuge in a priory, escalating the chaos to its peak.
+
+## Act 5
+
+### Scene 1
+**Location**: A street before a priory, Ephesus  
+**Time**: Just before sunset  
+**Summary**: Angelo and the merchant encounter Antipholus of Syracuse and Dromio of Syracuse, who are wearing the chain, leading to accusations of theft. Adriana arrives, claiming Antipholus is mad, but the twins take refuge in the priory. The Abbess (Emilia, Egeon’s long-lost wife) protects them, questioning Adriana’s treatment of her “husband.” Egeon, led to execution, recognizes Antipholus of Ephesus, who is brought in, unbound. The twins finally meet, revealing their identities. Emilia reunites with Egeon, and the Abbess explains she raised Antipholus of Ephesus after the shipwreck. Adriana reconciles with her husband, the courtesan retrieves her ring, and the Duke pardons Egeon. The play concludes with a joyful feast, resolving all misunderstandings and reuniting the family.

@@ -1,0 +1,49 @@
+{
+  "title": "The Tempest",
+  "play_summary": "Prospero, the rightful Duke of Milan, and his daughter Miranda have been stranded on an island for twelve years after Prospero's brother Antonio usurped his position. Using magic learned from his books, Prospero controls the spirit Ariel and the creature Caliban. When his enemies sail near the island, he conjures a tempest to shipwreck them, setting in motion a plot of revenge, romance, and ultimately forgiveness.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "Close to a Mediterranean island, a storm overcomes a ship that carries King Alonso of Naples, his son Ferdinand, and his brother Sebastian. They were on their way home home from Tunis to Italy when the storm hit and demolished their ship. Shipwrecked with them are the courtier, Gonzalo, and the Duke of Milan, Antonio.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "On a ship at sea, near an island",
+          "scene_summary": "A tempest batters a ship carrying King Alonso of Naples, his son Ferdinand, brother Sebastian, and Antonio, Duke of Milan, among others. The Boatswain struggles to save the ship, clashing with the nobles' demands. The ship seems lost, creating chaos and introducing the storm orchestrated by Prospero."
+        },
+        {
+          "scene": 2,
+          "location": "Prospero's island, before his cell",
+          "scene_summary": "Prospero, a magician and exiled Duke of Milan, tells his daughter Miranda he caused the storm to bring his enemies to the island. He recounts their exile by Antonio, aided by Alonso, and his survival with Miranda, aided by Gonzalo. Prospero calms the storm and, with Ariel, his spirit servant, plans to manipulate the shipwrecked nobles. Ariel lures Ferdinand to Miranda, who fall in love, while Prospero feigns disapproval, setting up the reconciliation plot."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Ariel uses music to lead the courtiers astray, while Sebastian and Antonio plot to kill the King while he is asleep. Their attempt is foiled by Ariel. All the people from the ship become ever more confused as they wander around. In another part of the island, the timid court fool, Trinculo, has come ashore and discovered Caliban. Trinculo hides beside Caliban from an approaching storm, and the ship's butler, Stephano finds them.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Another part of the island",
+          "scene_summary": "Alonso, Gonzalo, Sebastian, and Antonio wander, grieving Ferdinand's supposed death. Gonzalo imagines an ideal commonwealth, mocked by Sebastian and Antonio, who plot to kill Alonso and Gonzalo to seize Naples. Ariel, invisible, wakes Gonzalo, foiling the conspiracy, exposing the nobles' treachery and Prospero's control."
+        },
+        {
+          "scene": 2,
+          "location": "Another part of the island",
+          "scene_summary": "Caliban, Prospero's enslaved servant, curses his master while carrying wood. Trinculo, Alonso's jester, hides under Caliban's cloak, fearing rain. Stephano, the drunken butler, finds them, sharing wine. Caliban, awed, swears loyalty to Stephano, plotting to kill Prospero, introducing the comedic subplot of rebellion."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "Ariel brings all the courtiers to the cell where Prospero, renouncing his magic, reveals himself. Instead of enacting his revenge, he forgives them and accepts the return of his dukedom. Ferdinand and Miranda are betrothed. Sailors come to announce that the ship is safe. Prospero fulfils his promise and frees Ariel while Caliban and the drunken servants are rebuked. The play ends as all go to celebrate their reunions, and Prospero asks the audience to release him from the play.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Before Prospero's cell, on the island",
+          "scene_summary": "Prospero, with Ariel, prepares to forgive his enemies, renouncing magic. He gathers Alonso, Antonio, and Sebastian, revealing his identity and survival. Alonso, repentant, restores Prospero's dukedom and mourns Ferdinand, whom Prospero reunites with him, betrothed to Miranda. Ariel frees Caliban, Stephano, and Trinculo, who are chastised. Prospero plans to sail to Milan, freeing Ariel. The epilogue has Prospero seek the audience's applause, resolving all conflicts with reconciliation and restoration."
+        }
+      ]
+    }
+  ]
+}

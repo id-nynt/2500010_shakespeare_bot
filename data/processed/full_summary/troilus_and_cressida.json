@@ -1,0 +1,114 @@
+{
+  "title": "Troilus and Cressida",
+  "play_summary": "During the Trojan War, Troilus and Cressida fall in love, facilitated by her uncle Pandarus, but Cressida is traded to the Greeks and betrays Troilus with Diomedes. Meanwhile, the war's futility is exposed through the pride and inaction of warriors like Achilles, ending in Hector's death.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "During the Trojan War, King Agamemnon and his brother Menelaus preside over the Greek encampment. They work along with their counsellors, Ulysses and Nestor. Their great soldier, Achilles, is refusing to fight. Instead, Achilles spends his time complaining about his Greek commanders with his friend (perhaps more than friend) Patroclus.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street in Troy",
+          "scene_summary": "Troilus, a Trojan prince, laments his unrequited love for Cressida to Pandarus, her uncle, who teases him but promises to help. Troilus, distracted, avoids the war, while Aeneas urges him to fight. Troilus prioritizes love, establishing the romantic plot amidst the Trojan conflict."
+        },
+        {
+          "scene": 2,
+          "location": "Another street in Troy",
+          "scene_summary": "Cressida and her servant Alexander discuss the war, mocking Hector's pride. Pandarus praises Troilus to Cressida, who feigns indifference but privately admits her love, wary of betrayal. Trojan warriors, including Hector and Paris, pass by, and Pandarus hypes Troilus, advancing the courtship through his meddling."
+        },
+        {
+          "scene": 3,
+          "location": "The Greek camp, before Agamemnon's tent",
+          "scene_summary": "Agamemnon and Greek leaders, including Nestor and Ulysses, debate their stalled siege of Troy. Ulysses blames Achilles' pride and refusal to fight, proposing to humble him by praising Ajax. Aeneas arrives, announcing Hector's challenge to a Greek champion, which the Greeks see as a chance to spur Achilles, setting up the war's political maneuvering."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "In the Greek camp, a prince named Diomedes befriends Cressida. At that same time, Troilus has secretly left Troy to seek her. Cressida does not know, and she responds to Diomedes's friendship. Troilus and Ulysses overhear their encounter. Heartbroken, Troilus realises that Cressida has broken her vows of faithfulness. He returns to the city to fight against the Greeks.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street in Troy",
+          "scene_summary": "Aeneas and Paris meet Diomedes, escorted by Agamemnon, to arrange Cressida's exchange. Diomedes scorns Trojan honor, eyeing Cressida. Aeneas informs Troilus, who dreads losing her, setting up the lovers' painful separation amidst diplomatic tensions."
+        },
+        {
+          "scene": 2,
+          "location": "A courtyard in Pandarus's house, Troy",
+          "scene_summary": "Troilus and Cressida, post-consummation, part tenderly. Pandarus teases them, but Aeneas announces Cressida's exchange. Cressida laments, and Troilus, resigned, vows to visit her, highlighting their love's fragility against the war's demands."
+        },
+        {
+          "scene": 3,
+          "location": "Another street in Troy",
+          "scene_summary": "Paris, Troilus, and others prepare to deliver Cressida to Diomedes. Troilus, heartbroken, steels himself, focusing on honor, as the exchange looms, emphasizing the war's disruption of personal bonds."
+        },
+        {
+          "scene": 4,
+          "location": "A room in Pandarus's house, Troy",
+          "scene_summary": "Cressida, distraught, bids farewell to Troilus, who gives her a sleeve as a token. Pandarus weeps, and Diomedes arrives. Troilus, jealous, challenges Diomedes's intentions, but Cressida is handed over, deepening the lovers' anguish and Troilus's resolve to follow her."
+        },
+        {
+          "scene": 5,
+          "location": "The Greek camp",
+          "scene_summary": "Cressida arrives, greeted by Greek leaders, who kiss her, prompting Ulysses' disgust at her flirtation. Ajax and Hector prepare for their duel, which ends in a draw, as Hector's courtesy impresses the Greeks. Troilus, observing, seeks Diomedes, suspecting Cressida's infidelity, blending martial honor with romantic jealousy."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "In the final battle, Hector kills Patroclus, motivating Achilles to finally join the fighting. While originally overcome by Hector, Achilles succeeds in trapping him. Hector, unarmed, is slaughtered by Achilles's troop of soldiers. Troilus swears revenge for his brother's death and also (inwardly) for the loss of Cressida and his youthful innocence. Pandarus, Cressida's uncle, cynically ends the play. He sees no hope for a world where politics overrule the desires and needs of the individual.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The Greek camp, near Achilles' tent",
+          "scene_summary": "Achilles hosts Hector, boasting of victory, while Thersites mocks Patroclus as Achilles' lover. Diomedes courts Cressida, and Thersites spies, reporting her fickleness, heightening Troilus's impending betrayal and the camp's moral decay."
+        },
+        {
+          "scene": 2,
+          "location": "The Greek camp, near Calchas's tent",
+          "scene_summary": "Troilus and Ulysses watch Diomedes woo Cressida, who flirts and gives him Troilus's sleeve. Troilus, devastated, vows revenge, denouncing her betrayal. Thersites gloats, and Ulysses restrains Troilus, confirming Cressida's inconstancy and shattering the romantic ideal."
+        },
+        {
+          "scene": 3,
+          "location": "A street in Troy",
+          "scene_summary": "Hector prepares to fight, ignoring Cassandra and Andromache's pleas, who foresee his death. Troilus, fueled by Cressida's betrayal, joins him, rejecting Pandarus's letter from Cressida. Priam urges Hector to stay, but he insists on honor, setting up the tragic battle."
+        },
+        {
+          "scene": 4,
+          "location": "The battlefield between Troy and the Greek camp",
+          "scene_summary": "Thersites wanders the battlefield, mocking the carnage. Ajax and Diomedes fight, while Troilus pursues Diomedes, driven by jealousy. The chaotic skirmishes reflect the war's futility and Troilus's personal vendetta."
+        },
+        {
+          "scene": 5,
+          "location": "Another part of the battlefield",
+          "scene_summary": "Diomedes captures Troilus's horse, sending it to Cressida, taunting him. Agamemnon rallies the Greeks, noting Hector's prowess. Nestor reports Patroclus's death, spurring Achilles, as the battle intensifies, escalating toward Hector's doom."
+        },
+        {
+          "scene": 6,
+          "location": "Another part of the battlefield",
+          "scene_summary": "Ajax seeks Hector, but Troilus fights Diomedes, consumed by rage. Hector spares Achilles, who's resting, showing chivalry. The Greeks press harder, and Troilus's fury underscores the clash of personal and martial motives."
+        },
+        {
+          "scene": 7,
+          "location": "Another part of the battlefield",
+          "scene_summary": "Achilles, with Myrmidons, ambushes Hector, exploiting his fatigue. Hector, honorable, fights alone, deepening the contrast between Trojan valor and Greek treachery."
+        },
+        {
+          "scene": 8,
+          "location": "Another part of the battlefield",
+          "scene_summary": "Thersites, avoiding combat, watches Menelaus and Paris clash over Helen, mocking their cause. His cynicism highlights the war's absurdity, as the fighting continues without resolution."
+        },
+        {
+          "scene": 9,
+          "location": "The Greek camp",
+          "scene_summary": "Hector, disarmed, is surrounded and killed by Achilles' Myrmidons, who claim Achilles' victory. The Greeks celebrate, unaware of the dishonor, marking Hector's tragic fall and the war's moral decline."
+        },
+        {
+          "scene": 10,
+          "location": "The walls of Troy",
+          "scene_summary": "Troilus announces Hector's death, cursing Achilles and vowing to fight on, despite Troy's looming defeat. Pandarus, rejected, laments his role, and the play ends unresolved, with Troilus's defiance and Pandarus's epilogue bemoaning his disgrace, blending disillusioned love and futile war."
+        }
+      ]
+    }
+  ]
+}

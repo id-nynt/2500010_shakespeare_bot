@@ -1,0 +1,194 @@
+[
+  {
+    "scene_id": "king_henry_vi_the_second_part_1_1",
+    "title": "King Henry VI, the second part",
+    "act": 1,
+    "scene": 1,
+    "location": "A room of state in the palace, London, England",
+    "scene_summary": "Suffolk presents Margaret of Anjou to King Henry VI as his bride, negotiated with her father, Reignier. The court learns the marriage cost England its French territories, angering Gloucester, Henry's uncle and Protector. Gloucester warns of political ruin, but Henry accepts Margaret. York, privately, plots to claim the throne, exploiting the discord, while nobles like Somerset and Buckingham clash, deepening factionalism."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_1_2",
+    "title": "King Henry VI, the second part",
+    "act": 1,
+    "scene": 2,
+    "location": "A room in Gloucester's house, London, England",
+    "scene_summary": "Gloucester's wife, Eleanor, reveals her ambition to see him king, urged by a priest, Hume, secretly hired by Suffolk and Cardinal Beaufort to entrap her. Gloucester dismisses her dreams of power, warning of danger, but Eleanor persists, setting up her downfall and the plot against Gloucester."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_1_3",
+    "title": "King Henry VI, the second part",
+    "act": 1,
+    "scene": 3,
+    "location": "A hall in the palace, London, England",
+    "scene_summary": "Commoners petition Suffolk and Margaret, who dismiss their grievances. Suffolk and the Queen plot against Gloucester, joined by Cardinal Beaufort and York. York and Somerset argue over the regency of France, escalating tensions. Margaret insults Eleanor, fueling court rivalries, while the nobles scheme to undermine Gloucester's influence."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_1_4",
+    "title": "King Henry VI, the second part",
+    "act": 1,
+    "scene": 4,
+    "location": "Gloucester's garden, London, England",
+    "scene_summary": "Eleanor, with Hume and witches, conjures spirits to predict the fates of Henry, Suffolk, and others. The spirits foretell ambiguous futures, but York and Buckingham interrupt, arresting Eleanor for treason. The scene exposes Eleanor's ambition and sets up her political ruin, weakening Gloucester."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_2_1",
+    "title": "King Henry VI, the second part",
+    "act": 2,
+    "scene": 1,
+    "location": "A street in St. Albans, England",
+    "scene_summary": "Henry and his court, including Margaret, Gloucester, and Cardinal Beaufort, visit St. Albans. A “miracle” of a blind man regaining sight is exposed as a fraud by Gloucester, embarrassing the court. News of Eleanor's arrest for witchcraft reaches Gloucester, who resigns as Protector, humiliated, while Margaret and her allies gloat."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_2_2",
+    "title": "King Henry VI, the second part",
+    "act": 2,
+    "scene": 2,
+    "location": "A room in York's house, London, England",
+    "scene_summary": "York confides in Salisbury and Warwick, detailing his claim to the throne through Edward III, superior to Henry's Lancastrian line. He plans to bide his time, and the Nevilles pledge support, formalizing the Yorkist faction and escalating the Wars of the Roses."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_2_3",
+    "title": "King Henry VI, the second part",
+    "act": 2,
+    "scene": 3,
+    "location": "A hall of justice in the palace, London, England",
+    "scene_summary": "Eleanor is sentenced to banishment, and her accomplices to death, weakening Gloucester further. Henry, swayed by Margaret and Suffolk, allows Gloucester's arrest for treason. A trial by combat is arranged for a servant's dispute, adding a comedic subplot amid the political turmoil."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_2_4",
+    "title": "King Henry VI, the second part",
+    "act": 2,
+    "scene": 4,
+    "location": "A street in London, England",
+    "scene_summary": "Gloucester bids farewell to Eleanor as she's led to exile, mocked by crowds. He remains loyal to Henry despite her disgrace. Stanley warns Gloucester of danger, but he refuses to flee, stoically accepting his fate, highlighting his honor and vulnerability."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_3_1",
+    "title": "King Henry VI, the second part",
+    "act": 3,
+    "scene": 1,
+    "location": "The Parliament House, Bury St. Edmunds, England",
+    "scene_summary": "Suffolk, Margaret, and Cardinal Beaufort accuse Gloucester of treason before Henry and Parliament. Gloucester defends himself, but Henry, pressured, orders his arrest. Alone, York and his allies plan to eliminate Gloucester, while Suffolk orchestrates his murder, intensifying the court's corruption."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_3_2",
+    "title": "King Henry VI, the second part",
+    "act": 3,
+    "scene": 2,
+    "location": "A room in the palace, Bury St. Edmunds, England",
+    "scene_summary": "Gloucester is found murdered, likely by Suffolk's men. Henry, devastated, faints, while Margaret feigns grief. Warwick and the commons suspect foul play, accusing Suffolk. Henry banishes Suffolk, and Margaret mourns his loss privately, as public unrest grows."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_3_3",
+    "title": "King Henry VI, the second part",
+    "act": 3,
+    "scene": 3,
+    "location": "Cardinal Beaufort's bedchamber, London, England",
+    "scene_summary": "Cardinal Beaufort, dying and guilt-ridden over Gloucester's murder, raves incoherently, tormented by visions of his crimes. Henry and Warwick witness his death, interpreting it as divine justice, marking the fall of another conspirator."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_4_1",
+    "title": "King Henry VI, the second part",
+    "act": 4,
+    "scene": 1,
+    "location": "The coast of Kent, England",
+    "scene_summary": "Suffolk, exiled, is captured by pirates at sea. Walter Whitmore kills him, fulfilling a prophecy, after Suffolk insults his captors. A gentleman finds his body, noting the commons' hatred for him, reflecting the consequences of his ambition."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_4_2",
+    "title": "King Henry VI, the second part",
+    "act": 4,
+    "scene": 2,
+    "location": "A field near Blackheath, Kent, England",
+    "scene_summary": "Jack Cade, a rebel backed by York, leads a peasant uprising, demanding reforms and claiming noble descent. His followers, including Dick the Butcher, kill nobles and officials. Cade's chaotic revolt gains traction, threatening London, as class tensions erupt."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_4_3",
+    "title": "King Henry VI, the second part",
+    "act": 4,
+    "scene": 3,
+    "location": "Another part of Blackheath, Kent, England",
+    "scene_summary": "Cade's rebels defeat Sir Humphrey Stafford's forces, killing him. Cade dons Stafford's armor, rallying his men to march on London, escalating the rebellion's violence and challenging royal authority."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_4_4",
+    "title": "King Henry VI, the second part",
+    "act": 4,
+    "scene": 4,
+    "location": "A room in the palace, London, England",
+    "scene_summary": "Henry, Margaret, and Buckingham learn of Cade's approach. Margaret mourns Suffolk, holding his head. Messengers report Cade's advance, and Henry, advised to flee, hesitates, sending Buckingham to negotiate, showing his weak leadership."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_4_5",
+    "title": "King Henry VI, the second part",
+    "act": 4,
+    "scene": 5,
+    "location": "The Tower of London, England",
+    "scene_summary": "Lord Scales, defending the Tower, learns Cade has entered London. Citizens join the rebels, and Scales prepares to resist, highlighting the city's vulnerability and the rebellion's growing threat."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_4_6",
+    "title": "King Henry VI, the second part",
+    "act": 4,
+    "scene": 6,
+    "location": "Cannon Street, London, England",
+    "scene_summary": "Cade, now in control, orders executions and destroys records at the Inns of Court. His men turn erratic, killing a soldier for literacy, revealing Cade's unstable leadership and the rebellion's descent into chaos."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_4_7",
+    "title": "King Henry VI, the second part",
+    "act": 4,
+    "scene": 7,
+    "location": "Smithfield, London, England",
+    "scene_summary": "Cade's forces loot London, killing nobles. Old Clifford and Buckingham confront him, urging the rebels to fight in France instead. The crowd sways, abandoning Cade, who flees, marking the rebellion's collapse."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_4_8",
+    "title": "King Henry VI, the second part",
+    "act": 4,
+    "scene": 8,
+    "location": "Southwark, London, England",
+    "scene_summary": "Cade, pursued, hides as his men defect. Clifford and Buckingham proclaim Henry's pardon, regaining control. The scene resolves the rebellion, but York's influence looms, setting up further conflict."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_4_9",
+    "title": "King Henry VI, the second part",
+    "act": 4,
+    "scene": 9,
+    "location": "Kenilworth Castle, Warwickshire, England",
+    "scene_summary": "Henry rewards Clifford and others for quelling Cade. News arrives of York's return from Ireland with an army, claiming to purge traitors. Henry sends Buckingham to negotiate, unaware of York's true ambitions, escalating the Yorkist threat."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_4_10",
+    "title": "King Henry VI, the second part",
+    "act": 4,
+    "scene": 10,
+    "location": "A garden in Kent, England",
+    "scene_summary": "Cade, starving, is confronted by Alexander Iden, a landowner. They fight, and Iden kills Cade, unaware of his identity. Iden presents Cade's head to Henry, ending the rebellion but highlighting ongoing instability."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_5_1",
+    "title": "King Henry VI, the second part",
+    "act": 5,
+    "scene": 1,
+    "location": "A field near St. Albans, England",
+    "scene_summary": "York, with his sons Edward and Richard, confronts Henry, demanding Somerset's arrest. Buckingham fails to negotiate, and Somerset's presence provokes York to declare his claim to the throne. The First Battle of St. Albans begins, with York's forces defeating Henry's, killing Somerset and Clifford."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_5_2",
+    "title": "King Henry VI, the second part",
+    "act": 5,
+    "scene": 2,
+    "location": "The battlefield at St. Albans, England",
+    "scene_summary": "The battle rages, with Young Clifford finding his father's body, vowing revenge against York. York's sons, Edward and Richard, fight fiercely, securing victory. Henry and Margaret flee, as York's triumph marks the Wars of the Roses' escalation."
+  },
+  {
+    "scene_id": "king_henry_vi_the_second_part_5_3",
+    "title": "King Henry VI, the second part",
+    "act": 5,
+    "scene": 3,
+    "location": "A field near St. Albans, England",
+    "scene_summary": "York celebrates his victory, noting Somerset and Clifford's deaths. Salisbury and Warwick pledge continued support, and York plans to pursue Henry, ending the play with the Yorkist ascendancy and England's deepening civil war."
+  }
+]

@@ -1,0 +1,150 @@
+{
+  "title": "The Tempest",
+  "full_title": "The Tempest",
+  "category": "comedy",
+  "year": "1610-1611",
+  "setting": "A remote island",
+  "main_characters": [
+    "Prospero",
+    "Miranda",
+    "Ariel",
+    "Caliban",
+    "Ferdinand",
+    "Alonso",
+    "Antonio",
+    "Sebastian",
+    "Stephano",
+    "Trinculo"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Prospero",
+      "description": "Exiled Duke of Milan, magician"
+    },
+    {
+      "name": "Miranda",
+      "description": "Prospero's daughter, loves Ferdinand"
+    },
+    {
+      "name": "Ariel",
+      "description": "Prospero's spirit servant, seeks freedom"
+    },
+    {
+      "name": "Caliban",
+      "description": "Island native, Prospero's enslaved servant"
+    },
+    {
+      "name": "Ferdinand",
+      "description": "Naples prince, loves Miranda"
+    },
+    {
+      "name": "Alonso",
+      "description": "King of Naples, shipwrecked"
+    },
+    {
+      "name": "Antonio",
+      "description": "Prospero's brother, usurped his dukedom"
+    },
+    {
+      "name": "Sebastian",
+      "description": "Alonso's brother, plots against him"
+    },
+    {
+      "name": "Stephano",
+      "description": "Drunken butler, plots with Caliban"
+    },
+    {
+      "name": "Trinculo",
+      "description": "Jester, joins Stephano's plot"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Magic",
+      "theme_explanation": "Prospero’s magic controls the island’s events, symbolizing the power of art and illusion to shape reality and resolve conflicts."
+    },
+    {
+      "theme": "Power",
+      "theme_explanation": "Power struggles drive the plot, as Prospero manipulates others to reclaim his dukedom, while Antonio and Sebastian plot to seize authority."
+    },
+    {
+      "theme": "Colonization",
+      "theme_explanation": "The play reflects colonial themes through Prospero’s domination of Caliban and Ariel, raising questions about authority and exploitation."
+    },
+    {
+      "theme": "Forgiveness",
+      "theme_explanation": "Prospero’s choice to forgive his enemies rather than seek revenge underscores the play’s resolution through mercy and reconciliation."
+    },
+    {
+      "theme": "Freedom",
+      "theme_explanation": "Ariel and Caliban’s quests for freedom highlight the tension between servitude and autonomy under Prospero’s rule."
+    },
+    {
+      "theme": "Art",
+      "theme_explanation": "Prospero’s magic mirrors the playwright’s craft, using illusion to explore human nature and orchestrate the play’s harmonious ending."
+    },
+    {
+      "theme": "Nature vs nurture",
+      "theme_explanation": "Caliban’s savage behavior contrasts with Miranda’s cultivated innocence, questioning whether character is shaped by nature or upbringing."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "We are such stuff as dreams are made on, and our little life is rounded with a sleep",
+      "speaker": "Prospero",
+      "act": 4,
+      "scene": 1,
+      "explanation": "Prospero reflects on life's fleeting, dreamlike nature, comparing it to the ephemeral quality of his magical spectacle."
+    },
+    {
+      "quote": "O brave new world, that has such people in't!",
+      "speaker": "Miranda",
+      "act": 5,
+      "scene": 1,
+      "explanation": "Miranda expresses wonder at seeing new people, naively marveling at humanity, unaware of their flaws."
+    },
+    {
+      "quote": "What's past is prologue",
+      "speaker": "Antonio",
+      "act": 2,
+      "scene": 1,
+      "explanation": "Antonio suggests that history sets the stage for future actions, justifying his plot to seize power."
+    },
+    {
+      "quote": "Hell is empty and all the devils are here",
+      "speaker": "Ariel",
+      "act": 1,
+      "scene": 2,
+      "explanation": "Ariel describes the chaos of the shipwreck, hinting at the moral corruption among the stranded nobles."
+    },
+    {
+      "quote": "The isle is full of noises, sounds, and sweet airs, that give delight and hurt not",
+      "speaker": "Caliban",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Caliban poetically describes the island's enchanting sounds, revealing his sensitivity despite his rough nature."
+    },
+    {
+      "quote": "Misery acquaints a man with strange bedfellows",
+      "speaker": "Trinculo",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Trinculo humorously notes how desperation leads to unlikely alliances, reflecting the play’s comedic subplots."
+    },
+    {
+      "quote": "Full fathom five thy father lies",
+      "speaker": "Ariel",
+      "act": 1,
+      "scene": 2,
+      "explanation": "Ariel’s song deceives Ferdinand about his father’s death, using magical imagery to manipulate emotions."
+    },
+    {
+      "quote": "Full fathom five thy father lies, of his bones are coral made. Those are pearls that were his eyes. Nothing of him that doth fade, but doth suffer a sea-change into something rich and strange.",
+      "speaker": "Ariel",
+      "act": 1,
+      "scene": 2,
+      "explanation": "Ariel sings to Ferdinand about his father's presumed drowning, describing a transformative and beautiful process of decay and renewal under the sea."
+    }
+  ],
+  "summary": "Prospero, the rightful Duke of Milan, and his daughter Miranda have been stranded on an island for twelve years after Prospero's brother Antonio usurped his position. Using magic learned from his books, Prospero controls the spirit Ariel and the creature Caliban. When his enemies sail near the island, he conjures a tempest to shipwreck them, setting in motion a plot of revenge, romance, and ultimately forgiveness."
+}

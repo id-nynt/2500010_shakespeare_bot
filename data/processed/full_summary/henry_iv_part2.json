@@ -1,0 +1,126 @@
+{
+  "title": "King Henry IV, the Second Part",
+  "play_summary": "As King Henry IV's health declines, rebellions persist, led by the Archbishop of York. Prince Hal continues his association with Falstaff but ultimately rejects him upon becoming king, embracing his royal duties and reconciling with his father before Henry's death.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "Henry IV Part 2 follows King Henry IV's victory at the battle of Shrewsbury inHenry IV Part 1. The Earl of Northumberland mistakenly hears that his son, Hotspur, is actually the victor. The rebel lords meet together in council and resolve to oppose the King's forces led by Prince John, the King's second son and Hal's brother. But the word of Hotspur's death finally reaches his father. Hotspur's mother and widow persuade him not to oppose Prince John's army.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Warkworth, Northumberland's castle, England",
+          "scene_summary": "Northumberland, awaiting news of Hotspur, receives conflicting reports. Lord Bardolph claims rebel victory, but Travers and Morton reveal Hotspur's death and the rebellion's defeat. Devastated, Northumberland plans to join the Archbishop of York's new rebellion, revitalizing the conflict against Henry IV."
+        },
+        {
+          "scene": 2,
+          "location": "A street in London, England",
+          "scene_summary": "Falstaff, now a celebrated “hero” for claiming Hotspur's death, bickers with his page and the Lord Chief Justice, who reprimands his lawlessness. Falstaff avoids punishment, citing his military service, and learns he's summoned to war again, maintaining his comic defiance amid declining health."
+        },
+        {
+          "scene": 3,
+          "location": "The Archbishop's palace, York, England",
+          "scene_summary": "The Archbishop of York, with Mowbray, Hastings, and Lord Bardolph, plans a new rebellion, assessing their forces without Northumberland. They rely on Henry's divided attention and the Archbishop's religious sway to rally support, committing to fight at Shrewsbury, deepening the civil strife."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Yet before he can go, Falstaff is arrested for his debts to the Boar's Head Tavern. A fight between Falstaff and the officers ensues. The Lord Chief Justice, who returns to the tavern after hearing about the fuss, examines the fight. Falstaff persuades the owner of the tavern, Mistress Quickly, to make peace and lend him more money.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street in Eastcheap, London, England",
+          "scene_summary": "Hostess Quickly, with Fang and Snare, attempts to arrest Falstaff for debts. Falstaff resists, charming his way out, but the Lord Chief Justice intervenes, ordering him to repay Quickly. News of new rebellions summons Falstaff to court, delaying justice and highlighting his slippery nature."
+        },
+        {
+          "scene": 2,
+          "location": "Prince Hal's apartment, London, England",
+          "scene_summary": "Hal, weary of his tavern life, jests with Poins about Falstaff's antics. A letter from Falstaff reveals his affection, amusing Hal. Bardolph and the page bring news of war, prompting Hal to rejoin his father, signaling his return to duty amid personal doubts."
+        },
+        {
+          "scene": 3,
+          "location": "Warkworth, Northumberland's castle, England",
+          "scene_summary": "Northumberland, urged by Lady Northumberland and Lady Percy to flee to Scotland, hesitates to join the Archbishop's rebellion. Lady Percy, mourning Hotspur, shames him for abandoning their cause. Northumberland relents, opting for caution, weakening the rebels' unity."
+        },
+        {
+          "scene": 4,
+          "location": "The Boar's Head Tavern, Eastcheap, London, England",
+          "scene_summary": "Falstaff carouses with Doll Tearsheet and Hostess Quickly. Pistol, drunk and belligerent, is ejected after a brawl. Hal and Poins, disguised, overhear Falstaff's disloyal jests about them. Confronted, Falstaff deflects, but Hal, summoned to court, leaves, reflecting on his divided loyalties as war looms."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "As Falstaff makes his journey, he passes through Gloucestershire. He finds his old friends Justice Shallow and Master Silence who reminisce about their youthful days. Falstaff takes the weakest of Shallow's pressed-men to serve as soldiers (allowing others to buy themselves out). And he enjoys Shallow's hospitality before setting off to join the army.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in the palace, London, England",
+          "scene_summary": "Henry IV, sleepless, laments the burdens of kingship, reflecting on his usurpation of Richard II. Warwick and Surrey report rebel movements, and Henry, weary, plans to lead his forces, seeking Hal's support, underscoring his isolation and the weight of rule."
+        },
+        {
+          "scene": 2,
+          "location": "A courtyard in Gloucestershire, England",
+          "scene_summary": "Justices Shallow and Silence recruit soldiers for Falstaff, reminiscing about their youth. Falstaff, exploiting their nostalgia, selects unfit men like Mouldy and Bullcalf, accepting bribes to release them. His corruption contrasts with the rural setting, adding comic relief."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "As the rebels gather to fight, Prince John agrees to look into their demands and offers a toast to future peace. The rebel armies disperse before Prince John orders the arrests of the rebel leaders for treason. Arriving late to the battle, Falstaff takes the last prisoner as the Prince orders his forces back to London, where the King is very ill.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The rebel camp in Gaultree Forest, Yorkshire, England",
+          "scene_summary": "The Archbishop, Mowbray, and Hastings negotiate with Westmoreland, Henry's envoy. Prince John offers peace if the rebels disband. The Archbishop agrees, believing the terms genuine, but John, once their forces disperse, arrests them for treason, revealing his deception and crushing the rebellion."
+        },
+        {
+          "scene": 2,
+          "location": "Another part of Gaultree Forest, Yorkshire, England",
+          "scene_summary": "Falstaff, arriving late, captures a fleeing rebel, Sir John Colevile, claiming credit. Prince John rebukes Falstaff's tardiness but accepts the prisoner. John plans to return to court, while Falstaff muses on his fortunes, highlighting his opportunistic role in the war's resolution."
+        },
+        {
+          "scene": 3,
+          "location": "A room in the palace, Westminster, England",
+          "scene_summary": "Henry IV, ill, hears of the rebellion's defeat but collapses upon learning Hal is near. Warwick defends Hal's loyalty, but Henry, fearing his son's ambition, prepares for a confrontation, setting up their pivotal reconciliation."
+        },
+        {
+          "scene": 4,
+          "location": "The Jerusalem Chamber, Westminster Palace, England",
+          "scene_summary": "Hal, finding Henry asleep with the crown, takes it, assuming his father dead. Henry awakens, accusing Hal of disloyalty. Hal, tearfully, returns the crown, vowing filial devotion. Henry, moved, forgives him, naming Hal his successor and advising him to unite England through foreign wars, achieving their emotional reconciliation."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "When news of Henry IV's death and Hal's succession as Henry V reaches Gloucestershire, Falstaff sets off at once to London with Shallow. They travel night and day to reach London in time for the coronation, expecting to be given high office at court. Falstaff is amazed and deeply hurt, however, when Henry denies knowing him and banishes him from coming within ten miles of his court. Henry calls a Parliament, and Falstaff is left wondering if his beloved Hal will change his mind later. Prince John and the Lord Chief Justice anticipate the new King's wars in France, which take place inHenry V.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Shallow's house, Gloucestershire, England",
+          "scene_summary": "Falstaff, hosted by Shallow, plans to exploit him further. Davy, Shallow's servant, seeks favors, adding to the comic rural setting. Falstaff prepares to return to London, anticipating rewards, contrasting his scheming with the court's gravity."
+        },
+        {
+          "scene": 2,
+          "location": "A room in the palace, Westminster, England",
+          "scene_summary": "After Henry IV's death, the Lord Chief Justice fears retribution from Hal, now Henry V. Hal reassures him, valuing his impartiality, and assumes the throne with resolve, promising reform. The scene marks Hal's transformation into a responsible king."
+        },
+        {
+          "scene": 3,
+          "location": "Shallow's orchard, Gloucestershire, England",
+          "scene_summary": "Falstaff, Shallow, and Silence celebrate, expecting Hal's favor. News of Henry IV's death and Hal's coronation arrives. Falstaff rushes to London, believing he'll gain power, oblivious to Hal's impending rejection, building dramatic irony."
+        },
+        {
+          "scene": 4,
+          "location": "A street in London, England",
+          "scene_summary": "Hostess Quickly and Doll Tearsheet are arrested for a murder linked to their tavern. They bicker with officers, revealing their chaotic lives. This brief scene contrasts the lowlife comedy with the court's solemnity, tying up the tavern subplot."
+        },
+        {
+          "scene": 5,
+          "location": "A public place near Westminster Abbey, London, England",
+          "scene_summary": "Falstaff, expecting favor, greets Henry V during his coronation procession. Henry rejects him, banishing him from court but granting a pension. Falstaff, shaken, hopes for leniency, but the Lord Chief Justice arrests him with Quickly and Doll. Henry prepares for war with France, ending with his firm rule established."
+        }
+      ]
+    }
+  ]
+}

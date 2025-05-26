@@ -1,0 +1,186 @@
+[
+  {
+    "scene_id": "the_life_of_king_henry_v_1_1",
+    "title": "The Life of King Henry V",
+    "act": 1,
+    "scene": 1,
+    "location": "A room in the palace, London, England",
+    "scene_summary": "The Archbishop of Canterbury and Bishop of Ely discuss Henry V's claim to the French throne through Edward III's lineage. To counter a bill threatening church lands, they plan to support Henry's war, praising his transformation from wild prince to wise king, setting up the political and religious justification for the campaign."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_1_2",
+    "title": "The Life of King Henry V",
+    "act": 1,
+    "scene": 2,
+    "location": "The presence chamber in the palace, London, England",
+    "scene_summary": "Henry V consults Canterbury, who validates his claim to France. Ambassadors from the Dauphin deliver tennis balls, mocking Henry's youth. Henry, enraged but composed, vows to conquer France, rallying his lords for war. The scene showcases Henry's diplomatic skill and resolve."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_2_1",
+    "title": "The Life of King Henry V",
+    "act": 2,
+    "scene": 1,
+    "location": "A street in Eastcheap, London, England",
+    "scene_summary": "Pistol, Nym, and Bardolph, former tavern companions of Falstaff, prepare for war in France. Hostess Quickly reports Falstaff's illness, and the men bicker over debts and rivalries. They depart for Southampton, reflecting the lowlife's involvement in the national effort."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_2_2",
+    "title": "The Life of King Henry V",
+    "act": 2,
+    "scene": 2,
+    "location": "The council chamber in Southampton, England",
+    "scene_summary": "Henry uncovers the treason of Scroop, Cambridge, and Grey, confronting them with evidence. They confess, and Henry sentences them to death, sparing no mercy. He rallies his nobles for France, demonstrating his decisive leadership and moral authority."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_2_3",
+    "title": "The Life of King Henry V",
+    "act": 2,
+    "scene": 3,
+    "location": "The Boar's Head Tavern, Eastcheap, London, England",
+    "scene_summary": "Hostess Quickly recounts Falstaff's death, describing his peaceful passing. Pistol, Bardolph, Nym, and the Boy depart for France, with Pistol bidding farewell to his wife, Quickly. The scene provides a poignant farewell to Falstaff and shifts focus to the war."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_2_4",
+    "title": "The Life of King Henry V",
+    "act": 2,
+    "scene": 4,
+    "location": "A room in the French palace, Rouen, France",
+    "scene_summary": "The French King, Dauphin, and nobles debate Henry's invasion. The Dauphin underestimates Henry, but the Constable urges caution. Exeter, Henry's envoy, demands the French crown, warning of war. The French prepare to resist, highlighting their overconfidence and division."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_3_1",
+    "title": "The Life of King Henry V",
+    "act": 3,
+    "scene": 1,
+    "location": "Before the walls of Harfleur, France",
+    "scene_summary": "Henry rallies his troops with his “Once more unto the breach” speech, urging them to storm Harfleur. He inspires courage, leading the charge, showcasing his charismatic leadership in the heat of battle."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_3_2",
+    "title": "The Life of King Henry V",
+    "act": 3,
+    "scene": 2,
+    "location": "Before the walls of Harfleur, France",
+    "scene_summary": "Bardolph, Nym, Pistol, and the Boy hesitate to join the assault, revealing their cowardice. Fluellen, a Welsh captain, drives them forward. The Boy, disillusioned, critiques their dishonesty, while the English breach Harfleur's defenses, blending comedy with the siege's intensity."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_3_3",
+    "title": "The Life of King Henry V",
+    "act": 3,
+    "scene": 3,
+    "location": "Before the gates of Harfleur, France",
+    "scene_summary": "Henry threatens Harfleur's governor with destruction if they resist further. The governor surrenders, citing no aid from the Dauphin. Henry orders Exeter to fortify the town and show mercy, securing his first victory and demonstrating strategic restraint."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_3_4",
+    "title": "The Life of King Henry V",
+    "act": 3,
+    "scene": 4,
+    "location": "A room in the French palace, Rouen, France",
+    "scene_summary": "Princess Katherine learns English from her lady, Alice, in a comic scene, preparing for potential marriage to Henry. The language lesson, with its double entendres, lightens the tone and foreshadows the political union."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_3_5",
+    "title": "The Life of King Henry V",
+    "act": 3,
+    "scene": 5,
+    "location": "A room in the French palace, Rouen, France",
+    "scene_summary": "The French King, enraged by Harfleur's fall, rallies his nobles, including the Dauphin, to confront Henry. He sends heralds to challenge Henry, vowing to crush his depleted army, revealing French desperation and pride."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_3_6",
+    "title": "The Life of King Henry V",
+    "act": 3,
+    "scene": 6,
+    "location": "The English camp in Picardy, France",
+    "scene_summary": "Fluellen reports the capture of a bridge, praising Welsh valor. Pistol pleads for Bardolph, sentenced to hang for theft, but Henry upholds the execution, enforcing discipline. Montjoy, a French herald, demands Henry's surrender, but Henry defies him, resolute despite his army's exhaustion."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_3_7",
+    "title": "The Life of King Henry V",
+    "act": 3,
+    "scene": 7,
+    "location": "The French camp near Agincourt, France",
+    "scene_summary": "French nobles, including the Dauphin and Constable, boast of their superiority, mocking Henry's weakened forces. They eagerly await dawn's battle, overconfident, while an anxious Orleans notes the English resolve, setting up the contrast for Agincourt."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_4_1",
+    "title": "The Life of King Henry V",
+    "act": 4,
+    "scene": 1,
+    "location": "The English camp near Agincourt, France",
+    "scene_summary": "Henry, disguised as a common soldier, mingles with his men, debating honor and responsibility with Bates, Williams, and Court. He reflects on kingship's burdens in a soliloquy, praying for victory, revealing his humanity and leadership under pressure."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_4_2",
+    "title": "The Life of King Henry V",
+    "act": 4,
+    "scene": 2,
+    "location": "The French camp near Agincourt, France",
+    "scene_summary": "The French, overconfident, prepare for battle, mocking the English. The Dauphin and Constable jest about their certain victory, underestimating Henry's resolve, heightening the dramatic irony before the battle."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_4_3",
+    "title": "The Life of King Henry V",
+    "act": 4,
+    "scene": 3,
+    "location": "The English camp near Agincourt, France",
+    "scene_summary": "Henry delivers his “St. Crispin's Day” speech, inspiring his outnumbered troops with visions of eternal glory. Montjoy again demands surrender, but Henry refuses, rallying his men for battle, showcasing his inspirational leadership."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_4_4",
+    "title": "The Life of King Henry V",
+    "act": 4,
+    "scene": 4,
+    "location": "The battlefield at Agincourt, France",
+    "scene_summary": "Pistol captures a French soldier, Monsieur Le Fer, demanding ransom in broken French, adding comic relief. The Boy, observing, notes the rogues' cowardice, contrasting their antics with the battle's seriousness."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_4_5",
+    "title": "The Life of King Henry V",
+    "act": 4,
+    "scene": 5,
+    "location": "Another part of the battlefield at Agincourt, France",
+    "scene_summary": "French nobles, including the Constable and Orleans, lament their unexpected losses, shocked by the English resilience. The Dauphin flees, and the French resolve to fight to the death, acknowledging their miscalculation."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_4_6",
+    "title": "The Life of King Henry V",
+    "act": 4,
+    "scene": 6,
+    "location": "Another part of the battlefield at Agincourt, France",
+    "scene_summary": "Henry learns of York and Suffolk's deaths, mourning their sacrifice. Alarmed by a French counterattack, he orders the killing of French prisoners, a controversial decision reflecting the battle's desperation, as the English press their advantage."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_4_7",
+    "title": "The Life of King Henry V",
+    "act": 4,
+    "scene": 7,
+    "location": "Another part of the battlefield at Agincourt, France",
+    "scene_summary": "Fluellen and Gower condemn the French for killing the camp's boys, justifying Henry's prisoner order. Henry confronts Montjoy, who concedes defeat. Fluellen compares Henry to Alexander, and Henry, learning of his victory, credits God, preparing to assess the losses."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_4_8",
+    "title": "The Life of King Henry V",
+    "act": 4,
+    "scene": 8,
+    "location": "The English camp near Agincourt, France",
+    "scene_summary": "Williams, unaware he argued with Henry in disguise, exchanges gloves with Fluellen, leading to a comic misunderstanding. Henry reveals his identity, rewarding Williams. The casualty lists show minimal English losses against thousands of French, confirming the miraculous victory. Henry plans to return to England, ending the campaign triumphantly."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_5_1",
+    "title": "The Life of King Henry V",
+    "act": 5,
+    "scene": 1,
+    "location": "The English camp in France",
+    "scene_summary": "Fluellen forces Pistol to eat a leek, avenging an insult to his Welsh heritage, in a comic confrontation. Pistol, humiliated, learns of Quickly's death and resolves to return to England as a thief, concluding the lowlife subplot with his downfall."
+  },
+  {
+    "scene_id": "the_life_of_king_henry_v_5_2",
+    "title": "The Life of King Henry V",
+    "act": 5,
+    "scene": 2,
+    "location": "A room in the French palace, Troyes, France",
+    "scene_summary": "Henry negotiates peace with the French King, securing the throne's succession through marriage to Katherine. He woos Katherine in a charming, awkward exchange, winning her consent despite language barriers. The treaty is signed, uniting England and France, but the Chorus notes the future loss of France under Henry VI, ending with a bittersweet triumph."
+  }
+]

@@ -1,0 +1,121 @@
+{
+  "title": "The Life of Timon of Athens",
+  "play_summary": "Timon, a wealthy Athenian, lavishes gifts on false friends, only to be abandoned when his fortunes fail. Disillusioned, he becomes a misanthrope, cursing humanity and living in exile, where he discovers gold but dies in isolation, rejecting reconciliation.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "Lord Timon, a wealthy philanthropist in Athens, entertains a poet, a painter, a jeweller, a merchant, and some Senators. Timon greets each of them. He offers to pay the debts of his friend Ventidius who is in debtors' prison. And he negotiates (and pays for) the marriage of his servant who has aspired to marry above his station. Apemantus, a friend, warns Timon against his flatterers, but Timon ignores his advice. He invites everyone to eat with him when he gives a feast for a general named Alcibiades.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A hall in Timon's house, Athens, Greece",
+          "scene_summary": "Timon, a wealthy Athenian, hosts poets, painters, and senators, lavishly entertaining them. He pays a debtor's fine, funds a marriage, and buys art, earning flattery. Apemantus, a cynical philosopher, mocks the sycophants, warning Timon of false friends. Creditors' servants arrive, hinting at Timon's financial strain, setting up his generosity and impending ruin."
+        },
+        {
+          "scene": 2,
+          "location": "A banqueting room in Timon's house, Athens, Greece",
+          "scene_summary": "Timon throws a grand feast for lords, giving jewels and horses as gifts. Ventidius, freed by Timon's aid, offers repayment, which Timon refuses. Apemantus scorns the guests' greed, while Cupid and Amazons perform a masque. Flavius, Timon's steward, privately laments his master's reckless spending, foreshadowing bankruptcy."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "It is only when Flavius is unable to pay some of the creditors that Timon is puzzled. After asking Flavius why he never told him (he did), and arguing for some way to get out of his debts, he realises that his finances are in ruin. He sends his servants to his former flattering friends to ask for money, but each one rejects him. The creditors continually badger him to be paid.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A senator's house, Athens, Greece",
+          "scene_summary": "A Senator, owed money by Timon, demands immediate repayment, doubting Timon's solvency. He sends his servant Caphis to collect, reflecting Athens' growing distrust of Timon's wealth, tightening the financial noose."
+        },
+        {
+          "scene": 2,
+          "location": "A street before Timon's house, Athens, Greece",
+          "scene_summary": "Caphis and other creditors' servants confront Timon, demanding payment. Flavius reveals Timon's debts exceed his assets, but Timon, optimistic, sends friends to borrow from lords like Lucullus and Ventidius. A Page delivers bawdy letters, adding comic relief, as Timon's denial of ruin contrasts Flavius's alarm."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "In response, Timon gathers everyone for one more feast. Timon's friend Apemantus advises the Senators not to condemn Timon for his unpaid debts. Rather than freeing Timon, however, Apemantus only succeeds in receiving banishment himself. Timon harshly criticises his guests and presents a meal of stones and water, which Timon throws in the faces of his former friends. Timon leaves Athens, furiously cursing the city and its people. He vows hatred toward them all, condemning them for ignoring his former kindness.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Lucullus's house, Athens, Greece",
+          "scene_summary": "Timon's servant asks Lucullus for a loan, but Lucullus, once a beneficiary of Timon's generosity, refuses with excuses, offering only wine. He admits ingratitude, revealing the lords' hypocrisy and Timon's betrayal by false friends."
+        },
+        {
+          "scene": 2,
+          "location": "A public place in Athens, Greece",
+          "scene_summary": "Lucius, another lord, hears of Timon's plight but refuses a loan, claiming prior commitments, despite past favors. Strangers discuss Timon's fall, criticizing Athenian greed, while Servilius, Timon's servant, leaves empty-handed, deepening Timon's isolation."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Sempronius's house, Athens, Greece",
+          "scene_summary": "Sempronius, another lord, rejects Timon's loan request, offended he wasn't asked first, masking his greed. He cites other lords' refusals, and Timon's servant departs. Timon, enraged, plans a mock banquet to expose his false friends, marking his shift to misanthropy."
+        },
+        {
+          "scene": 4,
+          "location": "A hall in Timon's house, Athens, Greece",
+          "scene_summary": "Creditors' servants, including Flavius, confront Timon, demanding payment. Timon, furious, dismisses them, cursing Athens. He instructs Flavius to invite lords to a final feast, planning to shame them, as his disillusionment with humanity grows."
+        },
+        {
+          "scene": 5,
+          "location": "The Senate House, Athens, Greece",
+          "scene_summary": "Alcibiades pleads for a friend's life, condemned for murder, but the Senators, rigid, banish him for insolence. Alcibiades vows revenge, planning to march on Athens, paralleling Timon's rejection of society and introducing a secondary conflict."
+        },
+        {
+          "scene": 6,
+          "location": "A banqueting room in Timon's house, Athens, Greece",
+          "scene_summary": "Timon hosts lords at a mock banquet, serving stones and water instead of food, cursing their ingratitude. He drives them out, renouncing Athens and vowing to live in the wilderness, fully embracing misanthropy as his wealth and status collapse."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "Flavius, loyal as ever, now takes leave of his fellow servants to search for Timon. Timon, meanwhile, is in the wilderness and on the edge of madness, digging for edible roots near a deserted cave. Rather than finding roots, he discovers buried gold and hides it away. Afterwards, the general Timon hosted a feast for, Alcibiades, finds him and offers friendship. Alcibiades was banished from Athens when one of his servants murdered a man in a fit of passion. After Timon initially spurns him, Timon discovers Alcibiades's plot to destroy Athens. He offers Alcibiades most of the gold to further his violent aims.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Outside the walls of Athens, Greece",
+          "scene_summary": "Timon, self-exiled, curses Athens, wishing chaos on its citizens. He departs for the woods, seeking solitude, his soliloquy cementing his transformation from benefactor to hermit, driven by betrayal."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Timon's house, Athens, Greece",
+          "scene_summary": "Flavius and servants lament Timon's ruin, dispersing as the household collapses. Flavius, loyal, vows to find Timon and serve him, sharing his own money, contrasting the lords' betrayal with genuine devotion."
+        },
+        {
+          "scene": 3,
+          "location": "A cave in the woods near Athens, Greece",
+          "scene_summary": "Timon, digging for roots, finds gold but scorns it, cursing mankind. Alcibiades, with prostitutes Phrynia and Timandra, meets him, and Timon gives gold to fund their attack on Athens, urging destruction. Apemantus arrives, debating misanthropy, but Timon rejects his cynicism. Flavius finds Timon, offering loyalty, and Timon, moved, gives him gold to live honestly, reinforcing his hatred of humanity except for Flavius."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "Flavius finally discovers his former master, and Timon praises him as the only honest man he has ever known. Timon gives him gold as a reward for his loyalty. After hearing of the buried gold, the poet and the painter arrive at Timon’s cave, but Timon realises their greedy intentions and drives them away.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The woods near Timon's cave, Athens, Greece",
+          "scene_summary": "The Poet and Painter seek Timon, hearing of his gold, hoping for reward. Timon, overhearing, mocks their greed and drives them away with insults, exposing their opportunism and reinforcing his disdain for flattery."
+        },
+        {
+          "scene": 2,
+          "location": "A public place in Athens, Greece",
+          "scene_summary": "Senators learn of Alcibiades' approaching army, panicking. A messenger reports Timon's gold, and two Senators plan to seek his aid, unaware of his hatred, highlighting Athens' desperation as Alcibiades' threat looms."
+        },
+        {
+          "scene": 3,
+          "location": "The woods near Timon's cave, Athens, Greece",
+          "scene_summary": "A Soldier finds Timon's tomb, inscribed with his curse on mankind, indicating his death. He takes the epitaph to Alcibiades, confirming Timon's end and his final rejection of society."
+        },
+        {
+          "scene": 4,
+          "location": "Before the walls of Athens, Greece",
+          "scene_summary": "Alcibiades besieges Athens, reading Timon's epitaph. Senators plead for mercy, blaming Timon's false friends. Alcibiades agrees to spare the city, punishing only his enemies, and mourns Timon, ending with partial justice and Athens' submission, contrasting Timon's unyielding misanthropy."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "title": "Julius Caesar",
+  "play_summary": "The play portrays the conspiracy against Roman dictator Julius Caesar, his assassination, and its aftermath. Brutus joins the conspiracy out of a desire to protect the Roman Republic, but is manipulated by Cassius. After Caesar's murder, Mark Antony turns the public against the conspirators in a brilliant funeral oration, leading to civil war and the deaths of Brutus and Cassius.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "The tribunes of Rome, Marullus and Flavius, break up a gathering of citizens who want to celebrate Julius Caesar's triumphant return from war. The victory is marked by public games in which Caesar's protégé, Mark Antony, takes part. On his way to the arena, Caesar is stopped by a stranger who warns him that he should 'Beware the Ides [15th] of March.'",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street in Rome, Italy",
+          "scene_summary": "Commoners celebrate Caesar's triumph over Pompey, but tribunes Flavius and Marullus rebuke them, loyal to Pompey's memory. They remove decorations honoring Caesar, revealing public division and foreshadowing opposition to Caesar's growing power."
+        },
+        {
+          "scene": 2,
+          "location": "A public place in Rome, Italy",
+          "scene_summary": "During the Lupercal festival, Caesar, with Antony, Calpurnia, and others, watches a race. A Soothsayer warns Caesar to “beware the Ides of March,” which he dismisses. Cassius persuades Brutus to join a conspiracy against Caesar, citing his ambition. Caesar notes Cassius's “lean and hungry look,” sensing danger, while Brutus grapples with his loyalty and fears of tyranny."
+        },
+        {
+          "scene": 3,
+          "location": "A street in Rome, Italy",
+          "scene_summary": "Amid a stormy night with omens, Cicero meets Casca, who reports unnatural signs and Caesar's plan to accept a crown. Cassius, joined by Cinna, recruits Casca to the conspiracy, planting forged letters to sway Brutus. The scene builds tension, linking supernatural portents to the plot against Caesar."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Cassius, Casca, and their allies plant false documents to manipulate Brutus to join their cause to remove Caesar. After doing so, they visit Brutus at night in his home to persuade him of their views. There they plan Caesar's death. Brutus is troubled but refuses to confide in his devoted wife, Portia. On 15 March, Caesar's wife, Calpurnia, urges him not to go to the Senate. She has had visionary dreams and fears the portents of the overnight storms.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Brutus's orchard, Rome, Italy",
+          "scene_summary": "Brutus, troubled, debates Caesar's potential tyranny, deciding his death is necessary for Rome. Conspirators, including Cassius, Casca, and Decius, meet him, planning Caesar's assassination at the Capitol. Brutus rejects killing Antony, and Portia, his wife, pleads for his confidence, revealing his inner conflict and the plot's momentum."
+        },
+        {
+          "scene": 2,
+          "location": "Caesar's house, Rome, Italy",
+          "scene_summary": "Calpurnia, disturbed by omens and dreams of Caesar's death, urges him to stay home. Caesar, initially swayed, is persuaded by Decius's flattery to attend the Senate, dismissing the warnings. The scene heightens suspense as Caesar heads toward his fate."
+        },
+        {
+          "scene": 3,
+          "location": "A street near the Capitol, Rome, Italy",
+          "scene_summary": "Artemidorus, loyal to Caesar, writes a letter warning of the conspiracy, planning to deliver it at the Capitol. The brief scene underscores the missed opportunity to save Caesar, adding dramatic irony."
+        },
+        {
+          "scene": 4,
+          "location": "A street near Brutus's house, Rome, Italy",
+          "scene_summary": "Portia, anxious, sends Lucius to check on Brutus at the Capitol. The Soothsayer, en route to warn Caesar, passes by, heightening her fears. Portia struggles to conceal her distress, reflecting the conspirators' tension as the assassination nears."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "Against Cassius's advice, Brutus allows Mark Antony to speak a funeral oration for Caesar in the market place. He is allowed under the condition that first Brutus must address the people to explain the conspirators' reasons and their fears for Caesar's ambition. After Brutus speaks, the crowd becomes calm and supports his cause. However, Antony, in his speech, questions the motives of the conspirators and reminds the crowd of Caesar's benevolent actions and of his refusal to accept the crown. He also reads them Caesar's will, in which Caesar leaves public land and money to each Roman citizen. Antony's speech stirs the crowd into a murderous riot, and the conspirators are forced to flee from the city.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The Capitol, Rome, Italy",
+          "scene_summary": "Caesar ignores Artemidorus's warning and the Soothsayer's caution. The conspirators, led by Brutus and Cassius, stab Caesar, who dies saying, “Et tu, Brute?” Antony, spared, requests to speak at Caesar's funeral, which Brutus allows despite Cassius's objections. Antony, alone, vows revenge, predicting civil war, as the assassination triggers chaos."
+        },
+        {
+          "scene": 2,
+          "location": "The Forum, Rome, Italy",
+          "scene_summary": "Brutus addresses the plebeians, justifying Caesar's death as necessary to prevent tyranny, winning their support. Antony's funeral oration, using Caesar's body and will, sways the crowd against the conspirators, inciting a riot. The plebeians turn on Brutus and Cassius, who flee, marking Antony's triumph and Rome's descent into chaos."
+        },
+        {
+          "scene": 3,
+          "location": "A street in Rome, Italy",
+          "scene_summary": "A mob mistakes Cinna the poet for Cinna the conspirator and kills him, despite his protests. The brief scene illustrates the mob's irrational violence, fueled by Antony's speech, and Rome's escalating anarchy."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "Brutus and Cassius gather an army in Northern Greece and prepare to fight the forces led by Mark Antony. Antony has joined with Caesar's great-nephew, Octavius, and with a man called Lepidus. Away from Rome, Brutus and Cassius are filled with doubts about the future and quarrel over funds for their soldiers' pay. After making amends, they prepare to engage Antony's army at Philippi, despite Cassius' misgivings about the site. Brutus stoically receives news of his wife's suicide in Rome. He then sees Caesar's ghost as he tries to rest and is unable to sleep on the eve of the conflict.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Antony's house, Rome, Italy",
+          "scene_summary": "Antony, Octavius, and Lepidus form the Second Triumvirate, proscribing enemies, including Cicero. Antony plans to cut expenses by altering Caesar's will, while dismissing Lepidus's worth, revealing his ruthless pragmatism and the triumvirs' power consolidation."
+        },
+        {
+          "scene": 2,
+          "location": "A camp near Sardis, Asia Minor",
+          "scene_summary": "Brutus, at his camp, meets Lucilius, who reports Cassius's cooling friendship. Cassius arrives, and they argue privately, reflecting tensions in their alliance as they prepare to face the triumvirs' forces."
+        },
+        {
+          "scene": 3,
+          "location": "Brutus's tent near Sardis, Asia Minor",
+          "scene_summary": "Brutus accuses Cassius of corruption, while Cassius resents Brutus's moralizing. They reconcile, and Brutus reveals Portia's suicide, deepening his grief. They debate strategy, with Brutus insisting on marching to Philippi, overruling Cassius. Caesar's ghost appears to Brutus, warning of his doom, foreshadowing defeat."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "In the battle, the Republicans (led by Brutus) appear to be winning at first. But when Cassius' messenger's horse seems to be overtaken by the enemy, Cassius fears the worst and gets his servant to help him to a quick death. After finding Cassius's body, Brutus commits suicide. He believes this to be the only honourable option left to him. Antony, triumphant on the battlefield, praises Brutus as 'the noblest Roman of them all' and orders a formal funeral before he and Octavius return to rule in Rome.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The plains of Philippi, Greece",
+          "scene_summary": "Antony and Octavius prepare for battle, meeting Brutus and Cassius for a tense parley. Both sides exchange insults, rejecting compromise. The conspirators return to their army, and Brutus and Cassius bid farewell, sensing their end, setting up the Battle of Philippi."
+        },
+        {
+          "scene": 2,
+          "location": "The battlefield at Philippi, Greece",
+          "scene_summary": "Brutus sends Messala with orders for an attack, believing the enemy is weakening. The brief scene initiates the battle, highlighting Brutus's aggressive strategy."
+        },
+        {
+          "scene": 3,
+          "location": "Another part of the battlefield at Philippi, Greece",
+          "scene_summary": "Cassius's forces falter, and he mistakenly believes Titinius captured. Despairing, Cassius orders Pindarus to kill him, dying by suicide. Titinius, actually victorious, mourns Cassius, killing himself. Brutus laments Cassius's death, as the Yorkists face defeat."
+        },
+        {
+          "scene": 4,
+          "location": "Another part of the battlefield at Philippi, Greece",
+          "scene_summary": "Brutus's men, including Lucilius, fight on but are overwhelmed. Lucilius pretends to be Brutus to protect him, but Antony spares him, recognizing his loyalty. The scene shows the collapsing resistance and Antony's magnanimity."
+        },
+        {
+          "scene": 5,
+          "location": "Another part of the battlefield at Philippi, Greece",
+          "scene_summary": "Brutus, defeated, asks his men to kill him, but they refuse. He bids farewell to his friends and runs on his sword, dying with honor. Antony and Octavius find his body, praising his nobility. Octavius plans to share power, ending with the triumvirs' victory and Rome's new order."
+        }
+      ]
+    }
+  ]
+}

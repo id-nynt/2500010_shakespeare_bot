@@ -1,0 +1,106 @@
+{
+  "title": "The Tragedy of Titus Andronicus",
+  "play_summary": "Roman general Titus Andronicus returns victorious but spirals into a cycle of revenge when Tamora, Queen of the Goths, seeks retribution for her son's death. Brutal acts, including Lavinia's mutilation and Titus's feigned madness, culminate in a bloody banquet where nearly all perish.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "The brothers Saturninus and Bassianus both stand for election to succeed their father as emperor of Rome. Then the tribune, Marcus Andronicus, announces that the people's favourite contender is his brother, the general Titus. Soon afterwards, Titus returns from war with five prisoners: Tamora, queen of the Goths, her three sons, and Aaron the Moor. Titus sacrifices Tamora’s eldest son despite his mother’s pleas, as part of a burial ritual for his own sons. Titus is then offered the throne but rejects the chance to be emperor because he is too old. However, he offers his support to Saturninus. He presents Tamora and her two remaining sons to Saturninus, who is now Emperor. Saturninus decides to claim Lavinia (Titus' daughter) as his wife. His brother Bassianus opposes this as he is already in love with and betrothed to Lavinia. Lavinia’s brother Mutius attempts to help her, but Titus, angered by this, kills his son Mutius. Despite this, Saturninus then decides that he would prefer Tamora as his empress. He liberates her and her remaining sons, along with Aaron the Moor, Tamora's lover. After a bitter argument, Titus agrees that Mutius may be buried in the Andronici tomb.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Before the Senate House and a tomb, Rome, Italy",
+          "scene_summary": "Saturninus and Bassianus, sons of the late Emperor, vie for the throne. Titus Andronicus, a Roman general, returns from war against the Goths, bringing Queen Tamora, her sons, and Aaron the Moor as captives. Titus sacrifices Tamora's son Alarbus, despite her pleas, sparking her vengeance. Emperor Saturninus is chosen, and he claims Titus's daughter Lavinia, betrothed to Bassianus. Titus kills his son Mutius for defending Bassianus, who elopes with Lavinia. Saturninus, spurned, weds Tamora, who plots with Aaron to destroy Titus's family, setting up the cycle of revenge."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "While Aaron speaks of his own secret love for Tamora, her sons enter, fighting over who will wed Lavinia. Aaron calms them and suggests that instead of marriage, they both rape her during the royal hunt. In the woods, Aaron is burying a store of gold, when Tamora finds him. She learns of plots he has made to kill Bassianus and frame Titus' sons for the murder. During the royal hunt, Tamora’s sons kill Bassianus and throw the body into a pit near the hidden gold. They capture Lavinia for themselves. Aaron entices Titus’ sons to the same pit, where they both fall in, and Saturninus finds them. Saturninus concludes that Titus' sons have murdered Bassianus for the gold.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in the Emperor's palace, Rome, Italy",
+          "scene_summary": "Aaron, Tamora's lover, revels in her rise as Empress, plotting chaos. Tamora's sons, Chiron and Demetrius, lust for Lavinia. Aaron advises them to rape her in the forest during a hunt, manipulating their desires to ruin Titus, deepening the vengeful conspiracy."
+        },
+        {
+          "scene": 2,
+          "location": "A forest near Rome, Italy",
+          "scene_summary": "Titus, Saturninus, Tamora, and others prepare for a hunt. Titus's sons, Martius and Quintus, join, while Aaron plans Lavinia's assault. The festive mood contrasts the impending violence, setting the stage for Tamora's trap."
+        },
+        {
+          "scene": 3,
+          "location": "A lonely part of the forest, Rome, Italy",
+          "scene_summary": "Aaron buries gold, framing Titus's sons. Tamora meets Aaron, urging lust, but he focuses on revenge. Chiron and Demetrius kill Bassianus, rape and mutilate Lavinia, cutting her tongue and hands. Aaron lures Martius and Quintus into a pit with Bassianus's body, framing them for murder. Saturninus arrests them, and Tamora feigns sympathy, escalating Titus's losses."
+        },
+        {
+          "scene": 4,
+          "location": "Another part of the forest, Rome, Italy",
+          "scene_summary": "Marcus, Titus's brother, finds Lavinia, mutilated and mute, and laments her suffering. He takes her to Titus, her condition symbolizing Rome's decay and setting up Titus's quest for justice."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "In Rome, Titus begs for the lives of his sons who have been accused of murdering Bassianus. But he is ignored. His one remaining son, Lucius, is banished for supporting his brothers’ pleas of innocence. Lucius’s son and Titus are reunited with the mutilated Lavinia and her uncle, Marcus. Aaron offers a reprieve for the accused sons if one of the family will send his severed hand to the emperor as a ransom. Titus cuts off his own hand, but in exchange he receives not his sons' freedom but their heads instead. He also receives his rejected hand.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street in Rome, Italy",
+          "scene_summary": "Titus pleads for his sons, Martius and Quintus, as they're led to execution, but the Tribune ignores him. Aaron falsely claims Saturninus will spare them if Titus, Marcus, or Lucius cuts off a hand. Titus sacrifices his hand, but Aaron sends it back with his sons' heads. Titus, Lavinia, and Lucius vow revenge, and Titus sends Lucius to raise an army with the Goths, marking his shift to vengeance."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Titus's house, Rome, Italy",
+          "scene_summary": "Titus, Marcus, Lavinia, and Young Lucius dine, grieving. Titus, unhinged, interprets Lavinia's gestures, vowing to uncover her rapists. He feeds Lavinia, showing care amidst madness, and plans retribution, deepening the tragic pathos."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "Titus hovers on the edge of madness as he considers the injustices done to his family. Then he discovers who raped Lavinia and severed her tongue and hands. She uses her stump hands to turn the pages of a book to the story of ravished Philomel. And, grasping a stick, she spells out the names of Tamora's sons in the sand.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Titus's garden, Rome, Italy",
+          "scene_summary": "Lavinia, using a stick, reveals Chiron and Demetrius as her rapists by writing in the sand. Titus, Marcus, and Young Lucius swear to punish Tamora's sons, and Titus devises a plan, feigning madness to lure his enemies, advancing his revenge plot."
+        },
+        {
+          "scene": 2,
+          "location": "A room in the Emperor's palace, Rome, Italy",
+          "scene_summary": "Titus sends Young Lucius with weapons and a cryptic message to Chiron and Demetrius, who dismiss it, unaware of his intent. Aaron recognizes Titus's sanity, but Tamora plans to exploit his “madness.” A Nurse reveals Tamora's newborn by Aaron, and Aaron kills her to protect the secret, vowing to save his child, showing his loyalty to his own blood."
+        },
+        {
+          "scene": 3,
+          "location": "A public place in Rome, Italy",
+          "scene_summary": "Titus, feigning madness, shoots arrows with petitions to the gods, seeking justice, alarming Marcus and Publius. A Clown delivers a letter to Saturninus, unknowingly aiding Titus, who uses the ruse to draw Tamora into his trap, blending absurdity with strategy."
+        },
+        {
+          "scene": 4,
+          "location": "A room in the Emperor's palace, Rome, Italy",
+          "scene_summary": "Saturninus, enraged by Titus's arrows and the Clown's letter, orders the Clown's execution. News of Lucius's Gothic army alarms him. Tamora, confident, plans to visit Titus, posing as Revenge to deceive him, underestimating his cunning, setting up the climactic confrontation."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "During these events, Titus' banished son Lucius has joined the army of the Goths and leads them against Rome. Aaron and the infant are brought to him as prisoners. Lucius promises to save the baby, and Aaron tells the truth about Bassianus’ death. Meanwhile, Tamora visits the ‘mad’ Titus, hoping that he will be able to turn the tide of the battle with Lucius and the Goths. She leaves her sons with him, where the ravaged Lavinia confronts them. Titus tells the sons that they will become meat to feed their mother and kills them with Lavinia's help.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A plain near Rome, Italy",
+          "scene_summary": "Lucius, with the Goths, captures Aaron and his child. Aaron confesses his crimes, including Lavinia's rape and Titus's sons' framing, to save his son. Lucius vows justice. A Goth brings Tamora's sons, and Lucius prepares to confront Saturninus, aligning with Titus's revenge."
+        },
+        {
+          "scene": 2,
+          "location": "A courtyard in Titus's house, Rome, Italy",
+          "scene_summary": "Tamora, as Revenge, with Chiron and Demetrius as Rape and Murder, visits Titus, urging him to summon Lucius. Titus, feigning compliance, captures her sons, kills them, and plans to bake them into pies for a banquet, revealing his deadly cunning and Tamora's miscalculation."
+        },
+        {
+          "scene": 3,
+          "location": "A banqueting room in Titus's house, Rome, Italy",
+          "scene_summary": "Titus hosts Saturninus, Tamora, and Lucius, serving pies made from Chiron and Demetrius. He reveals Lavinia's rape, kills her to end her shame, then stabs Tamora. Saturninus kills Titus, and Lucius kills Saturninus. Lucius recounts Titus's wrongs, is proclaimed Emperor, and sentences Aaron to a torturous death. Marcus and the Romans mourn, restoring order, ending the bloody cycle with Lucius's rule."
+        }
+      ]
+    }
+  ]
+}

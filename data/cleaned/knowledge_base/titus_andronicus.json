@@ -1,0 +1,110 @@
+{
+  "title": "The Tragedy of Titus Andronicus",
+  "full_title": "The Most Lamentable Roman Tragedy of Titus Andronicus",
+  "category": "tragedy",
+  "year": "1593-1594",
+  "setting": "Rome",
+  "main_characters": [
+    "Titus Andronicus",
+    "Tamora",
+    "Aaron",
+    "Lavinia",
+    "Saturninus",
+    "Bassianus",
+    "Lucius"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Titus Andronicus",
+      "description": "Roman general, seeks revenge"
+    },
+    {
+      "name": "Tamora",
+      "description": "Goth queen, plots against Titus"
+    },
+    {
+      "name": "Aaron",
+      "description": "Tamora's lover, orchestrates villainy"
+    },
+    {
+      "name": "Lavinia",
+      "description": "Titus's daughter, brutally assaulted"
+    },
+    {
+      "name": "Saturninus",
+      "description": "Roman emperor, marries Tamora"
+    },
+    {
+      "name": "Bassianus",
+      "description": "Saturninus's brother, loves Lavinia"
+    },
+    {
+      "name": "Lucius",
+      "description": "Titus's son, avenges family"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Revenge",
+      "theme_explanation": "A relentless cycle of revenge between Titus and Tamora drives the play, escalating violence and leading to mutual destruction."
+    },
+    {
+      "theme": "Violence",
+      "theme_explanation": "Graphic violence, from Lavinia’s mutilation to the cannibalistic banquet, underscores the play’s exploration of human cruelty and retribution."
+    },
+    {
+      "theme": "Betrayal",
+      "theme_explanation": "Betrayals, such as Tamora’s manipulation of Saturninus and Aaron’s treachery, fuel the tragic conflicts and deepen the chaos."
+    },
+    {
+      "theme": "Family",
+      "theme_explanation": "Titus’s devotion to his family motivates his revenge, while Tamora’s actions to protect her sons mirror the fierce loyalty driving both sides."
+    },
+    {
+      "theme": "Power",
+      "theme_explanation": "The struggle for power in Rome, exemplified by Saturninus’s rule and Tamora’s influence, amplifies the destructive ambitions of the characters."
+    },
+    {
+      "theme": "Savagery",
+      "theme_explanation": "The play contrasts Roman civilization with barbaric acts, questioning whether savagery lies in the Goths or within Rome’s own moral decay."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "Vengeance is in my heart, death in my hand",
+      "speaker": "Aaron",
+      "act": 2,
+      "scene": 3,
+      "explanation": "Aaron revels in his villainy, embracing revenge as he orchestrates brutal acts against Titus's family."
+    },
+    {
+      "quote": "She is a woman, therefore may be wooed",
+      "speaker": "Demetrius",
+      "act": 2,
+      "scene": 1,
+      "explanation": "Demetrius views Lavinia as an object to be possessed, foreshadowing the violent assault driven by lust."
+    },
+    {
+      "quote": "O, why should wrath be mute, and fury dumb?",
+      "speaker": "Titus",
+      "act": 5,
+      "scene": 2,
+      "explanation": "Titus vows to express his rage through revenge, channeling his grief into a deadly plan."
+    },
+    {
+      "quote": "I am the sea; hark, how her sighs do blow!",
+      "speaker": "Titus",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Titus likens his overwhelming sorrow to a stormy sea, mourning Lavinia's suffering and his losses."
+    },
+    {
+      "quote": "If one good deed in all my life I did, I do repent it from my very soul",
+      "speaker": "Aaron",
+      "act": 5,
+      "scene": 3,
+      "explanation": "Aaron defiantly rejects remorse, embracing his evil nature even as he faces death."
+    }
+  ],
+  "summary": "Roman general Titus Andronicus returns victorious but spirals into a cycle of revenge when Tamora, Queen of the Goths, seeks retribution for her son's death. Brutal acts, including Lavinia's mutilation and Titus's feigned madness, culminate in a bloody banquet where nearly all perish."
+}

@@ -1,0 +1,120 @@
+{
+  "title": "Cymbeline",
+  "full_title": "Cymbeline, King of Britain",
+  "category": "tragedy",
+  "year": "1609-1610",
+  "setting": "Ancient Britain and Rome",
+  "main_characters": [
+    "Cymbeline",
+    "Imogen",
+    "Posthumus Leonatus",
+    "Iachimo",
+    "Cloten",
+    "Queen",
+    "Belarius",
+    "Guiderius",
+    "Arviragus"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Cymbeline",
+      "description": "King of Britain, Imogen's father"
+    },
+    {
+      "name": "Imogen",
+      "description": "Cymbeline's daughter, loves Posthumus"
+    },
+    {
+      "name": "Posthumus Leonatus",
+      "description": "Imogen's husband, exiled noble"
+    },
+    {
+      "name": "Iachimo",
+      "description": "Italian noble, deceives Posthumus"
+    },
+    {
+      "name": "Cloten",
+      "description": "Queen's son, seeks Imogen"
+    },
+    {
+      "name": "Queen",
+      "description": "Cymbeline's wife, Imogen's stepmother"
+    },
+    {
+      "name": "Belarius",
+      "description": "Exiled lord, raises king's sons"
+    },
+    {
+      "name": "Guiderius",
+      "description": "Cymbeline's son, raised by Belarius"
+    },
+    {
+      "name": "Arviragus",
+      "description": "Cymbeline's son, raised by Belarius"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Love",
+      "theme_explanation": "Imogen and Posthumus’s steadfast love overcomes trials, deceptions, and separation, driving the play toward reconciliation."
+    },
+    {
+      "theme": "Jealousy",
+      "theme_explanation": "Iachimo’s deception fuels Posthumus’s jealousy, nearly destroying his marriage to Imogen until truth restores their bond."
+    },
+    {
+      "theme": "Forgiveness",
+      "theme_explanation": "The play resolves through forgiveness, as Cymbeline pardons Posthumus and others, uniting the family and nation."
+    },
+    {
+      "theme": "Identity",
+      "theme_explanation": "Disguises and mistaken identities, like Imogen’s as Fidele, create confusion but ultimately reveal true selves and loyalties."
+    },
+    {
+      "theme": "Family",
+      "theme_explanation": "Family ties, tested by betrayal and separation, are restored as Cymbeline reunites with his children and accepts Posthumus."
+    },
+    {
+      "theme": "Reconciliation",
+      "theme_explanation": "The play culminates in reconciliation, resolving personal and political conflicts through revelations and forgiveness."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "The art of the court, as hard to leave as keep",
+      "speaker": "Imogen",
+      "act": 3,
+      "scene": 3,
+      "explanation": "Imogen reflects on the complexities of court life, preferring simplicity as she flees deceit and danger."
+    },
+    {
+      "quote": "Fear no more the heat o' the sun",
+      "speaker": "Guiderius",
+      "act": 4,
+      "scene": 2,
+      "explanation": "Guiderius sings a funeral dirge, celebrating death as a release from life's hardships, unaware Imogen lives."
+    },
+    {
+      "quote": "Boldness be my friend!",
+      "speaker": "Iachimo",
+      "act": 1,
+      "scene": 6,
+      "explanation": "Iachimo invokes courage to deceive Posthumus, revealing his cunning nature in plotting against Imogen."
+    },
+    {
+      "quote": "I am loath to look upon the baseness of the world",
+      "speaker": "Posthumus",
+      "act": 2,
+      "scene": 4,
+      "explanation": "Posthumus despairs over Imogen's supposed betrayal, reflecting his disillusionment before learning the truth."
+    },
+    {
+      "quote": "Some griefs are med'cinable",
+      "speaker": "Imogen",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Imogen finds solace in Posthumus's letter, suggesting some sorrows can heal, foreshadowing their reunion."
+    }
+  ],
+  "summary": "Imogen, daughter of King Cymbeline, marries Posthumus against her father's wishes. Banished, Posthumus is tricked by Iachimo into believing Imogen is unfaithful, leading to a series of trials, disguises, and revelations that ultimately reunite the lovers and reconcile the royal family."
+}

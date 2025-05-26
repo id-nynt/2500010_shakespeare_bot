@@ -1,0 +1,116 @@
+{
+  "title": "The Two Gentlemen of Verona",
+  "full_title": "The Two Gentlemen of Verona",
+  "category": "comedy",
+  "year": "1590–1593",
+  "setting": "Verona and Milan, Italy",
+  "main_characters": [
+    "Valentine",
+    "Proteus",
+    "Julia",
+    "Silvia",
+    "Duke of Milan",
+    "Lucetta",
+    "Thurio",
+    "Launce",
+    "Speed"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Valentine",
+      "description": "Gentleman, loves Silvia"
+    },
+    {
+      "name": "Proteus",
+      "description": "Gentleman, betrays Valentine, loves Silvia"
+    },
+    {
+      "name": "Julia",
+      "description": "Proteus's lover, disguises as page"
+    },
+    {
+      "name": "Silvia",
+      "description": "Duke's daughter, loves Valentine"
+    },
+    {
+      "name": "Duke of Milan",
+      "description": "Silvia's father, plans her marriage"
+    },
+    {
+      "name": "Lucetta",
+      "description": "Julia's maid, aids disguise"
+    },
+    {
+      "name": "Thurio",
+      "description": "Silvia's suitor, Duke's choice"
+    },
+    {
+      "name": "Launce",
+      "description": "Proteus's servant, comic figure"
+    },
+    {
+      "name": "Speed",
+      "description": "Valentine's servant, witty assistant"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Friendship",
+      "theme_explanation": "The bond between Valentine and Proteus is tested by Proteus’s betrayal, highlighting the fragility of friendship when challenged by love."
+    },
+    {
+      "theme": "Love and Betrayal",
+      "theme_explanation": "Proteus’s fickle shift from Julia to Silvia and his betrayal of Valentine reveal love’s potential to inspire disloyalty and conflict."
+    },
+    {
+      "theme": "Disguise and Gender Roles",
+      "theme_explanation": "Julia’s disguise as a male page challenges gender norms, allowing her to navigate and influence romantic outcomes with agency."
+    },
+    {
+      "theme": "Loyalty",
+      "theme_explanation": "Loyalty is strained by Proteus’s actions, but Julia’s steadfast devotion and Valentine’s forgiveness restore harmony among the group."
+    },
+    {
+      "theme": "Forgiveness",
+      "theme_explanation": "The play resolves through Valentine’s forgiveness of Proteus, emphasizing reconciliation over retribution despite serious betrayals."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "They do not love that do not show their love.",
+      "speaker": "Julia",
+      "act": 1,
+      "scene": 2,
+      "explanation": "Julia asserts that true love must be expressed openly, reflecting her commitment to Proteus."
+    },
+    {
+      "quote": "What light is light, if Silvia be not seen?",
+      "speaker": "Proteus",
+      "act": 2,
+      "scene": 6,
+      "explanation": "Proteus idealizes Silvia, revealing his fickle passion that betrays his loyalty to Julia and Valentine."
+    },
+    {
+      "quote": "Except I be by Silvia in the night, There is no music in the nightingale.",
+      "speaker": "Proteus",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Proteus romanticizes his desire for Silvia, equating her presence with beauty, despite his disloyalty."
+    },
+    {
+      "quote": "O, how this spring of love resembleth The uncertain glory of an April day.",
+      "speaker": "Proteus",
+      "act": 1,
+      "scene": 3,
+      "explanation": "Proteus compares love's fleeting joy to changeable weather, foreshadowing his own inconstancy."
+    },
+    {
+      "quote": "That man that hath a tongue, I say is no man, If with his tongue he cannot win a woman.",
+      "speaker": "Valentine",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Valentine emphasizes the power of eloquence in courtship, reflecting his confident pursuit of Silvia."
+    }
+  ],
+  "summary": "Best friends Valentine and Proteus part ways when Valentine leaves Verona for Milan. Proteus, originally in love with Julia, follows and betrays both his friend and his lover by falling for Silvia, whom Valentine also loves. Julia disguises herself to follow Proteus. In the end, love is tested, betrayal is forgiven, and the friends and lovers reconcile."
+}

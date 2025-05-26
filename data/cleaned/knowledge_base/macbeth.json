@@ -1,0 +1,128 @@
+{
+  "title": "Macbeth",
+  "full_title": "The Tragedy of Macbeth",
+  "category": "tragedy",
+  "year": "1606",
+  "setting": "Scotland and England",
+  "main_characters": [
+    "Macbeth",
+    "Lady Macbeth",
+    "Three Witches",
+    "Banquo",
+    "Macduff",
+    "Duncan",
+    "Malcolm"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Macbeth",
+      "description": "Scottish general, usurps throne, becomes king"
+    },
+    {
+      "name": "Lady Macbeth",
+      "description": "Macbeth's wife, drives his ambition"
+    },
+    {
+      "name": "Three Witches",
+      "description": "Supernatural beings, prophesy Macbeth's fate"
+    },
+    {
+      "name": "Banquo",
+      "description": "Macbeth's friend, general, later murdered"
+    },
+    {
+      "name": "Macduff",
+      "description": "Scottish noble, avenges Duncan's murder"
+    },
+    {
+      "name": "Duncan",
+      "description": "King of Scotland, murdered by Macbeth"
+    },
+    {
+      "name": "Malcolm",
+      "description": "Duncan's son, rightful heir"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Ambition",
+      "theme_explanation": "Macbeth’s unchecked ambition, spurred by the witches’ prophecy and Lady Macbeth, drives him to murder and tyranny, leading to his downfall."
+    },
+    {
+      "theme": "Power",
+      "theme_explanation": "The pursuit and corruption of power dominate the play, as Macbeth’s rise to the throne through murder destabilizes Scotland and his own morality."
+    },
+    {
+      "theme": "Fate",
+      "theme_explanation": "The witches’ prophecies suggest a predetermined fate, yet Macbeth’s choices in response to them highlight the interplay between destiny and free will."
+    },
+    {
+      "theme": "Violence",
+      "theme_explanation": "Violence escalates as Macbeth’s ambition fuels a cycle of murders, from Duncan to Banquo, culminating in widespread chaos and retribution."
+    },
+    {
+      "theme": "Nature vs the unnatural",
+      "theme_explanation": "Macbeth’s unnatural acts, like regicide, disrupt the natural order, reflected in omens and chaos that plague Scotland until balance is restored."
+    },
+    {
+      "theme": "Manhood",
+      "theme_explanation": "The play explores manhood through Lady Macbeth’s manipulation of Macbeth’s masculinity, equating courage with violent ambition, which leads to their ruin."
+    },
+    {
+      "theme": "Guilt and conscience",
+      "theme_explanation": "Guilt torments Macbeth and Lady Macbeth, with hallucinations and sleepwalking revealing their consciences’ struggle against their crimes."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "Fair is foul, and foul is fair",
+      "speaker": "Three Witches",
+      "act": 1,
+      "scene": 1,
+      "explanation": "The witches set the play's tone, suggesting a world where moral boundaries are blurred and appearances deceive."
+    },
+    {
+      "quote": "Out, damned spot! Out, I say!",
+      "speaker": "Lady Macbeth",
+      "act": 5,
+      "scene": 1,
+      "explanation": "Lady Macbeth's sleepwalking reveals her guilt over Duncan's murder, as she imagines bloodstains she cannot wash away."
+    },
+    {
+      "quote": "Life's but a walking shadow, a poor player, that struts and frets his hour upon the stage, and then is heard no more",
+      "speaker": "Macbeth",
+      "act": 5,
+      "scene": 5,
+      "explanation": "Macbeth laments life's fleeting and meaningless nature upon learning of his wife's death, reflecting his despair."
+    },
+    {
+      "quote": "Something wicked this way comes",
+      "speaker": "Second Witch",
+      "act": 4,
+      "scene": 1,
+      "explanation": "The witches sense Macbeth's approach, foreshadowing his deepening evil as he seeks their prophecies."
+    },
+    {
+      "quote": "Double, double toil and trouble; Fire burn, and cauldron bubble",
+      "speaker": "Three Witches",
+      "act": 4,
+      "scene": 1,
+      "explanation": "The witches' incantation as they brew a spell enhances the play's supernatural atmosphere and foreshadows chaos."
+    },
+    {
+      "quote": "Out, out, brief candle! Life's but a walking shadow",
+      "speaker": "Macbeth",
+      "act": 5,
+      "scene": 5,
+      "explanation": "Macbeth laments life’s futility upon his wife’s death, reflecting his despair and nihilism."
+    },
+    {
+      "quote": "Is this a dagger which I see before me?",
+      "speaker": "Macbeth",
+      "act": 2,
+      "scene": 1,
+      "explanation": "Macbeth hallucinates a dagger before murdering Duncan, revealing his guilt and psychological torment."
+    }
+  ],
+  "summary": "Macbeth, a Scottish general, receives a prophecy from three witches that he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders King Duncan and seizes the throne. His reign is marked by tyranny and further bloodshed as guilt and paranoia consume the couple, ultimately leading to their downfall."
+}

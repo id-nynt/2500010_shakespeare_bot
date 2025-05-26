@@ -1,0 +1,110 @@
+{
+  "title": "The Life of Timon of Athens",
+  "full_title": "The Tragedy of Timon of Athens",
+  "category": "tragedy",
+  "year": "1605-1608",
+  "setting": "Athens, Greece",
+  "main_characters": [
+    "Timon",
+    "Apemantus",
+    "Alcibiades",
+    "Flavius",
+    "Ventidius",
+    "Lucius",
+    "Sempronius"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Timon",
+      "description": "Wealthy Athenian, becomes misanthrope"
+    },
+    {
+      "name": "Apemantus",
+      "description": "Cynical philosopher, criticizes society"
+    },
+    {
+      "name": "Alcibiades",
+      "description": "General, rebels against Athens"
+    },
+    {
+      "name": "Flavius",
+      "description": "Timon's loyal steward"
+    },
+    {
+      "name": "Ventidius",
+      "description": "False friend, abandons Timon"
+    },
+    {
+      "name": "Lucius",
+      "description": "False friend, rejects Timon"
+    },
+    {
+      "name": "Sempronius",
+      "description": "False friend, betrays Timon"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Wealth",
+      "theme_explanation": "Timon’s lavish spending reveals wealth’s fleeting nature, as his fortune vanishes, exposing the superficiality of material prosperity."
+    },
+    {
+      "theme": "Friendship",
+      "theme_explanation": "The betrayal by Timon’s false friends contrasts with Flavius’s loyalty, questioning the authenticity of relationships built on wealth."
+    },
+    {
+      "theme": "Betrayal",
+      "theme_explanation": "Timon’s abandonment by his supposed friends after his bankruptcy fuels his descent into misanthropy and rage against humanity."
+    },
+    {
+      "theme": "Misanthropy",
+      "theme_explanation": "Timon’s transformation into a bitter misanthrope reflects his disillusionment with human greed and ingratitude after his fall from grace."
+    },
+    {
+      "theme": "Generosity",
+      "theme_explanation": "Timon’s reckless generosity leads to his ruin, critiquing unchecked altruism in a society driven by self-interest."
+    },
+    {
+      "theme": "Corruption",
+      "theme_explanation": "Athens’s corrupt, materialistic society, exemplified by Timon’s false friends and the senators, underscores the moral decay that alienates Timon."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "We have seen better days",
+      "speaker": "Flavius",
+      "act": 4,
+      "scene": 2,
+      "explanation": "Flavius laments Timon's fall from wealth, highlighting the fleeting nature of fortune and loyalty."
+    },
+    {
+      "quote": "I am Misanthropos, and hate mankind",
+      "speaker": "Timon",
+      "act": 4,
+      "scene": 3,
+      "explanation": "Timon declares his hatred for humanity after his friends' betrayal, embracing total misanthropy."
+    },
+    {
+      "quote": "Nothing emboldens sin so much as mercy",
+      "speaker": "Senator",
+      "act": 3,
+      "scene": 5,
+      "explanation": "The Senator argues that leniency encourages wrongdoing, reflecting Athens' harsh, self-serving values."
+    },
+    {
+      "quote": "The sun's a thief, and with his great attraction robs the vast sea",
+      "speaker": "Timon",
+      "act": 4,
+      "scene": 3,
+      "explanation": "Timon rails against nature's cycles as thievery, mirroring his view of human greed and betrayal."
+    },
+    {
+      "quote": "Men shut their doors against a setting sun",
+      "speaker": "Apemantus",
+      "act": 1,
+      "scene": 2,
+      "explanation": "Apemantus cynically notes that people abandon those whose fortunes fade, foreshadowing Timon's fate."
+    }
+  ],
+  "summary": "Timon, a wealthy Athenian, lavishes gifts on false friends, only to be abandoned when his fortunes fail. Disillusioned, he becomes a misanthrope, cursing humanity and living in exile, where he discovers gold but dies in isolation, rejecting reconciliation."
+}

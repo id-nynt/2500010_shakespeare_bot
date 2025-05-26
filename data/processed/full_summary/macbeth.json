@@ -1,0 +1,176 @@
+{
+  "title": "Macbeth",
+  "play_summary": "Macbeth, a Scottish general, receives a prophecy from three witches that he will become King of Scotland. Consumed by ambition and spurred to action by his wife, Macbeth murders King Duncan and seizes the throne. His reign is marked by tyranny and further bloodshed as guilt and paranoia consume the couple, ultimately leading to their downfall.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "On a bleak Scottish moorland, Macbeth and Banquo, two of King Duncan's generals, discoverthree strange women(witches). The witches prophesy that Macbeth will be promoted twice: to Thane of Cawdor (a rank of the aristocracy bestowed by grateful kings) and King of Scotland. Banquo's descendants will be kings, but Banquo isn't promised any kingdom himself. The generals want to hear more, but the \"weird sisters\" disappear. Soon afterwards, King Duncan names Macbeth Thane of Cawdor as a reward for his success in the recent battles. The promotion seems to support the prophecy. The King then proposes to make a brief visit that night to Macbeth's castle at Inverness. Lady Macbeth receives news from her husband about the prophecy and his new title. She vows to help him become king by whatever means are necessary (*ominous music*).",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A desolate heath, Scotland",
+          "scene_summary": "Three Witches plan to meet Macbeth after a battle, chanting ominously about chaos and fate. Their brief meeting establishes the supernatural influence and foreshadows Macbeth's encounter, setting the play's dark tone."
+        },
+        {
+          "scene": 2,
+          "location": "A camp near Forres, Scotland",
+          "scene_summary": "King Duncan receives reports of Macbeth and Banquo's bravery in defeating rebels and Norwegians. The wounded Captain praises Macbeth's valor, and Ross announces the Thane of Cawdor's treason. Duncan orders Cawdor's execution and names Macbeth the new Thane, establishing Macbeth's heroism and the reward that fuels his ambition."
+        },
+        {
+          "scene": 3,
+          "location": "A heath near Forres, Scotland",
+          "scene_summary": "The Witches meet Macbeth and Banquo, prophesying Macbeth will be Thane of Cawdor and king, and Banquo's heirs will rule. After the Witches vanish, Ross and Angus confirm Macbeth's new title, stirring his ambition. Macbeth, intrigued but wary, ponders the prophecy, while Banquo remains skeptical, introducing the theme of fate versus ambition."
+        },
+        {
+          "scene": 4,
+          "location": "A room in the palace, Forres, Scotland",
+          "scene_summary": "Duncan praises Macbeth and Banquo, naming his son Malcolm heir to the throne. Macbeth, inwardly resentful, hides his ambition. Duncan plans to visit Macbeth's castle at Inverness, and Macbeth rides ahead, grappling with his dark thoughts, foreshadowing his treachery."
+        },
+        {
+          "scene": 5,
+          "location": "A room in Macbeth's castle, Inverness, Scotland",
+          "scene_summary": "Lady Macbeth reads Macbeth's letter about the Witches' prophecy, resolving to push him toward kingship. She invokes spirits to harden her resolve and, learning Duncan will arrive, plans his murder. Macbeth arrives, and she urges him to act, revealing her ruthless ambition and their partnership in crime."
+        },
+        {
+          "scene": 6,
+          "location": "Before Macbeth's castle, Inverness, Scotland",
+          "scene_summary": "Duncan and his entourage, including Banquo, arrive at Macbeth's castle, praising its beauty. Lady Macbeth welcomes them with false hospitality, concealing her murderous intent, creating dramatic irony as Duncan trusts his hosts."
+        },
+        {
+          "scene": 7,
+          "location": "A room in Macbeth's castle, Inverness, Scotland",
+          "scene_summary": "Macbeth, torn, debates murdering Duncan, weighing ambition against loyalty and fear of consequences. Lady Macbeth interrupts, questioning his manhood and detailing a plan to kill Duncan while he sleeps, framing his guards. Macbeth, persuaded, commits to the deed, solidifying their tragic course."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Macbeth returns to his castle, followed almost immediately by King Duncan. The Macbeths plot together to kill Duncan and wait until everyone is asleep. At the appointed time, Lady Macbeth gives the guards drugged wine so Macbeth can enter and kill the King. He regrets this almost immediately, but his wife reassures him. She leaves the bloody daggers by the dead king just before Macduff, a nobleman, arrives. When Macduff discovers the murder, Macbeth kills the drunken guards in a show of rage and retribution. Duncan's sons, Malcolm and Donalbain, flee, fearing for their own lives; but they are, nevertheless, blamed for the murder.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A courtyard in Macbeth's castle, Inverness, Scotland",
+          "scene_summary": "Banquo, uneasy, discusses the Witches with Macbeth, who lies about his thoughts. Alone, Macbeth hallucinates a dagger leading to Duncan's chamber, steeling himself for murder. A bell signals Lady Macbeth's readiness, and he proceeds, driven by ambition and fear, deepening his descent."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Macbeth's castle, Inverness, Scotland",
+          "scene_summary": "Lady Macbeth, having drugged Duncan's guards, waits as Macbeth kills Duncan. He returns, shaken, with bloody daggers, regretting the act. Lady Macbeth takes the daggers to frame the guards, urging him to wash off the blood. Knocking at the gate alarms them, marking the crime's immediate aftermath and their guilt."
+        },
+        {
+          "scene": 3,
+          "location": "The courtyard of Macbeth's castle, Inverness, Scotland",
+          "scene_summary": "The Porter, drunkenly, opens the gate for Macduff and Lennox, jesting about hell. Macduff discovers Duncan's body, raising the alarm. Macbeth, feigning shock, kills the guards to silence them. Malcolm and Donalbain, Duncan's sons, suspect treachery and flee, while Macbeth is named king, escalating the chaos and suspicion."
+        },
+        {
+          "scene": 4,
+          "location": "Outside Macbeth's castle, Inverness, Scotland",
+          "scene_summary": "Ross and an Old Man discuss unnatural omens signaling Duncan's murder. Macduff reports Malcolm and Donalbain's flight, casting suspicion on them. Macbeth's coronation is announced, but Macduff, distrustful, heads to Fife, foreshadowing resistance to Macbeth's rule."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "Macbeth becomes King of Scotland but is plagued by feelings of insecurity. He remembers the prophecy that Banquo's descendants will inherit the throne and arranges for Banquo and his son Fleance to be killed. In the darkness, Banquo is murdered, but his son escapes the assassins. At his state banquet that night, Macbeth sees the ghost of Banquo and worries the courtiers with his mad response. Lady Macbeth dismisses the court and unsuccessfully tries to calm her husband.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in the palace, Forres, Scotland",
+          "scene_summary": "Macbeth, now king, fears Banquo's nobility and the Witches' prophecy about his heirs. He manipulates two murderers to kill Banquo and his son, Fleance, securing his throne. Macbeth's paranoia grows, revealing his moral decay and obsession with power."
+        },
+        {
+          "scene": 2,
+          "location": "Another room in the palace, Forres, Scotland",
+          "scene_summary": "Lady Macbeth, troubled, urges Macbeth to hide his fears. He hints at Banquo's planned murder, withholding details, showing their growing distance. Macbeth resolves to embrace evil, reflecting his deepening corruption and isolation."
+        },
+        {
+          "scene": 3,
+          "location": "A park near the palace, Forres, Scotland",
+          "scene_summary": "The murderers, joined by a third sent by Macbeth, ambush Banquo and Fleance. They kill Banquo, but Fleance escapes, thwarting Macbeth's plan to eliminate Banquo's line, maintaining the prophecy's threat."
+        },
+        {
+          "scene": 4,
+          "location": "A banqueting hall in the palace, Forres, Scotland",
+          "scene_summary": "At a banquet, Macbeth learns Banquo is dead but Fleance escaped. Banquo's ghost appears, visible only to Macbeth, who raves, alarming the guests. Lady Macbeth covers for him, but the nobles, led by Lennox, grow suspicious. Macbeth vows to consult the Witches, showing his unraveling psyche and tyranny."
+        },
+        {
+          "scene": 5,
+          "location": "A heath, Scotland",
+          "scene_summary": "The Witches meet Hecate, their goddess, who scolds them for aiding Macbeth without her. She plans to deepen his doom with false prophecies, enhancing the supernatural manipulation and foreshadowing his downfall."
+        },
+        {
+          "scene": 6,
+          "location": "A room in a castle, Scotland",
+          "scene_summary": "Lennox and another lord discuss Macbeth's tyranny, suspecting him in Duncan and Banquo's deaths. They reveal Macduff has joined Malcolm in England to raise an army, signaling growing resistance and the coming rebellion against Macbeth."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "Macbeth seeks out the witches who say that he will be safe until a local wood, Birnam Wood, marches into battle against him. He also need not fear anyone born of woman (that sounds secure, no loop-holes here). They also prophesy that the Scottish succession will still come from Banquo's son. Macbeth embarks on a reign of terror, slaughtering many, including Macduff's family. Macduff had gone to seek Malcolm (one of Duncan's sons who fled) at the court of the English king. Malcolm is young and unsure of himself, but Macduff, pained with grief, persuades him to lead an army against Macbeth.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A cavern, Scotland",
+          "scene_summary": "The Witches conjure apparitions for Macbeth, predicting he's safe until Birnam Wood moves, no man born of woman can harm him, and beware Macduff. A vision shows Banquo's heirs as kings, enraging Macbeth. He orders Macduff's castle seized, hardening his resolve, as the prophecies fuel his false confidence."
+        },
+        {
+          "scene": 2,
+          "location": "Macduff's castle, Fife, Scotland",
+          "scene_summary": "Lady Macduff, abandoned, laments Macduff's flight. A messenger warns of danger, but Macbeth's murderers arrive, killing her son and slaughtering the household. The brutal scene underscores Macbeth's tyranny and the personal cost of his actions."
+        },
+        {
+          "scene": 3,
+          "location": "A room in King Edward's palace, England",
+          "scene_summary": "Macduff urges Malcolm to invade Scotland, but Malcolm, cautious, tests his loyalty, feigning vices. Convinced, Malcolm allies with Macduff, backed by English forces. Ross reports the murder of Macduff's family, spurring Macduff's vengeance, uniting the opposition against Macbeth."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "Macbeth feels safe in his remote castle at Dunsinane until he is told that Birnam Wood is moving towards him. Malcolm's army is carrying branches from the forest as camouflage for their assault on Macbeth's stronghold. Meanwhile, an overwrought and conscience-ridden Lady Macbeth walks in her sleep and tells her secrets to her doctor. She commits suicide. As the final battle commences, Macbeth hears of Lady Macbeth's suicide and mourns.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Dunsinane Castle, Scotland",
+          "scene_summary": "A Doctor and Gentlewoman observe Lady Macbeth sleepwalking, confessing Duncan's murder and Banquo's death, tormented by guilt. Her madness, washing imagined blood from her hands, contrasts her earlier resolve, foreshadowing her demise."
+        },
+        {
+          "scene": 2,
+          "location": "A field near Dunsinane, Scotland",
+          "scene_summary": "Scottish lords, including Menteith, Caithness, and Angus, join Malcolm's advancing army, reporting Macbeth's weakening support. They plan to meet at Birnam Wood, signaling the rebellion's momentum and the prophecy's unfolding."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Dunsinane Castle, Scotland",
+          "scene_summary": "Macbeth, defiant despite reports of defections, clings to the Witches' prophecies. He rages at a servant's fear, then learns of Lady Macbeth's illness from the Doctor, dismissing her cure. He prepares for siege, showing his desperate bravado."
+        },
+        {
+          "scene": 4,
+          "location": "A field near Birnam Wood, Scotland",
+          "scene_summary": "Malcolm orders his army to cut branches from Birnam Wood for camouflage, fulfilling the prophecy. The rebels, joined by Siward, march on Dunsinane, confident of victory, tightening the noose around Macbeth."
+        },
+        {
+          "scene": 5,
+          "location": "Within Dunsinane Castle, Scotland",
+          "scene_summary": "Macbeth, fortified, learns of Lady Macbeth's suicide, prompting his “tomorrow and tomorrow” soliloquy on life's futility. A messenger reports Birnam Wood moving, shaking his confidence. He resolves to fight, embracing despair as the prophecies unravel."
+        },
+        {
+          "scene": 6,
+          "location": "Before Dunsinane Castle, Scotland",
+          "scene_summary": "Malcolm's army, led by Siward and Macduff, discards their branches and prepares to assault Dunsinane. The brief scene marks the battle's start, with the rebels united against Macbeth's tyranny."
+        },
+        {
+          "scene": 7,
+          "location": "The battlefield before Dunsinane Castle, Scotland",
+          "scene_summary": "Macbeth fights fiercely, killing Young Siward, believing himself invincible. Macduff seeks Macbeth, while Malcolm and Siward report the castle's surrender, showing Macbeth's forces crumbling."
+        },
+        {
+          "scene": 8,
+          "location": "Another part of the battlefield, Scotland",
+          "scene_summary": "Macduff confronts Macbeth, revealing he was born by cesarean, negating the prophecy. Macbeth, refusing surrender, fights and is killed. Macduff presents his head to Malcolm, who is hailed king. Malcolm restores order, rewarding his allies, ending with Scotland's renewal and Macbeth's tragic fall."
+        }
+      ]
+    }
+  ]
+}

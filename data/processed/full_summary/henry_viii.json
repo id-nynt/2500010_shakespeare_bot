@@ -1,0 +1,121 @@
+{
+  "title": "The Life of Henry the Eighth",
+  "play_summary": "King Henry VIII navigates political and personal turmoil, divorcing Katherine of Aragon to marry Anne Boleyn, causing religious and diplomatic strife. Cardinal Wolsey's ambition leads to his downfall, while the birth of Elizabeth heralds hope for England's future.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "A Prologue introduces the play as a story of real events. The Duke of Buckingham, along with some other nobles, discuss the meeting between King Henry and the French King. They discuss the peace agreement made between them and how it has already been broken. Buckingham expresses his concerns (and criticisms) about the amount of power held by Cardinal Wolsey, the Lord Chancellor of England. During this same discussion, Buckingham is unexpectedly arrested (kind of proving his point). He goes to jail for treason. At court, King Henry makes policy decisions about the woollen trade, along with his wife, Queen Katherine. Wolsey takes the credit for the King's decisions. Katherine questions his motives. While Henry agrees to this criticism, when the Queen also speaks on behalf of Buckingham, the King refuses to hear it and orders his trial.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in the palace, London, England",
+          "scene_summary": "Buckingham, Norfolk, and Abergavenny discuss Cardinal Wolsey's lavish banquet for French envoys, suspecting his ambition. They learn Wolsey arrested Buckingham's surveyor, plotting his downfall. Buckingham, angered, vows to confront Wolsey, but Norfolk warns of his power, establishing Wolsey's dominance and Buckingham's peril."
+        },
+        {
+          "scene": 2,
+          "location": "The council chamber in the palace, London, England",
+          "scene_summary": "Henry VIII thanks Wolsey for thwarting French aggression. Katherine of Aragon, Henry's queen, pleads for tax relief for the commons, blaming Wolsey's policies. Henry orders the taxes repealed. Wolsey manipulates Buckingham's surveyor to accuse him of treason, and Henry, swayed, orders Buckingham's arrest, highlighting Wolsey's influence and Katherine's compassion."
+        },
+        {
+          "scene": 3,
+          "location": "An antechamber in the palace, London, England",
+          "scene_summary": "Lord Chamberlain, Sands, and Lovell mock French fashion trends, planning a feast. They jest about courtly excess, providing comic relief and contrasting the serious political plotting, while foreshadowing Wolsey's banquet."
+        },
+        {
+          "scene": 4,
+          "location": "A hall in York Place, Wolsey's residence, London, England",
+          "scene_summary": "Wolsey hosts a lavish banquet, attended by Henry (disguised), Anne Bullen, and nobles. Henry dances with Anne, charmed by her beauty, sparking their attraction. Wolsey recognizes Henry, and the festivities continue, hinting at Henry's future interest in Anne and Wolsey's opulence."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Back in London, Buckingham is condemned by false witnesses. He powerfully addresses the crowds before being executed. At court, a rumour spreads that Wolsey’s power is growing, and he is behind a probable separation between the King and Queen Katharine. King Henry, Wolsey, and other religious leaders discuss the validity of his marriage to Katharine. They discuss the possibility of divorce. Anne Boleyn hears the rumours and feels sorry for the Queen. When word arrives that the King has given her a title, her companion persuades her to welcome the King’s favours.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street in London, England",
+          "scene_summary": "Two gentlemen discuss Buckingham's trial and conviction for treason, orchestrated by Wolsey. Buckingham, led to execution, forgives his accusers, lamenting his fall but accepting his fate. The gentlemen note public sympathy, reflecting Wolsey's growing unpopularity."
+        },
+        {
+          "scene": 2,
+          "location": "An antechamber in the palace, London, England",
+          "scene_summary": "Norfolk, Suffolk, and Chamberlain plot against Wolsey, resenting his control. Henry, troubled by his marriage to Katherine (his brother's widow), questions its legitimacy, influenced by Wolsey's suggestion of a French match. Wolsey and Campeius, a papal envoy, plan to annul the marriage, advancing Henry's divorce and Wolsey's schemes."
+        },
+        {
+          "scene": 3,
+          "location": "An antechamber in the palace, London, England",
+          "scene_summary": "Anne Bullen pities Katherine's plight but denies ambition. An Old Lady teases Anne about her potential queenship, hinting at Henry's interest. Lord Chamberlain announces Henry's favor, granting Anne a title and income, foreshadowing her rise and Katherine's fall."
+        },
+        {
+          "scene": 4,
+          "location": "A hall in Blackfriars, London, England",
+          "scene_summary": "At Katherine's divorce trial, she passionately defends her marriage, accusing Wolsey of bias. She appeals to Henry and exits when denied justice. Henry praises Katherine but insists on annulment, supported by Wolsey and Campeius. The trial is adjourned, frustrating Henry, highlighting Katherine's dignity and Wolsey's manipulation."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "Katharine seeks solace with her ladies and music. Wolsey and Campeus, another religious leader, interrupt her and try to persuade her to submit to the King's wishes. She refuses but the divorce is finalised anyway. Soon, Henry’s secret marriage to Anne Boleyn is the talk of the court. King Henry finds Wolsey has been secretly writing to the Pope opposing the divorce. He confronts Wolsey. Some of the lords demand that Wolsey gives up his position of Lord Chancellor, as Thomas More has been chosen to succeed him. Wolsey steps down, advising his secretary Cromwell to leave. He hopes that Cromwell will not get wrapped up in his own fall.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The Queen's apartments, London, England",
+          "scene_summary": "Katherine, visited by Wolsey and Campeius, resists their pressure to accept the divorce, asserting her loyalty to Henry. They urge her to trust Henry's judgment, but she refuses, suspecting their motives, showcasing her defiance and isolation."
+        },
+        {
+          "scene": 2,
+          "location": "An antechamber in the palace, London, England",
+          "scene_summary": "Norfolk, Suffolk, and Surrey plot Wolsey's downfall, revealing his intercepted letters to the Pope opposing Henry's divorce. Henry confronts Wolsey, exposing his wealth and ambition, and dismisses him. Wolsey, alone, laments his fall, realizing his errors, as his enemies seize his power, marking his decline."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "Queen Anne is crowned, and everyone remarks at the splendour of the ceremony at court. In retirement, Katharine hears of Wolsey's death. She dreams of her own death and asks her servants to see that she is buried with due recognition as a Queen.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A street in Westminster, London, England",
+          "scene_summary": "Two gentlemen witness Anne's coronation procession, describing its splendor. They note Katherine's demotion to Dowager Princess and Wolsey's disgrace, while Cranmer rises in Henry's favor, reflecting the shifting court dynamics and Anne's ascendancy."
+        },
+        {
+          "scene": 2,
+          "location": "Katherine's apartments in Kimbolton, England",
+          "scene_summary": "Katherine, dying, learns of Wolsey's death and forgives him. In a vision, spirits crown her with garlands, symbolizing her sanctity. She instructs her usher, Griffith, to arrange her funeral and commends her daughter, Mary, to Henry. Katherine dies peacefully, ending her arc with grace and spiritual triumph."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "Court gossip rages about changes such as Queen Anne's new baby daughter. Court gossip also includes charges against Cranmer, the new Archbishop. After a struggle between Cranmer and his enemies (which involves condemning him to the Tower of London), the King defends Cranmer and names him the godfather of the baby Princess Elizabeth. As he baptises Elizabeth, Cranmer prophesies that she will become great and bring peace and plenty to England.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A gallery in the palace, London, England",
+          "scene_summary": "Gardiner plots against Cranmer, Henry's new favorite, but Henry protects him. Suffolk informs Henry of Anne's labor, and he prays for her safety. An Old Lady announces the birth of Princess Elizabeth, delighting Henry, foreshadowing her future greatness."
+        },
+        {
+          "scene": 2,
+          "location": "Before the council chamber, London, England",
+          "scene_summary": "Cranmer, summoned by the council, is kept waiting, targeted by Gardiner. Henry, observing, ensures Cranmer's defense, giving him a ring to signal royal favor, protecting him from political enemies and affirming Henry's authority."
+        },
+        {
+          "scene": 3,
+          "location": "The council chamber, London, England",
+          "scene_summary": "Gardiner and the council accuse Cranmer of heresy, planning his arrest. Cranmer produces Henry's ring, humbling his accusers. Henry enters, rebuking Gardiner and affirming Cranmer's loyalty, securing his position and demonstrating royal control."
+        },
+        {
+          "scene": 4,
+          "location": "The palace yard, London, England",
+          "scene_summary": "A Porter and his Man struggle to control a crowd celebrating Princess Elizabeth's christening. They jest about the public's fervor, providing comic relief and emphasizing the national joy at the royal birth."
+        },
+        {
+          "scene": 5,
+          "location": "The stage (breaking the fourth wall)",
+          "scene_summary": "The Epilogue apologizes if the play disappointed, hoping it pleased some, especially women, for depicting virtuous figures like Katherine. It seeks applause, concluding the historical drama."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,837 @@
+[
+  {
+    "chunk_id": "factual_all's_well_that_ends_well_2f48a93f",
+    "chunk_type": "factual",
+    "play_title": "All's Well That Ends Well",
+    "content": "Play: All's Well That Ends Well\nCategory: comedy\nYear: 1604-1605\nSetting: France and Italy\n\nMain Characters:\n- Helena\n- Bertram\n- Countess of Roussillon\n- King of France\n- Parolles\n- Diana\n\nCharacter Descriptions:\n- Helena: Physician's daughter, loves Bertram, heals king\n- Bertram: Nobleman, reluctant husband of Helena\n- Countess of Roussillon: Bertram's mother, supports Helena\n- King of France: Ruler, healed by Helena, grants marriage\n- Parolles: Bertram's boastful, disloyal companion\n- Diana: Young woman, aids Helena's plan\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1604-1605",
+      "setting": "France and Italy",
+      "main_characters": [
+        "Helena",
+        "Bertram",
+        "Countess of Roussillon",
+        "King of France",
+        "Parolles",
+        "Diana"
+      ],
+      "character_count": 6
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_antony_and_cleopatra_c21f2444",
+    "chunk_type": "factual",
+    "play_title": "Antony and Cleopatra",
+    "content": "Play: Antony and Cleopatra\nCategory: tragedy\nYear: 1606\nSetting: Rome and Egypt\n\nMain Characters:\n- Mark Antony\n- Cleopatra\n- Octavius Caesar\n- Enobarbus\n- Charmian\n\nCharacter Descriptions:\n- Mark Antony: Roman general, lover of Cleopatra\n- Cleopatra: Queen of Egypt, Antony's lover\n- Octavius Caesar: Roman leader, Antony's rival\n- Enobarbus: Antony's loyal officer, defects later\n- Charmian: Cleopatra's devoted attendant\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1606",
+      "setting": "Rome and Egypt",
+      "main_characters": [
+        "Mark Antony",
+        "Cleopatra",
+        "Octavius Caesar",
+        "Enobarbus",
+        "Charmian"
+      ],
+      "character_count": 5
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_as_you_like_it_a3752887",
+    "chunk_type": "factual",
+    "play_title": "As You Like It",
+    "content": "Play: As You Like It\nCategory: comedy\nYear: 1599-1600\nSetting: Court and Forest of Arden\n\nMain Characters:\n- Rosalind\n- Orlando\n- Celia\n- Duke Senior\n- Duke Frederick\n- Jaques\n- Touchstone\n- Oliver\n- Silvius\n- Phebe\n\nCharacter Descriptions:\n- Rosalind: Duke Senior's daughter, disguises as Ganymede\n- Orlando: Young noble, loves Rosalind\n- Celia: Duke Frederick's daughter, Rosalind's cousin\n- Duke Senior: Exiled duke, lives in Arden\n- Duke Frederick: Usurping duke, banishes Rosalind\n- Jaques: Melancholy lord, follows Duke Senior\n- Touchstone: Court fool, joins Rosalind's exile\n- Oliver: Orlando's brother, initially hostile\n- Silvius: Shepherd, loves Phebe\n- Phebe: Shepherdess, loves Ganymede\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1599-1600",
+      "setting": "Court and Forest of Arden",
+      "main_characters": [
+        "Rosalind",
+        "Orlando",
+        "Celia",
+        "Duke Senior",
+        "Duke Frederick",
+        "Jaques",
+        "Touchstone",
+        "Oliver",
+        "Silvius",
+        "Phebe"
+      ],
+      "character_count": 10
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_comedy_of_errors_ccae4a2d",
+    "chunk_type": "factual",
+    "play_title": "The Comedy of Errors",
+    "content": "Play: The Comedy of Errors\nCategory: comedy\nYear: 1594\nSetting: Ephesus\n\nMain Characters:\n- Antipholus of Syracuse\n- Antipholus of Ephesus\n- Dromio of Syracuse\n- Dromio of Ephesus\n- Adriana\n- Luciana\n\nCharacter Descriptions:\n- Antipholus of Syracuse: Twin merchant, searches for brother\n- Antipholus of Ephesus: Twin merchant, resident of Ephesus\n- Dromio of Syracuse: Servant to Antipholus of Syracuse\n- Dromio of Ephesus: Servant to Antipholus of Ephesus\n- Adriana: Wife of Antipholus of Ephesus\n- Luciana: Adriana's sister, courted by Syracuse twin\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1594",
+      "setting": "Ephesus",
+      "main_characters": [
+        "Antipholus of Syracuse",
+        "Antipholus of Ephesus",
+        "Dromio of Syracuse",
+        "Dromio of Ephesus",
+        "Adriana",
+        "Luciana"
+      ],
+      "character_count": 6
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_tragedy_of_coriolanus_9bc0290a",
+    "chunk_type": "factual",
+    "play_title": "The Tragedy of Coriolanus",
+    "content": "Play: The Tragedy of Coriolanus\nCategory: tragedy\nYear: 1608-1609\nSetting: Rome and its surrounding territories\n\nMain Characters:\n- Caius Martius Coriolanus\n- Volumnia\n- Menenius Agrippa\n- Tullus Aufidius\n- Sicinius Velutus\n- Junius Brutus\n- Virgilia\n- Young Martius\n\nCharacter Descriptions:\n- Caius Martius Coriolanus: Roman general, banished, seeks revenge\n- Volumnia: Coriolanus's mother, influences his actions\n- Menenius Agrippa: Roman patrician, Coriolanus's ally\n- Tullus Aufidius: Volscian general, allies with Coriolanus\n- Sicinius Velutus: Tribune, opposes Coriolanus\n- Junius Brutus: Tribune, seeks Coriolanus's banishment\n- Virgilia: Coriolanus's wife, loyal supporter\n- Young Martius: Coriolanus's son, minor role\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1608-1609",
+      "setting": "Rome and its surrounding territories",
+      "main_characters": [
+        "Caius Martius Coriolanus",
+        "Volumnia",
+        "Menenius Agrippa",
+        "Tullus Aufidius",
+        "Sicinius Velutus",
+        "Junius Brutus",
+        "Virgilia",
+        "Young Martius"
+      ],
+      "character_count": 8
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_cymbeline_57d36144",
+    "chunk_type": "factual",
+    "play_title": "Cymbeline",
+    "content": "Play: Cymbeline\nCategory: tragedy\nYear: 1609-1610\nSetting: Ancient Britain and Rome\n\nMain Characters:\n- Cymbeline\n- Imogen\n- Posthumus Leonatus\n- Iachimo\n- Cloten\n- Queen\n- Belarius\n- Guiderius\n- Arviragus\n\nCharacter Descriptions:\n- Cymbeline: King of Britain, Imogen's father\n- Imogen: Cymbeline's daughter, loves Posthumus\n- Posthumus Leonatus: Imogen's husband, exiled noble\n- Iachimo: Italian noble, deceives Posthumus\n- Cloten: Queen's son, seeks Imogen\n- Queen: Cymbeline's wife, Imogen's stepmother\n- Belarius: Exiled lord, raises king's sons\n- Guiderius: Cymbeline's son, raised by Belarius\n- Arviragus: Cymbeline's son, raised by Belarius\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1609-1610",
+      "setting": "Ancient Britain and Rome",
+      "main_characters": [
+        "Cymbeline",
+        "Imogen",
+        "Posthumus Leonatus",
+        "Iachimo",
+        "Cloten",
+        "Queen",
+        "Belarius",
+        "Guiderius",
+        "Arviragus"
+      ],
+      "character_count": 9
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_hamlet_prince_of_denmark_187d0009",
+    "chunk_type": "factual",
+    "play_title": "Hamlet, Prince of Denmark",
+    "content": "Play: Hamlet, Prince of Denmark\nCategory: tragedy\nYear: 1600-1601\nSetting: Elsinore Castle, Denmark\n\nMain Characters:\n- Hamlet\n- Claudius\n- Gertrude\n- Ophelia\n- Polonius\n- Horatio\n- Laertes\n- Ghost of Hamlet's father\n\nCharacter Descriptions:\n- Hamlet: Prince of Denmark, seeks revenge\n- Claudius: King of Denmark, Hamlet's uncle, murderer\n- Gertrude: Queen of Denmark, Hamlet's mother\n- Ophelia: Polonius's daughter, Hamlet's love interest\n- Polonius: King's advisor, Ophelia's father\n- Horatio: Hamlet's loyal friend and confidant\n- Laertes: Polonius's son, seeks vengeance\n- Ghost of Hamlet's father: Spirit, urges Hamlet to avenge murder\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1600-1601",
+      "setting": "Elsinore Castle, Denmark",
+      "main_characters": [
+        "Hamlet",
+        "Claudius",
+        "Gertrude",
+        "Ophelia",
+        "Polonius",
+        "Horatio",
+        "Laertes",
+        "Ghost of Hamlet's father"
+      ],
+      "character_count": 8
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_king_henry_iv_the_first_part_57836820",
+    "chunk_type": "factual",
+    "play_title": "King Henry IV, the First Part",
+    "content": "Play: King Henry IV, the First Part\nCategory: history\nYear: 1596-1597\nSetting: England, early 15th century\n\nMain Characters:\n- King Henry IV\n- Prince Hal\n- Sir John Falstaff\n- Hotspur (Henry Percy)\n- Earl of Worcester\n- Earl of Northumberland\n- Lady Percy\n\nCharacter Descriptions:\n- King Henry IV: King of England, faces rebellion\n- Prince Hal: Heir to throne, proves worth\n- Sir John Falstaff: Prince Hal's roguish companion\n- Hotspur (Henry Percy): Rebel leader, Percy family heir\n- Earl of Worcester: Rebel noble, Hotspur's uncle\n- Earl of Northumberland: Hotspur's father, supports rebellion\n- Lady Percy: Hotspur's wife, supports husband\n",
+    "metadata": {
+      "category": "history",
+      "year": "1596-1597",
+      "setting": "England, early 15th century",
+      "main_characters": [
+        "King Henry IV",
+        "Prince Hal",
+        "Sir John Falstaff",
+        "Hotspur (Henry Percy)",
+        "Earl of Worcester",
+        "Earl of Northumberland",
+        "Lady Percy"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_king_henry_iv_the_second_part_22975f86",
+    "chunk_type": "factual",
+    "play_title": "King Henry IV, the Second Part",
+    "content": "Play: King Henry IV, the Second Part\nCategory: history\nYear: 1597-1598\nSetting: England, early 15th century\n\nMain Characters:\n- King Henry IV\n- Prince Hal\n- Sir John Falstaff\n- Lord Chief Justice\n- Archbishop of York\n- Earl of Northumberland\n- Prince John\n\nCharacter Descriptions:\n- King Henry IV: King of England, nearing death\n- Prince Hal: Heir, becomes King Henry V\n- Sir John Falstaff: Prince Hal's companion, later rejected\n- Lord Chief Justice: Legal authority, opposes Falstaff\n- Archbishop of York: Rebel leader, opposes king\n- Earl of Northumberland: Rebel noble, Hotspur's father\n- Prince John: Hal's brother, loyal to king\n",
+    "metadata": {
+      "category": "history",
+      "year": "1597-1598",
+      "setting": "England, early 15th century",
+      "main_characters": [
+        "King Henry IV",
+        "Prince Hal",
+        "Sir John Falstaff",
+        "Lord Chief Justice",
+        "Archbishop of York",
+        "Earl of Northumberland",
+        "Prince John"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_life_of_king_henry_v_a33a0c98",
+    "chunk_type": "factual",
+    "play_title": "The Life of King Henry V",
+    "content": "Play: The Life of King Henry V\nCategory: history\nYear: 1599\nSetting: England and France, early 15th century\n\nMain Characters:\n- King Henry V\n- Chorus\n- Duke of Exeter\n- Fluellen\n- Pistol\n- Katherine\n- Dauphin of France\n\nCharacter Descriptions:\n- King Henry V: King of England, leads Agincourt victory\n- Chorus: Narrator, guides audience through story\n- Duke of Exeter: Henry's uncle, loyal military advisor\n- Fluellen: Welsh captain, enforces military discipline\n- Pistol: Boastful soldier, Falstaff's former companion\n- Katherine: French princess, marries Henry V\n- Dauphin of France: French heir, opposes Henry\n",
+    "metadata": {
+      "category": "history",
+      "year": "1599",
+      "setting": "England and France, early 15th century",
+      "main_characters": [
+        "King Henry V",
+        "Chorus",
+        "Duke of Exeter",
+        "Fluellen",
+        "Pistol",
+        "Katherine",
+        "Dauphin of France"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_life_of_henry_the_eighth_102da085",
+    "chunk_type": "factual",
+    "play_title": "The Life of Henry the Eighth",
+    "content": "Play: The Life of Henry the Eighth\nCategory: history\nYear: 1613\nSetting: England, early 16th century\n\nMain Characters:\n- King Henry VIII\n- Cardinal Wolsey\n- Katherine of Aragon\n- Anne Boleyn\n- Thomas Cranmer\n- Duke of Norfolk\n- Duke of Buckingham\n\nCharacter Descriptions:\n- King Henry VIII: King of England, seeks divorce\n- Cardinal Wolsey: Ambitious advisor, falls from power\n- Katherine of Aragon: Henry's first wife, faces divorce\n- Anne Boleyn: Henry's second wife, bears Elizabeth\n- Thomas Cranmer: Archbishop, supports Henry's reforms\n- Duke of Norfolk: Noble, opposes Wolsey's influence\n- Duke of Buckingham: Noble, executed for treason\n",
+    "metadata": {
+      "category": "history",
+      "year": "1613",
+      "setting": "England, early 16th century",
+      "main_characters": [
+        "King Henry VIII",
+        "Cardinal Wolsey",
+        "Katherine of Aragon",
+        "Anne Boleyn",
+        "Thomas Cranmer",
+        "Duke of Norfolk",
+        "Duke of Buckingham"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_king_henry_vi_the_first_part_e7e35626",
+    "chunk_type": "factual",
+    "play_title": "King Henry VI, the first part",
+    "content": "Play: King Henry VI, the first part\nCategory: history\nYear: 1591-1592\nSetting: England and France, 15th century\n\nMain Characters:\n- King Henry VI\n- Joan of Arc\n- Talbot\n- Duke of Gloucester\n- Cardinal Beaufort\n- Margaret of Anjou\n- Duke of York\n\nCharacter Descriptions:\n- King Henry VI: Young king of England, weak ruler\n- Joan of Arc: French leader, inspires resistance\n- Talbot: English general, fights for France\n- Duke of Gloucester: Henry's uncle, protects crown\n- Cardinal Beaufort: Ambitious cleric, rivals Gloucester\n- Margaret of Anjou: French noble, marries Henry VI\n- Duke of York: Noble, claims throne, stirs discord\n",
+    "metadata": {
+      "category": "history",
+      "year": "1591-1592",
+      "setting": "England and France, 15th century",
+      "main_characters": [
+        "King Henry VI",
+        "Joan of Arc",
+        "Talbot",
+        "Duke of Gloucester",
+        "Cardinal Beaufort",
+        "Margaret of Anjou",
+        "Duke of York"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_king_henry_vi_the_second_part_49d572f8",
+    "chunk_type": "factual",
+    "play_title": "King Henry VI, the second part",
+    "content": "Play: King Henry VI, the second part\nCategory: history\nYear: 1590-1591\nSetting: England, 15th century\n\nMain Characters:\n- King Henry VI\n- Queen Margaret\n- Duke of York\n- Duke of Suffolk\n- Jack Cade\n- Humphrey, Duke of Gloucester\n- Cardinal Beaufort\n\nCharacter Descriptions:\n- King Henry VI: Weak king, struggles with factions\n- Queen Margaret: Henry's wife, seeks power\n- Duke of York: Noble, claims throne, leads rebellion\n- Duke of Suffolk: Margaret's ally, plots against Gloucester\n- Jack Cade: Rebel leader, incites uprising\n- Humphrey, Duke of Gloucester: Henry's uncle, targeted by rivals\n- Cardinal Beaufort: Ambitious cleric, conspires against Gloucester\n",
+    "metadata": {
+      "category": "history",
+      "year": "1590-1591",
+      "setting": "England, 15th century",
+      "main_characters": [
+        "King Henry VI",
+        "Queen Margaret",
+        "Duke of York",
+        "Duke of Suffolk",
+        "Jack Cade",
+        "Humphrey, Duke of Gloucester",
+        "Cardinal Beaufort"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_king_henry_vi_the_third_part_e6b8970e",
+    "chunk_type": "factual",
+    "play_title": "King Henry VI, the third part",
+    "content": "Play: King Henry VI, the third part\nCategory: history\nYear: 1591-1592\nSetting: England, 15th century\n\nMain Characters:\n- King Henry VI\n- Queen Margaret\n- Richard, Duke of York\n- Edward IV\n- Richard (later Richard III)\n- Warwick\n- Clarence\n\nCharacter Descriptions:\n- King Henry VI: Deposed king, seeks to reclaim throne\n- Queen Margaret: Henry's wife, leads Lancaster forces\n- Richard, Duke of York: Yorkist leader, claims crown\n- Edward IV: Yorkist king, defeats Lancasters\n- Richard (later Richard III): Yorkist, schemes for power\n- Warwick: Noble, shifts allegiance, influences war\n- Clarence: Edward's brother, betrays then rejoins York\n",
+    "metadata": {
+      "category": "history",
+      "year": "1591-1592",
+      "setting": "England, 15th century",
+      "main_characters": [
+        "King Henry VI",
+        "Queen Margaret",
+        "Richard, Duke of York",
+        "Edward IV",
+        "Richard (later Richard III)",
+        "Warwick",
+        "Clarence"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_julius_caesar_74673798",
+    "chunk_type": "factual",
+    "play_title": "Julius Caesar",
+    "content": "Play: Julius Caesar\nCategory: tragedy\nYear: 1599\nSetting: Ancient Rome\n\nMain Characters:\n- Julius Caesar\n- Brutus\n- Cassius\n- Mark Antony\n- Octavius\n- Calpurnia\n- Portia\n\nCharacter Descriptions:\n- Julius Caesar: Roman dictator, assassinated by conspirators\n- Brutus: Roman noble, leads conspiracy against Caesar\n- Cassius: Conspirator, manipulates Brutus against Caesar\n- Mark Antony: Caesar's ally, opposes conspirators\n- Octavius: Caesar's heir, joins Antony\n- Calpurnia: Caesar's wife, warns of danger\n- Portia: Brutus's wife, seeks his confidence\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1599",
+      "setting": "Ancient Rome",
+      "main_characters": [
+        "Julius Caesar",
+        "Brutus",
+        "Cassius",
+        "Mark Antony",
+        "Octavius",
+        "Calpurnia",
+        "Portia"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_king_john_c9ca4069",
+    "chunk_type": "factual",
+    "play_title": "King John",
+    "content": "Play: King John\nCategory: history\nYear: 1595-1596\nSetting: England and France, 13th century\n\nMain Characters:\n- King John\n- Philip the Bastard\n- Constance\n- King Philip of France\n- Prince Arthur\n- Hubert\n- Cardinal Pandulph\n\nCharacter Descriptions:\n- King John: King of England, faces rebellion\n- Philip the Bastard: John's loyal illegitimate nephew\n- Constance: Arthur's mother, seeks son's crown\n- King Philip of France: French king, supports Arthur\n- Prince Arthur: John's nephew, claims throne\n- Hubert: John's servant, spares Arthur\n- Cardinal Pandulph: Papal legate, stirs conflict\n",
+    "metadata": {
+      "category": "history",
+      "year": "1595-1596",
+      "setting": "England and France, 13th century",
+      "main_characters": [
+        "King John",
+        "Philip the Bastard",
+        "Constance",
+        "King Philip of France",
+        "Prince Arthur",
+        "Hubert",
+        "Cardinal Pandulph"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_tragedy_of_king_lear_57975074",
+    "chunk_type": "factual",
+    "play_title": "The Tragedy of King Lear",
+    "content": "Play: The Tragedy of King Lear\nCategory: tragedy\nYear: 1605-1606\nSetting: Ancient Britain\n\nMain Characters:\n- King Lear\n- Cordelia\n- Goneril\n- Regan\n- Edmund\n- Edgar\n- Gloucester\n- Kent\n- Fool\n\nCharacter Descriptions:\n- King Lear: King of Britain, divides kingdom\n- Cordelia: Lear's youngest daughter, disowned, loyal\n- Goneril: Lear's eldest daughter, betrays him\n- Regan: Lear's middle daughter, betrays him\n- Edmund: Gloucester's illegitimate son, schemes power\n- Edgar: Gloucester's legitimate son, disguises himself\n- Gloucester: Earl, betrayed by Edmund\n- Kent: Loyal nobleman, serves Lear in disguise\n- Fool: Lear's jester, speaks truth\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1605-1606",
+      "setting": "Ancient Britain",
+      "main_characters": [
+        "King Lear",
+        "Cordelia",
+        "Goneril",
+        "Regan",
+        "Edmund",
+        "Edgar",
+        "Gloucester",
+        "Kent",
+        "Fool"
+      ],
+      "character_count": 9
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_love's_labour's_lost_955dc91f",
+    "chunk_type": "factual",
+    "play_title": "Love's Labour's Lost",
+    "content": "Play: Love's Labour's Lost\nCategory: comedy\nYear: 1594-1595\nSetting: Navarre, Spain\n\nMain Characters:\n- King of Navarre\n- Princess of France\n- Berowne\n- Rosaline\n- Longaville\n- Maria\n- Dumaine\n- Katherine\n- Don Armado\n\nCharacter Descriptions:\n- King of Navarre: King, vows to study, loves Princess\n- Princess of France: French noble, courts Navarre\n- Berowne: Lord, loves Rosaline, witty\n- Rosaline: Princess's lady, loves Berowne\n- Longaville: Lord, loves Maria\n- Maria: Princess's lady, loves Longaville\n- Dumaine: Lord, loves Katherine\n- Katherine: Princess's lady, loves Dumaine\n- Don Armado: Spanish noble, comically woos Jaquenetta\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1594-1595",
+      "setting": "Navarre, Spain",
+      "main_characters": [
+        "King of Navarre",
+        "Princess of France",
+        "Berowne",
+        "Rosaline",
+        "Longaville",
+        "Maria",
+        "Dumaine",
+        "Katherine",
+        "Don Armado"
+      ],
+      "character_count": 9
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_macbeth_3d18f306",
+    "chunk_type": "factual",
+    "play_title": "Macbeth",
+    "content": "Play: Macbeth\nCategory: tragedy\nYear: 1606\nSetting: Scotland and England\n\nMain Characters:\n- Macbeth\n- Lady Macbeth\n- Three Witches\n- Banquo\n- Macduff\n- Duncan\n- Malcolm\n\nCharacter Descriptions:\n- Macbeth: Scottish general, usurps throne, becomes king\n- Lady Macbeth: Macbeth's wife, drives his ambition\n- Three Witches: Supernatural beings, prophesy Macbeth's fate\n- Banquo: Macbeth's friend, general, later murdered\n- Macduff: Scottish noble, avenges Duncan's murder\n- Duncan: King of Scotland, murdered by Macbeth\n- Malcolm: Duncan's son, rightful heir\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1606",
+      "setting": "Scotland and England",
+      "main_characters": [
+        "Macbeth",
+        "Lady Macbeth",
+        "Three Witches",
+        "Banquo",
+        "Macduff",
+        "Duncan",
+        "Malcolm"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_measure_for_measure_86c46c1a",
+    "chunk_type": "factual",
+    "play_title": "Measure for Measure",
+    "content": "Play: Measure for Measure\nCategory: comedy\nYear: 1604\nSetting: Vienna\n\nMain Characters:\n- Duke Vincentio\n- Angelo\n- Isabella\n- Claudio\n- Lucio\n- Mariana\n- Escalus\n\nCharacter Descriptions:\n- Duke Vincentio: Ruler of Vienna, disguises to observe\n- Angelo: Deputy, enforces strict laws\n- Isabella: Novice nun, pleads for Claudio\n- Claudio: Isabella's brother, sentenced to death\n- Lucio: Claudio's friend, spreads gossip\n- Mariana: Angelo's former fiancée, aids plot\n- Escalus: Wise advisor, serves Duke\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1604",
+      "setting": "Vienna",
+      "main_characters": [
+        "Duke Vincentio",
+        "Angelo",
+        "Isabella",
+        "Claudio",
+        "Lucio",
+        "Mariana",
+        "Escalus"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_merchant_of_venice_b180cacc",
+    "chunk_type": "factual",
+    "play_title": "The Merchant of Venice",
+    "content": "Play: The Merchant of Venice\nCategory: comedy\nYear: 1596-1597\nSetting: Venice and Belmont, Italy\n\nMain Characters:\n- Antonio\n- Shylock\n- Portia\n- Bassanio\n- Jessica\n- Lorenzo\n- Gratiano\n- Nerissa\n\nCharacter Descriptions:\n- Antonio: Venetian merchant, borrows from Shylock\n- Shylock: Jewish moneylender, demands pound of flesh\n- Portia: Heiress of Belmont, disguises as lawyer\n- Bassanio: Portia's suitor, Antonio's friend\n- Jessica: Shylock's daughter, elopes with Lorenzo\n- Lorenzo: Jessica's lover, Bassanio's friend\n- Gratiano: Bassanio's friend, loves Nerissa\n- Nerissa: Portia's maid, marries Gratiano\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1596-1597",
+      "setting": "Venice and Belmont, Italy",
+      "main_characters": [
+        "Antonio",
+        "Shylock",
+        "Portia",
+        "Bassanio",
+        "Jessica",
+        "Lorenzo",
+        "Gratiano",
+        "Nerissa"
+      ],
+      "character_count": 8
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_merry_wives_of_windsor_4c54c16d",
+    "chunk_type": "factual",
+    "play_title": "The Merry Wives of Windsor",
+    "content": "Play: The Merry Wives of Windsor\nCategory: comedy\nYear: 1597-1601\nSetting: Windsor, England\n\nMain Characters:\n- Sir John Falstaff\n- Mistress Ford\n- Mistress Page\n- Ford\n- Page\n- Anne Page\n- Fenton\n- Doctor Caius\n\nCharacter Descriptions:\n- Sir John Falstaff: Rogue, woos wives for money\n- Mistress Ford: Wife, outwits Falstaff's advances\n- Mistress Page: Wife, plots against Falstaff\n- Ford: Mistress Ford's jealous husband\n- Page: Mistress Page's husband, trusts wife\n- Anne Page: Page's daughter, loves Fenton\n- Fenton: Gentleman, marries Anne Page\n- Doctor Caius: French suitor, competes for Anne\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1597-1601",
+      "setting": "Windsor, England",
+      "main_characters": [
+        "Sir John Falstaff",
+        "Mistress Ford",
+        "Mistress Page",
+        "Ford",
+        "Page",
+        "Anne Page",
+        "Fenton",
+        "Doctor Caius"
+      ],
+      "character_count": 8
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_a_midsummer_night's_dream_72845034",
+    "chunk_type": "factual",
+    "play_title": "A Midsummer Night's Dream",
+    "content": "Play: A Midsummer Night's Dream\nCategory: comedy\nYear: 1595-1596\nSetting: Athens and nearby enchanted forest\n\nMain Characters:\n- Lysander\n- Hermia\n- Demetrius\n- Helena\n- Oberon\n- Titania\n- Puck\n- Bottom\n- Theseus\n- Hippolyta\n\nCharacter Descriptions:\n- Lysander: Athenian lover, pursues Hermia\n- Hermia: Athenian woman, loves Lysander\n- Demetrius: Athenian man, initially loves Hermia\n- Helena: Athenian woman, loves Demetrius\n- Oberon: Fairy king, manipulates lovers\n- Titania: Fairy queen, enchanted by Oberon\n- Puck: Oberon's mischievous fairy servant\n- Bottom: Weaver, transformed into donkey\n- Theseus: Duke of Athens, marries Hippolyta\n- Hippolyta: Amazon queen, Theseus's bride\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1595-1596",
+      "setting": "Athens and nearby enchanted forest",
+      "main_characters": [
+        "Lysander",
+        "Hermia",
+        "Demetrius",
+        "Helena",
+        "Oberon",
+        "Titania",
+        "Puck",
+        "Bottom",
+        "Theseus",
+        "Hippolyta"
+      ],
+      "character_count": 10
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_much_ado_about_nothing_21a7e3a9",
+    "chunk_type": "factual",
+    "play_title": "Much Ado About Nothing",
+    "content": "Play: Much Ado About Nothing\nCategory: comedy\nYear: 1598-1599\nSetting: Messina, Sicily\n\nMain Characters:\n- Beatrice\n- Benedick\n- Claudio\n- Hero\n- Don Pedro\n- Don John\n- Leonato\n\nCharacter Descriptions:\n- Beatrice: Witty noblewoman, loves Benedick\n- Benedick: Witty soldier, loves Beatrice\n- Claudio: Young lord, loves Hero\n- Hero: Leonato's daughter, loves Claudio\n- Don Pedro: Prince, aids Claudio's courtship\n- Don John: Pedro's brother, slanders Hero\n- Leonato: Governor, Hero's father\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1598-1599",
+      "setting": "Messina, Sicily",
+      "main_characters": [
+        "Beatrice",
+        "Benedick",
+        "Claudio",
+        "Hero",
+        "Don Pedro",
+        "Don John",
+        "Leonato"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_othello_the_moor_of_venice_addaa4cb",
+    "chunk_type": "factual",
+    "play_title": "Othello, the Moor of Venice",
+    "content": "Play: Othello, the Moor of Venice\nCategory: tragedy\nYear: 1603-1604\nSetting: Venice and Cyprus\n\nMain Characters:\n- Othello\n- Desdemona\n- Iago\n- Cassio\n- Emilia\n- Roderigo\n- Brabantio\n\nCharacter Descriptions:\n- Othello: Moorish general, marries Desdemona\n- Desdemona: Othello's wife, Brabantio's daughter\n- Iago: Othello's ensign, orchestrates deception\n- Cassio: Othello's lieutenant, accused of affair\n- Emilia: Iago's wife, Desdemona's attendant\n- Roderigo: Desdemona's suitor, manipulated by Iago\n- Brabantio: Desdemona's father, Venetian senator\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1603-1604",
+      "setting": "Venice and Cyprus",
+      "main_characters": [
+        "Othello",
+        "Desdemona",
+        "Iago",
+        "Cassio",
+        "Emilia",
+        "Roderigo",
+        "Brabantio"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_pericles_prince_of_tyre_5ca36bec",
+    "chunk_type": "factual",
+    "play_title": "Pericles, Prince of Tyre",
+    "content": "Play: Pericles, Prince of Tyre\nCategory: history\nYear: 1607-1608\nSetting: Various Mediterranean locations\n\nMain Characters:\n- Pericles\n- Marina\n- Thaisa\n- Gower\n- Cleon\n- Dionyza\n- Lysimachus\n\nCharacter Descriptions:\n- Pericles: Prince of Tyre, seeks family\n- Marina: Pericles's daughter, survives hardship\n- Thaisa: Pericles's wife, presumed dead\n- Gower: Narrator, guides play's story\n- Cleon: Governor, raises Marina\n- Dionyza: Cleon's wife, plots against Marina\n- Lysimachus: Governor, loves Marina\n",
+    "metadata": {
+      "category": "history",
+      "year": "1607-1608",
+      "setting": "Various Mediterranean locations",
+      "main_characters": [
+        "Pericles",
+        "Marina",
+        "Thaisa",
+        "Gower",
+        "Cleon",
+        "Dionyza",
+        "Lysimachus"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_king_richard_ii_e0a790f5",
+    "chunk_type": "factual",
+    "play_title": "King Richard II",
+    "content": "Play: King Richard II\nCategory: history\nYear: 1595\nSetting: England, late 14th century\n\nMain Characters:\n- King Richard II\n- Henry Bolingbroke\n- John of Gaunt\n- Duke of York\n- Duchess of Gloucester\n- Aumerle\n- Mowbray\n\nCharacter Descriptions:\n- King Richard II: King of England, deposed\n- Henry Bolingbroke: Rebel, becomes Henry IV\n- John of Gaunt: Richard's uncle, loyal noble\n- Duke of York: Richard's uncle, supports Bolingbroke\n- Duchess of Gloucester: Widow, seeks justice\n- Aumerle: York's son, loyal to Richard\n- Mowbray: Noble, exiled for dispute\n",
+    "metadata": {
+      "category": "history",
+      "year": "1595",
+      "setting": "England, late 14th century",
+      "main_characters": [
+        "King Richard II",
+        "Henry Bolingbroke",
+        "John of Gaunt",
+        "Duke of York",
+        "Duchess of Gloucester",
+        "Aumerle",
+        "Mowbray"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_king_richard_iii_f0c859a9",
+    "chunk_type": "factual",
+    "play_title": "King Richard III",
+    "content": "Play: King Richard III\nCategory: history\nYear: 1592-1593\nSetting: England, late 15th century\n\nMain Characters:\n- Richard III\n- Duke of Buckingham\n- Queen Margaret\n- Lady Anne\n- King Edward IV\n- Clarence\n- Richmond\n\nCharacter Descriptions:\n- Richard III: Scheming duke, becomes king\n- Duke of Buckingham: Richard's ally, later betrayed\n- Queen Margaret: Lancastrian widow, curses Richard\n- Lady Anne: Widow, reluctantly marries Richard\n- King Edward IV: Yorkist king, Richard's brother\n- Clarence: Richard's brother, murdered by him\n- Richmond: Rebel, becomes Henry VII\n",
+    "metadata": {
+      "category": "history",
+      "year": "1592-1593",
+      "setting": "England, late 15th century",
+      "main_characters": [
+        "Richard III",
+        "Duke of Buckingham",
+        "Queen Margaret",
+        "Lady Anne",
+        "King Edward IV",
+        "Clarence",
+        "Richmond"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_romeo_and_juliet_86d6a1db",
+    "chunk_type": "factual",
+    "play_title": "Romeo and Juliet",
+    "content": "Play: Romeo and Juliet\nCategory: tragedy\nYear: 1595-1596\nSetting: Verona, Italy\n\nMain Characters:\n- Romeo Montague\n- Juliet Capulet\n- Mercutio\n- Tybalt\n- Friar Lawrence\n- Nurse\n- Benvolio\n- Paris\n\nCharacter Descriptions:\n- Romeo Montague: Montague heir, loves Juliet\n- Juliet Capulet: Capulet daughter, loves Romeo\n- Mercutio: Romeo's friend, kinsman to Prince\n- Tybalt: Juliet's cousin, aggressive Capulet\n- Friar Lawrence: Priest, marries Romeo and Juliet\n- Nurse: Juliet's caretaker, aids lovers\n- Benvolio: Romeo's cousin, seeks peace\n- Paris: Nobleman, seeks to marry Juliet\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1595-1596",
+      "setting": "Verona, Italy",
+      "main_characters": [
+        "Romeo Montague",
+        "Juliet Capulet",
+        "Mercutio",
+        "Tybalt",
+        "Friar Lawrence",
+        "Nurse",
+        "Benvolio",
+        "Paris"
+      ],
+      "character_count": 8
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_taming_of_the_shrew_7baa35f3",
+    "chunk_type": "factual",
+    "play_title": "The Taming of the Shrew",
+    "content": "Play: The Taming of the Shrew\nCategory: comedy\nYear: 1590-1592\nSetting: Padua, Italy\n\nMain Characters:\n- Katherina\n- Petruchio\n- Bianca\n- Lucentio\n- Baptista\n- Tranio\n- Grumio\n\nCharacter Descriptions:\n- Katherina: Baptista's daughter, tamed by Petruchio\n- Petruchio: Gentleman, marries Katherina for dowry\n- Bianca: Katherina's sister, sought by suitors\n- Lucentio: Gentleman, loves and marries Bianca\n- Baptista: Wealthy father of Katherina, Bianca\n- Tranio: Lucentio's servant, aids disguise\n- Grumio: Petruchio's servant, comic assistant\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1590-1592",
+      "setting": "Padua, Italy",
+      "main_characters": [
+        "Katherina",
+        "Petruchio",
+        "Bianca",
+        "Lucentio",
+        "Baptista",
+        "Tranio",
+        "Grumio"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_tempest_aae41ba9",
+    "chunk_type": "factual",
+    "play_title": "The Tempest",
+    "content": "Play: The Tempest\nCategory: comedy\nYear: 1610-1611\nSetting: A remote island\n\nMain Characters:\n- Prospero\n- Miranda\n- Ariel\n- Caliban\n- Ferdinand\n- Alonso\n- Antonio\n- Sebastian\n- Stephano\n- Trinculo\n\nCharacter Descriptions:\n- Prospero: Exiled Duke of Milan, magician\n- Miranda: Prospero's daughter, loves Ferdinand\n- Ariel: Prospero's spirit servant, seeks freedom\n- Caliban: Island native, Prospero's enslaved servant\n- Ferdinand: Naples prince, loves Miranda\n- Alonso: King of Naples, shipwrecked\n- Antonio: Prospero's brother, usurped his dukedom\n- Sebastian: Alonso's brother, plots against him\n- Stephano: Drunken butler, plots with Caliban\n- Trinculo: Jester, joins Stephano's plot\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1610-1611",
+      "setting": "A remote island",
+      "main_characters": [
+        "Prospero",
+        "Miranda",
+        "Ariel",
+        "Caliban",
+        "Ferdinand",
+        "Alonso",
+        "Antonio",
+        "Sebastian",
+        "Stephano",
+        "Trinculo"
+      ],
+      "character_count": 10
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_two_gentlemen_of_verona_dc5e4f12",
+    "chunk_type": "factual",
+    "play_title": "The Two Gentlemen of Verona",
+    "content": "Play: The Two Gentlemen of Verona\nCategory: comedy\nYear: 1590–1593\nSetting: Verona and Milan, Italy\n\nMain Characters:\n- Valentine\n- Proteus\n- Julia\n- Silvia\n- Duke of Milan\n- Lucetta\n- Thurio\n- Launce\n- Speed\n\nCharacter Descriptions:\n- Valentine: Gentleman, loves Silvia\n- Proteus: Gentleman, betrays Valentine, loves Silvia\n- Julia: Proteus's lover, disguises as page\n- Silvia: Duke's daughter, loves Valentine\n- Duke of Milan: Silvia's father, plans her marriage\n- Lucetta: Julia's maid, aids disguise\n- Thurio: Silvia's suitor, Duke's choice\n- Launce: Proteus's servant, comic figure\n- Speed: Valentine's servant, witty assistant\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1590–1593",
+      "setting": "Verona and Milan, Italy",
+      "main_characters": [
+        "Valentine",
+        "Proteus",
+        "Julia",
+        "Silvia",
+        "Duke of Milan",
+        "Lucetta",
+        "Thurio",
+        "Launce",
+        "Speed"
+      ],
+      "character_count": 9
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_life_of_timon_of_athens_9e87ea90",
+    "chunk_type": "factual",
+    "play_title": "The Life of Timon of Athens",
+    "content": "Play: The Life of Timon of Athens\nCategory: tragedy\nYear: 1605-1608\nSetting: Athens, Greece\n\nMain Characters:\n- Timon\n- Apemantus\n- Alcibiades\n- Flavius\n- Ventidius\n- Lucius\n- Sempronius\n\nCharacter Descriptions:\n- Timon: Wealthy Athenian, becomes misanthrope\n- Apemantus: Cynical philosopher, criticizes society\n- Alcibiades: General, rebels against Athens\n- Flavius: Timon's loyal steward\n- Ventidius: False friend, abandons Timon\n- Lucius: False friend, rejects Timon\n- Sempronius: False friend, betrays Timon\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1605-1608",
+      "setting": "Athens, Greece",
+      "main_characters": [
+        "Timon",
+        "Apemantus",
+        "Alcibiades",
+        "Flavius",
+        "Ventidius",
+        "Lucius",
+        "Sempronius"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_tragedy_of_titus_andronicus_0cc59aa3",
+    "chunk_type": "factual",
+    "play_title": "The Tragedy of Titus Andronicus",
+    "content": "Play: The Tragedy of Titus Andronicus\nCategory: tragedy\nYear: 1593-1594\nSetting: Rome\n\nMain Characters:\n- Titus Andronicus\n- Tamora\n- Aaron\n- Lavinia\n- Saturninus\n- Bassianus\n- Lucius\n\nCharacter Descriptions:\n- Titus Andronicus: Roman general, seeks revenge\n- Tamora: Goth queen, plots against Titus\n- Aaron: Tamora's lover, orchestrates villainy\n- Lavinia: Titus's daughter, brutally assaulted\n- Saturninus: Roman emperor, marries Tamora\n- Bassianus: Saturninus's brother, loves Lavinia\n- Lucius: Titus's son, avenges family\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1593-1594",
+      "setting": "Rome",
+      "main_characters": [
+        "Titus Andronicus",
+        "Tamora",
+        "Aaron",
+        "Lavinia",
+        "Saturninus",
+        "Bassianus",
+        "Lucius"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_troilus_and_cressida_be794e09",
+    "chunk_type": "factual",
+    "play_title": "Troilus and Cressida",
+    "content": "Play: Troilus and Cressida\nCategory: tragedy\nYear: 1601-1602\nSetting: Troy and the Greek camp, during the Trojan War\n\nMain Characters:\n- Troilus\n- Cressida\n- Pandarus\n- Hector\n- Achilles\n- Ulysses\n- Diomedes\n\nCharacter Descriptions:\n- Troilus: Trojan prince, loves Cressida\n- Cressida: Trojan woman, betrays Troilus\n- Pandarus: Cressida's uncle, facilitates romance\n- Hector: Trojan warrior, killed by Achilles\n- Achilles: Greek warrior, kills Hector\n- Ulysses: Greek leader, manipulates Achilles\n- Diomedes: Greek warrior, wins Cressida\n",
+    "metadata": {
+      "category": "tragedy",
+      "year": "1601-1602",
+      "setting": "Troy and the Greek camp, during the Trojan War",
+      "main_characters": [
+        "Troilus",
+        "Cressida",
+        "Pandarus",
+        "Hector",
+        "Achilles",
+        "Ulysses",
+        "Diomedes"
+      ],
+      "character_count": 7
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_twelfth_night;_or_what_you_will_4d0e09f7",
+    "chunk_type": "factual",
+    "play_title": "Twelfth Night; Or, What You Will",
+    "content": "Play: Twelfth Night; Or, What You Will\nCategory: comedy\nYear: 1601-1602\nSetting: Illyria, an ancient region on the Adriatic Sea\n\nMain Characters:\n- Viola\n- Sebastian\n- Orsino\n- Olivia\n- Malvolio\n- Sir Toby Belch\n- Sir Andrew Aguecheek\n- Maria\n- Feste\n\nCharacter Descriptions:\n- Viola: Shipwrecked woman, disguises as Cesario\n- Sebastian: Viola's twin brother, presumed dead\n- Orsino: Duke of Illyria, loves Olivia\n- Olivia: Countess, loves Cesario, then Sebastian\n- Malvolio: Olivia's steward, humiliated by prank\n- Sir Toby Belch: Olivia's drunken uncle, plots prank\n- Sir Andrew Aguecheek: Toby's foolish friend, courts Olivia\n- Maria: Olivia's maid, orchestrates Malvolio prank\n- Feste: Olivia's witty fool, sings and jests\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1601-1602",
+      "setting": "Illyria, an ancient region on the Adriatic Sea",
+      "main_characters": [
+        "Viola",
+        "Sebastian",
+        "Orsino",
+        "Olivia",
+        "Malvolio",
+        "Sir Toby Belch",
+        "Sir Andrew Aguecheek",
+        "Maria",
+        "Feste"
+      ],
+      "character_count": 9
+    },
+    "embedding": null
+  },
+  {
+    "chunk_id": "factual_the_winter's_tale_6e443c63",
+    "chunk_type": "factual",
+    "play_title": "The Winter's Tale",
+    "content": "Play: The Winter's Tale\nCategory: comedy\nYear: 1610-1611\nSetting: Sicilia and Bohemia\n\nMain Characters:\n- Leontes\n- Hermione\n- Perdita\n- Polixenes\n- Camillo\n- Paulina\n- Autolycus\n- Florizel\n\nCharacter Descriptions:\n- Leontes: King of Sicilia, jealous husband\n- Hermione: Leontes's wife, falsely accused\n- Perdita: Leontes's daughter, raised in Bohemia\n- Polixenes: King of Bohemia, Leontes's friend\n- Camillo: Loyal advisor, serves both kings\n- Paulina: Hermione's friend, seeks justice\n- Autolycus: Rogue, aids Bohemia's comedy\n- Florizel: Polixenes's son, loves Perdita\n",
+    "metadata": {
+      "category": "comedy",
+      "year": "1610-1611",
+      "setting": "Sicilia and Bohemia",
+      "main_characters": [
+        "Leontes",
+        "Hermione",
+        "Perdita",
+        "Polixenes",
+        "Camillo",
+        "Paulina",
+        "Autolycus",
+        "Florizel"
+      ],
+      "character_count": 8
+    },
+    "embedding": null
+  }
+]

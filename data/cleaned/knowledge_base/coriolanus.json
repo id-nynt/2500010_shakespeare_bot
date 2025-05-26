@@ -1,0 +1,115 @@
+{
+  "title": "The Tragedy of Coriolanus",
+  "full_title": "The Tragedy of Coriolanus",
+  "category": "tragedy",
+  "year": "1608-1609",
+  "setting": "Rome and its surrounding territories",
+  "main_characters": [
+    "Caius Martius Coriolanus",
+    "Volumnia",
+    "Menenius Agrippa",
+    "Tullus Aufidius",
+    "Sicinius Velutus",
+    "Junius Brutus",
+    "Virgilia",
+    "Young Martius"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Caius Martius Coriolanus",
+      "description": "Roman general, banished, seeks revenge"
+    },
+    {
+      "name": "Volumnia",
+      "description": "Coriolanus's mother, influences his actions"
+    },
+    {
+      "name": "Menenius Agrippa",
+      "description": "Roman patrician, Coriolanus's ally"
+    },
+    {
+      "name": "Tullus Aufidius",
+      "description": "Volscian general, allies with Coriolanus"
+    },
+    {
+      "name": "Sicinius Velutus",
+      "description": "Tribune, opposes Coriolanus"
+    },
+    {
+      "name": "Junius Brutus",
+      "description": "Tribune, seeks Coriolanus's banishment"
+    },
+    {
+      "name": "Virgilia",
+      "description": "Coriolanus's wife, loyal supporter"
+    },
+    {
+      "name": "Young Martius",
+      "description": "Coriolanus's son, minor role"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Pride",
+      "theme_explanation": "Coriolanus’s excessive pride in his martial valor alienates the plebeians and leads to his banishment and tragic downfall."
+    },
+    {
+      "theme": "Politics",
+      "theme_explanation": "The play explores political power struggles, as Coriolanus’s disdain for the masses clashes with the tribunes’ manipulation of public opinion."
+    },
+    {
+      "theme": "Class conflict",
+      "theme_explanation": "Tensions between the patricians and plebeians drive the conflict, with Coriolanus’s elitism fueling his exile and rebellion against Rome."
+    },
+    {
+      "theme": "Loyalty",
+      "theme_explanation": "Loyalty is tested, as Coriolanus shifts allegiance to the Volscians, yet his loyalty to his mother ultimately sways him to spare Rome."
+    },
+    {
+      "theme": "Mother-son relationships",
+      "theme_explanation": "Volumnia’s influence shapes Coriolanus’s identity and decisions, culminating in her pivotal role in persuading him to abandon his attack on Rome."
+    },
+    {
+      "theme": "Honor",
+      "theme_explanation": "Coriolanus’s rigid sense of honor drives his actions but conflicts with political compromise, leading to his isolation and death."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "Nature teaches beasts to know their friends",
+      "speaker": "Coriolanus",
+      "act": 2,
+      "scene": 1,
+      "explanation": "Coriolanus reflects on loyalty, implying humans, unlike animals, betray their allies, foreshadowing his own betrayal."
+    },
+    {
+      "quote": "What is the city but the people?",
+      "speaker": "Sicinius",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Sicinius emphasizes the power of the populace, challenging Coriolanus's elitism and justifying his banishment."
+    },
+    {
+      "quote": "His nature is too noble for the world",
+      "speaker": "Menenius",
+      "act": 5,
+      "scene": 3,
+      "explanation": "Menenius praises Coriolanus's integrity, suggesting his rigid honor is incompatible with political compromise."
+    },
+    {
+      "quote": "You common cry of curs! whose breath I hate",
+      "speaker": "Coriolanus",
+      "act": 3,
+      "scene": 3,
+      "explanation": "Coriolanus insults the plebeians, revealing his contempt for the masses, which leads to his exile."
+    },
+    {
+      "quote": "I banish you!",
+      "speaker": "Coriolanus",
+      "act": 3,
+      "scene": 3,
+      "explanation": "Defiant, Coriolanus reverses his banishment, proclaiming his independence from Rome, highlighting his pride."
+    }
+  ],
+  "summary": "Caius Martius, a Roman general, earns the name Coriolanus after his victory at Corioli. His pride and contempt for the plebeians lead to his banishment, prompting him to join his enemy Tullus Aufidius to attack Rome, only to be persuaded by his mother Volumnia to spare the city, resulting in his betrayal and death."
+}

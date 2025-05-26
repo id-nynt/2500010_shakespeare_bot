@@ -1,0 +1,73 @@
+{
+  "title": "The Comedy of Errors",
+  "full_title": "The Comedy of Errors",
+  "category": "comedy",
+  "year": "1594",
+  "setting": "Ephesus",
+  "main_characters": [
+    "Antipholus of Syracuse",
+    "Antipholus of Ephesus",
+    "Dromio of Syracuse",
+    "Dromio of Ephesus",
+    "Adriana",
+    "Luciana"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Antipholus of Syracuse",
+      "description": "Twin merchant, searches for brother"
+    },
+    {
+      "name": "Antipholus of Ephesus",
+      "description": "Twin merchant, resident of Ephesus"
+    },
+    {
+      "name": "Dromio of Syracuse",
+      "description": "Servant to Antipholus of Syracuse"
+    },
+    {
+      "name": "Dromio of Ephesus",
+      "description": "Servant to Antipholus of Ephesus"
+    },
+    {
+      "name": "Adriana",
+      "description": "Wife of Antipholus of Ephesus"
+    },
+    {
+      "name": "Luciana",
+      "description": "Adriana's sister, courted by Syracuse twin"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Identity",
+      "theme_explanation": "The play explores identity through the confusion caused by two sets of identical twins, questioning individuality and selfhood."
+    },
+    {
+      "theme": "Mistaken identity",
+      "theme_explanation": "Mistaken identities drive the comedic chaos, as characters confuse the twins, leading to humorous misunderstandings and eventual resolution."
+    },
+    {
+      "theme": "Family",
+      "theme_explanation": "The theme of family underscores the twins’ separation and their joyful reunion, emphasizing the bonds that endure despite chaos."
+    },
+    {
+      "theme": "Reunion",
+      "theme_explanation": "The play culminates in the reunion of the separated twins and their family, resolving the chaos and restoring harmony."
+    },
+    {
+      "theme": "Chaos and confusion",
+      "theme_explanation": "Chaos and confusion propel the plot, as mistaken identities create a whirlwind of comedic errors that test relationships and social order."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "Am I in earth, in heaven, or in hell?",
+      "speaker": "Antipholus of Syracuse",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Antipholus expresses bewilderment amid the play's chaotic mistaken identities, capturing the surreal confusion caused by the twin mix-ups."
+    }
+  ],
+  "summary": "Two sets of identical twins separated at birth create chaos when they all end up in the same city. Mistaken identities lead to wrongful beatings, arrests, and accusations until the family is joyfully reunited."
+}

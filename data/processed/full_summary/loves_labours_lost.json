@@ -1,0 +1,59 @@
+{
+  "title": "Love's Labour's Lost",
+  "play_summary": "The King of Navarre and his lords vow to forgo women and study for three years, but their resolve crumbles when the Princess of France and her ladies arrive. Through witty courtship and playful deception, love prevails, though a sudden death delays their unions for a year.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "In the French kingdom of Navarre, King Ferdinand and his three companions, Biron (or Berowne), Dumaine, and Longueville (or Longaville), see themselves as enthusiastic students of philosophy. Together, they resolve to forgo the company of women for three years to devote time to their studies. Additionally, this decree against women applies to the entire kingdom. When the local peasant Costard is caught pursuing his betrothed, Jacquenetta, he is arrested. The Spaniard Don Armado, the one in charge of punishing Costard, is also in love with Jacquenetta. He writes her a letter for Costard to deliver.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The King of Navarre's park, Navarre, Spain",
+          "scene_summary": "The King of Navarre and his lords—Berowne, Longaville, and Dumaine—swear an oath to study for three years, forgoing women, fasting, and sleep. Berowne questions the oath's rigor but signs. Costard, a clown, is arrested for wooing Jaquenetta, violating the decree, and the King assigns him to Armado's custody, establishing the comedic premise of love versus scholarship."
+        },
+        {
+          "scene": 2,
+          "location": "Another part of the park, Navarre, Spain",
+          "scene_summary": "Armado, a pompous Spaniard, confesses to Moth, his page, his love for Jaquenetta, despite the oath. Dull delivers Costard to Armado's custody. Armado, smitten, plans to write love letters, while Moth's wit mocks his pretensions, introducing the low-comedy subplot and love's disruptive power."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "The King and his friends watch each other in hiding as they separately declare their love for the Princess and her ladies. They soon find out about everyone's affections. After his letter is revealed, Biron persuades Navarre that love is a lawful part of their studies. The men decide to continue to entertain their guests.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A field in the King's park, Navarre, Spain",
+          "scene_summary": "The Princess, hunting with her ladies, receives Armado's letter, meant for Jaquenetta, via Costard, mocking its absurdity. Boyet flirts with the ladies, and Costard delivers Berowne's letter to Jaquenetta, who asks Holofernes to read it, furthering the letter mix-up and comedic confusion."
+        },
+        {
+          "scene": 2,
+          "location": "Another part of the park, Navarre, Spain",
+          "scene_summary": "Holofernes, Nathaniel, and Dull discuss the Princess's hunt. Jaquenetta brings Berowne's letter, meant for Rosaline, which Holofernes identifies as treasonous for breaking the oath. They plan to inform the King, while Nathaniel and Holofernes's pedantry adds humor, advancing the exposure of the lords' loves."
+        },
+        {
+          "scene": 3,
+          "location": "Another part of the park, Navarre, Spain",
+          "scene_summary": "Berowne, lamenting his love, hides as the King, Longaville, and Dumaine each confess their loves for the Princess, Maria, and Katherine, reading sonnets aloud. Berowne reveals himself, mocking their oath-breaking, but Costard exposes Berowne's letter. The lords abandon the oath, rationalizing love as wisdom, and plan to woo the ladies disguised as Muscovites, embracing comedy and romance."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "The men try to woo the women with gifts and visit them in disguise. But they still pretend to be indifferent to the ladies' charms. Finally, the women trick them (through the women's own disguises) into an admission of the truth of their love: King Ferdinand for the Princess, Biron for Rosaline, Dumaine for Katharine, Longueville for Maria. The men and women come together happily to watch the pageant of the 'Nine Worthies'. During the performance, a messenger arrives to say that the King of France is dead. Because of this news, the Princess decides that she must return home. She declares a year-long period of absence between the men of Navarre and the women of France. If, at the end of that time, their promises hold true, then the ladies may return to accept them in marriage. The play ends as the ladies leave, and the pageant actors sing.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Another part of the park, Navarre, Spain",
+          "scene_summary": "Holofernes, Nathaniel, and Armado plan a pageant of the Nine Worthies for the Princess. Armado brags of his role, while Holofernes's verbosity and Moth's wit provide humor. The scene sets up the climactic entertainment, contrasting scholarly pretension with romantic pursuits."
+        },
+        {
+          "scene": 2,
+          "location": "Before the Princess's pavilion, Navarre, Spain",
+          "scene_summary": "The Princess and her ladies exchange gifts from the lords, mocking their loves. The lords, disguised as Muscovites, woo them, but the ladies, forewarned by Boyet, swap tokens to confuse them. The lords leave, embarrassed, and return undisguised, only to be teased further. The Worthies' pageant is disrupted by mockery, and news of the French king's death halts the romances. The Princess delays marriage proposals for a year, and the play ends with a song of spring and winter, blending comedy with melancholy."
+        }
+      ]
+    }
+  ]
+}

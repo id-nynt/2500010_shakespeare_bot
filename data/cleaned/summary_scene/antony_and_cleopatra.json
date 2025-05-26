@@ -1,0 +1,338 @@
+[
+  {
+    "scene_id": "antony_and_cleopatra_1_1",
+    "title": "Antony and Cleopatra",
+    "act": 1,
+    "scene": 1,
+    "location": "A room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Two of Antony's followers, Demetrius and Philo, lament that Antony, a great Roman general, is distracted by his love for Cleopatra, neglecting his duties. Antony and Cleopatra enter with their entourage, displaying their passionate and playful relationship. A messenger from Rome brings news of political unrest, urging Antony to return, but he dismisses it, prioritizing his love for Cleopatra."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_1_2",
+    "title": "Antony and Cleopatra",
+    "act": 1,
+    "scene": 2,
+    "location": "Another room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Cleopatra's attendants, Charmian, Iras, and Alexas, banter with a Soothsayer, who predicts their futures, hinting at tragedy. Antony learns of his wife Fulvia's death and her rebellion against Octavius Caesar, as well as Pompey's growing threat to Rome. Torn between duty and love, Antony resolves to leave Egypt for Rome, showing the conflict between his personal desires and political responsibilities."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_1_3",
+    "title": "Antony and Cleopatra",
+    "act": 1,
+    "scene": 3,
+    "location": "A room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Cleopatra, sensing Antony's departure, manipulates him with emotional outbursts, alternating between affection and accusations of disloyalty. Antony explains he must return to Rome due to Fulvia's death and political pressures but reaffirms his love for her. Cleopatra reluctantly accepts his departure, and they part with strained affection, highlighting their volatile relationship."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_1_4",
+    "title": "Antony and Cleopatra",
+    "act": 1,
+    "scene": 4,
+    "location": "A room in Octavius Caesar's house, Rome",
+    "scene_summary": "Octavius Caesar, with Lepidus, discusses Antony's indulgent behavior in Egypt, criticizing his neglect of Roman duties. They learn of Pompey's naval strength and his alliance with pirates, posing a threat to the Roman triumvirate. Caesar and Lepidus prepare to counter Pompey, frustrated by Antony's absence, establishing the political tensions in Rome."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_1_5",
+    "title": "Antony and Cleopatra",
+    "act": 1,
+    "scene": 5,
+    "location": "A room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Cleopatra, missing Antony, muses on their love and sends Alexas to deliver messages to him. She reminisces about her past lovers, Julius Caesar and Pompey the Great, asserting her charm. The scene emphasizes Cleopatra's charisma and emotional dependence on Antony, with her attendants, Charmian and Iras, adding playful commentary."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_2_1",
+    "title": "Antony and Cleopatra",
+    "act": 2,
+    "scene": 1,
+    "location": "A room in Pompey's house, Messina, Sicily",
+    "scene_summary": "Pompey discusses his military advantage over the triumvirate with his allies, Menecrates and Menas, noting Antony's absence in Egypt and Caesar's unpopularity. A messenger reports that Antony is returning to Rome, dampening Pompey's optimism. Pompey prepares for potential negotiations, aware of the shifting political landscape."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_2_2",
+    "title": "Antony and Cleopatra",
+    "act": 2,
+    "scene": 2,
+    "location": "A room in Lepidus's house, Rome",
+    "scene_summary": "Antony and Caesar, mediated by Lepidus and their followers (Enobarbus and Agrippa), confront their mutual grievances. To strengthen their alliance against Pompey, Agrippa proposes that Antony marry Caesar's sister, Octavia. Antony agrees, despite his love for Cleopatra, and the two reconcile temporarily. Enobarbus privately predicts Antony's loyalty to Cleopatra will undermine the marriage, foreshadowing conflict."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_2_3",
+    "title": "Antony and Cleopatra",
+    "act": 2,
+    "scene": 3,
+    "location": "A room in Caesar's house, Rome",
+    "scene_summary": "Antony meets Octavia, promising fidelity, though his thoughts linger on Cleopatra. The Soothsayer warns Antony to avoid Caesar, predicting Caesar's rise and Antony's downfall. Antony resolves to return to Egypt, torn between duty and desire, setting up his eventual betrayal of Octavia."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_2_4",
+    "title": "Antony and Cleopatra",
+    "act": 2,
+    "scene": 4,
+    "location": "A street in Rome",
+    "scene_summary": "Lepidus, Agrippa, and Maecenas prepare to march against Pompey. This brief scene transitions the action, emphasizing the urgency of the military campaign and the triumvirate's efforts to unify against a common enemy."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_2_5",
+    "title": "Antony and Cleopatra",
+    "act": 2,
+    "scene": 5,
+    "location": "A room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Cleopatra receives a messenger from Rome who informs her of Antony's marriage to Octavia. Enraged and jealous, she threatens the messenger and struggles to process the news. Her emotional volatility underscores her deep attachment to Antony and foreshadows her reaction to his divided loyalties."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_2_6",
+    "title": "Antony and Cleopatra",
+    "act": 2,
+    "scene": 6,
+    "location": "Near Misenum, a camp in southern Italy",
+    "scene_summary": "Pompey negotiates with Caesar, Antony, and Lepidus, agreeing to a peace treaty that divides control of Roman territories. During a celebratory feast, Menas suggests to Pompey that they kill the triumvirs to seize power, but Pompey refuses, valuing honor. The scene highlights the fragile alliances and Pompey's moral stance, contrasting with the triumvirs' tensions."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_2_7",
+    "title": "Antony and Cleopatra",
+    "act": 2,
+    "scene": 7,
+    "location": "On board Pompey's galley, off Misenum, Italy",
+    "scene_summary": "The triumvirs and Pompey continue their feast aboard Pompey's ship, becoming increasingly drunk. Menas, frustrated by Pompey's refusal to betray the triumvirs, abandons him. Enobarbus and Agrippa exchange witty banter, while Lepidus's drunkenness underscores his weakness. The scene depicts the uneasy camaraderie among the leaders and foreshadows their eventual conflicts."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_1",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 1,
+    "location": "A plain in Syria",
+    "scene_summary": "Ventidius, Antony's lieutenant, defeats the Parthians, securing a victory for Antony. Ventidius avoids taking full credit, wary of outshining Antony, demonstrating loyalty and the political dynamics of Antony's command. The scene establishes Antony's military prowess despite his absence."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_2",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 2,
+    "location": "A room in Caesar's house, Rome",
+    "scene_summary": "Agrippa and Enobarbus discuss the triumvirs' alliance and Antony's marriage to Octavia. Caesar bids an emotional farewell to Octavia and Antony, who are departing for Athens. The scene highlights Caesar's affection for his sister and the fragile unity of the triumvirate."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_3",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 3,
+    "location": "A room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Cleopatra questions the messenger about Octavia's appearance and demeanor, learning she is modest and unremarkable compared to Cleopatra's charisma. Reassured of her superiority, Cleopatra regains confidence in her hold over Antony, showcasing her insecurity and strategic mind."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_4",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 4,
+    "location": "A room in Antony's house, Athens, Greece",
+    "scene_summary": "Antony, angered by Caesar's actions—speaking against him and waging war on Pompey—plans to confront him. Octavia pleads for peace between her husband and brother, and Antony allows her to mediate in Rome, revealing his growing rift with Caesar and Octavia's precarious position."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_5",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 5,
+    "location": "A room in Antony's house, Athens, Greece",
+    "scene_summary": "Enobarbus informs Eros that Caesar has defeated Pompey and imprisoned Lepidus, consolidating power. Antony, furious at Caesar's betrayal, prepares for war and sends orders to mobilize his forces, escalating the conflict between the triumvirs."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_6",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 6,
+    "location": "A room in Caesar's house, Rome",
+    "scene_summary": "Caesar learns that Antony has returned to Cleopatra, publicly honoring her and distributing territories to her and their children. Octavia arrives, unaware of Antony's actions, and Caesar informs her of her husband's betrayal. Caesar vows to fight Antony, and Octavia is devastated, highlighting Antony's disloyalty and Caesar's resolve."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_7",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 7,
+    "location": "Antony's camp near Actium, Greece",
+    "scene_summary": "Cleopatra insists on joining Antony's naval battle against Caesar at Actium, despite Enobarbus's objections. Antony's generals, including Canidius, argue for a land battle, but Antony, influenced by Cleopatra, opts for a sea fight. The scene depicts Antony's flawed judgment and Cleopatra's influence, foreshadowing their defeat."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_8",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 8,
+    "location": "A field near Actium, Greece",
+    "scene_summary": "Caesar prepares his forces for the naval battle, issuing commands to his generals, including Taurus. This brief scene emphasizes Caesar's strategic focus and contrasts with Antony's disorganized approach."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_9",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 9,
+    "location": "Antony's camp near Actium, Greece",
+    "scene_summary": "Antony and Enobarbus rally their troops for the battle, with Antony expressing confidence in victory. The scene is short, building tension before the pivotal Battle of Actium."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_10",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 10,
+    "location": "Another part of the field near Actium, Greece",
+    "scene_summary": "During the Battle of Actium, Cleopatra's ships flee, and Antony follows her, abandoning his fleet. Enobarbus and Scarus lament Antony's decision, recognizing it as a catastrophic defeat driven by his love for Cleopatra, marking a turning point in Antony's fortunes."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_11",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 11,
+    "location": "A room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Antony, humiliated by his defeat at Actium, laments his loss of honor and blames Cleopatra's flight. Cleopatra, remorseful, tries to comfort him, but he is consumed by shame. The scene underscores Antony's emotional turmoil and their interdependent relationship."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_12",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 12,
+    "location": "Caesar's camp near Alexandria, Egypt",
+    "scene_summary": "Caesar receives Antony's envoy, Thidias, who requests peace. Caesar demands Antony's surrender and Cleopatra's allegiance, offering leniency if she betrays Antony. Caesar sends Thidias to negotiate with Cleopatra, revealing his strategic manipulation and intent to divide the lovers."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_3_13",
+    "title": "Antony and Cleopatra",
+    "act": 3,
+    "scene": 13,
+    "location": "A room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Cleopatra considers Caesar's offer, prompting Antony's jealous rage when he sees her with Thidias. Antony orders Thidias whipped and berates Cleopatra, but she reaffirms her loyalty. Antony resolves to fight Caesar again, rallying his spirits, while Enobarbus, despairing of Antony's judgment, decides to defect."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_1",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 1,
+    "location": "Caesar's camp before Alexandria, Egypt",
+    "scene_summary": "Caesar mocks Antony's challenge to single combat, confident in his superior forces. He prepares for a final battle, rejecting Antony's desperate proposal, emphasizing Caesar's dominance and Antony's weakened position."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_2",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 2,
+    "location": "A room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Antony, preparing for battle, shares a heartfelt farewell with his servants, sensing his impending defeat. Cleopatra is moved by his somber mood, and Enobarbus, though planning to leave, is touched by Antony's loyalty to his followers, highlighting Antony's charisma despite his flaws."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_3",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 3,
+    "location": "Before Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Antony's soldiers hear strange music, interpreted as a sign that Hercules, Antony's patron god, is abandoning him. The ominous atmosphere foreshadows Antony's downfall and the supernatural elements woven into the play's tragedy."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_4",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 4,
+    "location": "A room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Antony arms for battle, assisted by Cleopatra and Eros. He is invigorated, kissing Cleopatra and rallying his troops with renewed vigor. The scene captures a fleeting moment of hope and unity before the final conflict."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_5",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 5,
+    "location": "Antony's camp near Alexandria, Egypt",
+    "scene_summary": "Antony learns of Enobarbus's defection to Caesar but sends his belongings after him, showing magnanimity. Antony prepares for battle, resolute despite the loss of his trusted friend, emphasizing his nobility amid decline."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_6",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 6,
+    "location": "Caesar's camp before Alexandria, Egypt",
+    "scene_summary": "Caesar orders his forces to capture Antony alive and sends troops to the battle. Enobarbus, now with Caesar, regrets his defection upon learning of Antony's generosity. Overcome with guilt, he resolves to die, highlighting the personal cost of betrayal."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_7",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 7,
+    "location": "A field of battle near Alexandria, Egypt",
+    "scene_summary": "Antony's forces, led by Agrippa and Scarus, gain an unexpected advantage against Caesar's troops. Antony and his men celebrate the victory, believing they may yet triumph, offering a brief moment of optimism."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_8",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 8,
+    "location": "Under the walls of Alexandria, Egypt",
+    "scene_summary": "Antony returns to Cleopatra, elated by his victory, and praises his soldiers' bravery. He and Cleopatra embrace, reaffirming their bond, and Antony vows to continue the fight, capturing their defiant love in the face of looming defeat."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_9",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 9,
+    "location": "Caesar's camp near Alexandria, Egypt",
+    "scene_summary": "Enobarbus, guilt-ridden over betraying Antony, dies of a broken heart in Caesar's camp. The sentries discover his body, and the scene underscores the tragedy of loyalty and betrayal, contrasting with Antony's ongoing struggle."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_10",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 10,
+    "location": "A field between the camps near Alexandria, Egypt",
+    "scene_summary": "Antony observes Caesar's forces preparing for a naval battle, realizing the fight will be at sea. He steels himself for the challenge, aware of the stakes, in a brief scene that transitions to the next phase of conflict."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_11",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 11,
+    "location": "Another part of the field near Alexandria, Egypt",
+    "scene_summary": "Caesar positions his troops strategically, confident of victory. This short scene emphasizes his tactical superiority and sets the stage for the decisive battle."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_12",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 12,
+    "location": "A hill near Alexandria, Egypt",
+    "scene_summary": "Antony witnesses Cleopatra's ships surrender to Caesar without a fight, believing she has betrayed him. Devastated, he denounces her and prepares to face his end, marking a low point in their relationship and his fortunes."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_13",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 13,
+    "location": "A room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Cleopatra, unaware of Antony's accusations, sends Mardian to tell him she has killed herself, hoping to regain his love. The plan backfires when Antony, hearing of her supposed death, resolves to die as well, deepening the tragic misunderstanding."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_14",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 14,
+    "location": "Another room in Cleopatra's palace, Alexandria, Egypt",
+    "scene_summary": "Antony, believing Cleopatra dead, asks Eros to kill him, but Eros kills himself instead. Antony stabs himself, mortally wounded. He learns Cleopatra is alive and is carried to her monument, where they reconcile in a poignant farewell. Antony dies in her arms, leaving Cleopatra to face Caesar alone."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_4_15",
+    "title": "Antony and Cleopatra",
+    "act": 4,
+    "scene": 15,
+    "location": "Cleopatra's monument, Alexandria, Egypt",
+    "scene_summary": "Cleopatra, mourning Antony, refuses to leave her monument to avoid capture by Caesar. She resolves to die rather than be paraded in Rome. Dolabella, sent by Caesar, warns her of Caesar's plans. Cleopatra prepares for her death, joined by Charmian and Iras, asserting her dignity and love for Antony."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_5_1",
+    "title": "Antony and Cleopatra",
+    "act": 5,
+    "scene": 1,
+    "location": "Caesar's camp near Alexandria, Egypt",
+    "scene_summary": "Caesar learns of Antony's death and expresses admiration for his rival, though he plans to consolidate power. Cleopatra sends a message requesting terms, and Caesar sends Dolabella to negotiate, intending to take her to Rome as a captive. The scene reveals Caesar's political pragmatism."
+  },
+  {
+    "scene_id": "antony_and_cleopatra_5_2",
+    "title": "Antony and Cleopatra",
+    "act": 5,
+    "scene": 2,
+    "location": "Cleopatra's monument, Alexandria, Egypt",
+    "scene_summary": "Cleopatra negotiates with Dolabella, who secretly warns her of Caesar's plan to parade her in Rome. Caesar visits, offering false assurances, but Cleopatra remains defiant. After he leaves, she prepares for suicide, receiving a basket of asps from a Clown. Dressed in royal attire, she applies the asps and dies, followed by Charmian and Iras. Caesar discovers her death, orders a grand funeral for her and Antony, and reflects on their legacy, ending the play with a mix of triumph and tragedy."
+  }
+]

@@ -1,0 +1,146 @@
+{
+  "title": "Pericles, Prince of Tyre",
+  "play_summary": "Pericles, Prince of Tyre, embarks on a series of adventures, facing shipwrecks, loss, and betrayal, believing his wife Thaisa and daughter Marina dead. Through miraculous reunions guided by fate, he is joyfully reunited with his family in a tale of resilience and redemption.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "A poet named Gower introduces the story, a tale that begins with King Antiochus. The King is protecting an incestuous relationship with his daughter by promising marriage to her for anyone who can solve a (seemingly) impossible riddle. If the riddle is guessed incorrectly, the suitor will die. After many men fail, the young Prince Pericles of Tyre guesses the truth. He reveals the inappropriate relationship, and he flees for his life. King Antiochus instructs his servant Thaliart to murder Pericles. Thaliart follows him back to Tyre.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room in Antiochus's palace, Antioch, Syria",
+          "scene_summary": "Pericles, seeking Antiochus's daughter, must solve a riddle to win her or die. He deciphers it, revealing Antiochus's incest, but diplomatically conceals his knowledge. Antiochus, suspecting Pericles knows, delays the marriage and plots his death. Pericles, warned by the riddle's danger, flees, establishing his perilous journey."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Pericles's palace, Tyre",
+          "scene_summary": "Pericles, back in Tyre, fears Antiochus's pursuit and confides in Helicanus, his loyal advisor. Helicanus urges him to travel abroad to avoid danger. Pericles sails to Tarsus, delegating rule to Helicanus, showing his caution and setting up his wanderings."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Cleon's palace, Tarsus",
+          "scene_summary": "Thaliard, Antiochus's assassin, arrives in Tyre but learns Pericles has fled. Meanwhile, in Tarsus, Cleon, the governor, and his wife, Dionyza, lament their city's famine. A messenger announces Pericles's arrival with aid, briefly noting Thaliard's failed mission, transitioning to Pericles's generosity."
+        },
+        {
+          "scene": 4,
+          "location": "A room in Cleon's palace, Tarsus",
+          "scene_summary": "Cleon and Dionyza welcome Pericles, who brings grain to relieve Tarsus's famine. Grateful, they host him, but Pericles, restless, plans to travel again, fearing Antiochus. The scene establishes Pericles's heroism and the pattern of his sea-bound adventures."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Helicanus sends news to Pericles, warning him of Thaliart, so the Prince sets sail again. However, his ship is wrecked during storms at sea. Pericles is cast ashore, recovering to find a group of fishermen. From them, he learns of a forthcoming festival to celebrate the birthday of Thaisa, daughter of King Simonides. During this conversation, they also tell him of a jousting contest. The champion will win the hand of Thaisa (giving away one's daughter during a contest must have been very fashionable back then). The fishermen bring up their fishing nets to find a rusty suit of armour, which Pericles takes to contend for the princess.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A shore near Pentapolis",
+          "scene_summary": "Pericles, shipwrecked, is rescued by fishermen who mock courtly life. They give him a rusty armor from their nets, and Pericles resolves to join a tournament at Simonides's court to win honor, showing his resilience and humility."
+        },
+        {
+          "scene": 2,
+          "location": "A hall in Simonides's palace, Pentapolis",
+          "scene_summary": "Simonides and his daughter, Thaisa, watch knights, including Pericles, present their shields in a tournament. Pericles, in poor armor, wins, impressing Thaisa, who favors him. Simonides honors him, sparking their mutual attraction, advancing the romantic subplot."
+        },
+        {
+          "scene": 3,
+          "location": "A banqueting hall in Simonides's palace, Pentapolis",
+          "scene_summary": "At a feast, Pericles, modest, converses with Thaisa, who admires him. Simonides tests Pericles's humility, noting Thaisa's affection. The court dances, and Pericles's grace wins favor, deepening the romance and his rise in Pentapolis."
+        },
+        {
+          "scene": 4,
+          "location": "A room in Cleon's palace, Tarsus",
+          "scene_summary": "Helicanus informs Escanes in Tyre of Antiochus's death. Two lords urge Helicanus to rule, but he remains loyal to Pericles, refusing the crown. The brief scene ensures Tyre's stability and removes the Antioch threat, focusing on Pericles's journey."
+        },
+        {
+          "scene": 5,
+          "location": "A room in Simonides's palace, Pentapolis",
+          "scene_summary": "Simonides, feigning anger, shows Pericles a letter from Thaisa confessing her love, testing him. Pericles admits his feelings, and Simonides approves their marriage, revealing his ruse. They wed, and Thaisa is soon pregnant, concluding the Pentapolis arc with joy."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "During storms at sea, Thaisa seemingly dies giving birth to a daughter. Pressured by the crew, Pericles allows Thaisa’s sealed coffin to be cast overboard. Pericles changes course to land at Tarsus. He leaves the newborn baby, named Marina, along with her nurse Lichorida, in the care of his friends, Cleon and Dionyza, before returning to Tyre.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "On a ship at sea",
+          "scene_summary": "During a storm, Thaisa gives birth to Marina but appears to die. Pericles, grieving, names the child Marina. Sailors insist Thaisa's body be thrown overboard to calm the storm, and Pericles complies, placing her in a chest. He redirects to Tarsus, marking the tragic turn."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Cerimon's house, Ephesus",
+          "scene_summary": "Cerimon, a physician, revives Thaisa, found in the chest, using his skill. Thaisa, believing Pericles dead, resolves to join a temple of Diana, becoming a votaress. Cerimon's kindness saves her, introducing a hopeful twist to the separation."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Cleon's palace, Tarsus",
+          "scene_summary": "Pericles entrusts Marina to Cleon and Dionyza in Tarsus, too grieved to raise her. He vows not to cut his hair until Marina weds and sails for Tyre. Cleon promises to care for Marina, setting up her upbringing and Pericles's withdrawal."
+        },
+        {
+          "scene": 4,
+          "location": "A temple in Ephesus",
+          "scene_summary": "Thaisa, in Diana's temple, commits to a chaste life, believing her family lost. The brief scene confirms her survival and spiritual retreat, paralleling Pericles's grief and foreshadowing their reunion."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "The poet Gower explains how fifteen years pass as Marina grows up with Cleon’s daughter Philoten. Soon, however, Dionyza becomes jealous on behalf of Philoten of Marina's beauty and plans her murder. Just as Marina is about to be killed, pirates capture the girl and carry her off to Mytilene to be sold as a prostitute. Marina’s reported beauty attracts many men. But she persuades everyone not to violate her virginity. In fact, many men leave resolved to better their lives. Eventually, the owner of the brothel lets her leave to become a waiting maid, developing and using skills in singing, sewing, and dance.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A shore near Tarsus",
+          "scene_summary": "Dionyza orders Leonine to kill Marina, but Marina pleads for mercy. Pirates interrupt, kidnapping Marina to sell in Mytilene. Leonine lies to Dionyza, claiming Marina dead, escalating her danger but sparing her life through chance."
+        },
+        {
+          "scene": 2,
+          "location": "A brothel in Mytilene",
+          "scene_summary": "Pander, Boult, and Bawd buy Marina for their brothel, but her virtue resists corruption. She persuades clients to reform, frustrating the bawds. Boult agrees to find her honest work, highlighting Marina's purity amidst degradation."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Cleon's palace, Tarsus",
+          "scene_summary": "Cleon learns of Marina's “death” and Dionyza's plot, condemning her but agreeing to lie to Pericles. They erect a monument for Marina, deceiving Pericles, who, grief-stricken, withdraws further, underscoring Dionyza's villainy and Pericles's loss."
+        },
+        {
+          "scene": 4,
+          "location": "The stage (Chorus narration)",
+          "scene_summary": "Gower describes Pericles, mourning Marina, sailing aimlessly. Diana appears in a vision, directing him to her temple in Ephesus. Pericles heads there, setting up the reunion, with Gower urging the audience to imagine the journey's end."
+        },
+        {
+          "scene": 5,
+          "location": "A street in Mytilene",
+          "scene_summary": "Two gentlemen, reformed by Marina's virtue, praise her influence outside the brothel. The brief scene reinforces Marina's moral power, contrasting the brothel's corruption and preparing for her rescue."
+        },
+        {
+          "scene": 6,
+          "location": "The brothel in Mytilene",
+          "scene_summary": "Lysimachus, Mytilene's governor, visits the brothel but is swayed by Marina's purity to protect her. He offers her honorable work, and Boult, moved, agrees to help. Marina's virtue triumphs, securing her safety and setting up her meeting with Pericles."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "Pericles initially rejects Marina, but when she tells him her name and the story of her birth at sea, Pericles realises she is his lost daughter. He is overcome with happiness. That night, while he sleeps, he dreams of Diana’s temple at Ephesus. He resolves to give thanks at the temple and sails with Marina. She, meanwhile, has become betrothed to Lysimachus. In Ephesus, Pericles tells his story to the priestess, only to discover that she is his wife, Thaisa. Everyone is joyously reunited, and they return to Tyre. Gower ends the tale with news that Cleon and Dionyza have been killed by an uprising, due to their treatment of Marina.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "On Pericles's ship off Mytilene",
+          "scene_summary": "Lysimachus visits Pericles, catatonic with grief, and brings Marina to cheer him. Marina sings, and her story reveals she's his daughter. They reunite joyfully, and Pericles learns of Lysimachus's suit to Marina. Diana's vision urges him to Ephesus, uniting father and daughter and promising further restoration."
+        },
+        {
+          "scene": 2,
+          "location": "The stage (Chorus narration)",
+          "scene_summary": "Gower briefly describes Pericles's journey to Ephesus, where he'll reunite with Thaisa. He sets up the final scene, emphasizing the family's restoration through divine guidance, transitioning to the climax."
+        },
+        {
+          "scene": 3,
+          "location": "The stage (Chorus narration)",
+          "scene_summary": "Gower concludes, summarizing Pericles's restoration, Cleon and Dionyza's punishment, and the moral of virtue's reward. He bids farewell, reinforcing the play's themes of endurance and providence, closing the episodic tale."
+        }
+      ]
+    }
+  ]
+}

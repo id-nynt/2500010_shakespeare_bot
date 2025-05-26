@@ -1,0 +1,24 @@
+{
+  "total_chunks": 2338,
+  "chunks_by_type": {
+    "scene": 750,
+    "factual": 37,
+    "theme": 226,
+    "summary_play": 36,
+    "summary_act": 166,
+    "summary_scene": 687,
+    "quote": 211,
+    "character_relationship": 225
+  },
+  "processed_timestamp": "2025-05-25T10:51:51.373614",
+  "chunk_types": [
+    "scene",
+    "factual",
+    "theme",
+    "summary_play",
+    "summary_act",
+    "summary_scene",
+    "quote",
+    "character_relationship"
+  ]
+}

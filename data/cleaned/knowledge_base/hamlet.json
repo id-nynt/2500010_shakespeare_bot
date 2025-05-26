@@ -1,0 +1,168 @@
+{
+  "title": "Hamlet, Prince of Denmark",
+  "full_title": "The Tragedy of Hamlet, Prince of Denmark",
+  "category": "tragedy",
+  "year": "1600-1601",
+  "setting": "Elsinore Castle, Denmark",
+  "main_characters": [
+    "Hamlet",
+    "Claudius",
+    "Gertrude",
+    "Ophelia",
+    "Polonius",
+    "Horatio",
+    "Laertes",
+    "Ghost of Hamlet's father"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Hamlet",
+      "description": "Prince of Denmark, seeks revenge"
+    },
+    {
+      "name": "Claudius",
+      "description": "King of Denmark, Hamlet's uncle, murderer"
+    },
+    {
+      "name": "Gertrude",
+      "description": "Queen of Denmark, Hamlet's mother"
+    },
+    {
+      "name": "Ophelia",
+      "description": "Polonius's daughter, Hamlet's love interest"
+    },
+    {
+      "name": "Polonius",
+      "description": "King's advisor, Ophelia's father"
+    },
+    {
+      "name": "Horatio",
+      "description": "Hamlet's loyal friend and confidant"
+    },
+    {
+      "name": "Laertes",
+      "description": "Polonius's son, seeks vengeance"
+    },
+    {
+      "name": "Ghost of Hamlet's father",
+      "description": "Spirit, urges Hamlet to avenge murder"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Revenge",
+      "theme_explanation": "Hamlet’s quest to avenge his father’s murder by Claudius drives the plot, exploring the moral and psychological costs of vengeance."
+    },
+    {
+      "theme": "Madness",
+      "theme_explanation": "Hamlet’s feigned madness and Ophelia’s descent into genuine insanity highlight the thin line between sanity and madness under grief and betrayal."
+    },
+    {
+      "theme": "Corruption",
+      "theme_explanation": "Claudius’s murder and deceit taint Denmark, symbolizing moral and political decay that spreads through the court."
+    },
+    {
+      "theme": "Death",
+      "theme_explanation": "Death permeates the play, from the Ghost’s appearance to the tragic finale, prompting reflections on mortality and the afterlife."
+    },
+    {
+      "theme": "The impossibility of certainty",
+      "theme_explanation": "Hamlet struggles with uncertainty about the Ghost’s truth and his own actions, reflecting the difficulty of knowing truth in a deceptive world."
+    },
+    {
+      "theme": "Action vs inaction",
+      "theme_explanation": "Hamlet’s indecision and procrastination contrast with decisive actions of others, exploring the consequences of delayed revenge."
+    },
+    {
+      "theme": "Appearance vs reality",
+      "theme_explanation": "Deceptive appearances, like Claudius’s false virtue and Hamlet’s feigned madness, underscore the challenge of discerning truth from pretense."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "To be, or not to be, that is the question",
+      "speaker": "Hamlet",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Hamlet contemplates life, death, and suicide in this soliloquy, weighing the merits of enduring suffering versus ending his existence."
+    },
+    {
+      "quote": "The lady doth protest too much, methinks",
+      "speaker": "Gertrude",
+      "act": 3,
+      "scene": 2,
+      "explanation": "Gertrude comments on the player's exaggerated performance, unknowingly highlighting the theme of deceptive appearances in the play."
+    },
+    {
+      "quote": "Though this be madness, yet there is method in't",
+      "speaker": "Polonius",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Polonius observes that Hamlet's apparent madness may be purposeful, hinting at Hamlet's strategic feigned insanity."
+    },
+    {
+      "quote": "There are more things in heaven and earth, Horatio, than are dreamt of in your philosophy",
+      "speaker": "Hamlet",
+      "act": 1,
+      "scene": 5,
+      "explanation": "Hamlet suggests to Horatio that the supernatural (like the Ghost) exceeds rational understanding, opening the play's exploration of mystery."
+    },
+    {
+      "quote": "Brevity is the soul of wit",
+      "speaker": "Polonius",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Ironically, the verbose Polonius praises concise speech, underscoring his own foolishness and the play's use of wit."
+    },
+    {
+      "quote": "What a piece of work is a man!",
+      "speaker": "Hamlet",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Hamlet marvels at humanity’s potential yet despairs at its flaws, highlighting his conflicted view of existence."
+    },
+    {
+      "quote": "There is nothing either good or bad, but thinking makes it so",
+      "speaker": "Hamlet",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Hamlet suggests that perception shapes morality, revealing his philosophical depth and mental turmoil."
+    },
+    {
+      "quote": "Get thee to a nunnery.",
+      "speaker": "Hamlet",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Hamlet, in a fit of despair and misogyny, urges Ophelia to become a nun, either to avoid bearing sinful children or to protect her from the corruption of the world."
+    },
+    {
+      "quote": "Frailty, thy name is woman.",
+      "speaker": "Hamlet",
+      "act": 1,
+      "scene": 2,
+      "explanation": "Hamlet expresses his profound disappointment and anger at his mother's hasty marriage to his uncle, generalizing his frustration to all women as inherently weak or fickle."
+    },
+    {
+      "quote": "To thine own self be true, and it must follow, as the night the day, thou canst not then be false to any man.",
+      "speaker": "Polonius",
+      "act": 1,
+      "scene": 3,
+      "explanation": "Polonius advises his son Laertes to be authentic and honest with himself, implying that self-integrity is the foundation for being truthful and honorable to others."
+    },
+    {
+      "quote": "Neither a borrower nor a lender be; for loan oft loses both itself and friend, and borrowing dulls the edge of husbandry.",
+      "speaker": "Polonius",
+      "act": 1,
+      "scene": 3,
+      "explanation": "Polonius advises Laertes against borrowing or lending money, arguing that it can lead to financial loss and strain friendships, and that borrowing can hinder one's ability to manage their own affairs responsibly."
+    },
+    {
+      "quote": "We know what we are, but know not what we may be.",
+      "speaker": "Ophelia",
+      "act": 4,
+      "scene": 5,
+      "explanation": "Ophelia, in her madness, speaks of the limitations of human self-knowledge and the unpredictable nature of the future, highlighting her loss of control and understanding."
+    }
+  ],
+  "summary": "The play depicts Prince Hamlet's revenge against his uncle Claudius, who murdered Hamlet's father, the king, and then took the throne and married Hamlet's mother. Throughout the play, Hamlet struggles with his perceived duty to avenge his father's death while wrestling with moral questions about murder, suicide, and the afterlife."
+}

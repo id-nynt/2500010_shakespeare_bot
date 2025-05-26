@@ -1,0 +1,140 @@
+{
+  "title": "Romeo and Juliet",
+  "full_title": "The Tragedy of Romeo and Juliet",
+  "category": "tragedy",
+  "year": "1595-1596",
+  "setting": "Verona, Italy",
+  "main_characters": [
+    "Romeo Montague",
+    "Juliet Capulet",
+    "Mercutio",
+    "Tybalt",
+    "Friar Lawrence",
+    "Nurse",
+    "Benvolio",
+    "Paris"
+  ],
+  "character_descriptions": [
+    {
+      "name": "Romeo Montague",
+      "description": "Montague heir, loves Juliet"
+    },
+    {
+      "name": "Juliet Capulet",
+      "description": "Capulet daughter, loves Romeo"
+    },
+    {
+      "name": "Mercutio",
+      "description": "Romeo's friend, kinsman to Prince"
+    },
+    {
+      "name": "Tybalt",
+      "description": "Juliet's cousin, aggressive Capulet"
+    },
+    {
+      "name": "Friar Lawrence",
+      "description": "Priest, marries Romeo and Juliet"
+    },
+    {
+      "name": "Nurse",
+      "description": "Juliet's caretaker, aids lovers"
+    },
+    {
+      "name": "Benvolio",
+      "description": "Romeo's cousin, seeks peace"
+    },
+    {
+      "name": "Paris",
+      "description": "Nobleman, seeks to marry Juliet"
+    }
+  ],
+  "themes": [
+    {
+      "theme": "Love",
+      "theme_explanation": "Romeo and Juliet’s passionate love defies their families’ feud, driving the plot but leading to their tragic deaths."
+    },
+    {
+      "theme": "Fate",
+      "theme_explanation": "The lovers are described as ‘star-crossed,’ suggesting fate orchestrates their doomed romance through coincidences and misunderstandings."
+    },
+    {
+      "theme": "Violence",
+      "theme_explanation": "The feud between Montagues and Capulets fuels violent clashes, like Tybalt’s killing of Mercutio, escalating the tragedy."
+    },
+    {
+      "theme": "Youth",
+      "theme_explanation": "The impulsive, passionate actions of young characters like Romeo and Juliet highlight the recklessness and intensity of youth."
+    },
+    {
+      "theme": "Family rivalry",
+      "theme_explanation": "The deep-seated feud between the Montagues and Capulets creates the central conflict, preventing the lovers’ union until their deaths reconcile the families."
+    },
+    {
+      "theme": "Individual vs society",
+      "theme_explanation": "Romeo and Juliet’s love challenges societal norms and family expectations, highlighting the tension between personal desires and social constraints."
+    },
+    {
+      "theme": "Time",
+      "theme_explanation": "The rapid pace of events, unfolding over a few days, underscores how haste and impulsive decisions accelerate the lovers’ tragic fate."
+    }
+  ],
+  "famous_quotes": [
+    {
+      "quote": "What's in a name? That which we call a rose by any other name would smell as sweet",
+      "speaker": "Juliet",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Juliet argues that names (like Montague or Capulet) are meaningless, emphasizing love's transcendence over family feuds."
+    },
+    {
+      "quote": "O Romeo, Romeo, wherefore art thou Romeo?",
+      "speaker": "Juliet",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Juliet laments that Romeo is a Montague, her family's enemy, wishing he could shed his name for their love."
+    },
+    {
+      "quote": "A plague o' both your houses!",
+      "speaker": "Mercutio",
+      "act": 3,
+      "scene": 1,
+      "explanation": "Dying, Mercutio curses the Montagues and Capulets, blaming their feud for his death and foreshadowing tragedy."
+    },
+    {
+      "quote": "For never was a story of more woe than this of Juliet and her Romeo",
+      "speaker": "Prince",
+      "act": 5,
+      "scene": 3,
+      "explanation": "The Prince summarizes the tragic loss of Romeo and Juliet, highlighting the devastating cost of the feud."
+    },
+    {
+      "quote": "Thus with a kiss I die",
+      "speaker": "Romeo",
+      "act": 5,
+      "scene": 3,
+      "explanation": "Romeo speaks his final words as he poisons himself beside Juliet, believing her dead, sealing their tragic fate."
+    },
+    {
+      "quote": "My only love sprung from my only hate!",
+      "speaker": "Juliet",
+      "act": 1,
+      "scene": 5,
+      "explanation": "Juliet discovers Romeo is a Montague, expressing the painful irony that her love comes from her family’s enemy."
+    },
+    {
+      "quote": "These violent delights have violent ends",
+      "speaker": "Friar Laurence",
+      "act": 2,
+      "scene": 6,
+      "explanation": "Friar Laurence warns that intense passions, like Romeo and Juliet’s, often lead to disastrous consequences."
+    },
+    {
+      "quote": "What light through yonder window breaks.",
+      "speaker": "Romeo",
+      "act": 2,
+      "scene": 2,
+      "explanation": "Romeo, seeing Juliet appear on her balcony, likens her beauty to the dawn, signaling his intense adoration and the beginning of their passionate encounter."
+    }
+  ],
+  "summary": "Set in Verona, Italy, this tragic love story follows Romeo and Juliet, young lovers from feuding families, the Montagues and Capulets. After meeting at a Capulet feast, they secretly marry, but a sequence of misunderstandings and violent confrontations leads to their tragic deaths, ultimately reconciling their feuding families."
+}

@@ -1,0 +1,2750 @@
+[
+  {
+    "title": "All's Well That Ends Well",
+    "category": "comedy",
+    "year": "1604-1605",
+    "setting": "France and Italy",
+    "main_characters": [
+      "Helena",
+      "Bertram",
+      "Countess of Roussillon",
+      "King of France",
+      "Parolles",
+      "Diana"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Helena",
+        "description": "Physician's daughter, loves Bertram, heals king"
+      },
+      {
+        "name": "Bertram",
+        "description": "Nobleman, reluctant husband of Helena"
+      },
+      {
+        "name": "Countess of Roussillon",
+        "description": "Bertram's mother, supports Helena"
+      },
+      {
+        "name": "King of France",
+        "description": "Ruler, healed by Helena, grants marriage"
+      },
+      {
+        "name": "Parolles",
+        "description": "Bertram's boastful, disloyal companion"
+      },
+      {
+        "name": "Diana",
+        "description": "Young woman, aids Helena's plan"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Love",
+        "theme_explanation": "The play explores unrequited love through Helena’s persistent pursuit of Bertram, highlighting the complexities of affection and devotion despite social and personal obstacles."
+      },
+      {
+        "theme": "Deception",
+        "theme_explanation": "Deception drives the plot, as Helena uses cunning strategies, like the bed-trick, to win Bertram, while Parolles’s false bravado exposes his disloyalty."
+      },
+      {
+        "theme": "Gender roles",
+        "theme_explanation": "Helena defies traditional gender roles by actively pursuing her desires and using her intelligence to achieve her goals, challenging societal expectations of women."
+      },
+      {
+        "theme": "Class and merit",
+        "theme_explanation": "The play examines social hierarchy, as Helena, a low-born woman, proves her worth through merit, ultimately overcoming class barriers to marry Bertram."
+      },
+      {
+        "theme": "Healing",
+        "theme_explanation": "Healing is central, as Helena’s medical skill cures the King, symbolizing her ability to mend personal and social divides through wisdom and action."
+      }
+    ]
+  },
+  {
+    "title": "Antony and Cleopatra",
+    "category": "tragedy",
+    "year": "1606",
+    "setting": "Rome and Egypt",
+    "main_characters": [
+      "Mark Antony",
+      "Cleopatra",
+      "Octavius Caesar",
+      "Enobarbus",
+      "Charmian"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Mark Antony",
+        "description": "Roman general, lover of Cleopatra"
+      },
+      {
+        "name": "Cleopatra",
+        "description": "Queen of Egypt, Antony's lover"
+      },
+      {
+        "name": "Octavius Caesar",
+        "description": "Roman leader, Antony's rival"
+      },
+      {
+        "name": "Enobarbus",
+        "description": "Antony's loyal officer, defects later"
+      },
+      {
+        "name": "Charmian",
+        "description": "Cleopatra's devoted attendant"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Love vs. Duty",
+        "theme_explanation": "Antony’s passionate love for Cleopatra conflicts with his duties as a Roman general, leading to his downfall as he prioritizes desire over responsibility."
+      },
+      {
+        "theme": "Politics",
+        "theme_explanation": "The play explores power struggles and political maneuvering, as Antony’s alliance with Cleopatra undermines his position against Octavius Caesar’s rising dominance."
+      },
+      {
+        "theme": "Honor",
+        "theme_explanation": "Honor shapes Antony’s identity as a warrior, but his love for Cleopatra and eventual defeat challenge his sense of Roman virtue and loyalty."
+      },
+      {
+        "theme": "East vs. West",
+        "theme_explanation": "The cultural clash between Rome’s discipline and Egypt’s sensuality highlights the tension between Antony’s Roman identity and his immersion in Cleopatra’s world."
+      }
+    ]
+  },
+  {
+    "title": "As You Like It",
+    "category": "comedy",
+    "year": "1599-1600",
+    "setting": "Court and Forest of Arden",
+    "main_characters": [
+      "Rosalind",
+      "Orlando",
+      "Celia",
+      "Duke Senior",
+      "Duke Frederick",
+      "Jaques",
+      "Touchstone",
+      "Oliver",
+      "Silvius",
+      "Phebe"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Rosalind",
+        "description": "Duke Senior's daughter, disguises as Ganymede"
+      },
+      {
+        "name": "Orlando",
+        "description": "Young noble, loves Rosalind"
+      },
+      {
+        "name": "Celia",
+        "description": "Duke Frederick's daughter, Rosalind's cousin"
+      },
+      {
+        "name": "Duke Senior",
+        "description": "Exiled duke, lives in Arden"
+      },
+      {
+        "name": "Duke Frederick",
+        "description": "Usurping duke, banishes Rosalind"
+      },
+      {
+        "name": "Jaques",
+        "description": "Melancholy lord, follows Duke Senior"
+      },
+      {
+        "name": "Touchstone",
+        "description": "Court fool, joins Rosalind's exile"
+      },
+      {
+        "name": "Oliver",
+        "description": "Orlando's brother, initially hostile"
+      },
+      {
+        "name": "Silvius",
+        "description": "Shepherd, loves Phebe"
+      },
+      {
+        "name": "Phebe",
+        "description": "Shepherdess, loves Ganymede"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Love",
+        "theme_explanation": "Love, both romantic and familial, drives the play, as Rosalind and Orlando’s romance and other pairings find harmony in the Forest of Arden."
+      },
+      {
+        "theme": "Nature vs court",
+        "theme_explanation": "The Forest of Arden offers a pastoral escape from the corrupt court, where characters find authenticity and personal growth."
+      },
+      {
+        "theme": "Gender roles",
+        "theme_explanation": "Rosalind’s disguise as Ganymede challenges gender norms, allowing her to explore and manipulate romantic dynamics with wit and agency."
+      },
+      {
+        "theme": "Transformation",
+        "theme_explanation": "Characters undergo emotional and social transformations in Arden, such as Oliver’s redemption and Orlando’s growth, reflecting the forest’s restorative power."
+      },
+      {
+        "theme": "Pastoral life",
+        "theme_explanation": "The idealized pastoral life in Arden contrasts with courtly corruption, offering a space for reflection, love, and reconciliation."
+      },
+      {
+        "theme": "Time",
+        "theme_explanation": "Time in Arden moves fluidly, allowing characters to reflect and transform, contrasting with the rigid constraints of court life."
+      }
+    ]
+  },
+  {
+    "title": "The Comedy of Errors",
+    "category": "comedy",
+    "year": "1594",
+    "setting": "Ephesus",
+    "main_characters": [
+      "Antipholus of Syracuse",
+      "Antipholus of Ephesus",
+      "Dromio of Syracuse",
+      "Dromio of Ephesus",
+      "Adriana",
+      "Luciana"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Antipholus of Syracuse",
+        "description": "Twin merchant, searches for brother"
+      },
+      {
+        "name": "Antipholus of Ephesus",
+        "description": "Twin merchant, resident of Ephesus"
+      },
+      {
+        "name": "Dromio of Syracuse",
+        "description": "Servant to Antipholus of Syracuse"
+      },
+      {
+        "name": "Dromio of Ephesus",
+        "description": "Servant to Antipholus of Ephesus"
+      },
+      {
+        "name": "Adriana",
+        "description": "Wife of Antipholus of Ephesus"
+      },
+      {
+        "name": "Luciana",
+        "description": "Adriana's sister, courted by Syracuse twin"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Identity",
+        "theme_explanation": "The play explores identity through the confusion caused by two sets of identical twins, questioning individuality and selfhood."
+      },
+      {
+        "theme": "Mistaken identity",
+        "theme_explanation": "Mistaken identities drive the comedic chaos, as characters confuse the twins, leading to humorous misunderstandings and eventual resolution."
+      },
+      {
+        "theme": "Family",
+        "theme_explanation": "The theme of family underscores the twins’ separation and their joyful reunion, emphasizing the bonds that endure despite chaos."
+      },
+      {
+        "theme": "Reunion",
+        "theme_explanation": "The play culminates in the reunion of the separated twins and their family, resolving the chaos and restoring harmony."
+      },
+      {
+        "theme": "Chaos and confusion",
+        "theme_explanation": "Chaos and confusion propel the plot, as mistaken identities create a whirlwind of comedic errors that test relationships and social order."
+      }
+    ]
+  },
+  {
+    "title": "The Tragedy of Coriolanus",
+    "category": "tragedy",
+    "year": "1608-1609",
+    "setting": "Rome and its surrounding territories",
+    "main_characters": [
+      "Caius Martius Coriolanus",
+      "Volumnia",
+      "Menenius Agrippa",
+      "Tullus Aufidius",
+      "Sicinius Velutus",
+      "Junius Brutus",
+      "Virgilia",
+      "Young Martius"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Caius Martius Coriolanus",
+        "description": "Roman general, banished, seeks revenge"
+      },
+      {
+        "name": "Volumnia",
+        "description": "Coriolanus's mother, influences his actions"
+      },
+      {
+        "name": "Menenius Agrippa",
+        "description": "Roman patrician, Coriolanus's ally"
+      },
+      {
+        "name": "Tullus Aufidius",
+        "description": "Volscian general, allies with Coriolanus"
+      },
+      {
+        "name": "Sicinius Velutus",
+        "description": "Tribune, opposes Coriolanus"
+      },
+      {
+        "name": "Junius Brutus",
+        "description": "Tribune, seeks Coriolanus's banishment"
+      },
+      {
+        "name": "Virgilia",
+        "description": "Coriolanus's wife, loyal supporter"
+      },
+      {
+        "name": "Young Martius",
+        "description": "Coriolanus's son, minor role"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Pride",
+        "theme_explanation": "Coriolanus’s excessive pride in his martial valor alienates the plebeians and leads to his banishment and tragic downfall."
+      },
+      {
+        "theme": "Politics",
+        "theme_explanation": "The play explores political power struggles, as Coriolanus’s disdain for the masses clashes with the tribunes’ manipulation of public opinion."
+      },
+      {
+        "theme": "Class conflict",
+        "theme_explanation": "Tensions between the patricians and plebeians drive the conflict, with Coriolanus’s elitism fueling his exile and rebellion against Rome."
+      },
+      {
+        "theme": "Loyalty",
+        "theme_explanation": "Loyalty is tested, as Coriolanus shifts allegiance to the Volscians, yet his loyalty to his mother ultimately sways him to spare Rome."
+      },
+      {
+        "theme": "Mother-son relationships",
+        "theme_explanation": "Volumnia’s influence shapes Coriolanus’s identity and decisions, culminating in her pivotal role in persuading him to abandon his attack on Rome."
+      },
+      {
+        "theme": "Honor",
+        "theme_explanation": "Coriolanus’s rigid sense of honor drives his actions but conflicts with political compromise, leading to his isolation and death."
+      }
+    ]
+  },
+  {
+    "title": "Cymbeline",
+    "category": "tragedy",
+    "year": "1609-1610",
+    "setting": "Ancient Britain and Rome",
+    "main_characters": [
+      "Cymbeline",
+      "Imogen",
+      "Posthumus Leonatus",
+      "Iachimo",
+      "Cloten",
+      "Queen",
+      "Belarius",
+      "Guiderius",
+      "Arviragus"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Cymbeline",
+        "description": "King of Britain, Imogen's father"
+      },
+      {
+        "name": "Imogen",
+        "description": "Cymbeline's daughter, loves Posthumus"
+      },
+      {
+        "name": "Posthumus Leonatus",
+        "description": "Imogen's husband, exiled noble"
+      },
+      {
+        "name": "Iachimo",
+        "description": "Italian noble, deceives Posthumus"
+      },
+      {
+        "name": "Cloten",
+        "description": "Queen's son, seeks Imogen"
+      },
+      {
+        "name": "Queen",
+        "description": "Cymbeline's wife, Imogen's stepmother"
+      },
+      {
+        "name": "Belarius",
+        "description": "Exiled lord, raises king's sons"
+      },
+      {
+        "name": "Guiderius",
+        "description": "Cymbeline's son, raised by Belarius"
+      },
+      {
+        "name": "Arviragus",
+        "description": "Cymbeline's son, raised by Belarius"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Love",
+        "theme_explanation": "Imogen and Posthumus’s steadfast love overcomes trials, deceptions, and separation, driving the play toward reconciliation."
+      },
+      {
+        "theme": "Jealousy",
+        "theme_explanation": "Iachimo’s deception fuels Posthumus’s jealousy, nearly destroying his marriage to Imogen until truth restores their bond."
+      },
+      {
+        "theme": "Forgiveness",
+        "theme_explanation": "The play resolves through forgiveness, as Cymbeline pardons Posthumus and others, uniting the family and nation."
+      },
+      {
+        "theme": "Identity",
+        "theme_explanation": "Disguises and mistaken identities, like Imogen’s as Fidele, create confusion but ultimately reveal true selves and loyalties."
+      },
+      {
+        "theme": "Family",
+        "theme_explanation": "Family ties, tested by betrayal and separation, are restored as Cymbeline reunites with his children and accepts Posthumus."
+      },
+      {
+        "theme": "Reconciliation",
+        "theme_explanation": "The play culminates in reconciliation, resolving personal and political conflicts through revelations and forgiveness."
+      }
+    ]
+  },
+  {
+    "title": "Hamlet, Prince of Denmark",
+    "category": "tragedy",
+    "year": "1600-1601",
+    "setting": "Elsinore Castle, Denmark",
+    "main_characters": [
+      "Hamlet",
+      "Claudius",
+      "Gertrude",
+      "Ophelia",
+      "Polonius",
+      "Horatio",
+      "Laertes",
+      "Ghost of Hamlet's father"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Hamlet",
+        "description": "Prince of Denmark, seeks revenge"
+      },
+      {
+        "name": "Claudius",
+        "description": "King of Denmark, Hamlet's uncle, murderer"
+      },
+      {
+        "name": "Gertrude",
+        "description": "Queen of Denmark, Hamlet's mother"
+      },
+      {
+        "name": "Ophelia",
+        "description": "Polonius's daughter, Hamlet's love interest"
+      },
+      {
+        "name": "Polonius",
+        "description": "King's advisor, Ophelia's father"
+      },
+      {
+        "name": "Horatio",
+        "description": "Hamlet's loyal friend and confidant"
+      },
+      {
+        "name": "Laertes",
+        "description": "Polonius's son, seeks vengeance"
+      },
+      {
+        "name": "Ghost of Hamlet's father",
+        "description": "Spirit, urges Hamlet to avenge murder"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "theme_explanation": "Hamlet’s quest to avenge his father’s murder by Claudius drives the plot, exploring the moral and psychological costs of vengeance."
+      },
+      {
+        "theme": "Madness",
+        "theme_explanation": "Hamlet’s feigned madness and Ophelia’s descent into genuine insanity highlight the thin line between sanity and madness under grief and betrayal."
+      },
+      {
+        "theme": "Corruption",
+        "theme_explanation": "Claudius’s murder and deceit taint Denmark, symbolizing moral and political decay that spreads through the court."
+      },
+      {
+        "theme": "Death",
+        "theme_explanation": "Death permeates the play, from the Ghost’s appearance to the tragic finale, prompting reflections on mortality and the afterlife."
+      },
+      {
+        "theme": "The impossibility of certainty",
+        "theme_explanation": "Hamlet struggles with uncertainty about the Ghost’s truth and his own actions, reflecting the difficulty of knowing truth in a deceptive world."
+      },
+      {
+        "theme": "Action vs inaction",
+        "theme_explanation": "Hamlet’s indecision and procrastination contrast with decisive actions of others, exploring the consequences of delayed revenge."
+      },
+      {
+        "theme": "Appearance vs reality",
+        "theme_explanation": "Deceptive appearances, like Claudius’s false virtue and Hamlet’s feigned madness, underscore the challenge of discerning truth from pretense."
+      }
+    ]
+  },
+  {
+    "title": "King Henry IV, the First Part",
+    "category": "history",
+    "year": "1596-1597",
+    "setting": "England, early 15th century",
+    "main_characters": [
+      "King Henry IV",
+      "Prince Hal",
+      "Sir John Falstaff",
+      "Hotspur (Henry Percy)",
+      "Earl of Worcester",
+      "Earl of Northumberland",
+      "Lady Percy"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King Henry IV",
+        "description": "King of England, faces rebellion"
+      },
+      {
+        "name": "Prince Hal",
+        "description": "Heir to throne, proves worth"
+      },
+      {
+        "name": "Sir John Falstaff",
+        "description": "Prince Hal's roguish companion"
+      },
+      {
+        "name": "Hotspur (Henry Percy)",
+        "description": "Rebel leader, Percy family heir"
+      },
+      {
+        "name": "Earl of Worcester",
+        "description": "Rebel noble, Hotspur's uncle"
+      },
+      {
+        "name": "Earl of Northumberland",
+        "description": "Hotspur's father, supports rebellion"
+      },
+      {
+        "name": "Lady Percy",
+        "description": "Hotspur's wife, supports husband"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Honor",
+        "theme_explanation": "Hotspur’s obsession with honor contrasts with Falstaff’s pragmatic avoidance of it, while Hal redefines it through his heroic transformation."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "The struggle for power fuels the rebellion against Henry IV, as the Percys challenge his legitimacy and Hal prepares for kingship."
+      },
+      {
+        "theme": "Rebellion",
+        "theme_explanation": "The Percy rebellion threatens Henry IV’s rule, highlighting political instability and the cost of usurping power."
+      },
+      {
+        "theme": "Father-son relationships",
+        "theme_explanation": "Henry IV’s disappointment in Hal’s waywardness contrasts with their eventual reconciliation, as Hal proves his worth at Shrewsbury."
+      },
+      {
+        "theme": "Maturity",
+        "theme_explanation": "Hal’s journey from reckless youth to responsible heir showcases his growth, culminating in his victory over Hotspur."
+      },
+      {
+        "theme": "Loyalty",
+        "theme_explanation": "Loyalty is tested, as Hal balances allegiance to Falstaff’s crew with his duty to his father and crown."
+      }
+    ]
+  },
+  {
+    "title": "King Henry IV, the Second Part",
+    "category": "history",
+    "year": "1597-1598",
+    "setting": "England, early 15th century",
+    "main_characters": [
+      "King Henry IV",
+      "Prince Hal",
+      "Sir John Falstaff",
+      "Lord Chief Justice",
+      "Archbishop of York",
+      "Earl of Northumberland",
+      "Prince John"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King Henry IV",
+        "description": "King of England, nearing death"
+      },
+      {
+        "name": "Prince Hal",
+        "description": "Heir, becomes King Henry V"
+      },
+      {
+        "name": "Sir John Falstaff",
+        "description": "Prince Hal's companion, later rejected"
+      },
+      {
+        "name": "Lord Chief Justice",
+        "description": "Legal authority, opposes Falstaff"
+      },
+      {
+        "name": "Archbishop of York",
+        "description": "Rebel leader, opposes king"
+      },
+      {
+        "name": "Earl of Northumberland",
+        "description": "Rebel noble, Hotspur's father"
+      },
+      {
+        "name": "Prince John",
+        "description": "Hal's brother, loyal to king"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Power",
+        "theme_explanation": "The struggle for power persists as Henry IV faces rebellion, while Hal prepares to inherit the crown amidst political instability."
+      },
+      {
+        "theme": "Aging",
+        "theme_explanation": "Henry IV’s declining health and Falstaff’s old age highlight the physical and emotional toll of time on leadership and vitality."
+      },
+      {
+        "theme": "Betrayal",
+        "theme_explanation": "Betrayal marks the play, from Northumberland’s abandonment of the rebels to Hal’s rejection of Falstaff upon becoming king."
+      },
+      {
+        "theme": "Redemption",
+        "theme_explanation": "Hal redeems his reputation by embracing royal duty, reconciling with his father, and rejecting his former reckless lifestyle."
+      },
+      {
+        "theme": "Duty",
+        "theme_explanation": "Hal’s acceptance of his royal responsibilities contrasts with the rebels’ defiance, emphasizing the burdens of leadership."
+      },
+      {
+        "theme": "Succession",
+        "theme_explanation": "The transition from Henry IV to Hal as Henry V underscores the challenges of succession and the need to prove legitimacy."
+      }
+    ]
+  },
+  {
+    "title": "The Life of King Henry V",
+    "category": "history",
+    "year": "1599",
+    "setting": "England and France, early 15th century",
+    "main_characters": [
+      "King Henry V",
+      "Chorus",
+      "Duke of Exeter",
+      "Fluellen",
+      "Pistol",
+      "Katherine",
+      "Dauphin of France"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King Henry V",
+        "description": "King of England, leads Agincourt victory"
+      },
+      {
+        "name": "Chorus",
+        "description": "Narrator, guides audience through story"
+      },
+      {
+        "name": "Duke of Exeter",
+        "description": "Henry's uncle, loyal military advisor"
+      },
+      {
+        "name": "Fluellen",
+        "description": "Welsh captain, enforces military discipline"
+      },
+      {
+        "name": "Pistol",
+        "description": "Boastful soldier, Falstaff's former companion"
+      },
+      {
+        "name": "Katherine",
+        "description": "French princess, marries Henry V"
+      },
+      {
+        "name": "Dauphin of France",
+        "description": "French heir, opposes Henry"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Leadership",
+        "theme_explanation": "Henry V’s inspiring leadership unites his army, leading to victory at Agincourt through strategic decisions and motivational rhetoric."
+      },
+      {
+        "theme": "War",
+        "theme_explanation": "The play examines the glory and cost of war, as Henry’s campaign in France brings triumph but also bloodshed and moral questions."
+      },
+      {
+        "theme": "Patriotism",
+        "theme_explanation": "Henry’s rousing speeches foster national pride, rallying diverse English soldiers to fight as a unified ‘band of brothers.’"
+      },
+      {
+        "theme": "Justice",
+        "theme_explanation": "Henry seeks to justify his war with France through legal claims, while his harsh judgments, like executing traitors, reflect his commitment to justice."
+      },
+      {
+        "theme": "Maturity",
+        "theme_explanation": "Henry’s transformation from the reckless Prince Hal to a wise, responsible king showcases his growth into effective leadership."
+      },
+      {
+        "theme": "Diplomacy",
+        "theme_explanation": "Henry’s negotiations, culminating in his marriage to Katherine, highlight diplomacy as a tool to secure peace and unite nations."
+      }
+    ]
+  },
+  {
+    "title": "The Life of Henry the Eighth",
+    "category": "history",
+    "year": "1613",
+    "setting": "England, early 16th century",
+    "main_characters": [
+      "King Henry VIII",
+      "Cardinal Wolsey",
+      "Katherine of Aragon",
+      "Anne Boleyn",
+      "Thomas Cranmer",
+      "Duke of Norfolk",
+      "Duke of Buckingham"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King Henry VIII",
+        "description": "King of England, seeks divorce"
+      },
+      {
+        "name": "Cardinal Wolsey",
+        "description": "Ambitious advisor, falls from power"
+      },
+      {
+        "name": "Katherine of Aragon",
+        "description": "Henry's first wife, faces divorce"
+      },
+      {
+        "name": "Anne Boleyn",
+        "description": "Henry's second wife, bears Elizabeth"
+      },
+      {
+        "name": "Thomas Cranmer",
+        "description": "Archbishop, supports Henry's reforms"
+      },
+      {
+        "name": "Duke of Norfolk",
+        "description": "Noble, opposes Wolsey's influence"
+      },
+      {
+        "name": "Duke of Buckingham",
+        "description": "Noble, executed for treason"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Power",
+        "theme_explanation": "Henry VIII’s quest for control over his marriage and kingdom drives political maneuvers, while Wolsey’s ambition leads to his downfall."
+      },
+      {
+        "theme": "Religion",
+        "theme_explanation": "The conflict between Henry’s desire for divorce and Catholic doctrine sparks religious reform, shaping England’s break with Rome."
+      },
+      {
+        "theme": "Marriage",
+        "theme_explanation": "Henry’s divorce from Katherine and marriage to Anne Boleyn highlight the personal and political stakes of royal unions."
+      },
+      {
+        "theme": "Politics",
+        "theme_explanation": "Court intrigues, such as Wolsey’s schemes and Norfolk’s opposition, reveal the treacherous dynamics of political power."
+      },
+      {
+        "theme": "Succession",
+        "theme_explanation": "The birth of Elizabeth secures Henry’s dynasty, emphasizing the critical role of succession in stabilizing the monarchy."
+      },
+      {
+        "theme": "Justice",
+        "theme_explanation": "The play questions justice through Buckingham’s execution and Katherine’s trial, exposing the influence of power on legal outcomes."
+      }
+    ]
+  },
+  {
+    "title": "King Henry VI, the first part",
+    "category": "history",
+    "year": "1591-1592",
+    "setting": "England and France, 15th century",
+    "main_characters": [
+      "King Henry VI",
+      "Joan of Arc",
+      "Talbot",
+      "Duke of Gloucester",
+      "Cardinal Beaufort",
+      "Margaret of Anjou",
+      "Duke of York"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King Henry VI",
+        "description": "Young king of England, weak ruler"
+      },
+      {
+        "name": "Joan of Arc",
+        "description": "French leader, inspires resistance"
+      },
+      {
+        "name": "Talbot",
+        "description": "English general, fights for France"
+      },
+      {
+        "name": "Duke of Gloucester",
+        "description": "Henry's uncle, protects crown"
+      },
+      {
+        "name": "Cardinal Beaufort",
+        "description": "Ambitious cleric, rivals Gloucester"
+      },
+      {
+        "name": "Margaret of Anjou",
+        "description": "French noble, marries Henry VI"
+      },
+      {
+        "name": "Duke of York",
+        "description": "Noble, claims throne, stirs discord"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "War",
+        "theme_explanation": "The Hundred Years’ War drives the conflict, as England battles to retain French territories amidst internal strife and French resistance."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "Power struggles between nobles like York and Gloucester destabilize Henry VI’s weak rule, foreshadowing the Wars of the Roses."
+      },
+      {
+        "theme": "Religion",
+        "theme_explanation": "Religious fervor, embodied by Joan of Arc’s divine claims and Cardinal Beaufort’s ambition, influences political and military conflicts."
+      },
+      {
+        "theme": "Patriotism",
+        "theme_explanation": "Talbot’s heroic efforts and Joan’s leadership inspire patriotic zeal, contrasting with internal English divisions that weaken the nation."
+      },
+      {
+        "theme": "Factionalism",
+        "theme_explanation": "Rivalries between York and Lancaster factions sow discord, undermining Henry VI’s reign and setting the stage for civil war."
+      },
+      {
+        "theme": "Prophecy",
+        "theme_explanation": "Joan’s visions and omens shape the narrative, suggesting a divine influence on the war’s outcome and England’s fate."
+      }
+    ]
+  },
+  {
+    "title": "King Henry VI, the second part",
+    "category": "history",
+    "year": "1590-1591",
+    "setting": "England, 15th century",
+    "main_characters": [
+      "King Henry VI",
+      "Queen Margaret",
+      "Duke of York",
+      "Duke of Suffolk",
+      "Jack Cade",
+      "Humphrey, Duke of Gloucester",
+      "Cardinal Beaufort"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King Henry VI",
+        "description": "Weak king, struggles with factions"
+      },
+      {
+        "name": "Queen Margaret",
+        "description": "Henry's wife, seeks power"
+      },
+      {
+        "name": "Duke of York",
+        "description": "Noble, claims throne, leads rebellion"
+      },
+      {
+        "name": "Duke of Suffolk",
+        "description": "Margaret's ally, plots against Gloucester"
+      },
+      {
+        "name": "Jack Cade",
+        "description": "Rebel leader, incites uprising"
+      },
+      {
+        "name": "Humphrey, Duke of Gloucester",
+        "description": "Henry's uncle, targeted by rivals"
+      },
+      {
+        "name": "Cardinal Beaufort",
+        "description": "Ambitious cleric, conspires against Gloucester"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Civil war",
+        "theme_explanation": "Rival factions vying for power under Henry VI’s weak rule escalate tensions, foreshadowing the Wars of the Roses."
+      },
+      {
+        "theme": "Ambition",
+        "theme_explanation": "The Duke of York’s and Queen Margaret’s ambitions for control drive political conspiracies and rebellions, destabilizing the kingdom."
+      },
+      {
+        "theme": "Justice",
+        "theme_explanation": "The play questions justice as nobles like Gloucester face unjust accusations, while Cade’s rebellion seeks a distorted form of social equity."
+      },
+      {
+        "theme": "Rebellion",
+        "theme_explanation": "Jack Cade’s uprising and York’s claim to the throne highlight widespread discontent with Henry’s ineffective governance."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "Struggles for power among nobles and the crown fuel betrayals and violence, exposing the fragility of Henry’s rule."
+      },
+      {
+        "theme": "Betrayal",
+        "theme_explanation": "Betrayals, such as Suffolk’s and Beaufort’s plots against Gloucester, underscore the treacherous political landscape of the court."
+      }
+    ]
+  },
+  {
+    "title": "King Henry VI, the third part",
+    "category": "history",
+    "year": "1591-1592",
+    "setting": "England, 15th century",
+    "main_characters": [
+      "King Henry VI",
+      "Queen Margaret",
+      "Richard, Duke of York",
+      "Edward IV",
+      "Richard (later Richard III)",
+      "Warwick",
+      "Clarence"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King Henry VI",
+        "description": "Deposed king, seeks to reclaim throne"
+      },
+      {
+        "name": "Queen Margaret",
+        "description": "Henry's wife, leads Lancaster forces"
+      },
+      {
+        "name": "Richard, Duke of York",
+        "description": "Yorkist leader, claims crown"
+      },
+      {
+        "name": "Edward IV",
+        "description": "Yorkist king, defeats Lancasters"
+      },
+      {
+        "name": "Richard (later Richard III)",
+        "description": "Yorkist, schemes for power"
+      },
+      {
+        "name": "Warwick",
+        "description": "Noble, shifts allegiance, influences war"
+      },
+      {
+        "name": "Clarence",
+        "description": "Edward's brother, betrays then rejoins York"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Civil war",
+        "theme_explanation": "The Wars of the Roses pit York against Lancaster, tearing England apart with relentless battles and shifting allegiances."
+      },
+      {
+        "theme": "Revenge",
+        "theme_explanation": "Revenge fuels the cycle of violence, as Margaret and Richard seek retribution for personal and political losses."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "The relentless pursuit of the crown by Yorkists and Lancastrians destabilizes the realm, with power gained through betrayal and bloodshed."
+      },
+      {
+        "theme": "Loyalty",
+        "theme_explanation": "Loyalty is fragile, as figures like Warwick and Clarence switch sides, prioritizing ambition over steadfast allegiance."
+      },
+      {
+        "theme": "Betrayal",
+        "theme_explanation": "Betrayals, such as Clarence’s defection and Warwick’s turn against Edward, drive the conflict and deepen the tragedy."
+      },
+      {
+        "theme": "Ambition",
+        "theme_explanation": "Richard’s ruthless ambition to seize the throne foreshadows his rise, while others’ desires for power fuel the ongoing war."
+      }
+    ]
+  },
+  {
+    "title": "Julius Caesar",
+    "category": "tragedy",
+    "year": "1599",
+    "setting": "Ancient Rome",
+    "main_characters": [
+      "Julius Caesar",
+      "Brutus",
+      "Cassius",
+      "Mark Antony",
+      "Octavius",
+      "Calpurnia",
+      "Portia"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Julius Caesar",
+        "description": "Roman dictator, assassinated by conspirators"
+      },
+      {
+        "name": "Brutus",
+        "description": "Roman noble, leads conspiracy against Caesar"
+      },
+      {
+        "name": "Cassius",
+        "description": "Conspirator, manipulates Brutus against Caesar"
+      },
+      {
+        "name": "Mark Antony",
+        "description": "Caesar's ally, opposes conspirators"
+      },
+      {
+        "name": "Octavius",
+        "description": "Caesar's heir, joins Antony"
+      },
+      {
+        "name": "Calpurnia",
+        "description": "Caesar's wife, warns of danger"
+      },
+      {
+        "name": "Portia",
+        "description": "Brutus's wife, seeks his confidence"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Power",
+        "theme_explanation": "The struggle for power drives the conspiracy against Caesar, revealing its corrupting influence and the instability it creates in Rome."
+      },
+      {
+        "theme": "Ambition",
+        "theme_explanation": "Caesar’s ambition fuels fears of tyranny, while Cassius’s ambition manipulates Brutus, leading to betrayal and civil war."
+      },
+      {
+        "theme": "Honor",
+        "theme_explanation": "Brutus acts out of a sense of honor to protect the Republic, but his honorable intentions lead to tragic consequences."
+      },
+      {
+        "theme": "Fate",
+        "theme_explanation": "Omens and prophecies, like Calpurnia’s warnings, suggest fate’s role, yet characters’ choices shape the tragic outcome."
+      },
+      {
+        "theme": "Public vs private self",
+        "theme_explanation": "Characters like Brutus struggle to reconcile their public duties with private loyalties, leading to internal conflict and betrayal."
+      },
+      {
+        "theme": "Rhetoric",
+        "theme_explanation": "Powerful speeches, like Antony’s funeral oration, manipulate public opinion, highlighting rhetoric’s role in shaping political outcomes."
+      },
+      {
+        "theme": "Loyalty",
+        "theme_explanation": "Loyalty is tested, as Brutus betrays Caesar for Rome’s sake, while Antony’s loyalty to Caesar fuels his revenge against the conspirators."
+      }
+    ]
+  },
+  {
+    "title": "King John",
+    "category": "history",
+    "year": "1595-1596",
+    "setting": "England and France, 13th century",
+    "main_characters": [
+      "King John",
+      "Philip the Bastard",
+      "Constance",
+      "King Philip of France",
+      "Prince Arthur",
+      "Hubert",
+      "Cardinal Pandulph"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King John",
+        "description": "King of England, faces rebellion"
+      },
+      {
+        "name": "Philip the Bastard",
+        "description": "John's loyal illegitimate nephew"
+      },
+      {
+        "name": "Constance",
+        "description": "Arthur's mother, seeks son's crown"
+      },
+      {
+        "name": "King Philip of France",
+        "description": "French king, supports Arthur"
+      },
+      {
+        "name": "Prince Arthur",
+        "description": "John's nephew, claims throne"
+      },
+      {
+        "name": "Hubert",
+        "description": "John's servant, spares Arthur"
+      },
+      {
+        "name": "Cardinal Pandulph",
+        "description": "Papal legate, stirs conflict"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Power",
+        "theme_explanation": "King John’s struggle to maintain his throne against French and domestic challenges highlights the precarious nature of royal authority."
+      },
+      {
+        "theme": "Legitimacy",
+        "theme_explanation": "The conflict over Arthur’s claim versus John’s rule questions the legitimacy of kingship, complicated by the Bastard’s loyalty despite his illegitimacy."
+      },
+      {
+        "theme": "War",
+        "theme_explanation": "Anglo-French conflicts and internal rebellions drive the play, reflecting the destructive cost of territorial and political disputes."
+      },
+      {
+        "theme": "Family",
+        "theme_explanation": "Family ties, like Constance’s devotion to Arthur and John’s rivalry with his nephew, fuel personal and political conflicts."
+      },
+      {
+        "theme": "Betrayal",
+        "theme_explanation": "Betrayals, such as France’s shifting alliances and John’s nobles turning against him, underscore the instability of loyalty."
+      },
+      {
+        "theme": "Patriotism",
+        "theme_explanation": "The Bastard’s rousing defense of England evokes patriotic pride, rallying support for the nation despite John’s flawed rule."
+      }
+    ]
+  },
+  {
+    "title": "The Tragedy of King Lear",
+    "category": "tragedy",
+    "year": "1605-1606",
+    "setting": "Ancient Britain",
+    "main_characters": [
+      "King Lear",
+      "Cordelia",
+      "Goneril",
+      "Regan",
+      "Edmund",
+      "Edgar",
+      "Gloucester",
+      "Kent",
+      "Fool"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King Lear",
+        "description": "King of Britain, divides kingdom"
+      },
+      {
+        "name": "Cordelia",
+        "description": "Lear's youngest daughter, disowned, loyal"
+      },
+      {
+        "name": "Goneril",
+        "description": "Lear's eldest daughter, betrays him"
+      },
+      {
+        "name": "Regan",
+        "description": "Lear's middle daughter, betrays him"
+      },
+      {
+        "name": "Edmund",
+        "description": "Gloucester's illegitimate son, schemes power"
+      },
+      {
+        "name": "Edgar",
+        "description": "Gloucester's legitimate son, disguises himself"
+      },
+      {
+        "name": "Gloucester",
+        "description": "Earl, betrayed by Edmund"
+      },
+      {
+        "name": "Kent",
+        "description": "Loyal nobleman, serves Lear in disguise"
+      },
+      {
+        "name": "Fool",
+        "description": "Lear's jester, speaks truth"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Justice",
+        "theme_explanation": "The play questions whether justice prevails, as good characters like Cordelia suffer while evil ones like Edmund temporarily triumph."
+      },
+      {
+        "theme": "Authority",
+        "theme_explanation": "Lear’s division of his kingdom reveals the fragility of authority, as his loss of power leads to chaos and betrayal."
+      },
+      {
+        "theme": "Family",
+        "theme_explanation": "Family dynamics drive the tragedy, with Lear and Gloucester betrayed by their children, contrasting loyalty (Cordelia, Edgar) with deceit (Goneril, Regan, Edmund)."
+      },
+      {
+        "theme": "Aging",
+        "theme_explanation": "Lear’s aging and desire to relinquish power expose his vulnerability, leading to his loss of control and descent into madness."
+      },
+      {
+        "theme": "Madness",
+        "theme_explanation": "Lear’s descent into madness reflects his emotional turmoil, while Edgar’s feigned madness as Poor Tom highlights survival through disguise."
+      },
+      {
+        "theme": "Betrayal",
+        "theme_explanation": "Betrayal by Goneril, Regan, and Edmund against their fathers drives the tragedy, exposing the fragility of familial bonds."
+      },
+      {
+        "theme": "Nature",
+        "theme_explanation": "The storm symbolizes nature’s chaos, mirroring Lear’s inner turmoil and the unnatural betrayals disrupting the social order."
+      },
+      {
+        "theme": "Sight and blindness",
+        "theme_explanation": "Gloucester’s literal blindness parallels Lear’s figurative blindness to truth, as both fail to see their children’s true natures until it’s too late."
+      }
+    ]
+  },
+  {
+    "title": "Love's Labour's Lost",
+    "category": "comedy",
+    "year": "1594-1595",
+    "setting": "Navarre, Spain",
+    "main_characters": [
+      "King of Navarre",
+      "Princess of France",
+      "Berowne",
+      "Rosaline",
+      "Longaville",
+      "Maria",
+      "Dumaine",
+      "Katherine",
+      "Don Armado"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King of Navarre",
+        "description": "King, vows to study, loves Princess"
+      },
+      {
+        "name": "Princess of France",
+        "description": "French noble, courts Navarre"
+      },
+      {
+        "name": "Berowne",
+        "description": "Lord, loves Rosaline, witty"
+      },
+      {
+        "name": "Rosaline",
+        "description": "Princess's lady, loves Berowne"
+      },
+      {
+        "name": "Longaville",
+        "description": "Lord, loves Maria"
+      },
+      {
+        "name": "Maria",
+        "description": "Princess's lady, loves Longaville"
+      },
+      {
+        "name": "Dumaine",
+        "description": "Lord, loves Katherine"
+      },
+      {
+        "name": "Katherine",
+        "description": "Princess's lady, loves Dumaine"
+      },
+      {
+        "name": "Don Armado",
+        "description": "Spanish noble, comically woos Jaquenetta"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Love",
+        "theme_explanation": "Love disrupts the lords’ vow of celibacy, leading to witty courtships that reveal its irresistible and transformative power."
+      },
+      {
+        "theme": "Wit",
+        "theme_explanation": "The play celebrates verbal sparring and intellectual humor, as characters like Berowne and Rosaline showcase cleverness in love and debate."
+      },
+      {
+        "theme": "Education",
+        "theme_explanation": "The lords’ pursuit of scholarly isolation is undermined by love, suggesting that emotional experience outweighs academic discipline."
+      },
+      {
+        "theme": "Vows",
+        "theme_explanation": "The fragility of vows is exposed as the lords quickly abandon their oath of study for love, highlighting human weakness."
+      },
+      {
+        "theme": "Courtship",
+        "theme_explanation": "Courtship drives the plot through playful flirtations and deceptions, culminating in delayed unions due to unexpected tragedy."
+      },
+      {
+        "theme": "Language",
+        "theme_explanation": "The play revels in linguistic play, using ornate speech and wordplay to explore communication’s role in love and society."
+      }
+    ]
+  },
+  {
+    "title": "Macbeth",
+    "category": "tragedy",
+    "year": "1606",
+    "setting": "Scotland and England",
+    "main_characters": [
+      "Macbeth",
+      "Lady Macbeth",
+      "Three Witches",
+      "Banquo",
+      "Macduff",
+      "Duncan",
+      "Malcolm"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Macbeth",
+        "description": "Scottish general, usurps throne, becomes king"
+      },
+      {
+        "name": "Lady Macbeth",
+        "description": "Macbeth's wife, drives his ambition"
+      },
+      {
+        "name": "Three Witches",
+        "description": "Supernatural beings, prophesy Macbeth's fate"
+      },
+      {
+        "name": "Banquo",
+        "description": "Macbeth's friend, general, later murdered"
+      },
+      {
+        "name": "Macduff",
+        "description": "Scottish noble, avenges Duncan's murder"
+      },
+      {
+        "name": "Duncan",
+        "description": "King of Scotland, murdered by Macbeth"
+      },
+      {
+        "name": "Malcolm",
+        "description": "Duncan's son, rightful heir"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Ambition",
+        "theme_explanation": "Macbeth’s unchecked ambition, spurred by the witches’ prophecy and Lady Macbeth, drives him to murder and tyranny, leading to his downfall."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "The pursuit and corruption of power dominate the play, as Macbeth’s rise to the throne through murder destabilizes Scotland and his own morality."
+      },
+      {
+        "theme": "Fate",
+        "theme_explanation": "The witches’ prophecies suggest a predetermined fate, yet Macbeth’s choices in response to them highlight the interplay between destiny and free will."
+      },
+      {
+        "theme": "Violence",
+        "theme_explanation": "Violence escalates as Macbeth’s ambition fuels a cycle of murders, from Duncan to Banquo, culminating in widespread chaos and retribution."
+      },
+      {
+        "theme": "Nature vs the unnatural",
+        "theme_explanation": "Macbeth’s unnatural acts, like regicide, disrupt the natural order, reflected in omens and chaos that plague Scotland until balance is restored."
+      },
+      {
+        "theme": "Manhood",
+        "theme_explanation": "The play explores manhood through Lady Macbeth’s manipulation of Macbeth’s masculinity, equating courage with violent ambition, which leads to their ruin."
+      },
+      {
+        "theme": "Guilt and conscience",
+        "theme_explanation": "Guilt torments Macbeth and Lady Macbeth, with hallucinations and sleepwalking revealing their consciences’ struggle against their crimes."
+      }
+    ]
+  },
+  {
+    "title": "Measure for Measure",
+    "category": "comedy",
+    "year": "1604",
+    "setting": "Vienna",
+    "main_characters": [
+      "Duke Vincentio",
+      "Angelo",
+      "Isabella",
+      "Claudio",
+      "Lucio",
+      "Mariana",
+      "Escalus"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Duke Vincentio",
+        "description": "Ruler of Vienna, disguises to observe"
+      },
+      {
+        "name": "Angelo",
+        "description": "Deputy, enforces strict laws"
+      },
+      {
+        "name": "Isabella",
+        "description": "Novice nun, pleads for Claudio"
+      },
+      {
+        "name": "Claudio",
+        "description": "Isabella's brother, sentenced to death"
+      },
+      {
+        "name": "Lucio",
+        "description": "Claudio's friend, spreads gossip"
+      },
+      {
+        "name": "Mariana",
+        "description": "Angelo's former fiancée, aids plot"
+      },
+      {
+        "name": "Escalus",
+        "description": "Wise advisor, serves Duke"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Justice",
+        "theme_explanation": "The play examines justice through Angelo’s harsh enforcement and the Duke’s interventions, questioning the balance between law and fairness."
+      },
+      {
+        "theme": "Morality",
+        "theme_explanation": "Moral dilemmas, like Isabella’s choice between chastity and her brother’s life, highlight the tension between personal ethics and societal demands."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "Power corrupts Angelo, whose hypocrisy is exposed, while the Duke’s disguised authority manipulates events to restore order."
+      },
+      {
+        "theme": "Mercy",
+        "theme_explanation": "Mercy triumphs over strict justice, as the Duke pardons Claudio and others, advocating compassion in governance."
+      },
+      {
+        "theme": "Hypocrisy",
+        "theme_explanation": "Angelo’s outward virtue masks his corrupt desires, revealing the dangers of hypocrisy in those entrusted with power."
+      },
+      {
+        "theme": "Chastity",
+        "theme_explanation": "Isabella’s commitment to chastity is tested by Angelo’s proposition, raising questions about virtue and sacrifice in a corrupt world."
+      }
+    ]
+  },
+  {
+    "title": "The Merchant of Venice",
+    "category": "comedy",
+    "year": "1596-1597",
+    "setting": "Venice and Belmont, Italy",
+    "main_characters": [
+      "Antonio",
+      "Shylock",
+      "Portia",
+      "Bassanio",
+      "Jessica",
+      "Lorenzo",
+      "Gratiano",
+      "Nerissa"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Antonio",
+        "description": "Venetian merchant, borrows from Shylock"
+      },
+      {
+        "name": "Shylock",
+        "description": "Jewish moneylender, demands pound of flesh"
+      },
+      {
+        "name": "Portia",
+        "description": "Heiress of Belmont, disguises as lawyer"
+      },
+      {
+        "name": "Bassanio",
+        "description": "Portia's suitor, Antonio's friend"
+      },
+      {
+        "name": "Jessica",
+        "description": "Shylock's daughter, elopes with Lorenzo"
+      },
+      {
+        "name": "Lorenzo",
+        "description": "Jessica's lover, Bassanio's friend"
+      },
+      {
+        "name": "Gratiano",
+        "description": "Bassanio's friend, loves Nerissa"
+      },
+      {
+        "name": "Nerissa",
+        "description": "Portia's maid, marries Gratiano"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Justice and mercy",
+        "theme_explanation": "Portia’s courtroom plea for mercy over Shylock’s demand for justice highlights the tension between strict law and compassionate forgiveness."
+      },
+      {
+        "theme": "Prejudice",
+        "theme_explanation": "Shylock faces anti-Semitic prejudice, which fuels his vengeful actions, while the play critiques societal biases against outsiders."
+      },
+      {
+        "theme": "Wealth",
+        "theme_explanation": "Wealth drives the plot, from Antonio’s loan to Portia’s casket test, revealing its power to shape relationships and outcomes."
+      },
+      {
+        "theme": "Love and friendship",
+        "theme_explanation": "The bonds of love (Bassanio and Portia, Jessica and Lorenzo) and friendship (Antonio and Bassanio) are tested by sacrifice and loyalty."
+      },
+      {
+        "theme": "Outsiders",
+        "theme_explanation": "Shylock and Jessica, as Jews, navigate their outsider status in Venice, facing exclusion and seeking acceptance in a Christian society."
+      },
+      {
+        "theme": "Appearance vs reality",
+        "theme_explanation": "Deceptive appearances, like the caskets’ misleading exteriors and Portia’s lawyer disguise, underscore the challenge of discerning true value."
+      }
+    ]
+  },
+  {
+    "title": "The Merry Wives of Windsor",
+    "category": "comedy",
+    "year": "1597-1601",
+    "setting": "Windsor, England",
+    "main_characters": [
+      "Sir John Falstaff",
+      "Mistress Ford",
+      "Mistress Page",
+      "Ford",
+      "Page",
+      "Anne Page",
+      "Fenton",
+      "Doctor Caius"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Sir John Falstaff",
+        "description": "Rogue, woos wives for money"
+      },
+      {
+        "name": "Mistress Ford",
+        "description": "Wife, outwits Falstaff's advances"
+      },
+      {
+        "name": "Mistress Page",
+        "description": "Wife, plots against Falstaff"
+      },
+      {
+        "name": "Ford",
+        "description": "Mistress Ford's jealous husband"
+      },
+      {
+        "name": "Page",
+        "description": "Mistress Page's husband, trusts wife"
+      },
+      {
+        "name": "Anne Page",
+        "description": "Page's daughter, loves Fenton"
+      },
+      {
+        "name": "Fenton",
+        "description": "Gentleman, marries Anne Page"
+      },
+      {
+        "name": "Doctor Caius",
+        "description": "French suitor, competes for Anne"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Jealousy",
+        "theme_explanation": "Ford’s jealousy of his wife’s fidelity drives comedic misunderstandings, resolved when he learns to trust her wit and loyalty."
+      },
+      {
+        "theme": "Deception",
+        "theme_explanation": "The wives’ clever deceptions humiliate Falstaff, while Anne’s secret marriage to Fenton outwits her parents’ plans."
+      },
+      {
+        "theme": "Marriage",
+        "theme_explanation": "The play explores marital dynamics, celebrating the wives’ agency and fidelity while Anne’s choice of love over arranged marriage triumphs."
+      },
+      {
+        "theme": "Social class",
+        "theme_explanation": "Falstaff’s attempts to exploit the middle-class wives and Fenton’s courtship of Anne despite his status highlight class tensions and aspirations."
+      },
+      {
+        "theme": "Wit",
+        "theme_explanation": "The wives’ sharp wit outmaneuvers Falstaff, showcasing female intelligence and resourcefulness in a patriarchal society."
+      },
+      {
+        "theme": "Community",
+        "theme_explanation": "The Windsor community unites to expose Falstaff’s folly, reinforcing social bonds through shared humor and moral correction."
+      }
+    ]
+  },
+  {
+    "title": "A Midsummer Night's Dream",
+    "category": "comedy",
+    "year": "1595-1596",
+    "setting": "Athens and nearby enchanted forest",
+    "main_characters": [
+      "Lysander",
+      "Hermia",
+      "Demetrius",
+      "Helena",
+      "Oberon",
+      "Titania",
+      "Puck",
+      "Bottom",
+      "Theseus",
+      "Hippolyta"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Lysander",
+        "description": "Athenian lover, pursues Hermia"
+      },
+      {
+        "name": "Hermia",
+        "description": "Athenian woman, loves Lysander"
+      },
+      {
+        "name": "Demetrius",
+        "description": "Athenian man, initially loves Hermia"
+      },
+      {
+        "name": "Helena",
+        "description": "Athenian woman, loves Demetrius"
+      },
+      {
+        "name": "Oberon",
+        "description": "Fairy king, manipulates lovers"
+      },
+      {
+        "name": "Titania",
+        "description": "Fairy queen, enchanted by Oberon"
+      },
+      {
+        "name": "Puck",
+        "description": "Oberon's mischievous fairy servant"
+      },
+      {
+        "name": "Bottom",
+        "description": "Weaver, transformed into donkey"
+      },
+      {
+        "name": "Theseus",
+        "description": "Duke of Athens, marries Hippolyta"
+      },
+      {
+        "name": "Hippolyta",
+        "description": "Amazon queen, Theseus's bride"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Love",
+        "theme_explanation": "Love’s irrational and transformative power drives the lovers’ entanglements, resolved through magical intervention and eventual harmony."
+      },
+      {
+        "theme": "Magic",
+        "theme_explanation": "Magic, wielded by Oberon and Puck, creates chaos and resolutions, shaping the lovers’ fates and blurring reality with fantasy."
+      },
+      {
+        "theme": "Dreams vs reality",
+        "theme_explanation": "The play blurs dreams and reality, as magical events and transformations leave characters questioning what is real."
+      },
+      {
+        "theme": "Order vs chaos",
+        "theme_explanation": "The forest’s magical chaos disrupts Athenian order, but resolutions restore harmony, reflecting the tension between structure and disorder."
+      },
+      {
+        "theme": "Transformation",
+        "theme_explanation": "Characters undergo literal (Bottom’s donkey form) and emotional transformations, highlighting love’s and magic’s power to change identities."
+      },
+      {
+        "theme": "Art and imagination",
+        "theme_explanation": "The play celebrates art and imagination through the lovers’ fantasies, the fairies’ magic, and the mechanicals’ comedic performance."
+      }
+    ]
+  },
+  {
+    "title": "Much Ado About Nothing",
+    "category": "comedy",
+    "year": "1598-1599",
+    "setting": "Messina, Sicily",
+    "main_characters": [
+      "Beatrice",
+      "Benedick",
+      "Claudio",
+      "Hero",
+      "Don Pedro",
+      "Don John",
+      "Leonato"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Beatrice",
+        "description": "Witty noblewoman, loves Benedick"
+      },
+      {
+        "name": "Benedick",
+        "description": "Witty soldier, loves Beatrice"
+      },
+      {
+        "name": "Claudio",
+        "description": "Young lord, loves Hero"
+      },
+      {
+        "name": "Hero",
+        "description": "Leonato's daughter, loves Claudio"
+      },
+      {
+        "name": "Don Pedro",
+        "description": "Prince, aids Claudio's courtship"
+      },
+      {
+        "name": "Don John",
+        "description": "Pedro's brother, slanders Hero"
+      },
+      {
+        "name": "Leonato",
+        "description": "Governor, Hero's father"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Love",
+        "theme_explanation": "Love drives the play, from Beatrice and Benedick’s witty romance to Claudio and Hero’s tumultuous courtship, resolved through trust and revelation."
+      },
+      {
+        "theme": "Deception",
+        "theme_explanation": "Deception shapes the plot, with Don John’s slander disrupting Hero’s wedding and playful tricks uniting Beatrice and Benedick."
+      },
+      {
+        "theme": "Honor",
+        "theme_explanation": "Honor, particularly female chastity, is central, as Hero’s tarnished reputation threatens her life until her innocence is proven."
+      },
+      {
+        "theme": "Wit",
+        "theme_explanation": "Beatrice and Benedick’s verbal sparring showcases wit as a tool for courtship and social commentary, enriching the comedy."
+      },
+      {
+        "theme": "Slander",
+        "theme_explanation": "Don John’s slander against Hero highlights the destructive power of false accusations and the importance of truth in restoring justice."
+      },
+      {
+        "theme": "Marriage",
+        "theme_explanation": "The play explores marriage through Hero’s near-tragic betrothal and Beatrice’s eventual acceptance of love, celebrating union and mutual respect."
+      }
+    ]
+  },
+  {
+    "title": "Othello, the Moor of Venice",
+    "category": "tragedy",
+    "year": "1603-1604",
+    "setting": "Venice and Cyprus",
+    "main_characters": [
+      "Othello",
+      "Desdemona",
+      "Iago",
+      "Cassio",
+      "Emilia",
+      "Roderigo",
+      "Brabantio"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Othello",
+        "description": "Moorish general, marries Desdemona"
+      },
+      {
+        "name": "Desdemona",
+        "description": "Othello's wife, Brabantio's daughter"
+      },
+      {
+        "name": "Iago",
+        "description": "Othello's ensign, orchestrates deception"
+      },
+      {
+        "name": "Cassio",
+        "description": "Othello's lieutenant, accused of affair"
+      },
+      {
+        "name": "Emilia",
+        "description": "Iago's wife, Desdemona's attendant"
+      },
+      {
+        "name": "Roderigo",
+        "description": "Desdemona's suitor, manipulated by Iago"
+      },
+      {
+        "name": "Brabantio",
+        "description": "Desdemona's father, Venetian senator"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Jealousy",
+        "theme_explanation": "Iago’s manipulation fuels Othello’s jealousy, transforming his love for Desdemona into a destructive force that leads to murder."
+      },
+      {
+        "theme": "Prejudice",
+        "theme_explanation": "Othello faces racial prejudice as a Moor in Venice, which Iago exploits to undermine his confidence and social standing."
+      },
+      {
+        "theme": "Deception",
+        "theme_explanation": "Iago’s deceitful schemes, including false accusations of Desdemona’s infidelity, drive the tragedy by exploiting trust and perception."
+      },
+      {
+        "theme": "Love",
+        "theme_explanation": "Othello and Desdemona’s genuine love is corrupted by Iago’s lies, illustrating how love can be vulnerable to external manipulation."
+      },
+      {
+        "theme": "Trust",
+        "theme_explanation": "The erosion of trust, as Othello believes Iago over Desdemona, underscores the fragility of relationships in the face of deceit."
+      },
+      {
+        "theme": "Reputation",
+        "theme_explanation": "Reputation is critical, as seen in Cassio’s despair over its loss and Othello’s fall, driven by Iago’s attacks on their honor."
+      },
+      {
+        "theme": "Gender",
+        "theme_explanation": "Gender dynamics shape the tragedy, with Desdemona and Emilia navigating a patriarchal society, their voices stifled until it’s too late."
+      }
+    ]
+  },
+  {
+    "title": "Pericles, Prince of Tyre",
+    "category": "history",
+    "year": "1607-1608",
+    "setting": "Various Mediterranean locations",
+    "main_characters": [
+      "Pericles",
+      "Marina",
+      "Thaisa",
+      "Gower",
+      "Cleon",
+      "Dionyza",
+      "Lysimachus"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Pericles",
+        "description": "Prince of Tyre, seeks family"
+      },
+      {
+        "name": "Marina",
+        "description": "Pericles's daughter, survives hardship"
+      },
+      {
+        "name": "Thaisa",
+        "description": "Pericles's wife, presumed dead"
+      },
+      {
+        "name": "Gower",
+        "description": "Narrator, guides play's story"
+      },
+      {
+        "name": "Cleon",
+        "description": "Governor, raises Marina"
+      },
+      {
+        "name": "Dionyza",
+        "description": "Cleon's wife, plots against Marina"
+      },
+      {
+        "name": "Lysimachus",
+        "description": "Governor, loves Marina"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Adventure",
+        "theme_explanation": "Pericles’s journey across the Mediterranean, filled with shipwrecks and trials, drives the narrative, symbolizing life’s unpredictable challenges."
+      },
+      {
+        "theme": "Loss",
+        "theme_explanation": "Pericles endures profound loss, believing his wife and daughter dead, which underscores the emotional toll of separation and grief."
+      },
+      {
+        "theme": "Reunion",
+        "theme_explanation": "The miraculous reunions with Thaisa and Marina highlight the restorative power of family and fate, resolving the play’s tragedies."
+      },
+      {
+        "theme": "Fate",
+        "theme_explanation": "Fate guides Pericles’s trials and eventual reunions, suggesting a divine force orchestrates the characters’ destinies."
+      },
+      {
+        "theme": "Family",
+        "theme_explanation": "The enduring bond between Pericles, Thaisa, and Marina triumphs over separation, emphasizing family as a source of resilience and joy."
+      },
+      {
+        "theme": "Virtue",
+        "theme_explanation": "Marina’s purity and moral strength preserve her through hardship, contrasting with the corruption around her and affirming virtue’s triumph."
+      }
+    ]
+  },
+  {
+    "title": "King Richard II",
+    "category": "history",
+    "year": "1595",
+    "setting": "England, late 14th century",
+    "main_characters": [
+      "King Richard II",
+      "Henry Bolingbroke",
+      "John of Gaunt",
+      "Duke of York",
+      "Duchess of Gloucester",
+      "Aumerle",
+      "Mowbray"
+    ],
+    "character_descriptions": [
+      {
+        "name": "King Richard II",
+        "description": "King of England, deposed"
+      },
+      {
+        "name": "Henry Bolingbroke",
+        "description": "Rebel, becomes Henry IV"
+      },
+      {
+        "name": "John of Gaunt",
+        "description": "Richard's uncle, loyal noble"
+      },
+      {
+        "name": "Duke of York",
+        "description": "Richard's uncle, supports Bolingbroke"
+      },
+      {
+        "name": "Duchess of Gloucester",
+        "description": "Widow, seeks justice"
+      },
+      {
+        "name": "Aumerle",
+        "description": "York's son, loyal to Richard"
+      },
+      {
+        "name": "Mowbray",
+        "description": "Noble, exiled for dispute"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Kingship",
+        "theme_explanation": "Richard’s flawed leadership and belief in divine authority contrast with Bolingbroke’s pragmatic claim to power, questioning the nature of rightful rule."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "The struggle for power drives Bolingbroke’s rebellion, exposing the fragility of Richard’s reign and the political consequences of mismanagement."
+      },
+      {
+        "theme": "Divine right",
+        "theme_explanation": "Richard’s faith in his God-given right to rule crumbles as he is deposed, challenging the concept of monarchy’s sacred inviolability."
+      },
+      {
+        "theme": "Betrayal",
+        "theme_explanation": "Betrayals, such as York’s shift to Bolingbroke and Richard’s nobles abandoning him, underscore the precarious loyalty in a divided court."
+      },
+      {
+        "theme": "Identity",
+        "theme_explanation": "Richard grapples with his loss of kingship, questioning his identity as he transitions from anointed monarch to a mere mortal."
+      },
+      {
+        "theme": "Exile",
+        "theme_explanation": "Exile, both literal (Bolingbroke’s banishment) and metaphorical (Richard’s isolation), highlights the personal and political alienation central to the play."
+      }
+    ]
+  },
+  {
+    "title": "King Richard III",
+    "category": "history",
+    "year": "1592-1593",
+    "setting": "England, late 15th century",
+    "main_characters": [
+      "Richard III",
+      "Duke of Buckingham",
+      "Queen Margaret",
+      "Lady Anne",
+      "King Edward IV",
+      "Clarence",
+      "Richmond"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Richard III",
+        "description": "Scheming duke, becomes king"
+      },
+      {
+        "name": "Duke of Buckingham",
+        "description": "Richard's ally, later betrayed"
+      },
+      {
+        "name": "Queen Margaret",
+        "description": "Lancastrian widow, curses Richard"
+      },
+      {
+        "name": "Lady Anne",
+        "description": "Widow, reluctantly marries Richard"
+      },
+      {
+        "name": "King Edward IV",
+        "description": "Yorkist king, Richard's brother"
+      },
+      {
+        "name": "Clarence",
+        "description": "Richard's brother, murdered by him"
+      },
+      {
+        "name": "Richmond",
+        "description": "Rebel, becomes Henry VII"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Ambition",
+        "theme_explanation": "Richard’s ruthless ambition drives him to murder and manipulate his way to the throne, illustrating the destructive force of unchecked desire."
+      },
+      {
+        "theme": "Manipulation",
+        "theme_explanation": "Richard’s cunning manipulation of allies and enemies, including Lady Anne and Buckingham, secures his power but leads to his isolation."
+      },
+      {
+        "theme": "Evil",
+        "theme_explanation": "Richard embodies moral corruption, committing heinous acts without remorse, yet his conscience briefly haunts him before his downfall."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "The pursuit of power fuels Richard’s tyranny, but his brutal reign sparks rebellion, revealing power’s instability when built on treachery."
+      },
+      {
+        "theme": "Fate",
+        "theme_explanation": "Margaret’s curses and omens suggest a fated retribution for Richard’s crimes, culminating in his defeat by Richmond at Bosworth."
+      },
+      {
+        "theme": "Conscience",
+        "theme_explanation": "Richard’s fleeting guilt before the battle reveals the power of conscience, though he suppresses it to maintain his villainous resolve."
+      }
+    ]
+  },
+  {
+    "title": "Romeo and Juliet",
+    "category": "tragedy",
+    "year": "1595-1596",
+    "setting": "Verona, Italy",
+    "main_characters": [
+      "Romeo Montague",
+      "Juliet Capulet",
+      "Mercutio",
+      "Tybalt",
+      "Friar Lawrence",
+      "Nurse",
+      "Benvolio",
+      "Paris"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Romeo Montague",
+        "description": "Montague heir, loves Juliet"
+      },
+      {
+        "name": "Juliet Capulet",
+        "description": "Capulet daughter, loves Romeo"
+      },
+      {
+        "name": "Mercutio",
+        "description": "Romeo's friend, kinsman to Prince"
+      },
+      {
+        "name": "Tybalt",
+        "description": "Juliet's cousin, aggressive Capulet"
+      },
+      {
+        "name": "Friar Lawrence",
+        "description": "Priest, marries Romeo and Juliet"
+      },
+      {
+        "name": "Nurse",
+        "description": "Juliet's caretaker, aids lovers"
+      },
+      {
+        "name": "Benvolio",
+        "description": "Romeo's cousin, seeks peace"
+      },
+      {
+        "name": "Paris",
+        "description": "Nobleman, seeks to marry Juliet"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Love",
+        "theme_explanation": "Romeo and Juliet’s passionate love defies their families’ feud, driving the plot but leading to their tragic deaths."
+      },
+      {
+        "theme": "Fate",
+        "theme_explanation": "The lovers are described as ‘star-crossed,’ suggesting fate orchestrates their doomed romance through coincidences and misunderstandings."
+      },
+      {
+        "theme": "Violence",
+        "theme_explanation": "The feud between Montagues and Capulets fuels violent clashes, like Tybalt’s killing of Mercutio, escalating the tragedy."
+      },
+      {
+        "theme": "Youth",
+        "theme_explanation": "The impulsive, passionate actions of young characters like Romeo and Juliet highlight the recklessness and intensity of youth."
+      },
+      {
+        "theme": "Family rivalry",
+        "theme_explanation": "The deep-seated feud between the Montagues and Capulets creates the central conflict, preventing the lovers’ union until their deaths reconcile the families."
+      },
+      {
+        "theme": "Individual vs society",
+        "theme_explanation": "Romeo and Juliet’s love challenges societal norms and family expectations, highlighting the tension between personal desires and social constraints."
+      },
+      {
+        "theme": "Time",
+        "theme_explanation": "The rapid pace of events, unfolding over a few days, underscores how haste and impulsive decisions accelerate the lovers’ tragic fate."
+      }
+    ]
+  },
+  {
+    "title": "The Taming of the Shrew",
+    "category": "comedy",
+    "year": "1590-1592",
+    "setting": "Padua, Italy",
+    "main_characters": [
+      "Katherina",
+      "Petruchio",
+      "Bianca",
+      "Lucentio",
+      "Baptista",
+      "Tranio",
+      "Grumio"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Katherina",
+        "description": "Baptista's daughter, tamed by Petruchio"
+      },
+      {
+        "name": "Petruchio",
+        "description": "Gentleman, marries Katherina for dowry"
+      },
+      {
+        "name": "Bianca",
+        "description": "Katherina's sister, sought by suitors"
+      },
+      {
+        "name": "Lucentio",
+        "description": "Gentleman, loves and marries Bianca"
+      },
+      {
+        "name": "Baptista",
+        "description": "Wealthy father of Katherina, Bianca"
+      },
+      {
+        "name": "Tranio",
+        "description": "Lucentio's servant, aids disguise"
+      },
+      {
+        "name": "Grumio",
+        "description": "Petruchio's servant, comic assistant"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Marriage",
+        "theme_explanation": "The play explores marriage through Petruchio’s domineering ‘taming’ of Katherina and Bianca’s courtship, raising questions about love versus control."
+      },
+      {
+        "theme": "Gender roles",
+        "theme_explanation": "Katherina’s defiance of traditional femininity challenges gender norms, while her apparent submission sparks debate over societal expectations for women."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "Petruchio’s control over Katherina and Baptista’s authority over his daughters highlight power dynamics in relationships and family structures."
+      },
+      {
+        "theme": "Transformation",
+        "theme_explanation": "Katherina’s shift from shrew to obedient wife, whether genuine or performative, underscores the play’s focus on personal and social change."
+      },
+      {
+        "theme": "Deception",
+        "theme_explanation": "Deceptions, like Lucentio’s disguise and Petruchio’s exaggerated behavior, drive the comedic plot and complicate romantic pursuits."
+      },
+      {
+        "theme": "Love",
+        "theme_explanation": "Love is tested through mercenary motives (Petruchio’s dowry) and romantic ideals (Lucentio and Bianca), questioning its authenticity and durability."
+      }
+    ]
+  },
+  {
+    "title": "The Tempest",
+    "category": "comedy",
+    "year": "1610-1611",
+    "setting": "A remote island",
+    "main_characters": [
+      "Prospero",
+      "Miranda",
+      "Ariel",
+      "Caliban",
+      "Ferdinand",
+      "Alonso",
+      "Antonio",
+      "Sebastian",
+      "Stephano",
+      "Trinculo"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Prospero",
+        "description": "Exiled Duke of Milan, magician"
+      },
+      {
+        "name": "Miranda",
+        "description": "Prospero's daughter, loves Ferdinand"
+      },
+      {
+        "name": "Ariel",
+        "description": "Prospero's spirit servant, seeks freedom"
+      },
+      {
+        "name": "Caliban",
+        "description": "Island native, Prospero's enslaved servant"
+      },
+      {
+        "name": "Ferdinand",
+        "description": "Naples prince, loves Miranda"
+      },
+      {
+        "name": "Alonso",
+        "description": "King of Naples, shipwrecked"
+      },
+      {
+        "name": "Antonio",
+        "description": "Prospero's brother, usurped his dukedom"
+      },
+      {
+        "name": "Sebastian",
+        "description": "Alonso's brother, plots against him"
+      },
+      {
+        "name": "Stephano",
+        "description": "Drunken butler, plots with Caliban"
+      },
+      {
+        "name": "Trinculo",
+        "description": "Jester, joins Stephano's plot"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Magic",
+        "theme_explanation": "Prospero’s magic controls the island’s events, symbolizing the power of art and illusion to shape reality and resolve conflicts."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "Power struggles drive the plot, as Prospero manipulates others to reclaim his dukedom, while Antonio and Sebastian plot to seize authority."
+      },
+      {
+        "theme": "Colonization",
+        "theme_explanation": "The play reflects colonial themes through Prospero’s domination of Caliban and Ariel, raising questions about authority and exploitation."
+      },
+      {
+        "theme": "Forgiveness",
+        "theme_explanation": "Prospero’s choice to forgive his enemies rather than seek revenge underscores the play’s resolution through mercy and reconciliation."
+      },
+      {
+        "theme": "Freedom",
+        "theme_explanation": "Ariel and Caliban’s quests for freedom highlight the tension between servitude and autonomy under Prospero’s rule."
+      },
+      {
+        "theme": "Art",
+        "theme_explanation": "Prospero’s magic mirrors the playwright’s craft, using illusion to explore human nature and orchestrate the play’s harmonious ending."
+      },
+      {
+        "theme": "Nature vs nurture",
+        "theme_explanation": "Caliban’s savage behavior contrasts with Miranda’s cultivated innocence, questioning whether character is shaped by nature or upbringing."
+      }
+    ]
+  },
+  {
+    "title": "The Two Gentlemen of Verona",
+    "category": "comedy",
+    "year": "1590–1593",
+    "setting": "Verona and Milan, Italy",
+    "main_characters": [
+      "Valentine",
+      "Proteus",
+      "Julia",
+      "Silvia",
+      "Duke of Milan",
+      "Lucetta",
+      "Thurio",
+      "Launce",
+      "Speed"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Valentine",
+        "description": "Gentleman, loves Silvia"
+      },
+      {
+        "name": "Proteus",
+        "description": "Gentleman, betrays Valentine, loves Silvia"
+      },
+      {
+        "name": "Julia",
+        "description": "Proteus's lover, disguises as page"
+      },
+      {
+        "name": "Silvia",
+        "description": "Duke's daughter, loves Valentine"
+      },
+      {
+        "name": "Duke of Milan",
+        "description": "Silvia's father, plans her marriage"
+      },
+      {
+        "name": "Lucetta",
+        "description": "Julia's maid, aids disguise"
+      },
+      {
+        "name": "Thurio",
+        "description": "Silvia's suitor, Duke's choice"
+      },
+      {
+        "name": "Launce",
+        "description": "Proteus's servant, comic figure"
+      },
+      {
+        "name": "Speed",
+        "description": "Valentine's servant, witty assistant"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Friendship",
+        "theme_explanation": "The bond between Valentine and Proteus is tested by Proteus’s betrayal, highlighting the fragility of friendship when challenged by love."
+      },
+      {
+        "theme": "Love and Betrayal",
+        "theme_explanation": "Proteus’s fickle shift from Julia to Silvia and his betrayal of Valentine reveal love’s potential to inspire disloyalty and conflict."
+      },
+      {
+        "theme": "Disguise and Gender Roles",
+        "theme_explanation": "Julia’s disguise as a male page challenges gender norms, allowing her to navigate and influence romantic outcomes with agency."
+      },
+      {
+        "theme": "Loyalty",
+        "theme_explanation": "Loyalty is strained by Proteus’s actions, but Julia’s steadfast devotion and Valentine’s forgiveness restore harmony among the group."
+      },
+      {
+        "theme": "Forgiveness",
+        "theme_explanation": "The play resolves through Valentine’s forgiveness of Proteus, emphasizing reconciliation over retribution despite serious betrayals."
+      }
+    ]
+  },
+  {
+    "title": "The Life of Timon of Athens",
+    "category": "tragedy",
+    "year": "1605-1608",
+    "setting": "Athens, Greece",
+    "main_characters": [
+      "Timon",
+      "Apemantus",
+      "Alcibiades",
+      "Flavius",
+      "Ventidius",
+      "Lucius",
+      "Sempronius"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Timon",
+        "description": "Wealthy Athenian, becomes misanthrope"
+      },
+      {
+        "name": "Apemantus",
+        "description": "Cynical philosopher, criticizes society"
+      },
+      {
+        "name": "Alcibiades",
+        "description": "General, rebels against Athens"
+      },
+      {
+        "name": "Flavius",
+        "description": "Timon's loyal steward"
+      },
+      {
+        "name": "Ventidius",
+        "description": "False friend, abandons Timon"
+      },
+      {
+        "name": "Lucius",
+        "description": "False friend, rejects Timon"
+      },
+      {
+        "name": "Sempronius",
+        "description": "False friend, betrays Timon"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Wealth",
+        "theme_explanation": "Timon’s lavish spending reveals wealth’s fleeting nature, as his fortune vanishes, exposing the superficiality of material prosperity."
+      },
+      {
+        "theme": "Friendship",
+        "theme_explanation": "The betrayal by Timon’s false friends contrasts with Flavius’s loyalty, questioning the authenticity of relationships built on wealth."
+      },
+      {
+        "theme": "Betrayal",
+        "theme_explanation": "Timon’s abandonment by his supposed friends after his bankruptcy fuels his descent into misanthropy and rage against humanity."
+      },
+      {
+        "theme": "Misanthropy",
+        "theme_explanation": "Timon’s transformation into a bitter misanthrope reflects his disillusionment with human greed and ingratitude after his fall from grace."
+      },
+      {
+        "theme": "Generosity",
+        "theme_explanation": "Timon’s reckless generosity leads to his ruin, critiquing unchecked altruism in a society driven by self-interest."
+      },
+      {
+        "theme": "Corruption",
+        "theme_explanation": "Athens’s corrupt, materialistic society, exemplified by Timon’s false friends and the senators, underscores the moral decay that alienates Timon."
+      }
+    ]
+  },
+  {
+    "title": "The Tragedy of Titus Andronicus",
+    "category": "tragedy",
+    "year": "1593-1594",
+    "setting": "Rome",
+    "main_characters": [
+      "Titus Andronicus",
+      "Tamora",
+      "Aaron",
+      "Lavinia",
+      "Saturninus",
+      "Bassianus",
+      "Lucius"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Titus Andronicus",
+        "description": "Roman general, seeks revenge"
+      },
+      {
+        "name": "Tamora",
+        "description": "Goth queen, plots against Titus"
+      },
+      {
+        "name": "Aaron",
+        "description": "Tamora's lover, orchestrates villainy"
+      },
+      {
+        "name": "Lavinia",
+        "description": "Titus's daughter, brutally assaulted"
+      },
+      {
+        "name": "Saturninus",
+        "description": "Roman emperor, marries Tamora"
+      },
+      {
+        "name": "Bassianus",
+        "description": "Saturninus's brother, loves Lavinia"
+      },
+      {
+        "name": "Lucius",
+        "description": "Titus's son, avenges family"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Revenge",
+        "theme_explanation": "A relentless cycle of revenge between Titus and Tamora drives the play, escalating violence and leading to mutual destruction."
+      },
+      {
+        "theme": "Violence",
+        "theme_explanation": "Graphic violence, from Lavinia’s mutilation to the cannibalistic banquet, underscores the play’s exploration of human cruelty and retribution."
+      },
+      {
+        "theme": "Betrayal",
+        "theme_explanation": "Betrayals, such as Tamora’s manipulation of Saturninus and Aaron’s treachery, fuel the tragic conflicts and deepen the chaos."
+      },
+      {
+        "theme": "Family",
+        "theme_explanation": "Titus’s devotion to his family motivates his revenge, while Tamora’s actions to protect her sons mirror the fierce loyalty driving both sides."
+      },
+      {
+        "theme": "Power",
+        "theme_explanation": "The struggle for power in Rome, exemplified by Saturninus’s rule and Tamora’s influence, amplifies the destructive ambitions of the characters."
+      },
+      {
+        "theme": "Savagery",
+        "theme_explanation": "The play contrasts Roman civilization with barbaric acts, questioning whether savagery lies in the Goths or within Rome’s own moral decay."
+      }
+    ]
+  },
+  {
+    "title": "Troilus and Cressida",
+    "category": "tragedy",
+    "year": "1601-1602",
+    "setting": "Troy and the Greek camp, during the Trojan War",
+    "main_characters": [
+      "Troilus",
+      "Cressida",
+      "Pandarus",
+      "Hector",
+      "Achilles",
+      "Ulysses",
+      "Diomedes"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Troilus",
+        "description": "Trojan prince, loves Cressida"
+      },
+      {
+        "name": "Cressida",
+        "description": "Trojan woman, betrays Troilus"
+      },
+      {
+        "name": "Pandarus",
+        "description": "Cressida's uncle, facilitates romance"
+      },
+      {
+        "name": "Hector",
+        "description": "Trojan warrior, killed by Achilles"
+      },
+      {
+        "name": "Achilles",
+        "description": "Greek warrior, kills Hector"
+      },
+      {
+        "name": "Ulysses",
+        "description": "Greek leader, manipulates Achilles"
+      },
+      {
+        "name": "Diomedes",
+        "description": "Greek warrior, wins Cressida"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Love",
+        "theme_explanation": "Troilus and Cressida’s romance, tainted by Cressida’s betrayal, reveals love’s fragility amidst the chaos of war."
+      },
+      {
+        "theme": "War",
+        "theme_explanation": "The Trojan War’s futility is exposed through the pride and inaction of warriors like Achilles, highlighting conflict’s senseless destruction."
+      },
+      {
+        "theme": "Betrayal",
+        "theme_explanation": "Cressida’s shift to Diomedes and the shifting allegiances in war, like Achilles’s refusal to fight, underscore pervasive disloyalty."
+      },
+      {
+        "theme": "Honor",
+        "theme_explanation": "Honor is debated, as Hector upholds it nobly while Achilles’s pride and Ulysses’s manipulations reveal its hollow pursuit."
+      },
+      {
+        "theme": "Futility",
+        "theme_explanation": "The play’s cynical tone emphasizes the futility of both love and war, with no lasting victories or resolutions achieved."
+      },
+      {
+        "theme": "Deception",
+        "theme_explanation": "Deception, from Pandarus’s matchmaking to Ulysses’s schemes, drives the plot, exposing the manipulative undercurrents of human motives."
+      }
+    ]
+  },
+  {
+    "title": "Twelfth Night; Or, What You Will",
+    "category": "comedy",
+    "year": "1601-1602",
+    "setting": "Illyria, an ancient region on the Adriatic Sea",
+    "main_characters": [
+      "Viola",
+      "Sebastian",
+      "Orsino",
+      "Olivia",
+      "Malvolio",
+      "Sir Toby Belch",
+      "Sir Andrew Aguecheek",
+      "Maria",
+      "Feste"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Viola",
+        "description": "Shipwrecked woman, disguises as Cesario"
+      },
+      {
+        "name": "Sebastian",
+        "description": "Viola's twin brother, presumed dead"
+      },
+      {
+        "name": "Orsino",
+        "description": "Duke of Illyria, loves Olivia"
+      },
+      {
+        "name": "Olivia",
+        "description": "Countess, loves Cesario, then Sebastian"
+      },
+      {
+        "name": "Malvolio",
+        "description": "Olivia's steward, humiliated by prank"
+      },
+      {
+        "name": "Sir Toby Belch",
+        "description": "Olivia's drunken uncle, plots prank"
+      },
+      {
+        "name": "Sir Andrew Aguecheek",
+        "description": "Toby's foolish friend, courts Olivia"
+      },
+      {
+        "name": "Maria",
+        "description": "Olivia's maid, orchestrates Malvolio prank"
+      },
+      {
+        "name": "Feste",
+        "description": "Olivia's witty fool, sings and jests"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Love",
+        "theme_explanation": "Love’s irrationality drives the romantic entanglements, as Orsino, Olivia, and Viola navigate unrequited and mistaken affections, resolved through comedic revelations."
+      },
+      {
+        "theme": "Disguise",
+        "theme_explanation": "Viola’s disguise as Cesario creates romantic and comedic confusion, highlighting how appearances shape perceptions and relationships."
+      },
+      {
+        "theme": "Deception",
+        "theme_explanation": "Deception, from Viola’s disguise to the prank on Malvolio, fuels the plot, exploring both playful and cruel manipulations."
+      },
+      {
+        "theme": "Gender",
+        "theme_explanation": "Viola’s cross-dressing as Cesario blurs gender roles, challenging societal norms and sparking romantic complications."
+      },
+      {
+        "theme": "Social class",
+        "theme_explanation": "The play critiques class distinctions through Malvolio’s social ambitions and the interactions between nobles, servants, and fools."
+      },
+      {
+        "theme": "Folly",
+        "theme_explanation": "Folly is central, from Malvolio’s self-delusion to Sir Toby’s drunken antics, exposing human weaknesses through humor."
+      },
+      {
+        "theme": "Identity",
+        "theme_explanation": "Mistaken identities, especially between Viola and Sebastian, drive the comedy, questioning the nature of self and perception."
+      }
+    ]
+  },
+  {
+    "title": "The Winter's Tale",
+    "category": "comedy",
+    "year": "1610-1611",
+    "setting": "Sicilia and Bohemia",
+    "main_characters": [
+      "Leontes",
+      "Hermione",
+      "Perdita",
+      "Polixenes",
+      "Camillo",
+      "Paulina",
+      "Autolycus",
+      "Florizel"
+    ],
+    "character_descriptions": [
+      {
+        "name": "Leontes",
+        "description": "King of Sicilia, jealous husband"
+      },
+      {
+        "name": "Hermione",
+        "description": "Leontes's wife, falsely accused"
+      },
+      {
+        "name": "Perdita",
+        "description": "Leontes's daughter, raised in Bohemia"
+      },
+      {
+        "name": "Polixenes",
+        "description": "King of Bohemia, Leontes's friend"
+      },
+      {
+        "name": "Camillo",
+        "description": "Loyal advisor, serves both kings"
+      },
+      {
+        "name": "Paulina",
+        "description": "Hermione's friend, seeks justice"
+      },
+      {
+        "name": "Autolycus",
+        "description": "Rogue, aids Bohemia's comedy"
+      },
+      {
+        "name": "Florizel",
+        "description": "Polixenes's son, loves Perdita"
+      }
+    ],
+    "themes": [
+      {
+        "theme": "Jealousy",
+        "theme_explanation": "Leontes’s baseless jealousy destroys his family, driving the play’s tragic first half until redemption begins."
+      },
+      {
+        "theme": "Redemption",
+        "theme_explanation": "Leontes’s remorse and the restoration of his family through Perdita and Hermione offer redemption, healing past wrongs."
+      },
+      {
+        "theme": "Time",
+        "theme_explanation": "Time’s passage, spanning sixteen years, enables healing and transformation, bridging the play’s tragic and comedic halves."
+      },
+      {
+        "theme": "Family",
+        "theme_explanation": "The reunion of Leontes, Hermione, and Perdita underscores the enduring strength of family bonds despite betrayal and loss."
+      },
+      {
+        "theme": "Forgiveness",
+        "theme_explanation": "Forgiveness, particularly Hermione’s reconciliation with Leontes, resolves the play, emphasizing mercy over retribution."
+      },
+      {
+        "theme": "Nature vs. nurture",
+        "theme_explanation": "Perdita’s grace despite her rustic upbringing suggests innate nobility, questioning whether character stems from birth or environment."
+      }
+    ]
+  }
+]

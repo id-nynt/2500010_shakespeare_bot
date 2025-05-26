@@ -1,0 +1,3370 @@
+{
+  "title": "The Taming of the Shrew",
+  "acts": [
+    {
+      "act": 1,
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Padua. A public place.",
+          "scene_id": "the_taming_of_the_shrew_1_1",
+          "dialogues": [
+            {
+              "speaker": "Lucentio",
+              "line": "Tranio, since for the great desire I had To see fair Padua, nursery of arts, I am arriv'd for fruitful Lombardy, The pleasant garden of great Italy, And by my father's love and leave am arm'd With his good will and thy good company, My trusty servant well approv'd in all, Here let us breathe, and haply institute A course of learning and ingenious studies. Pisa, renowned for grave citizens, Gave me my being and my father first, A merchant of great traffic through the world, Vincentio, come of the Bentivolii. Vincentio's son, brought up in Florence, It shall become to serve all hopes conceiv'd, To deck his fortune with his virtuous deeds: And therefore, Tranio, for the time I study, Virtue and that part of philosophy Will I apply that treats of happiness By virtue specially to be achiev'd. Tell me thy mind; for I have Pisa left And am to Padua come as he that leaves A shallow plash to plunge him in the deep, And with satiety seeks to quench his thirst."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "_Mi perdonato_, gentle master mine; I am in all affected as yourself; Glad that you thus continue your resolve To suck the sweets of sweet philosophy. Only, good master, while we do admire This virtue and this moral discipline, Let's be no stoics nor no stocks, I pray; Or so devote to Aristotle's checks As Ovid be an outcast quite abjur'd. Balk logic with acquaintance that you have, And practise rhetoric in your common talk; Music and poesy use to quicken you; The mathematics and the metaphysics, Fall to them as you find your stomach serves you: No profit grows where is no pleasure ta'en; In brief, sir, study what you most affect."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Gramercies, Tranio, well dost thou advise. If, Biondello, thou wert come ashore, We could at once put us in readiness, And take a lodging fit to entertain Such friends as time in Padua shall beget. But stay awhile; what company is this?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Master, some show to welcome us to town."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Gentlemen, importune me no farther, For how I firmly am resolv'd you know; That is, not to bestow my youngest daughter Before I have a husband for the elder. If either of you both love Katherina, Because I know you well and love you well, Leave shall you have to court her at your pleasure."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "To cart her rather: she's too rough for me. There, there, Hortensio, will you any wife?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I pray you, sir, is it your will To make a stale of me amongst these mates?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Mates, maid! How mean you that? No mates for you, Unless you were of gentler, milder mould."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I' faith, sir, you shall never need to fear; I wis it is not half way to her heart; But if it were, doubt not her care should be To comb your noddle with a three-legg'd stool, And paint your face, and use you like a fool."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "From all such devils, good Lord deliver us!"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "And me, too, good Lord!"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Husht, master! Here's some good pastime toward: That wench is stark mad or wonderful froward."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "But in the other's silence do I see Maid's mild behaviour and sobriety. Peace, Tranio!"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Well said, master; mum! and gaze your fill."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Gentlemen, that I may soon make good What I have said,-Bianca, get you in: And let it not displease thee, good Bianca, For I will love thee ne'er the less, my girl."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "A pretty peat! it is best put finger in the eye, and she knew why."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Sister, content you in my discontent. Sir, to your pleasure humbly I subscribe: My books and instruments shall be my company, On them to look, and practise by myself."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Hark, Tranio! thou mayst hear Minerva speak."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Signior Baptista, will you be so strange? Sorry am I that our good will effects Bianca's grief."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Why will you mew her up, Signior Baptista, for this fiend of hell, And make her bear the penance of her tongue?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Gentlemen, content ye; I am resolv'd. Go in, Bianca. And for I know she taketh most delight In music, instruments, and poetry, Schoolmasters will I keep within my house Fit to instruct her youth. If you, Hortensio, Or, Signior Gremio, you, know any such, Prefer them hither; for to cunning men I will be very kind, and liberal To mine own children in good bringing up; And so, farewell. Katherina, you may stay; For I have more to commune with Bianca."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Why, and I trust I may go too, may I not? What! shall I be appointed hours, as though, belike, I knew not what to take and what to leave? Ha!"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "You may go to the devil's dam: your gifts are so good here's none will hold you. Their love is not so great, Hortensio, but we may blow our nails together, and fast it fairly out; our cake's dough on both sides. Farewell: yet, for the love I bear my sweet Bianca, if I can by any means light on a fit man to teach her that wherein she delights, I will wish him to her father."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "So will I, Signior Gremio: but a word, I pray. Though the nature of our quarrel yet never brooked parle, know now, upon advice, it toucheth us both,-that we may yet again have access to our fair mistress, and be happy rivals in Bianca's love,-to labour and effect one thing specially."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "What's that, I pray?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Marry, sir, to get a husband for her sister."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "A husband! a devil."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "I say, a husband."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "I say, a devil. Thinkest thou, Hortensio, though her father be very rich, any man is so very a fool to be married to hell?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Tush, Gremio! Though it pass your patience and mine to endure her loud alarums, why, man, there be good fellows in the world, and a man could light on them, would take her with all faults, and money enough."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "I cannot tell; but I had as lief take her dowry with this condition: to be whipp'd at the high cross every morning."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Faith, as you say, there's small choice in rotten apples. But come; since this bar in law makes us friends, it shall be so far forth friendly maintained, till by helping Baptista's eldest daughter to a husband, we set his youngest free for a husband, and then have to't afresh. Sweet Bianca! Happy man be his dole! He that runs fastest gets the ring. How say you, Signior Gremio?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "I am agreed; and would I had given him the best horse in Padua to begin his wooing, that would thoroughly woo her, wed her, and bed her, and rid the house of her. Come on."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "I pray, sir, tell me, is it possible That love should of a sudden take such hold?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "O Tranio! till I found it to be true, I never thought it possible or likely; But see, while idly I stood looking on, I found the effect of love in idleness; And now in plainness do confess to thee, That art to me as secret and as dear As Anna to the Queen of Carthage was, Tranio, I burn, I pine, I perish, Tranio, If I achieve not this young modest girl. Counsel me, Tranio, for I know thou canst: Assist me, Tranio, for I know thou wilt."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Master, it is no time to chide you now; Affection is not rated from the heart: If love have touch'd you, nought remains but so: _Redime te captum quam queas minimo._"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Gramercies, lad; go forward; this contents; The rest will comfort, for thy counsel's sound."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Master, you look'd so longly on the maid. Perhaps you mark'd not what's the pith of all."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "O, yes, I saw sweet beauty in her face, Such as the daughter of Agenor had, That made great Jove to humble him to her hand, When with his knees he kiss'd the Cretan strand."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Saw you no more? mark'd you not how her sister Began to scold and raise up such a storm That mortal ears might hardly endure the din?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Tranio, I saw her coral lips to move, And with her breath she did perfume the air; Sacred and sweet was all I saw in her."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Nay, then, 'tis time to stir him from his trance. I pray, awake, sir: if you love the maid, Bend thoughts and wits to achieve her. Thus it stands: Her elder sister is so curst and shrewd, That till the father rid his hands of her, Master, your love must live a maid at home; And therefore has he closely mew'd her up, Because she will not be annoy'd with suitors."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Ah, Tranio, what a cruel father's he! But art thou not advis'd he took some care To get her cunning schoolmasters to instruct her?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Ay, marry, am I, sir, and now 'tis plotted."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "I have it, Tranio."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Master, for my hand, Both our inventions meet and jump in one."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Tell me thine first."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "You will be schoolmaster, And undertake the teaching of the maid: That's your device."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "It is: may it be done?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Not possible; for who shall bear your part And be in Padua here Vincentio's son; Keep house and ply his book, welcome his friends; Visit his countrymen, and banquet them?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "_Basta_, content thee, for I have it full. We have not yet been seen in any house, Nor can we be distinguish'd by our faces For man or master: then it follows thus: Thou shalt be master, Tranio, in my stead, Keep house and port and servants, as I should; I will some other be; some Florentine, Some Neapolitan, or meaner man of Pisa. 'Tis hatch'd, and shall be so: Tranio, at once Uncase thee; take my colour'd hat and cloak. When Biondello comes, he waits on thee; But I will charm him first to keep his tongue."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "So had you need. In brief, sir, sith it your pleasure is, And I am tied to be obedient; For so your father charg'd me at our parting, ‘Be serviceable to my son,' quoth he, Although I think 'twas in another sense: I am content to be Lucentio, Because so well I love Lucentio."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Tranio, be so, because Lucentio loves; And let me be a slave, to achieve that maid Whose sudden sight hath thrall'd my wounded eye. Here comes the rogue. Sirrah, where have you been?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Where have I been? Nay, how now! where are you? Master, has my fellow Tranio stol'n your clothes? Or you stol'n his? or both? Pray, what's the news?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Sirrah, come hither: 'tis no time to jest, And therefore frame your manners to the time. Your fellow Tranio here, to save my life, Puts my apparel and my count'nance on, And I for my escape have put on his; For in a quarrel since I came ashore I kill'd a man, and fear I was descried. Wait you on him, I charge you, as becomes, While I make way from hence to save my life. You understand me?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "I, sir! Ne'er a whit."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "And not a jot of Tranio in your mouth: Tranio is changed to Lucentio."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "The better for him: would I were so too!"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "So could I, faith, boy, to have the next wish after, That Lucentio indeed had Baptista's youngest daughter. But, sirrah, not for my sake but your master's, I advise You use your manners discreetly in all kind of companies: When I am alone, why, then I am Tranio; But in all places else your master, Lucentio."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Tranio, let's go. One thing more rests, that thyself execute, To make one among these wooers: if thou ask me why, Sufficeth my reasons are both good and weighty."
+            },
+            {
+              "speaker": "First Servant",
+              "line": "My lord, you nod; you do not mind the play."
+            },
+            {
+              "speaker": "Sly",
+              "line": "Yes, by Saint Anne, I do. A good matter, surely: comes there any more of it?"
+            },
+            {
+              "speaker": "Page",
+              "line": "My lord, 'tis but begun."
+            },
+            {
+              "speaker": "Sly",
+              "line": "'Tis a very excellent piece of work, madam lady: would 'twere done!"
+            }
+          ]
+        },
+        {
+          "scene": 2,
+          "location": "Padua. Before Hortensio's house.",
+          "scene_id": "the_taming_of_the_shrew_1_2",
+          "dialogues": [
+            {
+              "speaker": "Petruchio",
+              "line": "Verona, for a while I take my leave, To see my friends in Padua; but of all My best beloved and approved friend, Hortensio; and I trow this is his house. Here, sirrah Grumio, knock, I say."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Knock, sir? Whom should I knock? Is there any man has rebused your worship?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Villain, I say, knock me here soundly."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Knock you here, sir? Why, sir, what am I, sir, that I should knock you here, sir?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Villain, I say, knock me at this gate; And rap me well, or I'll knock your knave's pate."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "My master is grown quarrelsome. I should knock you first, And then I know after who comes by the worst."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Will it not be? Faith, sirrah, and you'll not knock, I'll ring it; I'll try how you can sol, fa, and sing it."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Help, masters, help! my master is mad."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Now, knock when I bid you, sirrah villain!"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "How now! what's the matter? My old friend Grumio! and my good friend Petruchio! How do you all at Verona?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Signior Hortensio, come you to part the fray? _Con tutto il cuore ben trovato_, may I say."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "_Alla nostra casa ben venuto; molto honorato signor mio Petruchio._ Rise, Grumio, rise: we will compound this quarrel."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Nay, 'tis no matter, sir, what he 'leges in Latin. If this be not a lawful cause for me to leave his service, look you, sir, he bid me knock him and rap him soundly, sir: well, was it fit for a servant to use his master so; being, perhaps, for aught I see, two-and-thirty, a pip out? Whom would to God I had well knock'd at first, then had not Grumio come by the worst."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "A senseless villain! Good Hortensio, I bade the rascal knock upon your gate, And could not get him for my heart to do it."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Knock at the gate! O heavens! Spake you not these words plain: ‘Sirrah knock me here, rap me here, knock me well, and knock me soundly'? And come you now with ‘knocking at the gate'?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Sirrah, be gone, or talk not, I advise you."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Petruchio, patience; I am Grumio's pledge; Why, this's a heavy chance 'twixt him and you, Your ancient, trusty, pleasant servant Grumio. And tell me now, sweet friend, what happy gale Blows you to Padua here from old Verona?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Such wind as scatters young men through the world To seek their fortunes farther than at home, Where small experience grows. But in a few, Signior Hortensio, thus it stands with me: Antonio, my father, is deceas'd, And I have thrust myself into this maze, Haply to wive and thrive as best I may; Crowns in my purse I have, and goods at home, And so am come abroad to see the world."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Petruchio, shall I then come roundly to thee And wish thee to a shrewd ill-favour'd wife? Thou'dst thank me but a little for my counsel; And yet I'll promise thee she shall be rich, And very rich: but th'art too much my friend, And I'll not wish thee to her."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Signior Hortensio, 'twixt such friends as we Few words suffice; and therefore, if thou know One rich enough to be Petruchio's wife, As wealth is burden of my wooing dance, Be she as foul as was Florentius' love, As old as Sibyl, and as curst and shrewd As Socrates' Xanthippe or a worse, She moves me not, or not removes, at least, Affection's edge in me, were she as rough As are the swelling Adriatic seas: I come to wive it wealthily in Padua; If wealthily, then happily in Padua."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Nay, look you, sir, he tells you flatly what his mind is: why, give him gold enough and marry him to a puppet or an aglet-baby; or an old trot with ne'er a tooth in her head, though she have as many diseases as two-and-fifty horses: why, nothing comes amiss, so money comes withal."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Petruchio, since we are stepp'd thus far in, I will continue that I broach'd in jest. I can, Petruchio, help thee to a wife With wealth enough, and young and beauteous; Brought up as best becomes a gentlewoman: Her only fault,-and that is faults enough,- Is, that she is intolerable curst, And shrewd and froward, so beyond all measure, That, were my state far worser than it is, I would not wed her for a mine of gold."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Hortensio, peace! thou know'st not gold's effect: Tell me her father's name, and 'tis enough; For I will board her, though she chide as loud As thunder when the clouds in autumn crack."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Her father is Baptista Minola, An affable and courteous gentleman; Her name is Katherina Minola, Renown'd in Padua for her scolding tongue."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I know her father, though I know not her; And he knew my deceased father well. I will not sleep, Hortensio, till I see her; And therefore let me be thus bold with you, To give you over at this first encounter, Unless you will accompany me thither."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "I pray you, sir, let him go while the humour lasts. O' my word, and she knew him as well as I do, she would think scolding would do little good upon him. She may perhaps call him half a score knaves or so; why, that's nothing; and he begin once, he'll rail in his rope-tricks. I'll tell you what, sir, and she stand him but a little, he will throw a figure in her face, and so disfigure her with it that she shall have no more eyes to see withal than a cat. You know him not, sir."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Tarry, Petruchio, I must go with thee, For in Baptista's keep my treasure is: He hath the jewel of my life in hold, His youngest daughter, beautiful Bianca, And her withholds from me and other more, Suitors to her and rivals in my love; Supposing it a thing impossible, For those defects I have before rehears'd, That ever Katherina will be woo'd: Therefore this order hath Baptista ta'en, That none shall have access unto Bianca Till Katherine the curst have got a husband."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Katherine the curst! A title for a maid of all titles the worst."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Now shall my friend Petruchio do me grace, And offer me disguis'd in sober robes, To old Baptista as a schoolmaster Well seen in music, to instruct Bianca; That so I may, by this device at least Have leave and leisure to make love to her, And unsuspected court her by herself."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Here's no knavery! See, to beguile the old folks, how the young folks lay their heads together! Master, master, look about you: who goes there, ha?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Peace, Grumio! It is the rival of my love. Petruchio, stand by awhile."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "A proper stripling, and an amorous!"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "O! very well; I have perus'd the note. Hark you, sir; I'll have them very fairly bound: All books of love, see that at any hand, And see you read no other lectures to her. You understand me. Over and beside Signior Baptista's liberality, I'll mend it with a largess. Take your papers too, And let me have them very well perfum'd; For she is sweeter than perfume itself To whom they go to. What will you read to her?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Whate'er I read to her, I'll plead for you, As for my patron, stand you so assur'd, As firmly as yourself were still in place; Yea, and perhaps with more successful words Than you, unless you were a scholar, sir."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "O! this learning, what a thing it is."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "O! this woodcock, what an ass it is."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Peace, sirrah!"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Grumio, mum! God save you, Signior Gremio!"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "And you are well met, Signior Hortensio. Trow you whither I am going? To Baptista Minola. I promis'd to enquire carefully About a schoolmaster for the fair Bianca; And by good fortune I have lighted well On this young man; for learning and behaviour Fit for her turn, well read in poetry And other books, good ones, I warrant ye."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "'Tis well; and I have met a gentleman Hath promis'd me to help me to another, A fine musician to instruct our mistress: So shall I no whit be behind in duty To fair Bianca, so belov'd of me."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Belov'd of me, and that my deeds shall prove."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "And that his bags shall prove."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Gremio, 'tis now no time to vent our love: Listen to me, and if you speak me fair, I'll tell you news indifferent good for either. Here is a gentleman whom by chance I met, Upon agreement from us to his liking, Will undertake to woo curst Katherine; Yea, and to marry her, if her dowry please."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "So said, so done, is well. Hortensio, have you told him all her faults?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I know she is an irksome brawling scold; If that be all, masters, I hear no harm."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "No, say'st me so, friend? What countryman?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Born in Verona, old Antonio's son. My father dead, my fortune lives for me; And I do hope good days and long to see."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "O sir, such a life, with such a wife, were strange! But if you have a stomach, to't a God's name; You shall have me assisting you in all. But will you woo this wild-cat?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Will I live?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Will he woo her? Ay, or I'll hang her."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why came I hither but to that intent? Think you a little din can daunt mine ears? Have I not in my time heard lions roar? Have I not heard the sea, puff'd up with winds, Rage like an angry boar chafed with sweat? Have I not heard great ordnance in the field, And heaven's artillery thunder in the skies? Have I not in a pitched battle heard Loud 'larums, neighing steeds, and trumpets' clang? And do you tell me of a woman's tongue, That gives not half so great a blow to hear As will a chestnut in a farmer's fire? Tush, tush! fear boys with bugs."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "For he fears none."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Hortensio, hark: This gentleman is happily arriv'd, My mind presumes, for his own good and yours."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "I promis'd we would be contributors, And bear his charge of wooing, whatsoe'er."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "And so we will, provided that he win her."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "I would I were as sure of a good dinner."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Gentlemen, God save you! If I may be bold, Tell me, I beseech you, which is the readiest way To the house of Signior Baptista Minola?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "He that has the two fair daughters; is't he you mean?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Even he, Biondello!"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Hark you, sir, you mean not her to-"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Perhaps him and her, sir; what have you to do?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Not her that chides, sir, at any hand, I pray."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "I love no chiders, sir. Biondello, let's away."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Well begun, Tranio."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Sir, a word ere you go. Are you a suitor to the maid you talk of, yea or no?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "And if I be, sir, is it any offence?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "No; if without more words you will get you hence."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Why, sir, I pray, are not the streets as free For me as for you?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "But so is not she."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "For what reason, I beseech you?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "For this reason, if you'll know, That she's the choice love of Signior Gremio."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "That she's the chosen of Signior Hortensio."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Softly, my masters! If you be gentlemen, Do me this right; hear me with patience. Baptista is a noble gentleman, To whom my father is not all unknown; And were his daughter fairer than she is, She may more suitors have, and me for one. Fair Leda's daughter had a thousand wooers; Then well one more may fair Bianca have; And so she shall: Lucentio shall make one, Though Paris came in hope to speed alone."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "What, this gentleman will out-talk us all."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Sir, give him head; I know he'll prove a jade."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Hortensio, to what end are all these words?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Sir, let me be so bold as ask you, Did you yet ever see Baptista's daughter?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "No, sir, but hear I do that he hath two, The one as famous for a scolding tongue As is the other for beauteous modesty."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Sir, sir, the first's for me; let her go by."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Yea, leave that labour to great Hercules, And let it be more than Alcides' twelve."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Sir, understand you this of me, in sooth: The youngest daughter, whom you hearken for, Her father keeps from all access of suitors, And will not promise her to any man Until the elder sister first be wed; The younger then is free, and not before."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "If it be so, sir, that you are the man Must stead us all, and me amongst the rest; And if you break the ice, and do this feat, Achieve the elder, set the younger free For our access, whose hap shall be to have her Will not so graceless be to be ingrate."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Sir, you say well, and well you do conceive; And since you do profess to be a suitor, You must, as we do, gratify this gentleman, To whom we all rest generally beholding."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Sir, I shall not be slack; in sign whereof, Please ye we may contrive this afternoon, And quaff carouses to our mistress' health; And do as adversaries do in law, Strive mightily, but eat and drink as friends. GRUMIO, BIONDELLO. O excellent motion! Fellows, let's be gone."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "The motion's good indeed, and be it so:- Petruchio, I shall be your _ben venuto_."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Padua. A room in Baptista's house.",
+          "scene_id": "the_taming_of_the_shrew_2_1",
+          "dialogues": [
+            {
+              "speaker": "Bianca",
+              "line": "Good sister, wrong me not, nor wrong yourself, To make a bondmaid and a slave of me; That I disdain; but for these other gawds, Unbind my hands, I'll pull them off myself, Yea, all my raiment, to my petticoat; Or what you will command me will I do, So well I know my duty to my elders."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Of all thy suitors here I charge thee tell Whom thou lov'st best: see thou dissemble not."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Believe me, sister, of all the men alive I never yet beheld that special face Which I could fancy more than any other."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Minion, thou liest. Is't not Hortensio?"
+            },
+            {
+              "speaker": "Bianca",
+              "line": "If you affect him, sister, here I swear I'll plead for you myself but you shall have him."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "O! then, belike, you fancy riches more: You will have Gremio to keep you fair."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Is it for him you do envy me so? Nay, then you jest; and now I well perceive You have but jested with me all this while: I prithee, sister Kate, untie my hands."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "If that be jest, then all the rest was so."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Why, how now, dame! Whence grows this insolence? Bianca, stand aside. Poor girl! she weeps. Go ply thy needle; meddle not with her. For shame, thou hilding of a devilish spirit, Why dost thou wrong her that did ne'er wrong thee? When did she cross thee with a bitter word?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Her silence flouts me, and I'll be reveng'd."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "What! in my sight? Bianca, get thee in."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "What! will you not suffer me? Nay, now I see She is your treasure, she must have a husband; I must dance bare-foot on her wedding-day, And, for your love to her, lead apes in hell. Talk not to me: I will go sit and weep Till I can find occasion of revenge."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Was ever gentleman thus griev'd as I? But who comes here? Enter Gremio, with Lucentio in the habit of a mean man; Petruchio, with Hortensio as a musician; and Tranio, with Biondello bearing a lute and books."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Good morrow, neighbour Baptista."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Good morrow, neighbour Gremio. God save you, gentlemen!"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "And you, good sir! Pray, have you not a daughter Call'd Katherina, fair and virtuous?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "I have a daughter, sir, call'd Katherina."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "You are too blunt: go to it orderly."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "You wrong me, Signior Gremio: give me leave. I am a gentleman of Verona, sir, That, hearing of her beauty and her wit, Her affability and bashful modesty, Her wondrous qualities and mild behaviour, Am bold to show myself a forward guest Of that report which I so oft have heard. And, for an entrance to my entertainment, I do present you with a man of mine, Cunning in music and the mathematics, To instruct her fully in those sciences, Whereof I know she is not ignorant. Accept of him, or else you do me wrong: His name is Licio, born in Mantua."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Y'are welcome, sir, and he for your good sake; But for my daughter Katherine, this I know, She is not for your turn, the more my grief."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I see you do not mean to part with her; Or else you like not of my company."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Mistake me not; I speak but as I find. Whence are you, sir? What may I call your name?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Petruchio is my name, Antonio's son; A man well known throughout all Italy."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "I know him well: you are welcome for his sake."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Saving your tale, Petruchio, I pray, Let us, that are poor petitioners, speak too. Backare! you are marvellous forward."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "O, pardon me, Signior Gremio; I would fain be doing."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "I doubt it not, sir; but you will curse your wooing. Neighbour, this is a gift very grateful, I am sure of it. To express the like kindness, myself, that have been more kindly beholding to you than any, freely give unto you this young scholar, that has been long studying at Rheims; as cunning in Greek, Latin, and other languages, as the other in music and mathematics. His name is Cambio; pray accept his service."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "A thousand thanks, Signior Gremio; welcome, good Cambio.  But, gentle sir, methinks you walk like a stranger. May I be so bold to know the cause of your coming?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Pardon me, sir, the boldness is mine own, That, being a stranger in this city here, Do make myself a suitor to your daughter, Unto Bianca, fair and virtuous. Nor is your firm resolve unknown to me, In the preferment of the eldest sister. This liberty is all that I request, That, upon knowledge of my parentage, I may have welcome 'mongst the rest that woo, And free access and favour as the rest: And, toward the education of your daughters, I here bestow a simple instrument, And this small packet of Greek and Latin books: If you accept them, then their worth is great."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Lucentio is your name, of whence, I pray?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Of Pisa, sir; son to Vincentio."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "A mighty man of Pisa: by report I know him well: you are very welcome, sir.  Take you the lute,  and you the set of books; You shall go see your pupils presently. Holla, within! Sirrah, lead these gentlemen To my daughters, and tell them both These are their tutors: bid them use them well. We will go walk a little in the orchard, And then to dinner. You are passing welcome, And so I pray you all to think yourselves."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Signior Baptista, my business asketh haste, And every day I cannot come to woo. You knew my father well, and in him me, Left solely heir to all his lands and goods, Which I have bettered rather than decreas'd: Then tell me, if I get your daughter's love, What dowry shall I have with her to wife?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "After my death, the one half of my lands, And in possession twenty thousand crowns."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "And, for that dowry, I'll assure her of Her widowhood, be it that she survive me, In all my lands and leases whatsoever. Let specialities be therefore drawn between us, That covenants may be kept on either hand."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Ay, when the special thing is well obtain'd, That is, her love; for that is all in all."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, that is nothing; for I tell you, father, I am as peremptory as she proud-minded; And where two raging fires meet together, They do consume the thing that feeds their fury: Though little fire grows great with little wind, Yet extreme gusts will blow out fire and all; So I to her, and so she yields to me; For I am rough and woo not like a babe."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Well mayst thou woo, and happy be thy speed! But be thou arm'd for some unhappy words."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Ay, to the proof, as mountains are for winds, That shake not though they blow perpetually."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "How now, my friend! Why dost thou look so pale?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "For fear, I promise you, if I look pale."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "What, will my daughter prove a good musician?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "I think she'll sooner prove a soldier: Iron may hold with her, but never lutes."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Why, then thou canst not break her to the lute?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Why, no; for she hath broke the lute to me. I did but tell her she mistook her frets, And bow'd her hand to teach her fingering; When, with a most impatient devilish spirit, ‘Frets, call you these?' quoth she ‘I'll fume with them'; And with that word she struck me on the head, And through the instrument my pate made way; And there I stood amazed for a while, As on a pillory, looking through the lute; While she did call me rascal fiddler, And twangling Jack, with twenty such vile terms, As had she studied to misuse me so."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Now, by the world, it is a lusty wench! I love her ten times more than e'er I did: O! how I long to have some chat with her!"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Well, go with me, and be not so discomfited; Proceed in practice with my younger daughter; She's apt to learn, and thankful for good turns. Signior Petruchio, will you go with us, Or shall I send my daughter Kate to you?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I pray you do. I will attend her here, And woo her with some spirit when she comes. Say that she rail; why, then I'll tell her plain She sings as sweetly as a nightingale: Say that she frown; I'll say she looks as clear As morning roses newly wash'd with dew: Say she be mute, and will not speak a word; Then I'll commend her volubility, And say she uttereth piercing eloquence: If she do bid me pack, I'll give her thanks, As though she bid me stay by her a week: If she deny to wed, I'll crave the day When I shall ask the banns, and when be married. But here she comes; and now, Petruchio, speak. Good morrow, Kate; for that's your name, I hear."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Well have you heard, but something hard of hearing: They call me Katherine that do talk of me."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "You lie, in faith, for you are call'd plain Kate, And bonny Kate, and sometimes Kate the curst; But, Kate, the prettiest Kate in Christendom, Kate of Kate Hall, my super-dainty Kate, For dainties are all Kates, and therefore, Kate, Take this of me, Kate of my consolation; Hearing thy mildness prais'd in every town, Thy virtues spoke of, and thy beauty sounded,- Yet not so deeply as to thee belongs,- Myself am mov'd to woo thee for my wife."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Mov'd! in good time: let him that mov'd you hither Remove you hence. I knew you at the first, You were a moveable."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, what's a moveable?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "A joint-stool."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Thou hast hit it: come, sit on me."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Asses are made to bear, and so are you."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Women are made to bear, and so are you."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "No such jade as bear you, if me you mean."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Alas! good Kate, I will not burden thee; For, knowing thee to be but young and light,-"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Too light for such a swain as you to catch; And yet as heavy as my weight should be."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Should be! should buz!"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Well ta'en, and like a buzzard."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "O, slow-wing'd turtle! shall a buzzard take thee?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Ay, for a turtle, as he takes a buzzard."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Come, come, you wasp; i' faith, you are too angry."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "If I be waspish, best beware my sting."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "My remedy is then to pluck it out."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Ay, if the fool could find it where it lies."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Who knows not where a wasp does wear his sting? In his tail."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "In his tongue."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Whose tongue?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Yours, if you talk of tales; and so farewell."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "What! with my tongue in your tail? Nay, come again, Good Kate; I am a gentleman."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "That I'll try."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I swear I'll cuff you if you strike again."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "So may you lose your arms: If you strike me, you are no gentleman; And if no gentleman, why then no arms."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "A herald, Kate? O! put me in thy books."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "What is your crest? a coxcomb?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "A combless cock, so Kate will be my hen."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "No cock of mine; you crow too like a craven."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Nay, come, Kate, come; you must not look so sour."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "It is my fashion when I see a crab."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, here's no crab, and therefore look not sour."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "There is, there is."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Then show it me."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Had I a glass I would."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "What, you mean my face?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Well aim'd of such a young one."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Now, by Saint George, I am too young for you."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Yet you are wither'd."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "'Tis with cares."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I care not."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Nay, hear you, Kate: in sooth, you 'scape not so."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I chafe you, if I tarry; let me go."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "No, not a whit; I find you passing gentle. 'Twas told me you were rough, and coy, and sullen, And now I find report a very liar; For thou art pleasant, gamesome, passing courteous, But slow in speech, yet sweet as spring-time flowers. Thou canst not frown, thou canst not look askance, Nor bite the lip, as angry wenches will, Nor hast thou pleasure to be cross in talk; But thou with mildness entertain'st thy wooers; With gentle conference, soft and affable. Why does the world report that Kate doth limp? O sland'rous world! Kate like the hazel-twig Is straight and slender, and as brown in hue As hazel-nuts, and sweeter than the kernels. O! let me see thee walk: thou dost not halt."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Go, fool, and whom thou keep'st command."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Did ever Dian so become a grove As Kate this chamber with her princely gait? O! be thou Dian, and let her be Kate, And then let Kate be chaste, and Dian sportful!"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Where did you study all this goodly speech?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "It is extempore, from my mother-wit."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "A witty mother! witless else her son."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Am I not wise?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Yes; keep you warm."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Marry, so I mean, sweet Katherine, in thy bed; And therefore, setting all this chat aside, Thus in plain terms: your father hath consented That you shall be my wife your dowry 'greed on; And will you, nill you, I will marry you. Now, Kate, I am a husband for your turn; For, by this light, whereby I see thy beauty,- Thy beauty that doth make me like thee well,- Thou must be married to no man but me; For I am he am born to tame you, Kate, And bring you from a wild Kate to a Kate Conformable as other household Kates. Here comes your father. Never make denial; I must and will have Katherine to my wife."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Now, Signior Petruchio, how speed you with my daughter?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "How but well, sir? how but well? It were impossible I should speed amiss."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Why, how now, daughter Katherine, in your dumps?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Call you me daughter? Now I promise you You have show'd a tender fatherly regard To wish me wed to one half lunatic, A mad-cap ruffian and a swearing Jack, That thinks with oaths to face the matter out."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Father, 'tis thus: yourself and all the world That talk'd of her have talk'd amiss of her: If she be curst, it is for policy, For she's not froward, but modest as the dove; She is not hot, but temperate as the morn; For patience she will prove a second Grissel, And Roman Lucrece for her chastity; And to conclude, we have 'greed so well together That upon Sunday is the wedding-day."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I'll see thee hang'd on Sunday first."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Hark, Petruchio; she says she'll see thee hang'd first."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Is this your speeding? Nay, then good-night our part!"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Be patient, gentlemen. I choose her for myself; If she and I be pleas'd, what's that to you? 'Tis bargain'd 'twixt us twain, being alone, That she shall still be curst in company. I tell you, 'tis incredible to believe How much she loves me: O! the kindest Kate She hung about my neck, and kiss on kiss She vied so fast, protesting oath on oath, That in a twink she won me to her love. O! you are novices: 'tis a world to see, How tame, when men and women are alone, A meacock wretch can make the curstest shrew. Give me thy hand, Kate; I will unto Venice, To buy apparel 'gainst the wedding-day. Provide the feast, father, and bid the guests; I will be sure my Katherine shall be fine."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "I know not what to say; but give me your hands. God send you joy, Petruchio! 'Tis a match. GREMIO, TRANIO. Amen, say we; we will be witnesses."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Father, and wife, and gentlemen, adieu. I will to Venice; Sunday comes apace; We will have rings and things, and fine array; And kiss me, Kate; we will be married o' Sunday."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Was ever match clapp'd up so suddenly?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Faith, gentlemen, now I play a merchant's part, And venture madly on a desperate mart."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "'Twas a commodity lay fretting by you; 'Twill bring you gain, or perish on the seas."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "The gain I seek is, quiet in the match."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "No doubt but he hath got a quiet catch. But now, Baptista, to your younger daughter: Now is the day we long have looked for; I am your neighbour, and was suitor first."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "And I am one that love Bianca more Than words can witness or your thoughts can guess."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Youngling, thou canst not love so dear as I."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Greybeard, thy love doth freeze."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "But thine doth fry. Skipper, stand back; 'tis age that nourisheth."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "But youth in ladies' eyes that flourisheth."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Content you, gentlemen; I'll compound this strife: 'Tis deeds must win the prize, and he of both That can assure my daughter greatest dower Shall have my Bianca's love. Say, Signior Gremio, what can you assure her?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "First, as you know, my house within the city Is richly furnished with plate and gold: Basins and ewers to lave her dainty hands; My hangings all of Tyrian tapestry; In ivory coffers I have stuff'd my crowns; In cypress chests my arras counterpoints, Costly apparel, tents, and canopies, Fine linen, Turkey cushions boss'd with pearl, Valance of Venice gold in needlework; Pewter and brass, and all things that belong To house or housekeeping: then, at my farm I have a hundred milch-kine to the pail, Six score fat oxen standing in my stalls, And all things answerable to this portion. Myself am struck in years, I must confess; And if I die tomorrow this is hers, If whilst I live she will be only mine."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "That ‘only' came well in. Sir, list to me: I am my father's heir and only son; If I may have your daughter to my wife, I'll leave her houses three or four as good Within rich Pisa's walls as anyone Old Signior Gremio has in Padua; Besides two thousand ducats by the year Of fruitful land, all which shall be her jointure. What, have I pinch'd you, Signior Gremio?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Two thousand ducats by the year of land! My land amounts not to so much in all: That she shall have, besides an argosy That now is lying in Marseilles' road. What, have I chok'd you with an argosy?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Gremio, 'tis known my father hath no less Than three great argosies, besides two galliasses, And twelve tight galleys; these I will assure her, And twice as much, whate'er thou offer'st next."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Nay, I have offer'd all; I have no more; And she can have no more than all I have; If you like me, she shall have me and mine."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Why, then the maid is mine from all the world, By your firm promise; Gremio is out-vied."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "I must confess your offer is the best; And let your father make her the assurance, She is your own; else, you must pardon me; If you should die before him, where's her dower?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "That's but a cavil; he is old, I young."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "And may not young men die as well as old?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Well, gentlemen, I am thus resolv'd. On Sunday next, you know, My daughter Katherine is to be married; Now, on the Sunday following, shall Bianca Be bride to you, if you make this assurance; If not, to Signior Gremio. And so I take my leave, and thank you both."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Adieu, good neighbour. Now, I fear thee not: Sirrah young gamester, your father were a fool To give thee all, and in his waning age Set foot under thy table. Tut! a toy! An old Italian fox is not so kind, my boy."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "A vengeance on your crafty wither'd hide! Yet I have fac'd it with a card of ten. 'Tis in my head to do my master good: I see no reason but suppos'd Lucentio Must get a father, call'd suppos'd Vincentio; And that's a wonder: fathers commonly Do get their children; but in this case of wooing A child shall get a sire, if I fail not of my cunning."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Padua. A room in Baptista's house.",
+          "scene_id": "the_taming_of_the_shrew_3_1",
+          "dialogues": [
+            {
+              "speaker": "Lucentio",
+              "line": "Fiddler, forbear; you grow too forward, sir. Have you so soon forgot the entertainment Her sister Katherine welcome'd you withal?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "But, wrangling pedant, this is The patroness of heavenly harmony: Then give me leave to have prerogative; And when in music we have spent an hour, Your lecture shall have leisure for as much."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Preposterous ass, that never read so far To know the cause why music was ordain'd! Was it not to refresh the mind of man After his studies or his usual pain? Then give me leave to read philosophy, And while I pause serve in your harmony."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Sirrah, I will not bear these braves of thine."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Why, gentlemen, you do me double wrong, To strive for that which resteth in my choice. I am no breeching scholar in the schools, I'll not be tied to hours nor 'pointed times, But learn my lessons as I please myself. And, to cut off all strife, here sit we down; Take you your instrument, play you the whiles; His lecture will be done ere you have tun'd."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "You'll leave his lecture when I am in tune?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "That will be never: tune your instrument."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Where left we last?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Here, madam:- _Hic ibat Simois; hic est Sigeia tellus; Hic steterat Priami regia celsa senis._"
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Construe them."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "_Hic ibat_, as I told you before, _Simois_, I am Lucentio, _hic est_, son unto Vincentio of Pisa, _Sigeia tellus_, disguised thus to get your love, _Hic steterat_, and that Lucentio that comes a-wooing, _Priami_, is my man Tranio, _regia_, bearing my port, _celsa senis_, that we might beguile the old pantaloon. HORTENSIO.  Madam, my instrument's in tune."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Let's hear.- O fie! the treble jars."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Spit in the hole, man, and tune again."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Now let me see if I can construe it: _Hic ibat Simois_, I know you not; _hic est Sigeia tellus_, I trust you not; _Hic steterat Priami_, take heed he hear us not; _regia_, presume not; _celsa senis_, despair not."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Madam, 'tis now in tune."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "All but the base."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "The base is right; 'tis the base knave that jars.  How fiery and forward our pedant is! Now, for my life, the knave doth court my love: Pedascule, I'll watch you better yet."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "In time I may believe, yet I mistrust."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Mistrust it not; for sure, Æacides Was Ajax, call'd so from his grandfather."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "I must believe my master; else, I promise you, I should be arguing still upon that doubt; But let it rest. Now, Licio, to you. Good master, take it not unkindly, pray, That I have been thus pleasant with you both."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "You may go walk and give me leave a while; My lessons make no music in three parts."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Are you so formal, sir? Well, I must wait,  And watch withal; for, but I be deceiv'd, Our fine musician groweth amorous."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Madam, before you touch the instrument, To learn the order of my fingering, I must begin with rudiments of art; To teach you gamut in a briefer sort, More pleasant, pithy, and effectual, Than hath been taught by any of my trade: And there it is in writing, fairly drawn."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Why, I am past my gamut long ago."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Yet read the gamut of Hortensio."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "_Gamut_ I am, the ground of all accord, _A re_, to plead Hortensio's passion; _B mi_, Bianca, take him for thy lord, _C fa ut_, that loves with all affection: _D sol re_, one clef, two notes have I _E la mi_, show pity or I die. Call you this gamut? Tut, I like it not: Old fashions please me best; I am not so nice, To change true rules for odd inventions."
+            },
+            {
+              "speaker": "Servant",
+              "line": "Mistress, your father prays you leave your books, And help to dress your sister's chamber up: You know tomorrow is the wedding-day."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Farewell, sweet masters, both: I must be gone."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Faith, mistress, then I have no cause to stay."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "But I have cause to pry into this pedant: Methinks he looks as though he were in love. Yet if thy thoughts, Bianca, be so humble To cast thy wand'ring eyes on every stale, Seize thee that list: if once I find thee ranging, Hortensio will be quit with thee by changing."
+            }
+          ]
+        },
+        {
+          "scene": 2,
+          "location": "The same. Before Baptista's house.",
+          "scene_id": "the_taming_of_the_shrew_3_2",
+          "dialogues": [
+            {
+              "speaker": "Katherina",
+              "line": "No shame but mine; I must, forsooth, be forc'd To give my hand, oppos'd against my heart, Unto a mad-brain rudesby, full of spleen; Who woo'd in haste and means to wed at leisure. I told you, I, he was a frantic fool, Hiding his bitter jests in blunt behaviour; And to be noted for a merry man, He'll woo a thousand, 'point the day of marriage, Make friends, invite, and proclaim the banns; Yet never means to wed where he hath woo'd. Now must the world point at poor Katherine, And say ‘Lo! there is mad Petruchio's wife, If it would please him come and marry her.'"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Patience, good Katherine, and Baptista too. Upon my life, Petruchio means but well, Whatever fortune stays him from his word: Though he be blunt, I know him passing wise; Though he be merry, yet withal he's honest."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Would Katherine had never seen him though!"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Go, girl, I cannot blame thee now to weep, For such an injury would vex a very saint; Much more a shrew of thy impatient humour. Master, master! News! old news, and such news as you never heard of!"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Is it new and old too? How may that be?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Why, is it not news to hear of Petruchio's coming?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Is he come?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Why, no, sir."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "What then?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "He is coming."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "When will he be here?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "When he stands where I am and sees you there."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "But say, what to thine old news?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Why, Petruchio is coming, in a new hat and an old jerkin; a pair of old breeches thrice turned; a pair of boots that have been candle-cases, one buckled, another laced; an old rusty sword ta'en out of the town armoury, with a broken hilt, and chapeless; with two broken points: his horse hipped with an old mothy saddle and stirrups of no kindred; besides, possessed with the glanders and like to mose in the chine; troubled with the lampass, infected with the fashions, full of windgalls, sped with spavins, rayed with the yellows, past cure of the fives, stark spoiled with the staggers, begnawn with the bots, swayed in the back and shoulder-shotten; near-legged before, and with a half-checked bit, and a head-stall of sheep's leather, which, being restrained to keep him from stumbling, hath been often burst, and now repaired with knots; one girth six times pieced, and a woman's crupper of velure, which hath two letters for her name fairly set down in studs, and here and there pieced with pack-thread."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Who comes with him?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "O, sir! his lackey, for all the world caparisoned like the horse; with a linen stock on one leg and a kersey boot-hose on the other, gartered with a red and blue list; an old hat, and the humour of forty fancies prick'd in't for a feather: a monster, a very monster in apparel, and not like a Christian footboy or a gentleman's lackey."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "'Tis some odd humour pricks him to this fashion; Yet oftentimes he goes but mean-apparell'd."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "I am glad he's come, howsoe'er he comes."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Why, sir, he comes not."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Didst thou not say he comes?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Who? that Petruchio came?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Ay, that Petruchio came."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "No, sir; I say his horse comes, with him on his back."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Why, that's all one."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Nay, by Saint Jamy, I hold you a penny, A horse and a man Is more than one, And yet not many."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Come, where be these gallants? Who is at home?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "You are welcome, sir."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "And yet I come not well."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "And yet you halt not."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Not so well apparell'd as I wish you were."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Were it better, I should rush in thus. But where is Kate? Where is my lovely bride? How does my father? Gentles, methinks you frown; And wherefore gaze this goodly company, As if they saw some wondrous monument, Some comet or unusual prodigy?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Why, sir, you know this is your wedding-day: First were we sad, fearing you would not come; Now sadder, that you come so unprovided. Fie! doff this habit, shame to your estate, An eye-sore to our solemn festival."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "And tell us what occasion of import Hath all so long detain'd you from your wife, And sent you hither so unlike yourself?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Tedious it were to tell, and harsh to hear; Sufficeth I am come to keep my word, Though in some part enforced to digress; Which at more leisure I will so excuse As you shall well be satisfied withal. But where is Kate? I stay too long from her; The morning wears, 'tis time we were at church."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "See not your bride in these unreverent robes; Go to my chamber, put on clothes of mine."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Not I, believe me: thus I'll visit her."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "But thus, I trust, you will not marry her."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Good sooth, even thus; therefore ha' done with words; To me she's married, not unto my clothes. Could I repair what she will wear in me As I can change these poor accoutrements, 'Twere well for Kate and better for myself. But what a fool am I to chat with you When I should bid good morrow to my bride, And seal the title with a lovely kiss!"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "He hath some meaning in his mad attire. We will persuade him, be it possible, To put on better ere he go to church."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "I'll after him and see the event of this."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "But, sir, to love concerneth us to add Her father's liking; which to bring to pass, As I before imparted to your worship, I am to get a man,-whate'er he be It skills not much; we'll fit him to our turn,- And he shall be Vincentio of Pisa, And make assurance here in Padua, Of greater sums than I have promised. So shall you quietly enjoy your hope, And marry sweet Bianca with consent."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Were it not that my fellow schoolmaster Doth watch Bianca's steps so narrowly, 'Twere good, methinks, to steal our marriage; Which once perform'd, let all the world say no, I'll keep mine own despite of all the world."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "That by degrees we mean to look into, And watch our vantage in this business. We'll over-reach the greybeard, Gremio, The narrow-prying father, Minola, The quaint musician, amorous Licio; All for my master's sake, Lucentio. Signior Gremio, came you from the church?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "As willingly as e'er I came from school."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "And is the bride and bridegroom coming home?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "A bridegroom, say you? 'Tis a groom indeed, A grumbling groom, and that the girl shall find."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Curster than she? Why, 'tis impossible."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Why, he's a devil, a devil, a very fiend."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Why, she's a devil, a devil, the devil's dam."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Tut! she's a lamb, a dove, a fool, to him. I'll tell you, Sir Lucentio: when the priest Should ask if Katherine should be his wife, 'Ay, by gogs-wouns' quoth he, and swore so loud That, all amaz'd, the priest let fall the book; And as he stoop'd again to take it up, The mad-brain'd bridegroom took him such a cuff That down fell priest and book, and book and priest: ‘Now take them up,' quoth he ‘if any list.'"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "What said the wench, when he rose again?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Trembled and shook, for why, he stamp'd and swore As if the vicar meant to cozen him. But after many ceremonies done, He calls for wine: ‘A health!' quoth he, as if He had been abroad, carousing to his mates After a storm; quaff'd off the muscadel, And threw the sops all in the sexton's face, Having no other reason But that his beard grew thin and hungerly And seem'd to ask him sops as he was drinking. This done, he took the bride about the neck, And kiss'd her lips with such a clamorous smack That at the parting all the church did echo. And I, seeing this, came thence for very shame; And after me, I know, the rout is coming. Such a mad marriage never was before. Hark, hark! I hear the minstrels play. Train."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Gentlemen and friends, I thank you for your pains: I know you think to dine with me today, And have prepar'd great store of wedding cheer But so it is, my haste doth call me hence, And therefore here I mean to take my leave."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Is't possible you will away tonight?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I must away today before night come. Make it no wonder: if you knew my business, You would entreat me rather go than stay. And, honest company, I thank you all, That have beheld me give away myself To this most patient, sweet, and virtuous wife. Dine with my father, drink a health to me. For I must hence; and farewell to you all."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Let us entreat you stay till after dinner."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "It may not be."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Let me entreat you."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "It cannot be."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Let me entreat you."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I am content."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Are you content to stay?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I am content you shall entreat me stay; But yet not stay, entreat me how you can."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Now, if you love me, stay."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Grumio, my horse!"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Ay, sir, they be ready; the oats have eaten the horses."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Nay, then, Do what thou canst, I will not go today; No, nor tomorrow, not till I please myself. The door is open, sir; there lies your way; You may be jogging whiles your boots are green; For me, I'll not be gone till I please myself. 'Tis like you'll prove a jolly surly groom That take it on you at the first so roundly."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "O Kate! content thee: prithee be not angry."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I will be angry: what hast thou to do? Father, be quiet; he shall stay my leisure."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Ay, marry, sir, now it begins to work."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Gentlemen, forward to the bridal dinner: I see a woman may be made a fool, If she had not a spirit to resist."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "They shall go forward, Kate, at thy command. Obey the bride, you that attend on her; Go to the feast, revel and domineer, Carouse full measure to her maidenhead, Be mad and merry, or go hang yourselves: But for my bonny Kate, she must with me. Nay, look not big, nor stamp, nor stare, nor fret; I will be master of what is mine own. She is my goods, my chattels; she is my house, My household stuff, my field, my barn, My horse, my ox, my ass, my anything; And here she stands, touch her whoever dare; I'll bring mine action on the proudest he That stops my way in Padua. Grumio, Draw forth thy weapon; we are beset with thieves; Rescue thy mistress, if thou be a man. Fear not, sweet wench; they shall not touch thee, Kate; I'll buckler thee against a million."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Nay, let them go, a couple of quiet ones."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Went they not quickly, I should die with laughing."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Of all mad matches, never was the like."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Mistress, what's your opinion of your sister?"
+            },
+            {
+              "speaker": "Bianca",
+              "line": "That, being mad herself, she's madly mated."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "I warrant him, Petruchio is Kated."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Neighbours and friends, though bride and bridegroom wants For to supply the places at the table, You know there wants no junkets at the feast. Lucentio, you shall supply the bridegroom's place; And let Bianca take her sister's room."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Shall sweet Bianca practise how to bride it?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "She shall, Lucentio. Come, gentlemen, let's go."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A hall in Petruchio's country house.",
+          "scene_id": "the_taming_of_the_shrew_4_1",
+          "dialogues": [
+            {
+              "speaker": "Grumio",
+              "line": "Fie, fie on all tired jades, on all mad masters, and all foul ways! Was ever man so beaten? Was ever man so ray'd? Was ever man so weary? I am sent before to make a fire, and they are coming after to warm them. Now, were not I a little pot and soon hot, my very lips might freeze to my teeth, my tongue to the roof of my mouth, my heart in my belly, ere I should come by a fire to thaw me. But I with blowing the fire shall warm myself; for, considering the weather, a taller man than I will take cold. Holla, ho! Curtis!"
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Who is that calls so coldly?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "A piece of ice: if thou doubt it, thou mayst slide from my shoulder to my heel with no greater a run but my head and my neck. A fire, good Curtis."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Is my master and his wife coming, Grumio?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "O, ay! Curtis, ay; and therefore fire, fire; cast on no water."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Is she so hot a shrew as she's reported?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "She was, good Curtis, before this frost; but thou knowest winter tames man, woman, and beast; for it hath tamed my old master, and my new mistress, and myself, fellow Curtis."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Away, you three-inch fool! I am no beast."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Am I but three inches? Why, thy horn is a foot; and so long am I at the least. But wilt thou make a fire, or shall I complain on thee to our mistress, whose hand,-she being now at hand,- thou shalt soon feel, to thy cold comfort, for being slow in thy hot office?"
+            },
+            {
+              "speaker": "Curtis",
+              "line": "I prithee, good Grumio, tell me, how goes the world?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "A cold world, Curtis, in every office but thine; and therefore fire. Do thy duty, and have thy duty, for my master and mistress are almost frozen to death."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "There's fire ready; and therefore, good Grumio, the news."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Why, ‘Jack boy! ho, boy!' and as much news as wilt thou."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Come, you are so full of cony-catching."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Why, therefore, fire; for I have caught extreme cold. Where's the cook? Is supper ready, the house trimmed, rushes strewed, cobwebs swept, the servingmen in their new fustian, their white stockings, and every officer his wedding-garment on? Be the Jacks fair within, the Jills fair without, and carpets laid, and everything in order?"
+            },
+            {
+              "speaker": "Curtis",
+              "line": "All ready; and therefore, I pray thee, news."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "First, know my horse is tired; my master and mistress fallen out."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "How?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Out of their saddles into the dirt; and thereby hangs a tale."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Let's ha't, good Grumio."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Lend thine ear."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Here."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "There."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "This 'tis to feel a tale, not to hear a tale."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "And therefore 'tis called a sensible tale; and this cuff was but to knock at your ear and beseech listening. Now I begin: _Imprimis_, we came down a foul hill, my master riding behind my mistress,-"
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Both of one horse?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "What's that to thee?"
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Why, a horse."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Tell thou the tale: but hadst thou not crossed me, thou shouldst have heard how her horse fell, and she under her horse; thou shouldst have heard in how miry a place, how she was bemoiled; how he left her with the horse upon her; how he beat me because her horse stumbled; how she waded through the dirt to pluck him off me: how he swore; how she prayed, that never prayed before; how I cried; how the horses ran away; how her bridle was burst; how I lost my crupper; with many things of worthy memory, which now shall die in oblivion, and thou return unexperienced to thy grave."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "By this reckoning he is more shrew than she."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Ay; and that thou and the proudest of you all shall find when he comes home. But what talk I of this? Call forth Nathaniel, Joseph, Nicholas, Philip, Walter, Sugarsop, and the rest; let their heads be sleekly combed, their blue coats brush'd and their garters of an indifferent knit; let them curtsy with their left legs, and not presume to touch a hair of my master's horse-tail till they kiss their hands. Are they all ready?"
+            },
+            {
+              "speaker": "Curtis",
+              "line": "They are."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Call them forth."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Do you hear? ho! You must meet my master to countenance my mistress."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Why, she hath a face of her own."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "Who knows not that?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Thou, it seems, that calls for company to countenance her."
+            },
+            {
+              "speaker": "Curtis",
+              "line": "I call them forth to credit her."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Why, she comes to borrow nothing of them."
+            },
+            {
+              "speaker": "Nathaniel",
+              "line": "Welcome home, Grumio!"
+            },
+            {
+              "speaker": "Philip",
+              "line": "How now, Grumio!"
+            },
+            {
+              "speaker": "Joseph",
+              "line": "What, Grumio!"
+            },
+            {
+              "speaker": "Nicholas",
+              "line": "Fellow Grumio!"
+            },
+            {
+              "speaker": "Nathaniel",
+              "line": "How now, old lad!"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Welcome, you; how now, you; what, you; fellow, you; and thus much for greeting. Now, my spruce companions, is all ready, and all things neat?"
+            },
+            {
+              "speaker": "Nathaniel",
+              "line": "All things is ready. How near is our master?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "E'en at hand, alighted by this; and therefore be not,- Cock's passion, silence! I hear my master."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Where be these knaves? What! no man at door To hold my stirrup nor to take my horse? Where is Nathaniel, Gregory, Philip?-"
+            },
+            {
+              "speaker": "All Servants",
+              "line": "Here, here, sir; here, sir."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Here, sir! here, sir! here, sir! here, sir! You logger-headed and unpolish'd grooms! What, no attendance? no regard? no duty? Where is the foolish knave I sent before?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Here, sir; as foolish as I was before."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "You peasant swain! you whoreson malt-horse drudge! Did I not bid thee meet me in the park, And bring along these rascal knaves with thee?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Nathaniel's coat, sir, was not fully made, And Gabriel's pumps were all unpink'd i' the heel; There was no link to colour Peter's hat, And Walter's dagger was not come from sheathing; There was none fine but Adam, Ralph, and Gregory; The rest were ragged, old, and beggarly; Yet, as they are, here are they come to meet you."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Go, rascals, go and fetch my supper in. Where is the life that late I led? Where are those-?  Sit down, Kate, and welcome. Food, food, food, food! Why, when, I say?-Nay, good sweet Kate, be merry.- Off with my boots, you rogues! you villains! when? It was the friar of orders grey, As he forth walked on his way: Out, you rogue! you pluck my foot awry: Take that, and mend the plucking off the other. Be merry, Kate. Some water, here; what, ho! Where's my spaniel Troilus? Sirrah, get you hence And bid my cousin Ferdinand come hither: One, Kate, that you must kiss and be acquainted with. Where are my slippers? Shall I have some water? Come, Kate, and wash, and welcome heartily.- You whoreson villain! will you let it fall?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Patience, I pray you; 'twas a fault unwilling."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "A whoreson, beetle-headed, flap-ear'd knave! Come, Kate, sit down; I know you have a stomach. Will you give thanks, sweet Kate, or else shall I?- What's this? Mutton?"
+            },
+            {
+              "speaker": "First Servant",
+              "line": "Ay."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Who brought it?"
+            },
+            {
+              "speaker": "Peter",
+              "line": "I."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "'Tis burnt; and so is all the meat. What dogs are these! Where is the rascal cook? How durst you, villains, bring it from the dresser, And serve it thus to me that love it not? There, take it to you, trenchers, cups, and all. You heedless joltheads and unmanner'd slaves! What! do you grumble? I'll be with you straight."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I pray you, husband, be not so disquiet; The meat was well, if you were so contented."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I tell thee, Kate, 'twas burnt and dried away, And I expressly am forbid to touch it; For it engenders choler, planteth anger; And better 'twere that both of us did fast, Since, of ourselves, ourselves are choleric, Than feed it with such over-roasted flesh. Be patient; tomorrow 't shall be mended. And for this night we'll fast for company: Come, I will bring thee to thy bridal chamber."
+            },
+            {
+              "speaker": "Nathaniel",
+              "line": "Peter, didst ever see the like?"
+            },
+            {
+              "speaker": "Peter",
+              "line": "He kills her in her own humour."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Where is he?"
+            },
+            {
+              "speaker": "Curtis",
+              "line": "In her chamber, making a sermon of continency to her; And rails, and swears, and rates, that she, poor soul, Knows not which way to stand, to look, to speak, And sits as one new risen from a dream. Away, away! for he is coming hither."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Thus have I politicly begun my reign, And 'tis my hope to end successfully. My falcon now is sharp and passing empty. And till she stoop she must not be full-gorg'd, For then she never looks upon her lure. Another way I have to man my haggard, To make her come, and know her keeper's call, That is, to watch her, as we watch these kites That bate and beat, and will not be obedient. She eat no meat today, nor none shall eat; Last night she slept not, nor tonight she shall not; As with the meat, some undeserved fault I'll find about the making of the bed; And here I'll fling the pillow, there the bolster, This way the coverlet, another way the sheets; Ay, and amid this hurly I intend That all is done in reverend care of her; And, in conclusion, she shall watch all night: And if she chance to nod I'll rail and brawl, And with the clamour keep her still awake. This is a way to kill a wife with kindness; And thus I'll curb her mad and headstrong humour. He that knows better how to tame a shrew, Now let him speak; 'tis charity to show."
+            }
+          ]
+        },
+        {
+          "scene": 2,
+          "location": "Padua. Before Baptista's house.",
+          "scene_id": "the_taming_of_the_shrew_4_2",
+          "dialogues": [
+            {
+              "speaker": "Tranio",
+              "line": "Is 't possible, friend Licio, that Mistress Bianca Doth fancy any other but Lucentio? I tell you, sir, she bears me fair in hand."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Sir, to satisfy you in what I have said, Stand by and mark the manner of his teaching."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Now, mistress, profit you in what you read?"
+            },
+            {
+              "speaker": "Bianca",
+              "line": "What, master, read you? First resolve me that."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "I read that I profess, _The Art to Love_."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "And may you prove, sir, master of your art!"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "While you, sweet dear, prove mistress of my heart."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Quick proceeders, marry! Now tell me, I pray, You that durst swear that your Mistress Bianca Lov'd none in the world so well as Lucentio."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "O despiteful love! unconstant womankind! I tell thee, Licio, this is wonderful."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Mistake no more; I am not Licio. Nor a musician as I seem to be; But one that scorn to live in this disguise For such a one as leaves a gentleman And makes a god of such a cullion: Know, sir, that I am call'd Hortensio."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Signior Hortensio, I have often heard Of your entire affection to Bianca; And since mine eyes are witness of her lightness, I will with you, if you be so contented, Forswear Bianca and her love for ever."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "See, how they kiss and court! Signior Lucentio, Here is my hand, and here I firmly vow Never to woo her more, but do forswear her, As one unworthy all the former favours That I have fondly flatter'd her withal."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "And here I take the like unfeigned oath, Never to marry with her though she would entreat; Fie on her! See how beastly she doth court him!"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Would all the world but he had quite forsworn! For me, that I may surely keep mine oath, I will be married to a wealthy widow Ere three days pass, which hath as long lov'd me As I have lov'd this proud disdainful haggard. And so farewell, Signior Lucentio. Kindness in women, not their beauteous looks, Shall win my love; and so I take my leave, In resolution as I swore before."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Mistress Bianca, bless you with such grace As 'longeth to a lover's blessed case! Nay, I have ta'en you napping, gentle love, And have forsworn you with Hortensio."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Tranio, you jest; but have you both forsworn me?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Mistress, we have."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Then we are rid of Licio."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "I' faith, he'll have a lusty widow now, That shall be woo'd and wedded in a day."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "God give him joy!"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Ay, and he'll tame her."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "He says so, Tranio."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Faith, he is gone unto the taming-school."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "The taming-school! What, is there such a place?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Ay, mistress; and Petruchio is the master, That teacheth tricks eleven and twenty long, To tame a shrew and charm her chattering tongue."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "O master, master! I have watch'd so long That I am dog-weary; but at last I spied An ancient angel coming down the hill Will serve the turn."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "What is he, Biondello?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Master, a mercatante or a pedant, I know not what; but formal in apparel, In gait and countenance surely like a father."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "And what of him, Tranio?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "If he be credulous and trust my tale, I'll make him glad to seem Vincentio, And give assurance to Baptista Minola, As if he were the right Vincentio. Take in your love, and then let me alone."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "God save you, sir!"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "And you, sir! you are welcome. Travel you far on, or are you at the farthest?"
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Sir, at the farthest for a week or two; But then up farther, and as far as Rome; And so to Tripoli, if God lend me life."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "What countryman, I pray?"
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Of Mantua."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Of Mantua, sir?  Marry, God forbid, And come to Padua, careless of your life!"
+            },
+            {
+              "speaker": "Pedant",
+              "line": "My life, sir! How, I pray? for that goes hard."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "'Tis death for anyone in Mantua To come to Padua. Know you not the cause? Your ships are stay'd at Venice; and the Duke,- For private quarrel 'twixt your Duke and him,- Hath publish'd and proclaim'd it openly. 'Tis marvel, but that you are but newly come You might have heard it else proclaim'd about."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Alas, sir! it is worse for me than so; For I have bills for money by exchange From Florence, and must here deliver them."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Well, sir, to do you courtesy, This will I do, and this I will advise you: First, tell me, have you ever been at Pisa?"
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Ay, sir, in Pisa have I often been, Pisa renowned for grave citizens."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Among them know you one Vincentio?"
+            },
+            {
+              "speaker": "Pedant",
+              "line": "I know him not, but I have heard of him, A merchant of incomparable wealth."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "He is my father, sir; and, sooth to say, In countenance somewhat doth resemble you."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "As much as an apple doth an oyster, and all one."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "To save your life in this extremity, This favour will I do you for his sake; And think it not the worst of all your fortunes That you are like to Sir Vincentio. His name and credit shall you undertake, And in my house you shall be friendly lodg'd; Look that you take upon you as you should! You understand me, sir; so shall you stay Till you have done your business in the city. If this be courtesy, sir, accept of it."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "O, sir, I do; and will repute you ever The patron of my life and liberty."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Then go with me to make the matter good. This, by the way, I let you understand: My father is here look'd for every day To pass assurance of a dower in marriage 'Twixt me and one Baptista's daughter here: In all these circumstances I'll instruct you. Go with me to clothe you as becomes you."
+            }
+          ]
+        },
+        {
+          "scene": 3,
+          "location": "A room in Petruchio's house.",
+          "scene_id": "the_taming_of_the_shrew_4_3",
+          "dialogues": [
+            {
+              "speaker": "Grumio",
+              "line": "No, no, forsooth; I dare not for my life."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "The more my wrong, the more his spite appears. What, did he marry me to famish me? Beggars that come unto my father's door Upon entreaty have a present alms; If not, elsewhere they meet with charity; But I, who never knew how to entreat, Nor never needed that I should entreat, Am starv'd for meat, giddy for lack of sleep; With oaths kept waking, and with brawling fed. And that which spites me more than all these wants, He does it under name of perfect love; As who should say, if I should sleep or eat 'Twere deadly sickness, or else present death. I prithee go and get me some repast; I care not what, so it be wholesome food."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "What say you to a neat's foot?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "'Tis passing good; I prithee let me have it."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "I fear it is too choleric a meat. How say you to a fat tripe finely broil'd?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I like it well; good Grumio, fetch it me."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "I cannot tell; I fear 'tis choleric. What say you to a piece of beef and mustard?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "A dish that I do love to feed upon."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Ay, but the mustard is too hot a little."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Why then the beef, and let the mustard rest."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Nay, then I will not: you shall have the mustard, Or else you get no beef of Grumio."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Then both, or one, or anything thou wilt."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Why then the mustard without the beef."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Go, get thee gone, thou false deluding slave, That feed'st me with the very name of meat. Sorrow on thee and all the pack of you That triumph thus upon my misery! Go, get thee gone, I say. Enter Petruchio with a dish of meat; and Hortensio."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "How fares my Kate? What, sweeting, all amort?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Mistress, what cheer?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Faith, as cold as can be."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Pluck up thy spirits; look cheerfully upon me. Here, love; thou seest how diligent I am, To dress thy meat myself, and bring it thee: I am sure, sweet Kate, this kindness merits thanks. What! not a word? Nay, then thou lov'st it not, And all my pains is sorted to no proof. Here, take away this dish."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I pray you, let it stand."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "The poorest service is repaid with thanks; And so shall mine, before you touch the meat."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I thank you, sir."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Signior Petruchio, fie! you are to blame. Come, Mistress Kate, I'll bear you company."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Eat it up all, Hortensio, if thou lovest me. Much good do it unto thy gentle heart! Kate, eat apace: and now, my honey love, Will we return unto thy father's house And revel it as bravely as the best, With silken coats and caps, and golden rings, With ruffs and cuffs and farthingales and things; With scarfs and fans and double change of bravery, With amber bracelets, beads, and all this knavery. What! hast thou din'd? The tailor stays thy leisure, To deck thy body with his ruffling treasure. Come, tailor, let us see these ornaments; Lay forth the gown.- What news with you, sir?"
+            },
+            {
+              "speaker": "Haberdasher",
+              "line": "Here is the cap your worship did bespeak."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, this was moulded on a porringer; A velvet dish: fie, fie! 'tis lewd and filthy: Why, 'tis a cockle or a walnut-shell, A knack, a toy, a trick, a baby's cap: Away with it! come, let me have a bigger."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I'll have no bigger; this doth fit the time, And gentlewomen wear such caps as these."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "When you are gentle, you shall have one too, And not till then."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "That will not be in haste."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Why, sir, I trust I may have leave to speak; And speak I will. I am no child, no babe. Your betters have endur'd me say my mind, And if you cannot, best you stop your ears. My tongue will tell the anger of my heart, Or else my heart, concealing it, will break; And rather than it shall, I will be free Even to the uttermost, as I please, in words."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, thou say'st true; it is a paltry cap, A custard-coffin, a bauble, a silken pie; I love thee well in that thou lik'st it not."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Love me or love me not, I like the cap; And it I will have, or I will have none."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Thy gown? Why, ay: come, tailor, let us see't. O mercy, God! what masquing stuff is here? What's this? A sleeve? 'Tis like a demi-cannon. What, up and down, carv'd like an apple tart? Here's snip and nip and cut and slish and slash, Like to a censer in a barber's shop. Why, what i' devil's name, tailor, call'st thou this?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "I see she's like to have neither cap nor gown."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "You bid me make it orderly and well, According to the fashion and the time."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Marry, and did; but if you be remember'd, I did not bid you mar it to the time. Go, hop me over every kennel home, For you shall hop without my custom, sir. I'll none of it: hence! make your best of it."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I never saw a better fashion'd gown, More quaint, more pleasing, nor more commendable; Belike you mean to make a puppet of me."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, true; he means to make a puppet of thee."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "She says your worship means to make a puppet of her."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "O monstrous arrogance! Thou liest, thou thread, Thou thimble, Thou yard, three-quarters, half-yard, quarter, nail! Thou flea, thou nit, thou winter-cricket thou! Brav'd in mine own house with a skein of thread! Away! thou rag, thou quantity, thou remnant, Or I shall so be-mete thee with thy yard As thou shalt think on prating whilst thou liv'st! I tell thee, I, that thou hast marr'd her gown."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "Your worship is deceiv'd: the gown is made Just as my master had direction. Grumio gave order how it should be done."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "I gave him no order; I gave him the stuff."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "But how did you desire it should be made?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Marry, sir, with needle and thread."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "But did you not request to have it cut?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Thou hast faced many things."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "I have."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Face not me. Thou hast braved many men; brave not me: I will neither be fac'd nor brav'd. I say unto thee, I bid thy master cut out the gown; but I did not bid him cut it to pieces: ergo, thou liest."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "Why, here is the note of the fashion to testify."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Read it."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "The note lies in 's throat, if he say I said so."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "'Imprimis, a loose-bodied gown.'"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Master, if ever I said loose-bodied gown, sew me in the skirts of it and beat me to death with a bottom of brown thread; I said, a gown."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Proceed."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "‘With a small compassed cape.'"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "I confess the cape."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "‘With a trunk sleeve.'"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "I confess two sleeves."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "‘The sleeves curiously cut.'"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Ay, there's the villainy."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Error i' the bill, sir; error i' the bill. I commanded the sleeves should be cut out, and sew'd up again; and that I'll prove upon thee, though thy little finger be armed in a thimble."
+            },
+            {
+              "speaker": "Tailor",
+              "line": "This is true that I say; and I had thee in place where thou shouldst know it."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "I am for thee straight; take thou the bill, give me thy mete-yard, and spare not me."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "God-a-mercy, Grumio! Then he shall have no odds."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Well, sir, in brief, the gown is not for me."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "You are i' the right, sir; 'tis for my mistress."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Go, take it up unto thy master's use."
+            },
+            {
+              "speaker": "Grumio",
+              "line": "Villain, not for thy life! Take up my mistress' gown for thy master's use!"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, sir, what's your conceit in that?"
+            },
+            {
+              "speaker": "Grumio",
+              "line": "O, sir, the conceit is deeper than you think for. Take up my mistress' gown to his master's use! O fie, fie, fie!"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Hortensio, say thou wilt see the tailor paid.  Go take it hence; be gone, and say no more."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Tailor, I'll pay thee for thy gown tomorrow; Take no unkindness of his hasty words. Away, I say! commend me to thy master."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Well, come, my Kate; we will unto your father's Even in these honest mean habiliments. Our purses shall be proud, our garments poor For 'tis the mind that makes the body rich; And as the sun breaks through the darkest clouds, So honour peereth in the meanest habit. What, is the jay more precious than the lark Because his feathers are more beautiful? Or is the adder better than the eel Because his painted skin contents the eye? O no, good Kate; neither art thou the worse For this poor furniture and mean array. If thou account'st it shame, lay it on me; And therefore frolic; we will hence forthwith, To feast and sport us at thy father's house. Go call my men, and let us straight to him; And bring our horses unto Long-lane end; There will we mount, and thither walk on foot. Let's see; I think 'tis now some seven o'clock, And well we may come there by dinner-time."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I dare assure you, sir, 'tis almost two, And 'twill be supper-time ere you come there."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "It shall be seven ere I go to horse. Look what I speak, or do, or think to do, You are still crossing it. Sirs, let 't alone: I will not go today; and ere I do, It shall be what o'clock I say it is."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Why, so this gallant will command the sun."
+            }
+          ]
+        },
+        {
+          "scene": 4,
+          "location": "Padua. Before Baptista's house.",
+          "scene_id": "the_taming_of_the_shrew_4_4",
+          "dialogues": [
+            {
+              "speaker": "Tranio",
+              "line": "Sir, this is the house; please it you that I call?"
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Ay, what else? and, but I be deceived, Signior Baptista may remember me, Near twenty years ago in Genoa, Where we were lodgers at the Pegasus."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "'Tis well; and hold your own, in any case, With such austerity as 'longeth to a father."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "I warrant you. But, sir, here comes your boy; 'Twere good he were school'd."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Fear you not him. Sirrah Biondello, Now do your duty throughly, I advise you. Imagine 'twere the right Vincentio."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Tut! fear not me."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "But hast thou done thy errand to Baptista?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "I told him that your father was at Venice, And that you look'd for him this day in Padua."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Th'art a tall fellow; hold thee that to drink. Here comes Baptista. Set your countenance, sir. Signior Baptista, you are happily met.  Sir, this is the gentleman I told you of; I pray you stand good father to me now; Give me Bianca for my patrimony."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Soft, son! Sir, by your leave: having come to Padua To gather in some debts, my son Lucentio Made me acquainted with a weighty cause Of love between your daughter and himself: And,-for the good report I hear of you, And for the love he beareth to your daughter, And she to him,-to stay him not too long, I am content, in a good father's care, To have him match'd; and, if you please to like No worse than I, upon some agreement Me shall you find ready and willing With one consent to have her so bestow'd; For curious I cannot be with you, Signior Baptista, of whom I hear so well."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Sir, pardon me in what I have to say. Your plainness and your shortness please me well. Right true it is your son Lucentio here Doth love my daughter, and she loveth him, Or both dissemble deeply their affections; And therefore, if you say no more than this, That like a father you will deal with him, And pass my daughter a sufficient dower, The match is made, and all is done: Your son shall have my daughter with consent."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "I thank you, sir. Where then do you know best We be affied, and such assurance ta'en As shall with either part's agreement stand?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Not in my house, Lucentio, for you know Pitchers have ears, and I have many servants; Besides, old Gremio is hearkening still, And happily we might be interrupted."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Then at my lodging, and it like you: There doth my father lie; and there this night We'll pass the business privately and well. Send for your daughter by your servant here; My boy shall fetch the scrivener presently. The worst is this, that at so slender warning You are like to have a thin and slender pittance."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "It likes me well. Cambio, hie you home, And bid Bianca make her ready straight; And, if you will, tell what hath happened: Lucentio's father is arriv'd in Padua, And how she's like to be Lucentio's wife."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "I pray the gods she may, with all my heart!"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Dally not with the gods, but get thee gone. Signior Baptista, shall I lead the way? Welcome! One mess is like to be your cheer; Come, sir; we will better it in Pisa."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "I follow you."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Cambio!"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "What say'st thou, Biondello?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "You saw my master wink and laugh upon you?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Biondello, what of that?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Faith, nothing; but has left me here behind to expound the meaning or moral of his signs and tokens."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "I pray thee moralize them."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Then thus: Baptista is safe, talking with the deceiving father of a deceitful son."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "And what of him?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "His daughter is to be brought by you to the supper."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "And then?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "The old priest at Saint Luke's church is at your command at all hours."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "And what of all this?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "I cannot tell, except they are busied about a counterfeit assurance. Take your assurance of her, _cum privilegio ad imprimendum solum_; to the church! take the priest, clerk, and some sufficient honest witnesses. If this be not that you look for, I have more to say, But bid Bianca farewell for ever and a day."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Hear'st thou, Biondello?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "I cannot tarry: I knew a wench married in an afternoon as she went to the garden for parsley to stuff a rabbit; and so may you, sir; and so adieu, sir. My master hath appointed me to go to Saint Luke's to bid the priest be ready to come against you come with your appendix."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "I may, and will, if she be so contented. She will be pleas'd; then wherefore should I doubt? Hap what hap may, I'll roundly go about her; It shall go hard if Cambio go without her:"
+            }
+          ]
+        },
+        {
+          "scene": 5,
+          "location": "A public road.",
+          "scene_id": "the_taming_of_the_shrew_4_5",
+          "dialogues": [
+            {
+              "speaker": "Petruchio",
+              "line": "Come on, i' God's name; once more toward our father's. Good Lord, how bright and goodly shines the moon!"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "The moon! The sun; it is not moonlight now."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I say it is the moon that shines so bright."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I know it is the sun that shines so bright."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Now by my mother's son, and that's myself, It shall be moon, or star, or what I list, Or ere I journey to your father's house. Go on and fetch our horses back again. Evermore cross'd and cross'd; nothing but cross'd!"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Say as he says, or we shall never go."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Forward, I pray, since we have come so far, And be it moon, or sun, or what you please; And if you please to call it a rush-candle, Henceforth I vow it shall be so for me."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I say it is the moon."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "I know it is the moon."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Nay, then you lie; it is the blessed sun."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Then, God be bless'd, it is the blessed sun; But sun it is not when you say it is not, And the moon changes even as your mind. What you will have it nam'd, even that it is, And so it shall be so for Katherine."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Petruchio, go thy ways; the field is won."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Well, forward, forward! thus the bowl should run, And not unluckily against the bias. But, soft! Company is coming here.  Good morrow, gentle mistress; where away? Tell me, sweet Kate, and tell me truly too, Hast thou beheld a fresher gentlewoman? Such war of white and red within her cheeks! What stars do spangle heaven with such beauty As those two eyes become that heavenly face? Fair lovely maid, once more good day to thee. Sweet Kate, embrace her for her beauty's sake."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "A will make the man mad, to make a woman of him."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Young budding virgin, fair and fresh and sweet, Whither away, or where is thy abode? Happy the parents of so fair a child; Happier the man whom favourable stars Allot thee for his lovely bedfellow."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, how now, Kate! I hope thou art not mad: This is a man, old, wrinkled, faded, wither'd, And not a maiden, as thou sayst he is."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Pardon, old father, my mistaking eyes, That have been so bedazzled with the sun That everything I look on seemeth green: Now I perceive thou art a reverend father; Pardon, I pray thee, for my mad mistaking."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Do, good old grandsire, and withal make known Which way thou travellest: if along with us, We shall be joyful of thy company."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Fair sir, and you my merry mistress, That with your strange encounter much amaz'd me, My name is called Vincentio; my dwelling Pisa; And bound I am to Padua, there to visit A son of mine, which long I have not seen."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "What is his name?"
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Lucentio, gentle sir."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Happily met; the happier for thy son. And now by law, as well as reverend age, I may entitle thee my loving father: The sister to my wife, this gentlewoman, Thy son by this hath married. Wonder not, Nor be not griev'd: she is of good esteem, Her dowry wealthy, and of worthy birth; Beside, so qualified as may beseem The spouse of any noble gentleman. Let me embrace with old Vincentio; And wander we to see thy honest son, Who will of thy arrival be full joyous."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "But is this true? or is it else your pleasure, Like pleasant travellers, to break a jest Upon the company you overtake?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "I do assure thee, father, so it is."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Come, go along, and see the truth hereof; For our first merriment hath made thee jealous."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Well, Petruchio, this has put me in heart. Have to my widow! and if she be froward, Then hast thou taught Hortensio to be untoward."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "Padua. Before Lucentio's house.",
+          "scene_id": "the_taming_of_the_shrew_5_1",
+          "dialogues": [
+            {
+              "speaker": "Biondello",
+              "line": "Softly and swiftly, sir, for the priest is ready."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "I fly, Biondello; but they may chance to need thee at home, therefore leave us."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Nay, faith, I'll see the church o' your back; and then come back to my master's as soon as I can."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "I marvel Cambio comes not all this while."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Sir, here's the door; this is Lucentio's house: My father's bears more toward the market-place; Thither must I, and here I leave you, sir."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "You shall not choose but drink before you go. I think I shall command your welcome here, And by all likelihood some cheer is toward."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "They're busy within; you were best knock louder."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "What's he that knocks as he would beat down the gate?"
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Is Signior Lucentio within, sir?"
+            },
+            {
+              "speaker": "Pedant",
+              "line": "He's within, sir, but not to be spoken withal."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "What if a man bring him a hundred pound or two to make merry withal?"
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Keep your hundred pounds to yourself: he shall need none so long as I live."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Nay, I told you your son was well beloved in Padua. Do you hear, sir? To leave frivolous circumstances, I pray you tell Signior Lucentio that his father is come from Pisa, and is here at the door to speak with him."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Thou liest: his father is come from Padua, and here looking out at the window."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Art thou his father?"
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Ay, sir; so his mother says, if I may believe her."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, how now, gentleman! why, this is flat knavery to take upon you another man's name."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Lay hands on the villain: I believe a means to cozen somebody in this city under my countenance."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "I have seen them in the church together: God send 'em good shipping! But who is here? Mine old master, Vincentio! Now we are undone and brought to nothing."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Come hither, crack-hemp."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "I hope I may choose, sir."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Come hither, you rogue. What, have you forgot me?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Forgot you! No, sir: I could not forget you, for I never saw you before in all my life."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "What, you notorious villain! didst thou never see thy master's father, Vincentio?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "What, my old worshipful old master? Yes, marry, sir; see where he looks out of the window."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Is't so, indeed?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Help, help, help! here's a madman will murder me."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Help, son! help, Signior Baptista!"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Prithee, Kate, let's stand aside and see the end of this controversy. Re-enter Pedant, below; Baptista, Tranio and Servants."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Sir, what are you that offer to beat my servant?"
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "What am I, sir! nay, what are you, sir? O immortal gods! O fine villain! A silken doublet, a velvet hose, a scarlet cloak, and a copatain hat! O, I am undone! I am undone! While I play the good husband at home, my son and my servant spend all at the university."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "How now! what's the matter?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "What, is the man lunatic?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Sir, you seem a sober ancient gentleman by your habit, but your words show you a madman. Why, sir, what 'cerns it you if I wear pearl and gold? I thank my good father, I am able to maintain it."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Thy father! O villain! he is a sailmaker in Bergamo."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "You mistake, sir; you mistake, sir. Pray, what do you think is his name?"
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "His name! As if I knew not his name! I have brought him up ever since he was three years old, and his name is Tranio."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Away, away, mad ass! His name is Lucentio; and he is mine only son, and heir to the lands of me, Signior Vincentio."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Lucentio! O, he hath murdered his master! Lay hold on him, I charge you, in the Duke's name. O, my son, my son! Tell me, thou villain, where is my son, Lucentio?"
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Call forth an officer. Carry this mad knave to the gaol. Father Baptista, I charge you see that he be forthcoming."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Carry me to the gaol!"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Stay, officer; he shall not go to prison."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Talk not, Signior Gremio; I say he shall go to prison."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Take heed, Signior Baptista, lest you be cony-catched in this business; I dare swear this is the right Vincentio."
+            },
+            {
+              "speaker": "Pedant",
+              "line": "Swear if thou darest."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Nay, I dare not swear it."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "Then thou wert best say that I am not Lucentio."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Yes, I know thee to be Signior Lucentio."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Away with the dotard! to the gaol with him!"
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Thus strangers may be haled and abus'd: O monstrous villain!"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "O! we are spoiled; and yonder he is: deny him, forswear him, or else we are all undone."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Pardon, sweet father."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Lives my sweetest son?"
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Pardon, dear father."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "How hast thou offended? Where is Lucentio?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Here's Lucentio, Right son to the right Vincentio; That have by marriage made thy daughter mine, While counterfeit supposes blear'd thine eyne."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Here 's packing, with a witness, to deceive us all!"
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Where is that damned villain, Tranio, That fac'd and brav'd me in this matter so?"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Why, tell me, is not this my Cambio?"
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Cambio is chang'd into Lucentio."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Love wrought these miracles. Bianca's love Made me exchange my state with Tranio, While he did bear my countenance in the town; And happily I have arriv'd at the last Unto the wished haven of my bliss. What Tranio did, myself enforc'd him to; Then pardon him, sweet father, for my sake."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "I'll slit the villain's nose that would have sent me to the gaol."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "But do you hear, sir? Have you married my daughter without asking my good will?"
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Fear not, Baptista; we will content you, go to: but I will in, to be revenged for this villainy."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "And I to sound the depth of this knavery."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Look not pale, Bianca; thy father will not frown."
+            },
+            {
+              "speaker": "Gremio",
+              "line": "My cake is dough, but I'll in among the rest; Out of hope of all but my share of the feast. Petruchio and Katherina advance."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Husband, let's follow to see the end of this ado."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "First kiss me, Kate, and we will."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "What! in the midst of the street?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "What! art thou ashamed of me?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "No, sir; God forbid; but ashamed to kiss."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, then, let's home again. Come, sirrah, let's away."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Nay, I will give thee a kiss: now pray thee, love, stay."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Is not this well? Come, my sweet Kate: Better once than never, for never too late."
+            }
+          ]
+        },
+        {
+          "scene": 2,
+          "location": "A room in Lucentio's house.",
+          "scene_id": "the_taming_of_the_shrew_5_2",
+          "dialogues": [
+            {
+              "speaker": "Lucentio",
+              "line": "At last, though long, our jarring notes agree: And time it is when raging war is done, To smile at 'scapes and perils overblown. My fair Bianca, bid my father welcome, While I with self-same kindness welcome thine. Brother Petruchio, sister Katherina, And thou, Hortensio, with thy loving widow, Feast with the best, and welcome to my house: My banquet is to close our stomachs up, After our great good cheer. Pray you, sit down; For now we sit to chat as well as eat."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Nothing but sit and sit, and eat and eat!"
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Padua affords this kindness, son Petruchio."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Padua affords nothing but what is kind."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "For both our sakes I would that word were true."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Now, for my life, Hortensio fears his widow."
+            },
+            {
+              "speaker": "Widow",
+              "line": "Then never trust me if I be afeard."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "You are very sensible, and yet you miss my sense: I mean Hortensio is afeard of you."
+            },
+            {
+              "speaker": "Widow",
+              "line": "He that is giddy thinks the world turns round."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Roundly replied."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Mistress, how mean you that?"
+            },
+            {
+              "speaker": "Widow",
+              "line": "Thus I conceive by him."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Conceives by me! How likes Hortensio that?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "My widow says thus she conceives her tale."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Very well mended. Kiss him for that, good widow."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "'He that is giddy thinks the world turns round': I pray you tell me what you meant by that."
+            },
+            {
+              "speaker": "Widow",
+              "line": "Your husband, being troubled with a shrew, Measures my husband's sorrow by his woe; And now you know my meaning."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "A very mean meaning."
+            },
+            {
+              "speaker": "Widow",
+              "line": "Right, I mean you."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "And I am mean, indeed, respecting you."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "To her, Kate!"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "To her, widow!"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "A hundred marks, my Kate does put her down."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "That's my office."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Spoke like an officer: ha' to thee, lad."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "How likes Gremio these quick-witted folks?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Believe me, sir, they butt together well."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Head and butt! An hasty-witted body Would say your head and butt were head and horn."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "Ay, mistress bride, hath that awaken'd you?"
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Ay, but not frighted me; therefore I'll sleep again."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Nay, that you shall not; since you have begun, Have at you for a bitter jest or two."
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Am I your bird? I mean to shift my bush, And then pursue me as you draw your bow. You are welcome all."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "She hath prevented me. Here, Signior Tranio; This bird you aim'd at, though you hit her not: Therefore a health to all that shot and miss'd."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "O, sir! Lucentio slipp'd me like his greyhound, Which runs himself, and catches for his master."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "A good swift simile, but something currish."
+            },
+            {
+              "speaker": "Tranio",
+              "line": "'Tis well, sir, that you hunted for yourself: 'Tis thought your deer does hold you at a bay."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "O ho, Petruchio! Tranio hits you now."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "I thank thee for that gird, good Tranio."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Confess, confess; hath he not hit you here?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "A has a little gall'd me, I confess; And as the jest did glance away from me, 'Tis ten to one it maim'd you two outright."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Now, in good sadness, son Petruchio, I think thou hast the veriest shrew of all."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Well, I say no; and therefore, for assurance, Let's each one send unto his wife, And he whose wife is most obedient, To come at first when he doth send for her, Shall win the wager which we will propose."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Content. What's the wager?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Twenty crowns."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Twenty crowns! I'll venture so much of my hawk or hound, But twenty times so much upon my wife."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "A hundred then."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Content."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "A match! 'tis done."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Who shall begin?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "That will I. Go, Biondello, bid your mistress come to me."
+            },
+            {
+              "speaker": "Biondello",
+              "line": "I go."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Son, I'll be your half, Bianca comes."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "I'll have no halves; I'll bear it all myself. How now! what news?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "Sir, my mistress sends you word That she is busy and she cannot come."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "How! She's busy, and she cannot come! Is that an answer?"
+            },
+            {
+              "speaker": "Gremio",
+              "line": "Ay, and a kind one too: Pray God, sir, your wife send you not a worse."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I hope better."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Sirrah Biondello, go and entreat my wife To come to me forthwith."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "O, ho! entreat her! Nay, then she must needs come."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "I am afraid, sir, Do what you can, yours will not be entreated. Now, where's my wife?"
+            },
+            {
+              "speaker": "Biondello",
+              "line": "She says you have some goodly jest in hand: She will not come; she bids you come to her."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Worse and worse; she will not come! O vile, Intolerable, not to be endur'd! Sirrah Grumio, go to your mistress, Say I command her come to me."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "I know her answer."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "What?"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "She will not."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "The fouler fortune mine, and there an end."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Now, by my holidame, here comes Katherina!"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "What is your will sir, that you send for me?"
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Where is your sister, and Hortensio's wife?"
+            },
+            {
+              "speaker": "Katherina",
+              "line": "They sit conferring by the parlour fire."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Go fetch them hither; if they deny to come, Swinge me them soundly forth unto their husbands. Away, I say, and bring them hither straight."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Here is a wonder, if you talk of a wonder."
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "And so it is. I wonder what it bodes."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Marry, peace it bodes, and love, and quiet life, An awful rule, and right supremacy; And, to be short, what not that's sweet and happy."
+            },
+            {
+              "speaker": "Baptista",
+              "line": "Now fair befall thee, good Petruchio! The wager thou hast won; and I will add Unto their losses twenty thousand crowns; Another dowry to another daughter, For she is chang'd, as she had never been."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Nay, I will win my wager better yet, And show more sign of her obedience, Her new-built virtue and obedience. See where she comes, and brings your froward wives As prisoners to her womanly persuasion. Katherine, that cap of yours becomes you not: Off with that bauble, throw it underfoot."
+            },
+            {
+              "speaker": "Widow",
+              "line": "Lord, let me never have a cause to sigh Till I be brought to such a silly pass!"
+            },
+            {
+              "speaker": "Bianca",
+              "line": "Fie! what a foolish duty call you this?"
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "I would your duty were as foolish too; The wisdom of your duty, fair Bianca, Hath cost me a hundred crowns since supper-time!"
+            },
+            {
+              "speaker": "Bianca",
+              "line": "The more fool you for laying on my duty."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Katherine, I charge thee, tell these headstrong women What duty they do owe their lords and husbands."
+            },
+            {
+              "speaker": "Widow",
+              "line": "Come, come, you're mocking; we will have no telling."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Come on, I say; and first begin with her."
+            },
+            {
+              "speaker": "Widow",
+              "line": "She shall not."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "I say she shall: and first begin with her."
+            },
+            {
+              "speaker": "Katherina",
+              "line": "Fie, fie! unknit that threatening unkind brow, And dart not scornful glances from those eyes To wound thy lord, thy king, thy governor: It blots thy beauty as frosts do bite the meads, Confounds thy fame as whirlwinds shake fair buds, And in no sense is meet or amiable. A woman mov'd is like a fountain troubled, Muddy, ill-seeming, thick, bereft of beauty; And while it is so, none so dry or thirsty Will deign to sip or touch one drop of it. Thy husband is thy lord, thy life, thy keeper, Thy head, thy sovereign; one that cares for thee, And for thy maintenance commits his body To painful labour both by sea and land, To watch the night in storms, the day in cold, Whilst thou liest warm at home, secure and safe; And craves no other tribute at thy hands But love, fair looks, and true obedience; Too little payment for so great a debt. Such duty as the subject owes the prince, Even such a woman oweth to her husband; And when she is froward, peevish, sullen, sour, And not obedient to his honest will, What is she but a foul contending rebel And graceless traitor to her loving lord?- I am asham'd that women are so simple To offer war where they should kneel for peace, Or seek for rule, supremacy, and sway, When they are bound to serve, love, and obey. Why are our bodies soft and weak and smooth, Unapt to toil and trouble in the world, But that our soft conditions and our hearts Should well agree with our external parts? Come, come, you froward and unable worms! My mind hath been as big as one of yours, My heart as great, my reason haply more, To bandy word for word and frown for frown; But now I see our lances are but straws, Our strength as weak, our weakness past compare, That seeming to be most which we indeed least are. Then vail your stomachs, for it is no boot, And place your hands below your husband's foot: In token of which duty, if he please, My hand is ready; may it do him ease."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Why, there's a wench! Come on, and kiss me, Kate."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "Well, go thy ways, old lad, for thou shalt ha't."
+            },
+            {
+              "speaker": "Vincentio",
+              "line": "'Tis a good hearing when children are toward."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "But a harsh hearing when women are froward."
+            },
+            {
+              "speaker": "Petruchio",
+              "line": "Come, Kate, we'll to bed. We three are married, but you two are sped. 'Twas I won the wager,  though you hit the white; And being a winner, God give you good night!"
+            },
+            {
+              "speaker": "Hortensio",
+              "line": "Now go thy ways; thou hast tam'd a curst shrew."
+            },
+            {
+              "speaker": "Lucentio",
+              "line": "'Tis a wonder, by your leave, she will be tam'd so."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

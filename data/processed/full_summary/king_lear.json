@@ -1,0 +1,166 @@
+{
+  "title": "The Tragedy of King Lear",
+  "play_summary": "King Lear, planning to divide his kingdom among his three daughters, disowns Cordelia when she refuses to publicly quantify her love. The play follows Lear's descent into madness after his other daughters betray him. Meanwhile, the Earl of Gloucester is similarly deceived by his illegitimate son Edmund against his legitimate son Edgar. Both storylines culminate in profound tragedy.",
+  "acts": [
+    {
+      "act": 1,
+      "act_summary": "King Learbegins as the Earl of Gloucester introduces his illegitimate son,Edmund, to the Earl of Kent. Lear, King of Britain, enters with his court. Now that he is an old man, Lear has decided to divide his kingdom between his three daughters. The division will depend on the quality of each princess' declarations of love for her father before the court. Goneril, Duchess of Albany, and Regan, Duchess of Cornwall, both speak enthusiastically and earn their father's praise. But Cordelia, the youngest, says nothing because she cannot voice her deep love for Lear. Misunderstanding his daughter, Lear disowns and banishes her from the kingdom. He also banishes the Earl of Kent, who had taken Cordelia's side against the King.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A room of state in King Lear's palace, Britain",
+          "scene_summary": "King Lear, intending to divide his kingdom, asks his daughters—Goneril, Regan, and Cordelia—to profess their love. Goneril and Regan flatter him, gaining portions, but Cordelia's honest restraint angers Lear, who disinherits her. Kent defends Cordelia and is banished. France marries Cordelia without a dowry, and Lear assigns his power to Goneril and Regan's husbands, Albany and Cornwall, setting up the tragedy of misjudgment."
+        },
+        {
+          "scene": 2,
+          "location": "A room in Gloucester's castle, Britain",
+          "scene_summary": "Edmund, Gloucester's illegitimate son, plots to supplant his brother, Edgar, by forging a letter suggesting Edgar plans to kill Gloucester. Gloucester, deceived, condemns Edgar. Edmund warns Edgar to flee, feigning loyalty, establishing his Machiavellian scheming and the parallel family conflict."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Albany's palace, Britain",
+          "scene_summary": "Goneril, irritated by Lear's rowdy knights, instructs her steward, Oswald, to treat them coldly, aiming to provoke Lear and reduce his influence. She plans to write to Regan, aligning their resistance, showing her ingratitude and ambition."
+        },
+        {
+          "scene": 4,
+          "location": "A hall in Albany's palace, Britain",
+          "scene_summary": "Kent, disguised, pledges loyalty to Lear, who accepts him. Lear's Fool mocks his folly in dividing the kingdom. Goneril confronts Lear over his knights' behavior, demanding he reduce their number. Enraged, Lear curses her and departs for Regan's, realizing his error, while Goneril sends Oswald to warn Regan, escalating the family rift."
+        },
+        {
+          "scene": 5,
+          "location": "A courtyard before Albany's palace, Britain",
+          "scene_summary": "Lear, preparing to leave for Regan's, sends Kent with letters to announce his arrival. The Fool warns Lear of further betrayal, and Lear, troubled, prays not to go mad, reflecting his growing awareness of his daughters' disloyalty and his precarious mental state."
+        }
+      ]
+    },
+    {
+      "act": 2,
+      "act_summary": "Meanwhile, Edmund is determined to be recognised as a rightful son of Gloucester. By a trick, he persuades his father that his legitimate brother, Edgar, is plotting against Gloucester's life. Warned by Edmund that his life is in danger, Edgar flees and takes the disguise of a Bedlam beggar. Edmund becomes a courtier to Goneril. Goneril meanwhile grows increasingly exasperated by the behaviour of Lear's hundred companions who are upsetting her life at Albany's castle, and she criticises her father. Kent has returned from exile in disguise and wins a place as a servant to Lear. Kent accompanies Lear when, in a rage against her criticisms, he curses Goneril and leaves. Lear goes, unannounced, to live with Regan and Cornwall who, it turns out, have gone out to visit Gloucester. When Lear arrives at Gloucester's house to find Regan, she spurns him and his followers, namely his devoted companion, the Fool.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A courtyard in Gloucester's castle, Britain",
+          "scene_summary": "Edmund tricks Edgar into fleeing, staging a fight to convince Gloucester of Edgar's treachery. Gloucester vows to capture Edgar, rewarding Edmund. Regan and Cornwall arrive, aligning with Edmund against Lear, strengthening the conspiracy and isolating Lear further."
+        },
+        {
+          "scene": 2,
+          "location": "Before Gloucester's castle, Britain",
+          "scene_summary": "Kent, delivering Lear's letters, insults Oswald, Goneril's steward, and is put in the stocks by Cornwall and Regan. Kent reads a letter from Cordelia, hinting at her return. Gloucester protests the harsh treatment, but Regan dismisses him, showing her cruelty and Lear's diminishing authority."
+        },
+        {
+          "scene": 3,
+          "location": "A heath, Britain",
+          "scene_summary": "Edgar, hiding, resolves to disguise himself as Poor Tom, a mad beggar, to escape capture. His soliloquy reflects on his fall from grace, paralleling Lear's descent and introducing the theme of survival through disguise."
+        },
+        {
+          "scene": 4,
+          "location": "Before Gloucester's castle, Britain",
+          "scene_summary": "Lear arrives, finding Kent stocked, and is outraged. Regan and Cornwall refuse to see him, citing fatigue. When they appear, Regan sides with Goneril, demanding Lear dismiss all his knights. Lear, betrayed, rages and leaves for the heath as a storm brews, cursing his daughters, marking his descent into madness."
+        }
+      ]
+    },
+    {
+      "act": 3,
+      "act_summary": "Despairing for his daughters, and deeply regretting rejecting Cordelia, Lear goes mad at the height of a great storm. He and the Fool run wild on the heath until Gloucester takes them into a hut for shelter. He then seeks the aid of Kent to get them away to the coast, where Cordelia has landed with a French army to fight for her father against her sisters and their husbands. Gloucester then leaves and returns home.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A heath, Britain",
+          "scene_summary": "A Gentleman tells Kent of Lear's solitary raving in the storm. Kent reveals Cordelia's plan to aid Lear, backed by France. He urges the Gentleman to inform Cordelia, setting up her intervention as the storm symbolizes Lear's turmoil."
+        },
+        {
+          "scene": 2,
+          "location": "Another part of the heath, Britain",
+          "scene_summary": "Lear, with the Fool, defies the storm, railing against nature and his daughters' betrayal. Kent finds them, urging shelter. The Fool's riddles underscore Lear's folly, and Lear's speeches reveal his growing madness and insight into injustice, deepening the tragedy."
+        },
+        {
+          "scene": 3,
+          "location": "A room in Gloucester's castle, Britain",
+          "scene_summary": "Gloucester confides in Edmund about a plot to aid Lear, unaware Edmund plans to betray him to Cornwall. Edmund schemes to seize Gloucester's lands, aligning with Regan and Goneril, advancing his treachery and Gloucester's peril."
+        },
+        {
+          "scene": 4,
+          "location": "A hovel on the heath, Britain",
+          "scene_summary": "Lear, Kent, and the Fool find shelter in a hovel, where Edgar, as Poor Tom, feigns madness. Lear, empathizing, questions human suffering, nearing insanity. Gloucester arrives, offering refuge, but Lear insists on “trying” Poor Tom, reflecting his obsession with justice amidst chaos."
+        },
+        {
+          "scene": 5,
+          "location": "A room in Gloucester's castle, Britain",
+          "scene_summary": "Edmund betrays Gloucester to Cornwall, showing the letter about aiding Lear. Cornwall names Edmund Earl of Gloucester, vowing to punish his father, solidifying Edmund's rise and Gloucester's impending doom."
+        },
+        {
+          "scene": 6,
+          "location": "A farmhouse near Gloucester's castle, Britain",
+          "scene_summary": "Gloucester hides Lear, Kent, the Fool, and Edgar in a farmhouse. Lear, mad, stages a mock trial of Goneril and Regan, with Edgar and the Fool as judges. Gloucester warns of a plot against Lear, urging Kent to flee to Dover. Edgar pities Lear, as the scene blends madness, pathos, and the looming threat."
+        },
+        {
+          "scene": 7,
+          "location": "A room in Gloucester's castle, Britain",
+          "scene_summary": "Cornwall and Regan interrogate Gloucester, accusing him of treason. They tie him up, and Cornwall blinds him, gouging out his eyes. A servant, outraged, wounds Cornwall but is killed. Gloucester, realizing Edmund's betrayal, is cast out, and Cornwall, injured, plans further action, marking a peak of brutality."
+        }
+      ]
+    },
+    {
+      "act": 4,
+      "act_summary": "Out in the storm, Lear finds shelter where Edgar has also taken refuge, still disguised as the beggar. The Fool, the mad king, and the disguised \"insane\" beggar become unlikely companions before they are separated. Edgar finds Gloucester wandering the heath alone and in agony. Since his father is blind, Edgar leads the despairing man to the coast and helps him along the journey to come to an acceptance of his life. Gloucester later meets the mad Lear on Dover beach, near Cordelia's camp. With Kent's aid, Lear is rescued and re-united with Cordelia. Gloucester, now reunited with Edgar, dies quietly alone.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "A heath, Britain",
+          "scene_summary": "Edgar, as Poor Tom, encounters the blinded Gloucester, led by an Old Man. Gloucester, despairing, asks to be led to Dover's cliffs to die. Edgar agrees, hiding his identity, guiding his father, blending filial pity with the play's themes of suffering and redemption."
+        },
+        {
+          "scene": 2,
+          "location": "Before Albany's palace, Britain",
+          "scene_summary": "Goneril learns Albany disapproves of her cruelty to Lear. A messenger reports Cornwall's death and Gloucester's blinding, alarming Goneril. She fears Regan's rivalry for Edmund, sending Oswald with letters, while Albany vows to avenge Gloucester, signaling his moral shift."
+        },
+        {
+          "scene": 3,
+          "location": "The French camp near Dover, Britain",
+          "scene_summary": "Kent, in the French camp, learns Cordelia is moved by Lear's suffering. She prepares to rescue him, supported by France's forces. Kent notes Lear's shame prevents reunion, setting up Cordelia's redemptive role amidst the war."
+        },
+        {
+          "scene": 4,
+          "location": "A tent in the French camp near Dover, Britain",
+          "scene_summary": "Cordelia sends soldiers to find Lear, described as mad and wandering. A Doctor reports Lear's need for rest, and Cordelia prays for his recovery. Alarms signal British forces, led by Regan and Edmund, preparing for battle, escalating the conflict."
+        },
+        {
+          "scene": 5,
+          "location": "A room in Gloucester's castle, Britain",
+          "scene_summary": "Regan interrogates Oswald about Goneril's letters to Edmund, suspecting a romantic rival. She orders him to kill Gloucester and secure the letters, revealing her jealousy and ruthless ambition as the sisters' alliance frays."
+        },
+        {
+          "scene": 6,
+          "location": "Fields near Dover, Britain",
+          "scene_summary": "Edgar, leading Gloucester, pretends they're at Dover's cliffs. Gloucester attempts suicide but falls safely, believing he's survived. Lear, mad, encounters them, railing against injustice. Cordelia's men find Lear, but he flees. Edgar learns of the impending battle, guiding Gloucester to safety, blending pathos and hope."
+        },
+        {
+          "scene": 7,
+          "location": "A tent in the French camp near Dover, Britain",
+          "scene_summary": "Cordelia reunites with the restored Lear, who awakens, repentant, and recognizes her. They reconcile, and Cordelia prepares to face the British army, despite the odds. Kent and the Doctor observe, hopeful, marking a moment of redemption before the tragic climax."
+        }
+      ]
+    },
+    {
+      "act": 5,
+      "act_summary": "The French forces are overcome by Albany's army led by Edmund, and Lear and Cordelia are captured. Goneril has already poisoned Regan in their jealous rivalry over Edmund's attention. Edgar, disguised now as a loyal knight, challenges Edmund to a duel and wounds him mortally. Seeing no way out, Goneril kills herself, and the dying Edmund confesses his misdeeds and releases Cordelia. However, it is too late to save Cordelia from the hangman. Lear's heart breaks as he carries the body of his beloved youngest daughter in his arms, and he dies. Albany and Edgar are left to re-organise the kingdom and resolve the civil wars.",
+      "scenes": [
+        {
+          "scene": 1,
+          "location": "The British camp near Dover, Britain",
+          "scene_summary": "Regan and Edmund plan to defeat Cordelia's forces, but Regan fears Goneril's designs on Edmund. Edgar, disguised, delivers Goneril's letter to Albany, exposing her plot with Edmund. Albany vows justice, while Edmund schemes to kill Cordelia and Lear if victorious, setting up the battle and moral reckoning."
+        },
+        {
+          "scene": 2,
+          "location": "A field between the camps near Dover, Britain",
+          "scene_summary": "The French army, led by Cordelia and Lear, is defeated. Edgar urges Gloucester to flee as British forces advance. The brief scene marks the tragic turning point, with Lear and Cordelia captured."
+        },
+        {
+          "scene": 3,
+          "location": "The British camp near Dover, Britain",
+          "scene_summary": "Edmund imprisons Lear and Cordelia, ordering their deaths. Albany arrests Edmund and Goneril for treason, prompted by Edgar's evidence. Edgar duels Edmund, mortally wounding him, and reveals his identity. Goneril poisons Regan and suicides. Edmund, repentant, tries to save Cordelia, but she's hanged. Lear dies of grief, carrying her body. Albany cedes power to Kent and Edgar, who mourn, ending with despair and tentative renewal."
+        }
+      ]
+    }
+  ]
+}
